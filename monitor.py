@@ -19,6 +19,7 @@ from rss import RSSSource
 from hackernews import HackerNewsSource
 from reddit import RedditSource
 from arxiv import ArXivSource
+from twitter import TwitterSource
 from ai_summary import ContentAnalyzer
 from subscription import SubscriptionManager
 
@@ -78,6 +79,8 @@ def collect_all(config: Dict) -> List[Dict]:
             source = RedditSource(src_cfg)
         elif source_type == "arxiv":
             source = ArXivSource(src_cfg)
+        elif source_type == "twitter":
+            source = TwitterSource(src_cfg)
         else:
             print("✗ 未知类型")
             continue

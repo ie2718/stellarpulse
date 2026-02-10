@@ -17,7 +17,9 @@
       {"name": "Reddit-r-robotics", "type": "reddit", "subreddit": "robotics", "enabled": false},
       {"name": "Reddit-r-space", "type": "reddit", "subreddit": "space", "enabled": false},
       {"name": "arXiv-AI", "type": "arxiv", "category": "cs.AI", "enabled": false},
-      {"name": "arXiv-Robotics", "type": "arxiv", "category": "cs.RO", "enabled": false}
+      {"name": "arXiv-Robotics", "type": "arxiv", "category": "cs.RO", "enabled": false},
+      {"name": "X-Twitter-AI", "type": "twitter", "bearer_token": "YOUR_BEARER_TOKEN_HERE", "query": "AI OR \"artificial intelligence\" OR \"machine learning\" -is:retweet", "max_results": 10, "enabled": false},
+      {"name": "X-Twitter-Space", "type": "twitter", "bearer_token": "YOUR_BEARER_TOKEN_HERE", "query": "SpaceX OR NASA OR \"space exploration\" -is:retweet", "max_results": 10, "enabled": false}
     ]
   },
   "settings": {

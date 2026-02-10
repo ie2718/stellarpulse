@@ -1,1 +1,17 @@
-urllib3>=1.26.0
+# StellarPulse Requirements
+# Python 3.8+
+
+# 标准库已包含，无需额外安装:
+# - urllib
+# - json
+# - ssl
+# - xml.etree.ElementTree
+# - datetime
+# - pathlib
+# - typing
+# - re
+# - os
+# - sys
+# - argparse
+# - http.server
+# - abc

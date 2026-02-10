@@ -27,6 +27,7 @@ from subscription import SubscriptionManager
 CONFIG_FILE = "/home/ec2-user/stellarpulse/config.json"
 DATA_FILE = "/home/ec2-user/stellarpulse/data.json"
 REPORTS_DIR = "/home/ec2-user/stellarpulse/reports"
+SITE_DATA_FILE = "/home/ec2-user/stellarpulse/docs/data/site_data.json"
 
 def load_config() -> Dict:
     """加载配置"""
@@ -223,7 +224,70 @@ def generate_report(items: List[Dict], config: Dict) -> tuple:
     with open(report_path, 'w', encoding='utf-8') as f:
         f.write(md)
     
+    # 生成网站数据
+    generate_site_data(items, by_cat, config)
+    
     return report_path, md
+
+
+def generate_site_data(items: List[Dict], by_cat: Dict, config: Dict):
+    """生成 GitHub Pages 网站数据"""
+    now = datetime.now()
+    
+    # 统计数据源
+    sources = {}
+    for item in items:
+        src = item.get("source", "Unknown")
+        sources[src] = sources.get(src, 0) + 1
+    
+    # 构建网站数据
+    site_data = {
+        "site": {
+            "name": "StellarPulse",
+            "name_cn": "星脉",
+            "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
+            "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
+            "version": "2.0",
+            "last_update": now.isoformat(),
+            "total_items": len(items)
+        },
+        "categories": {
+            "ai": {
+                "name": "AI & LLM",
+                "name_cn": "AI & 大模型",
+                "emoji": "🤖",
+                "count": len(by_cat.get("ai", []))
+            },
+            "robotics": {
+                "name": "Robotics",
+                "name_cn": "具身智能",
+                "emoji": "🦾",
+                "count": len(by_cat.get("robotics", []))
+            },
+            "space": {
+                "name": "Space",
+                "name_cn": "航天",
+                "emoji": "🚀",
+                "count": len(by_cat.get("space", []))
+            }
+        },
+        "stats": {
+            "total_items": len(items),
+            "today_items": len(items),
+            "sources": sources,
+            "last_update": now.isoformat()
+        },
+        "trending": sorted(items, key=lambda x: x.get("importance", 0), reverse=True)[:10],
+        "latest": sorted(items, key=lambda x: x.get("fetched_at", ""), reverse=True)[:20],
+        "updated_at": now.isoformat()
+    }
+    
+    # 保存网站数据
+    os.makedirs(os.path.dirname(SITE_DATA_FILE), exist_ok=True)
+    with open(SITE_DATA_FILE, 'w', encoding='utf-8') as f:
+        json.dump(site_data, f, ensure_ascii=False, indent=2)
+    
+    print(f"  网站数据已更新: {SITE_DATA_FILE}")
 
 def format_item(item: Dict) -> str:
     """格式化单条资讯"""

@@ -1,0 +1,35 @@
+{
+  "keywords": {
+    "ai": ["AI", "人工智能", "大模型", "LLM", "GPT", "Claude", "OpenAI", "神经网络", "深度学习", "机器学习", "多模态", "AGI"],
+    "robotics": ["具身智能", "embodied AI", "机器人", "robot", "人形机器人", "机械臂", "波士顿动力", "宇树", "Figure AI"],
+    "space": ["航天", "space", "SpaceX", "星舰", "Starship", "NASA", "卫星", "火箭", "火星", "嫦娥", "天问"]
+  },
+  "sources": {
+    "rss": [
+      {"name": "机器之心", "url": "https://www.jiqizhixin.com/rss", "category": "ai", "enabled": true},
+      {"name": "Solidot", "url": "https://www.solidot.org/index.rss", "category": "tech", "enabled": true},
+      {"name": "36氪", "url": "https://36kr.com/feed", "category": "tech", "enabled": true},
+      {"name": "量子位", "url": "https://www.qbitai.com/feed", "category": "ai", "enabled": true}
+    ],
+    "api": [
+      {"name": "HackerNews", "type": "hn", "enabled": true},
+      {"name": "Reddit-r-MachineLearning", "type": "reddit", "subreddit": "MachineLearning", "enabled": false},
+      {"name": "Reddit-r-robotics", "type": "reddit", "subreddit": "robotics", "enabled": false},
+      {"name": "Reddit-r-space", "type": "reddit", "subreddit": "space", "enabled": false},
+      {"name": "arXiv-AI", "type": "arxiv", "category": "cs.AI", "enabled": false},
+      {"name": "arXiv-Robotics", "type": "arxiv", "category": "cs.RO", "enabled": false}
+    ]
+  },
+  "settings": {
+    "max_age_hours": 48,
+    "items_per_category": 15,
+    "enable_ai_summary": true,
+    "summary_max_length": 150,
+    "web_port": 8080,
+    "notification": {
+      "enabled": true,
+      "schedule": "0 8 * * *",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+}

@@ -6,7 +6,9 @@ StellarPulse Chat Bot - 消息交互入口
 
 import sys
 import json
-sys.path.insert(0, '/home/ec2-user/stellarpulse')
+import os
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, BASE_DIR)
 
 from chat_handler import handle_command, handle_number, should_respond
 

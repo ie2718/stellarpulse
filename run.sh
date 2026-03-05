@@ -1,7 +1,9 @@
 #!/bin/bash
 # 运行监控并发送WhatsApp通知
 
-cd /home/ec2-user/tech-monitor
+# 切换到脚本所在目录
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
+cd "$SCRIPT_DIR"
 
 # 运行Python脚本并捕获输出
 OUTPUT=$(python3 monitor.py 2>&1)

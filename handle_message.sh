@@ -9,7 +9,8 @@ if [ -z "$MESSAGE" ]; then
 fi
 
 # 运行 chat_bot.py 并捕获输出
-OUTPUT=$(cd /home/ec2-user/stellarpulse && python3 chat_bot.py "$MESSAGE" 2>&1)
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
+OUTPUT=$(cd "$SCRIPT_DIR" && python3 chat_bot.py "$MESSAGE" 2>&1)
 
 # 如果输出不是 SKIP，则返回
 if [ "$OUTPUT" != "SKIP" ]; then

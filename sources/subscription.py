@@ -8,8 +8,13 @@ from typing import List, Dict, Any, Optional
 class SubscriptionManager:
     """管理用户关键词订阅"""
     
-    def __init__(self, data_file: str = "/home/ec2-user/stellarpulse/keywords.json"):
-        self.data_file = data_file
+    def __init__(self, data_file: str = None):
+        if data_file is None:
+            # 默认使用项目根目录下的 keywords.json
+            base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+            self.data_file = os.path.join(base_dir, "keywords.json")
+        else:
+            self.data_file = data_file
         self.data = self._load()
     
     def _load(self) -> Dict:

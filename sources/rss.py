@@ -1,10 +1,10 @@
-"""RSS数据源"""
-import xml.etree.ElementTree as ET
+"""RSS数据源 - 使用feedparser增强鲁棒性"""
+import feedparser
+import requests
 from datetime import datetime
 from typing import List, Dict, Any
-from urllib.request import urlopen, Request
-import ssl
 import re
+from bs4 import BeautifulSoup
 
 try:
     from . import BaseSource
@@ -12,7 +12,7 @@ except ImportError:
     from __init__ import BaseSource
 
 class RSSSource(BaseSource):
-    """通用RSS源"""
+    """使用feedparser的RSS源"""
     
     def fetch(self) -> List[Dict[str, Any]]:
         if not self.is_enabled():
@@ -23,55 +23,47 @@ class RSSSource(BaseSource):
             return []
         
         try:
-            content = self._fetch_url(url)
-            if not content:
-                return []
-            return self._parse_rss(content)
-        except Exception as e:
-            print(f"  [RSS Error] {self.name}: {e}")
-            return []
-    
-    def _fetch_url(self, url: str, timeout: int = 15) -> str:
-        ctx = ssl.create_default_context()
-        ctx.check_hostname = False
-        ctx.verify_mode = ssl.CERT_NONE
-        
-        req = Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; StellarPulse/1.0)"})
-        with urlopen(req, timeout=timeout, context=ctx) as resp:
-            return resp.read().decode('utf-8', errors='ignore')
-    
-    def _parse_rss(self, xml_content: str) -> List[Dict[str, Any]]:
-        items = []
-        try:
-            # 移除CDATA标记以便解析
-            xml_content = re.sub(r'<!\[CDATA\[(.*?)\]\]>', r'\1', xml_content, flags=re.DOTALL)
+            # 使用requests获取内容，带上User-Agent
+            headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+            response = requests.get(url, headers=headers, timeout=15)
+            response.raise_for_status()
             
-            root = ET.fromstring(xml_content)
-            channel = root.find('.//channel') or root
+            # 使用feedparser解析
+            feed = feedparser.parse(response.content)
             
-            for item in channel.findall('.//item'):
-                title = self._get_text(item, 'title')
-                link = self._get_text(item, 'link')
-                desc = self._get_text(item, 'description')
-                pub_date = self._get_text(item, 'pubDate')
+            items = []
+            for entry in feed.entries:
+                title = entry.get("title", "")
+                link = entry.get("link", "")
                 
-                # 清理HTML标签
-                desc = re.sub(r'<[^>]+>', '', desc)
+                # 获取摘要
+                summary = ""
+                if "summary" in entry:
+                    summary = entry.summary
+                elif "description" in entry:
+                    summary = entry.description
+                elif "content" in entry:
+                    summary = entry.content[0].value
+                
+                # 清理HTML
+                if summary:
+                    summary = BeautifulSoup(summary, "html.parser").get_text()
+                    summary = re.sub(r'\s+', ' ', summary).strip()
+                
+                pub_date = entry.get("published", "")
                 
                 if title and link:
                     items.append({
                         "title": title[:200],
                         "link": link,
-                        "summary": desc[:300] + "..." if len(desc) > 300 else desc,
+                        "summary": summary[:300] + "..." if len(summary) > 300 else summary,
                         "source": self.name,
                         "pub_date": pub_date,
                         "fetched_at": datetime.now().isoformat()
                     })
+            
+            return items
+            
         except Exception as e:
-            print(f"  [Parse Error] {self.name}: {e}")
-        
-        return items
-    
-    def _get_text(self, element, tag: str) -> str:
-        elem = element.find(tag)
-        return elem.text.strip() if elem is not None and elem.text else ""
+            print(f"  [RSS Error] {self.name}: {e}")
+            return []

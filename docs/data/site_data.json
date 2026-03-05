@@ -5,554 +5,639 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-02-10T13:54:45.786406",
-    "total_items": 16
+    "last_update": "2026-03-05T17:17:02.054883",
+    "total_items": 34
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 10
+      "count": 32
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 6
+      "count": 3
     },
     "space": {
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 0
+      "count": 2
     }
   },
   "stats": {
-    "total_items": 16,
-    "today_items": 16,
+    "total_items": 34,
+    "today_items": 34,
     "sources": {
-      "机器之心": 8,
-      "量子位": 6,
-      "HackerNews": 2
+      "Solidot": 10,
+      "36氪": 9,
+      "量子位": 8,
+      "HackerNews": 7
     },
-    "last_update": "2026-02-10T13:54:45.786406"
+    "last_update": "2026-03-05T17:17:02.054883"
   },
   "trending": [
     {
-      "title": "Vidu Q3 全球屠榜， 击败马斯克xAI Grok、 OpenAI Sora、Google Veo 3，登顶 Artificial Analysis 榜首",
-      "link": "https://www.jiqizhixin.com/articles/2026-02-10-7",
-      "summary": "",
-      "source": "机器之心",
-      "pub_date": "Tue, 10 Feb 2026 15:06:20 +0800",
-      "fetched_at": "2026-02-10T13:54:37.074272",
+      "title": "OpenAI 开发 GitHub 的替代",
+      "link": "https://www.solidot.org/story?sid=83674",
+      "summary": "OpenAI 正在开发一个代码托管平台，与微软的 GitHub 展开竞争。原因据称 GitHub 服务过去几个月频繁中断，导致 OpenAI 工程师们无法工作，因此他们决定开发自己能控制的新代码托管平台。该项目仍然处于早期阶段，可能还需要几个月时间才能完成。如果 OpenAI 真的推出这款产品，那么这将意味着 OpenAI 将与其大股东微软展开直接竞争。根据最新一轮融资，OpenAI 的估值达到了 8400 亿美元。",
+      "source": "Solidot",
+      "pub_date": "Wed, 04 Mar 2026 14:34:26 +0800",
+      "fetched_at": "2026-03-05T17:16:05.413296",
       "categories": [
         "ai"
       ],
-      "ai_summary": "",
+      "ai_summary": "OpenAI 正在开发一个代码托管平台，与微软的 GitHub 展开竞争。原因据称 GitHub 服务过去几个月频繁中断，导致 OpenAI 工程师们无法工作，因此他们决定开发自己能控制的新代码托管平台。该项目仍然处于早期阶段，可能还需要几个月时间才能完成。如果 OpenAI 真的推出这款产品，那么...",
       "keywords": [
-        "vidu",
-        "全球屠榜",
-        "击败马斯克",
-        "xai",
-        "grok"
+        "openai",
+        "github",
+        "开发",
+        "的替代",
+        "正在开发一个代码托管平台"
+      ],
+      "importance": 2.0
+    },
+    {
+      "title": "百万消费者抵制 ChatGPT",
+      "link": "https://www.solidot.org/story?sid=83683",
+      "summary": "名为 QuitGPT 的草根运动正席卷全球，它呼吁人们取消订阅 OpenAI 的 ChatGPT。已有逾百万消费者响应呼吁，其中包括好莱坞明星 Mark Ruffalo 和流行天后 Katy Perry。QuitGPT 的起因包括：OpenAI 总裁 Greg Brockman 被曝出向特朗普超级政治行动委员会 MAGA Inc 捐赠了 2500 万美元，是上次选举中特朗普最大的捐赠者；ICE 使用了基于 ChatGPT 的筛选工具；OpenAI 帮助发起耗资 1.25 亿美元的游说活动 Super PAC，确保美国任何州都无法监管 AI；在 Anthropic 拒绝之后与五角大楼达成合作协议...",
+      "source": "Solidot",
+      "pub_date": "Thu, 05 Mar 2026 00:21:37 +0800",
+      "fetched_at": "2026-03-05T17:16:05.411616",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "名为 QuitGPT 的草根运动正席卷全球，它呼吁人们取消订阅 OpenAI 的 ChatGPT。已有逾百万消费者响应呼吁，其中包括好莱坞明星 Mark Ruffalo 和流行天后 Katy Perry。QuitGPT 的起因包括：OpenAI 总裁 Greg Brockman 被曝出向特朗普超级政...",
+      "keywords": [
+        "chatgpt",
+        "openai",
+        "quitgpt",
+        "百万消费者抵制",
+        "名为"
+      ],
+      "importance": 1.5
+    },
+    {
+      "title": "8点1氪丨阿里高管紧急开会答疑，回应千问模型负责人林俊旸卸任；大钲资本收购蓝瓶咖啡；马云和阿里蚂蚁核心管理层在云谷学校交流AI",
+      "link": "https://36kr.com/p/3709304754614662?f=rss",
+      "summary": "今日热点导览 建议提高个税起征点至8000或1万，并同步优化税率结构 苹果公司宣布推出MacBook Neo TOP 3 大新闻 大钲资本收购蓝瓶咖啡 36氪独家获悉，大钲资本已和雀巢达成协议，从雀巢手中收购了蓝瓶咖啡（Blue Bottle Coffee）的全球门店，价格低于4亿美金。交易完成后，雀巢仍然会保留蓝瓶的快消业务，如咖啡豆、速溶咖啡、即饮饮料。值得注意的是，蓝瓶咖啡目前仍在亏损中。据了解，截止2025年6月30日，蓝瓶咖啡过去12个月的营收约为2.5亿美元，其中美国贡献收入约1.5亿美元，亚太地区贡献收入约1亿美元。上述信源人士表示，蓝瓶咖啡预计2026年实现盈利。 千问模型负责...",
+      "source": "36氪",
+      "pub_date": "2026-03-05 08:24:53  +0800",
+      "fetched_at": "2026-03-05T17:16:05.877379",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "今日热点导览 建议提高个税起征点至8000或1万，并同步优化税率结构 苹果公司宣布推出MacBook Neo TOP 3 大新闻 大钲资本收购蓝瓶咖啡 36氪独家获悉，大钲资本已和雀巢达成协议，从雀巢手中收购了蓝瓶咖啡（Blue Bottle Coffee）的全球门店，价格低于4亿美金。交易完成后，...",
+      "keywords": [
+        "亿美元",
+        "大钲资本收购蓝瓶咖啡",
+        "氪丨阿里高管紧急开会答疑",
+        "回应千问模型负责人林俊旸卸任",
+        "马云和阿里蚂蚁核心管理层在云谷学校交流"
+      ],
+      "importance": 1.5
+    },
+    {
+      "title": "ChatGPT 卸载率在五角大楼交易之后飙升 295%",
+      "link": "https://www.solidot.org/story?sid=83670",
+      "summary": "根据 Sensor Tower 的数据，在 OpenAI 与五角大楼达成交易之后，用户对此做出了反应，2 月 28 日当天 OpenAI AI 聊天机器人 ChatGPT 应用的卸载量在美国比前一天飙升 295%，而过去 30 天它的平均日卸载率是 9%。与此同时，拒绝五角大楼要求的 OpenAI 竞争对手 Anthropic 的 Claude 应用的下载量在 2 月 27 日和 2 月 28 日分别增长了 37% 和 51%。ChatGPT 的下载量也受到了交易的影响，在宣布与五角大楼合作前的 2 月 27 日 ChatGPT 下载量环比增长 14%，但宣布交易后的 28 日其下载量环比下降...",
+      "source": "Solidot",
+      "pub_date": "Tue, 03 Mar 2026 22:46:21 +0800",
+      "fetched_at": "2026-03-05T17:16:05.413820",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "根据 Sensor Tower 的数据，在 OpenAI 与五角大楼达成交易之后，用户对此做出了反应，2 月 28 日当天 OpenAI AI 聊天机器人 ChatGPT 应用的卸载量在美国比前一天飙升 295%，而过去 30 天它的平均日卸载率是 9%。与此同时，拒绝五角大楼要求的 OpenAI ...",
+      "keywords": [
+        "chatgpt",
+        "openai",
+        "卸载率在五角大楼交易之后飙升",
+        "根据",
+        "sensor"
       ],
       "importance": 1.0
     },
     {
-      "title": "比肩OpenAI Simple Codex，中国团队闯入Terminal-Bench全球第二！",
-      "link": "https://www.jiqizhixin.com/articles/2026-02-10-11",
-      "summary": "",
-      "source": "机器之心",
-      "pub_date": "Tue, 10 Feb 2026 18:59:00 +0800",
-      "fetched_at": "2026-02-10T13:54:37.074242",
+      "title": "AI+生命科技实现废弃物循环利用，国家级专精特新“重点小巨人”「蔚复来」完成数千万元C2轮融资 | 36氪首发",
+      "link": "https://36kr.com/p/3709819839443333?f=rss",
+      "summary": "文 | 张冰冰 编辑 | 阿至 36氪获悉，蔚复来（浙江）科技股份有限公司（以下简称「蔚复来」）近日宣布完成数千万元C2轮融资，投资方为博将资本。这是博将资本第二次向蔚复来追投注资，与此前C1轮累计投资规模超亿元。本次资金将主要用于高端智能装备的迭代升级、新场景应用的拓展以及绿色数字化解决方案的优化，「蔚复来」将与博将资本开启“AI绿色循环+智能制造”合作模式，加速技术生态和产业链布局。 「蔚复来」成立于2018 年 12 月，以 “推动废弃物资源化循环利用，改善人居环境” 为使命，聚焦AI绿色成套智能装备与数字解决方案的研发与落地，凭借“废弃物循环利用”技术，获评国家级专精特新“重点小巨人”...",
+      "source": "36氪",
+      "pub_date": "2026-03-05 17:07:14  +0800",
+      "fetched_at": "2026-03-05T17:16:05.863271",
       "categories": [
         "ai"
       ],
-      "ai_summary": "",
+      "ai_summary": "文 | 张冰冰 编辑 | 阿至 36氪获悉，蔚复来（浙江）科技股份有限公司（以下简称「蔚复来」）近日宣布完成数千万元C2轮融资，投资方为博将资本。这是博将资本第二次向蔚复来追投注资，与此前C1轮累计投资规模超亿元。本次资金将主要用于高端智能装备的迭代升级、新场景应用的拓展以及绿色数字化解决方案的优化...",
       "keywords": [
-        "比肩",
-        "openai",
-        "simple",
-        "codex",
-        "中国团队闯入"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "穹彻智能完成A轮融资｜构建软硬件一体化产品矩阵、推动机器人“通用大脑”落地",
-      "link": "https://www.jiqizhixin.com/articles/2026-02-10-5",
-      "summary": "",
-      "source": "机器之心",
-      "pub_date": "Tue, 10 Feb 2026 12:08:31 +0800",
-      "fetched_at": "2026-02-10T13:54:37.074283",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "穹彻智能完成",
+        "蔚复来",
+        "ai",
+        "重点小巨人",
         "轮融资",
-        "构建软硬件一体化产品矩阵",
-        "推动机器人",
-        "通用大脑"
+        "生命科技实现废弃物循环利用"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "一家想让外骨骼成为「人体器官」的公司，再获亿元级融资",
+      "link": "https://36kr.com/p/3706881778069893?f=rss",
+      "summary": "3月5日，外骨骼机器人公司程天科技宣布又拿到一笔亿元级B+轮融资。这是一年间的第二笔钱，由农银资本领投，汇川产投、杭州资本跟投。 过去一年，在具身智能热潮带动下，C端市场对外骨骼机器人有了更强的期待和热情。外骨骼可穿戴产品也走出医院和康复机构，零星出现在景点、田径场、以及家庭场景中。 四年前，程天科技创始人、CEO王天曾告诉36氪，他认为外骨骼机器人未来会成为独立产业，能对标手机。手机像人的一个器官，解决了“千里眼、顺风耳”的需求。而外骨骼也会成为人的器官，解决人行动能力受限、衰退等问题。 读高中时，王天就把“做机器人”当作未来方向，并以此规划了本硕博求学路。在人工智能专业还归属于自动化大类之...",
+      "source": "36氪",
+      "pub_date": "2026-03-05 10:18:31  +0800",
+      "fetched_at": "2026-03-05T17:16:05.868422",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "3月5日，外骨骼机器人公司程天科技宣布又拿到一笔亿元级B+轮融资。这是一年间的第二笔钱，由农银资本领投，汇川产投、杭州资本跟投。...",
+      "keywords": [
+        "一家想让外骨骼成为",
+        "人体器官",
+        "的公司",
+        "再获亿元级融资",
+        "外骨骼机器人公司程天科技宣布又拿到一笔亿元级"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "把20亿参数装进胸针？高通补齐了个人AI生态的最后一块拼图",
+      "link": "https://www.qbitai.com/2026/03/383878.html",
+      "summary": "骁龙可穿戴平台至尊版正式发布",
+      "source": "量子位",
+      "pub_date": "Wed, 04 Mar 2026 03:11:45 +0000",
+      "fetched_at": "2026-03-05T17:16:05.993119",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "骁龙可穿戴平台至尊版正式发布",
+      "keywords": [
+        "亿参数装进胸针",
+        "高通补齐了个人",
+        "ai",
+        "生态的最后一块拼图",
+        "骁龙可穿戴平台至尊版正式发布"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "耐德佳正式发布AI变焦读写镜",
+      "link": "https://36kr.com/newsflashes/3709825877143686?f=rss",
+      "summary": "36氪获悉，近日，北京耐德佳显示技术有限公司正式发布新品AI变焦读写镜。据了解，该产品融合“动态变焦光学系统”与多传感器AI算法，支持[-2D,+2D]动态调节，看远自动进入-2D至0D区间，看近切换至0D至+2D区间；视训模式下可在-2D与+2D间静音、顺滑变化，用于调节灵敏度训练，实现一镜多场景应用。",
+      "source": "36氪",
+      "pub_date": "2026-03-05 17:10:02  +0800",
+      "fetched_at": "2026-03-05T17:16:05.891781",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "36氪获悉，近日，北京耐德佳显示技术有限公司正式发布新品AI变焦读写镜。据了解，该产品融合“动态变焦光学系统”与多传感器AI算法，支持[-2D,+2D]动态调节，看远自动进入-2D至0D区间，看近切换至0D至+2D区间；视训模式下可在-2D与+2D间静音、顺滑变化，用于调节灵敏度训练，实现一镜多场景...",
+      "keywords": [
+        "ai",
+        "变焦读写镜",
+        "区间",
+        "耐德佳正式发布",
+        "氪获悉"
       ],
       "importance": 0.5
     },
     {
-      "title": "清华女博士造芯，刚刚IPO市值166亿",
-      "link": "https://www.qbitai.com/2026/02/378205.html",
-      "summary": "中国边缘AI芯片第一股",
+      "title": "捏Ta完成超千万美金Pre A+轮融资，九坤领投，源码奇绩等超额跟进",
+      "link": "https://www.qbitai.com/2026/03/383998.html",
+      "summary": "定义AI时代世界创作的基础设施",
       "source": "量子位",
-      "pub_date": "Tue, 10 Feb 2026 03:12:05 +0000",
-      "fetched_at": "2026-02-10T13:54:43.285774",
+      "pub_date": "Thu, 05 Mar 2026 07:02:01 +0000",
+      "fetched_at": "2026-03-05T17:16:05.992883",
       "categories": [
         "ai"
       ],
-      "ai_summary": "中国边缘AI芯片第一股",
+      "ai_summary": "定义AI时代世界创作的基础设施",
       "keywords": [
-        "清华女博士造芯",
-        "刚刚",
-        "ipo",
-        "市值",
-        "中国边缘"
+        "ta",
+        "完成超千万美金",
+        "pre",
+        "轮融资",
+        "九坤领投"
       ],
       "importance": 0.5
     },
     {
-      "title": "「具身原生」元年！专访原力灵机汪天才，解析具身智能的「PyTorch时刻」",
-      "link": "https://www.jiqizhixin.com/articles/2026-02-10-9",
-      "summary": "",
-      "source": "机器之心",
-      "pub_date": "Tue, 10 Feb 2026 17:18:23 +0800",
-      "fetched_at": "2026-02-10T13:54:37.074264",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "具身原生",
-        "元年",
-        "专访原力灵机汪天才",
-        "解析具身智能的",
-        "pytorch"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "想让机器人春晚包饺子？阿里达摩院：别急，先把「大脑」优化一下",
-      "link": "https://www.jiqizhixin.com/articles/2026-02-10-4",
-      "summary": "",
-      "source": "机器之心",
-      "pub_date": "Tue, 10 Feb 2026 12:06:17 +0800",
-      "fetched_at": "2026-02-10T13:54:37.074287",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "想让机器人春晚包饺子",
-        "阿里达摩院",
-        "别急",
-        "先把",
-        "大脑"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "2026开年关键词：Self-Distillation，大模型真正走向「持续学习」",
-      "link": "https://www.jiqizhixin.com/articles/2026-02-10-3",
-      "summary": "",
-      "source": "机器之心",
-      "pub_date": "Tue, 10 Feb 2026 11:59:48 +0800",
-      "fetched_at": "2026-02-10T13:54:37.074291",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "开年关键词",
-        "self",
-        "distillation",
-        "大模型真正走向",
-        "持续学习"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "破解机器人「慢半拍」难题：南洋理工解决VLA致命短板，动态世界断层领先",
-      "link": "https://www.jiqizhixin.com/articles/2026-02-10-2",
-      "summary": "",
-      "source": "机器之心",
-      "pub_date": "Tue, 10 Feb 2026 11:55:19 +0800",
-      "fetched_at": "2026-02-10T13:54:37.074295",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "破解机器人",
-        "慢半拍",
-        "难题",
-        "南洋理工解决",
-        "vla"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "ProjDevBench：AI编程智能体真的能从零构建完整软件项目吗？",
-      "link": "https://www.jiqizhixin.com/articles/2026-02-05-9",
-      "summary": "",
-      "source": "机器之心",
-      "pub_date": "Tue, 10 Feb 2026 10:08:00 +0800",
-      "fetched_at": "2026-02-10T13:54:37.074303",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "projdevbench",
-        "ai",
-        "编程智能体真的能从零构建完整软件项目吗"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "人类画了100年的脑图，AI仅用几小时！还绘制出新脑区",
-      "link": "https://www.qbitai.com/2026/02/378423.html",
+      "title": "苹果春季新品奔着龙虾来了！AI性能暴涨8倍，8499元起",
+      "link": "https://www.qbitai.com/2026/03/383902.html",
       "summary": "",
       "source": "量子位",
-      "pub_date": "Tue, 10 Feb 2026 12:42:47 +0000",
-      "fetched_at": "2026-02-10T13:54:43.285734",
+      "pub_date": "Wed, 04 Mar 2026 07:50:33 +0000",
+      "fetched_at": "2026-03-05T17:16:05.993047",
       "categories": [
         "ai"
       ],
       "ai_summary": "",
       "keywords": [
-        "人类画了",
-        "年的脑图",
+        "苹果春季新品奔着龙虾来了",
         "ai",
-        "仅用几小时",
-        "还绘制出新脑区"
+        "性能暴涨",
+        "元起"
       ],
-      "importance": 0
+      "importance": 0.5
     }
   ],
   "latest": [
     {
-      "title": "Show HN: Total Recall – write-gated memory for Claude Code",
-      "link": "https://github.com/davegoldblatt/total-recall",
-      "summary": "👍 35 | 💬 13",
+      "title": "BMW Group to deploy humanoid robots in production in Germany for the first time",
+      "link": "https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en",
+      "summary": "👍 127 | 💬 112",
       "source": "HackerNews",
-      "pub_date": "2026-02-05T23:56:54",
-      "fetched_at": "2026-02-10T13:54:45.668868",
+      "pub_date": "2026-03-05T05:11:15",
+      "fetched_at": "2026-03-05T17:16:57.383650",
       "categories": [
-        "ai"
+        "robotics"
       ],
-      "ai_summary": "👍 35 | 💬 13",
+      "ai_summary": "👍 127 | 💬 112",
       "keywords": [
-        "show",
-        "hn",
-        "total",
-        "recall",
-        "write"
+        "in",
+        "bmw",
+        "group",
+        "to",
+        "deploy"
       ],
       "importance": 0
     },
     {
-      "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
-      "link": "https://arxiv.org/abs/2512.20798",
-      "summary": "👍 399 | 💬 258",
+      "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
+      "link": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+      "summary": "👍 557 | 💬 300",
       "source": "HackerNews",
-      "pub_date": "2026-02-10T03:17:17",
-      "fetched_at": "2026-02-10T13:54:43.680860",
+      "pub_date": "2026-03-05T07:51:10",
+      "fetched_at": "2026-03-05T17:16:55.881429",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 399 | 💬 258",
+      "ai_summary": "👍 557 | 💬 300",
       "keywords": [
-        "frontier",
-        "ai",
-        "agents",
-        "violate",
-        "ethical"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "1分钱部署OpenClaw！不挑设备4步搞定，全图形界面10分钟跑通专属AI助理",
-      "link": "https://www.qbitai.com/2026/02/378183.html",
-      "summary": "支持部署到钉钉/飞书/QQ/企业微信",
-      "source": "量子位",
-      "pub_date": "Mon, 09 Feb 2026 12:31:38 +0000",
-      "fetched_at": "2026-02-10T13:54:43.285778",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "支持部署到钉钉/飞书/QQ/企业微信",
-      "keywords": [
-        "分钱部署",
-        "openclaw",
-        "不挑设备",
-        "步搞定",
-        "全图形界面"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "清华女博士造芯，刚刚IPO市值166亿",
-      "link": "https://www.qbitai.com/2026/02/378205.html",
-      "summary": "中国边缘AI芯片第一股",
-      "source": "量子位",
-      "pub_date": "Tue, 10 Feb 2026 03:12:05 +0000",
-      "fetched_at": "2026-02-10T13:54:43.285774",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "中国边缘AI芯片第一股",
-      "keywords": [
-        "清华女博士造芯",
-        "刚刚",
-        "ipo",
-        "市值",
-        "中国边缘"
+        "dario",
+        "amodei",
+        "calls",
+        "openai",
+        "messaging"
       ],
       "importance": 0.5
     },
     {
-      "title": "阿里达摩院开源具身大脑基模：3B激活参数性能超越72B，转身就忘事的机器人有救了",
-      "link": "https://www.qbitai.com/2026/02/378236.html",
-      "summary": "达摩院在赌",
-      "source": "量子位",
-      "pub_date": "Tue, 10 Feb 2026 03:19:14 +0000",
-      "fetched_at": "2026-02-10T13:54:43.285770",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "达摩院在赌",
-      "keywords": [
-        "阿里达摩院开源具身大脑基模",
-        "激活参数性能超越",
-        "转身就忘事的机器人有救了",
-        "达摩院在赌"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "蚂蚁投了一家上海具身智能公司",
-      "link": "https://www.qbitai.com/2026/02/378305.html",
-      "summary": "“蚂”不停蹄",
-      "source": "量子位",
-      "pub_date": "Tue, 10 Feb 2026 07:27:00 +0000",
-      "fetched_at": "2026-02-10T13:54:43.285759",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "“蚂”不停蹄",
-      "keywords": [
-        "蚂蚁投了一家上海具身智能公司",
-        "不停蹄"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "GLM-5架构曝光，智谱两日涨近60%：采用DeepSeek同款稀疏注意力",
-      "link": "https://www.qbitai.com/2026/02/378315.html",
-      "summary": "大模型春节档",
-      "source": "量子位",
-      "pub_date": "Tue, 10 Feb 2026 07:59:24 +0000",
-      "fetched_at": "2026-02-10T13:54:43.285754",
+      "title": "Jails for NetBSD – Kernel Enforced Isolation and Native Resource Control",
+      "link": "https://netbsd-jails.petermann-digital.de/",
+      "summary": "👍 7 | 💬 2",
+      "source": "HackerNews",
+      "pub_date": "2026-03-05T15:23:40",
+      "fetched_at": "2026-03-05T17:16:49.953975",
       "categories": [
         "ai"
       ],
-      "ai_summary": "大模型春节档",
+      "ai_summary": "👍 7 | 💬 2",
       "keywords": [
-        "glm",
-        "架构曝光",
-        "智谱两日涨近",
-        "采用",
-        "deepseek"
+        "jails",
+        "for",
+        "netbsd",
+        "kernel",
+        "enforced"
       ],
       "importance": 0
     },
     {
-      "title": "人类画了100年的脑图，AI仅用几小时！还绘制出新脑区",
-      "link": "https://www.qbitai.com/2026/02/378423.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Tue, 10 Feb 2026 12:42:47 +0000",
-      "fetched_at": "2026-02-10T13:54:43.285734",
+      "title": "AMD will bring its “Ryzen AI” processors to standard desktop PCs for first time",
+      "link": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
+      "summary": "👍 61 | 💬 47",
+      "source": "HackerNews",
+      "pub_date": "2026-03-02T19:51:57",
+      "fetched_at": "2026-03-05T17:16:38.306909",
       "categories": [
         "ai"
       ],
-      "ai_summary": "",
+      "ai_summary": "👍 61 | 💬 47",
       "keywords": [
-        "人类画了",
-        "年的脑图",
+        "amd",
+        "will",
+        "bring",
+        "its",
+        "ryzen"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "The L in \"LLM\" Stands for Lying",
+      "link": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
+      "summary": "👍 113 | 💬 48",
+      "source": "HackerNews",
+      "pub_date": "2026-03-05T12:02:32",
+      "fetched_at": "2026-03-05T17:16:37.190241",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 113 | 💬 48",
+      "keywords": [
+        "the",
+        "in",
+        "llm",
+        "stands",
+        "for"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Relicensing with AI-Assisted Rewrite",
+      "link": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
+      "summary": "👍 80 | 💬 65",
+      "source": "HackerNews",
+      "pub_date": "2026-03-05T13:07:33",
+      "fetched_at": "2026-03-05T17:16:28.274456",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 80 | 💬 65",
+      "keywords": [
+        "relicensing",
+        "with",
         "ai",
-        "仅用几小时",
-        "还绘制出新脑区"
+        "assisted",
+        "rewrite"
       ],
       "importance": 0
     },
     {
-      "title": "ProjDevBench：AI编程智能体真的能从零构建完整软件项目吗？",
-      "link": "https://www.jiqizhixin.com/articles/2026-02-05-9",
-      "summary": "",
-      "source": "机器之心",
-      "pub_date": "Tue, 10 Feb 2026 10:08:00 +0800",
-      "fetched_at": "2026-02-10T13:54:37.074303",
+      "title": "Google Workspace CLI",
+      "link": "https://github.com/googleworkspace/cli",
+      "summary": "👍 557 | 💬 190",
+      "source": "HackerNews",
+      "pub_date": "2026-03-05T08:22:09",
+      "fetched_at": "2026-03-05T17:16:18.118876",
       "categories": [
-        "ai"
+        "space"
       ],
-      "ai_summary": "",
+      "ai_summary": "👍 557 | 💬 190",
       "keywords": [
-        "projdevbench",
-        "ai",
-        "编程智能体真的能从零构建完整软件项目吗"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "破解机器人「慢半拍」难题：南洋理工解决VLA致命短板，动态世界断层领先",
-      "link": "https://www.jiqizhixin.com/articles/2026-02-10-2",
-      "summary": "",
-      "source": "机器之心",
-      "pub_date": "Tue, 10 Feb 2026 11:55:19 +0800",
-      "fetched_at": "2026-02-10T13:54:37.074295",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "破解机器人",
-        "慢半拍",
-        "难题",
-        "南洋理工解决",
-        "vla"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "2026开年关键词：Self-Distillation，大模型真正走向「持续学习」",
-      "link": "https://www.jiqizhixin.com/articles/2026-02-10-3",
-      "summary": "",
-      "source": "机器之心",
-      "pub_date": "Tue, 10 Feb 2026 11:59:48 +0800",
-      "fetched_at": "2026-02-10T13:54:37.074291",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "开年关键词",
-        "self",
-        "distillation",
-        "大模型真正走向",
-        "持续学习"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "想让机器人春晚包饺子？阿里达摩院：别急，先把「大脑」优化一下",
-      "link": "https://www.jiqizhixin.com/articles/2026-02-10-4",
-      "summary": "",
-      "source": "机器之心",
-      "pub_date": "Tue, 10 Feb 2026 12:06:17 +0800",
-      "fetched_at": "2026-02-10T13:54:37.074287",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "想让机器人春晚包饺子",
-        "阿里达摩院",
-        "别急",
-        "先把",
-        "大脑"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "穹彻智能完成A轮融资｜构建软硬件一体化产品矩阵、推动机器人“通用大脑”落地",
-      "link": "https://www.jiqizhixin.com/articles/2026-02-10-5",
-      "summary": "",
-      "source": "机器之心",
-      "pub_date": "Tue, 10 Feb 2026 12:08:31 +0800",
-      "fetched_at": "2026-02-10T13:54:37.074283",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "穹彻智能完成",
-        "轮融资",
-        "构建软硬件一体化产品矩阵",
-        "推动机器人",
-        "通用大脑"
+        "google",
+        "workspace",
+        "cli"
       ],
       "importance": 0.5
     },
     {
-      "title": "Vidu Q3 全球屠榜， 击败马斯克xAI Grok、 OpenAI Sora、Google Veo 3，登顶 Artificial Analysis 榜首",
-      "link": "https://www.jiqizhixin.com/articles/2026-02-10-7",
-      "summary": "",
-      "source": "机器之心",
-      "pub_date": "Tue, 10 Feb 2026 15:06:20 +0800",
-      "fetched_at": "2026-02-10T13:54:37.074272",
+      "title": "大模型越聪明，学习机越抢手：科大讯飞T90 Pro定义「真」个性化",
+      "link": "https://www.qbitai.com/2026/03/383629.html",
+      "summary": "技术与教育的深度交融，将令每一个孩子受益",
+      "source": "量子位",
+      "pub_date": "Tue, 03 Mar 2026 11:13:28 +0000",
+      "fetched_at": "2026-03-05T17:16:05.993316",
       "categories": [
         "ai"
       ],
-      "ai_summary": "",
+      "ai_summary": "技术与教育的深度交融，将令每一个孩子受益",
       "keywords": [
-        "vidu",
-        "全球屠榜",
-        "击败马斯克",
-        "xai",
-        "grok"
+        "大模型越聪明",
+        "学习机越抢手",
+        "科大讯飞",
+        "pro",
+        "定义"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "@所有人，2026真的需要自己上手用AI了丨年度AI盛会",
+      "link": "https://www.qbitai.com/2026/03/383796.html",
+      "summary": "马上AI起来！北京五月见",
+      "source": "量子位",
+      "pub_date": "Tue, 03 Mar 2026 11:16:14 +0000",
+      "fetched_at": "2026-03-05T17:16:05.993251",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "马上AI起来！北京五月见",
+      "keywords": [
+        "ai",
+        "所有人",
+        "真的需要自己上手用",
+        "了丨年度",
+        "盛会"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "阿里千问大模型换将，32岁林俊旸官宣告别",
+      "link": "https://www.qbitai.com/2026/03/383842.html",
+      "summary": "组织架构调整了",
+      "source": "量子位",
+      "pub_date": "Wed, 04 Mar 2026 01:44:32 +0000",
+      "fetched_at": "2026-03-05T17:16:05.993186",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "组织架构调整了",
+      "keywords": [
+        "阿里千问大模型换将",
+        "岁林俊旸官宣告别",
+        "组织架构调整了"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "把20亿参数装进胸针？高通补齐了个人AI生态的最后一块拼图",
+      "link": "https://www.qbitai.com/2026/03/383878.html",
+      "summary": "骁龙可穿戴平台至尊版正式发布",
+      "source": "量子位",
+      "pub_date": "Wed, 04 Mar 2026 03:11:45 +0000",
+      "fetched_at": "2026-03-05T17:16:05.993119",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "骁龙可穿戴平台至尊版正式发布",
+      "keywords": [
+        "亿参数装进胸针",
+        "高通补齐了个人",
+        "ai",
+        "生态的最后一块拼图",
+        "骁龙可穿戴平台至尊版正式发布"
       ],
       "importance": 1.0
     },
     {
-      "title": "「具身原生」元年！专访原力灵机汪天才，解析具身智能的「PyTorch时刻」",
-      "link": "https://www.jiqizhixin.com/articles/2026-02-10-9",
+      "title": "苹果春季新品奔着龙虾来了！AI性能暴涨8倍，8499元起",
+      "link": "https://www.qbitai.com/2026/03/383902.html",
       "summary": "",
-      "source": "机器之心",
-      "pub_date": "Tue, 10 Feb 2026 17:18:23 +0800",
-      "fetched_at": "2026-02-10T13:54:37.074264",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "具身原生",
-        "元年",
-        "专访原力灵机汪天才",
-        "解析具身智能的",
-        "pytorch"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "比肩OpenAI Simple Codex，中国团队闯入Terminal-Bench全球第二！",
-      "link": "https://www.jiqizhixin.com/articles/2026-02-10-11",
-      "summary": "",
-      "source": "机器之心",
-      "pub_date": "Tue, 10 Feb 2026 18:59:00 +0800",
-      "fetched_at": "2026-02-10T13:54:37.074242",
+      "source": "量子位",
+      "pub_date": "Wed, 04 Mar 2026 07:50:33 +0000",
+      "fetched_at": "2026-03-05T17:16:05.993047",
       "categories": [
         "ai"
       ],
       "ai_summary": "",
       "keywords": [
-        "比肩",
-        "openai",
-        "simple",
-        "codex",
-        "中国团队闯入"
+        "苹果春季新品奔着龙虾来了",
+        "ai",
+        "性能暴涨",
+        "元起"
       ],
       "importance": 0.5
+    },
+    {
+      "title": "悬赏5000刀！148局AI斗蛐蛐世界杯官方战报出炉，全球赛邀你接棒来战",
+      "link": "https://www.qbitai.com/2026/03/383947.html",
+      "summary": "Agent调教大师快请入场",
+      "source": "量子位",
+      "pub_date": "Thu, 05 Mar 2026 06:41:42 +0000",
+      "fetched_at": "2026-03-05T17:16:05.992965",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Agent调教大师快请入场",
+      "keywords": [
+        "悬赏",
+        "ai",
+        "斗蛐蛐世界杯官方战报出炉",
+        "全球赛邀你接棒来战",
+        "agent"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "捏Ta完成超千万美金Pre A+轮融资，九坤领投，源码奇绩等超额跟进",
+      "link": "https://www.qbitai.com/2026/03/383998.html",
+      "summary": "定义AI时代世界创作的基础设施",
+      "source": "量子位",
+      "pub_date": "Thu, 05 Mar 2026 07:02:01 +0000",
+      "fetched_at": "2026-03-05T17:16:05.992883",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "定义AI时代世界创作的基础设施",
+      "keywords": [
+        "ta",
+        "完成超千万美金",
+        "pre",
+        "轮融资",
+        "九坤领投"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "GPT-5.3 Instant上线：ChatGPT终于不说教了",
+      "link": "https://www.qbitai.com/2026/03/383974.html",
+      "summary": "",
+      "source": "量子位",
+      "pub_date": "Thu, 05 Mar 2026 07:10:17 +0000",
+      "fetched_at": "2026-03-05T17:16:05.992754",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "",
+      "keywords": [
+        "gpt",
+        "instant",
+        "上线",
+        "chatgpt",
+        "终于不说教了"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "虎鲸文娱组织升级，董事长樊路远：主动求变，积极拥抱AI",
+      "link": "https://36kr.com/newsflashes/3709749263659137?f=rss",
+      "summary": "36氪获悉，3月5日下午，虎鲸文娱集团董事长兼首席执行官樊路远向公司核心管理者发出内部邮件，宣布在新财年即将开始之际进行组织升级，积极拥抱AI，加速“线上+线下”全场景娱乐生态融合。杜颜龙被任命为虎鲸文娱集团CTO，吴倩（广赢）出任优酷总裁，何弭（一丰）与沈严（醉翁）进行轮岗，分别出任虎鲸文娱集团副总裁和大麦演出总裁。杜颜龙、吴倩、何弭直接向樊路远汇报；沈严向大麦娱乐总裁李捷汇报，李捷向樊路远汇报。樊路远表示：“AI正在引领文娱行业进行一场深刻变革。面对变革的最好方式是拥抱变革，只有当下懂创变，未来才敢相信。”",
+      "source": "36氪",
+      "pub_date": "2026-03-05 15:52:05  +0800",
+      "fetched_at": "2026-03-05T17:16:05.893034",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "36氪获悉，3月5日下午，虎鲸文娱集团董事长兼首席执行官樊路远向公司核心管理者发出内部邮件，宣布在新财年即将开始之际进行组织升级，积极拥抱AI，加速“线上+线下”全场景娱乐生态融合。杜颜龙被任命为虎鲸文娱集团CTO，吴倩（广赢）出任优酷总裁，何弭（一丰）与沈严（醉翁）进行轮岗，分别出任虎鲸文娱集团副...",
+      "keywords": [
+        "ai",
+        "积极拥抱",
+        "吴倩",
+        "虎鲸文娱组织升级",
+        "董事长樊路远"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "阿里巴巴旗下公司在杭州成立智能科技新公司",
+      "link": "https://36kr.com/newsflashes/3709810562085248?f=rss",
+      "summary": "36氪获悉，爱企查App显示，近日，杭州瓴通智能科技有限公司成立，法定代表人为林鸣晖，注册资本1000万元人民币，经营范围包括软件开发、计算机软硬件及外围设备制造、数据处理和存储支持服务、大数据服务、互联网数据服务、人工智能应用软件开发等。股东信息显示，该公司由阿里巴巴旗下北京锐讯灵通科技有限公司全资持股。",
+      "source": "36氪",
+      "pub_date": "2026-03-05 17:07:33  +0800",
+      "fetched_at": "2026-03-05T17:16:05.892033",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "36氪获悉，爱企查App显示，近日，杭州瓴通智能科技有限公司成立，法定代表人为林鸣晖，注册资本1000万元人民币，经营范围包括软件开发、计算机软硬件及外围设备制造、数据处理和存储支持服务、大数据服务、互联网数据服务、人工智能应用软件开发等。股东信息显示，该公司由阿里巴巴旗下北京锐讯灵通科技有限公司全...",
+      "keywords": [
+        "阿里巴巴旗下公司在杭州成立智能科技新公司",
+        "氪获悉",
+        "爱企查",
+        "app",
+        "显示"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "耐德佳正式发布AI变焦读写镜",
+      "link": "https://36kr.com/newsflashes/3709825877143686?f=rss",
+      "summary": "36氪获悉，近日，北京耐德佳显示技术有限公司正式发布新品AI变焦读写镜。据了解，该产品融合“动态变焦光学系统”与多传感器AI算法，支持[-2D,+2D]动态调节，看远自动进入-2D至0D区间，看近切换至0D至+2D区间；视训模式下可在-2D与+2D间静音、顺滑变化，用于调节灵敏度训练，实现一镜多场景应用。",
+      "source": "36氪",
+      "pub_date": "2026-03-05 17:10:02  +0800",
+      "fetched_at": "2026-03-05T17:16:05.891781",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "36氪获悉，近日，北京耐德佳显示技术有限公司正式发布新品AI变焦读写镜。据了解，该产品融合“动态变焦光学系统”与多传感器AI算法，支持[-2D,+2D]动态调节，看远自动进入-2D至0D区间，看近切换至0D至+2D区间；视训模式下可在-2D与+2D间静音、顺滑变化，用于调节灵敏度训练，实现一镜多场景...",
+      "keywords": [
+        "ai",
+        "变焦读写镜",
+        "区间",
+        "耐德佳正式发布",
+        "氪获悉"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "千问模型负责人林俊旸提出离职，阿里高管紧急答疑 |  智能涌现独家",
+      "link": "https://36kr.com/p/3708425301749891?f=rss",
+      "summary": "作者 | 邓咏仪 编辑 | 苏建勋 杨轩 “我应该要更早知道这些。” 北京时间3月4日下午约13:00，通义实验室紧急召开了All Hands会议，阿里集团CEO吴泳铭向千问员工坦诚表示。 12个小时前（北京时间3月4日凌晨0点11分），阿里千问大模型技术负责人林俊旸在X上突然宣布离职——林俊旸是阿里AI开源模型的核心推手，也是阿里最年轻的P10之一——行业一片哗然之时，Qwen的很多成员也无法接受团队灵魂人物的突然出走。 “在资源远少于竞对的前提下，能取得今天的成绩，俊旸的领导力是核心因素之一。”不止一位千问成员对36氪评价。 在会上，以刘大一恒（Qwen RL leader）为代表，Qwe...",
+      "source": "36氪",
+      "pub_date": "2026-03-04 17:50:41  +0800",
+      "fetched_at": "2026-03-05T17:16:05.888470",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "作者 | 邓咏仪 编辑 | 苏建勋 杨轩 “我应该要更早知道这些。” 北京时间3月4日下午约13:00，通义实验室紧急召开了All Hands会议，阿里集团CEO吴泳铭向千问员工坦诚表示。 “在资源远少于竞对的前提下，能取得今天的成绩，俊旸的领导力是核心因素之一。”不止一位千问成员对36氪评价。",
+      "keywords": [
+        "北京时间",
+        "qwen",
+        "千问模型负责人林俊旸提出离职",
+        "阿里高管紧急答疑",
+        "智能涌现独家"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "逛展MWC两天，这10个科技新品最值得关注",
+      "link": "https://36kr.com/p/3708674537484675?f=rss",
+      "summary": "文｜邱晓芬 编辑｜苏建勋 2026年3月2日-5日，2026世界移动通信大会（MWC 2026）在西班牙巴塞罗那举办，累计吸引来自219个国家和地区的超过2900家参展企业。 其中，今年有超过350家中国企业参展，相比去年有了大幅增长，中国公司成为展会上的绝对主角。在曝光量最大的展会入口、通道，甚至是巴塞罗那的机场，几乎随处可见中国公司的横幅广告。 △MWC展馆正门，华为和小米的横幅广告对垒《智能涌现》拍摄 此次，MWC 2026的核心主题是The IQ Era（智能新纪元），AI是这次展会上的绝对主角。 在七个展馆中漫步，可以发现，今年端侧AI大爆发，不同的AI能力和玩法下沉到手机、PC、大...",
+      "source": "36氪",
+      "pub_date": "2026-03-04 21:45:12  +0800",
+      "fetched_at": "2026-03-05T17:16:05.885353",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "其中，今年有超过350家中国企业参展，相比去年有了大幅增长，中国公司成为展会上的绝对主角。在曝光量最大的展会入口、通道，甚至是巴塞罗那的机场，几乎随处可见中国公司的横幅广告。 △MWC展馆正门，华为和小米的横幅广告对垒《智能涌现》拍摄 此次，MWC 2026的核心主题是The IQ...",
+      "keywords": [
+        "mwc",
+        "ai",
+        "逛展",
+        "两天",
+        "个科技新品最值得关注"
+      ],
+      "importance": 0
     }
   ],
-  "updated_at": "2026-02-10T13:54:45.786406"
+  "updated_at": "2026-03-05T17:17:02.054883"
 }

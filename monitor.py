@@ -13,7 +13,9 @@ from pathlib import Path
 from typing import List, Dict, Any
 
 # 添加sources目录到路径
-sys.path.insert(0, '/home/ec2-user/stellarpulse/sources')
+import os
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, os.path.join(BASE_DIR, 'sources'))
 
 from rss import RSSSource
 from hackernews import HackerNewsSource
@@ -24,10 +26,10 @@ from ai_summary import ContentAnalyzer
 from subscription import SubscriptionManager
 
 # ============ 配置 ============
-CONFIG_FILE = "/home/ec2-user/stellarpulse/config.json"
-DATA_FILE = "/home/ec2-user/stellarpulse/data.json"
-REPORTS_DIR = "/home/ec2-user/stellarpulse/reports"
-SITE_DATA_FILE = "/home/ec2-user/stellarpulse/docs/data/site_data.json"
+CONFIG_FILE = os.path.join(BASE_DIR, "config.json")
+DATA_FILE = os.path.join(BASE_DIR, "data.json")
+REPORTS_DIR = os.path.join(BASE_DIR, "reports")
+SITE_DATA_FILE = os.path.join(BASE_DIR, "docs/data/site_data.json")
 
 def load_config() -> Dict:
     """加载配置"""

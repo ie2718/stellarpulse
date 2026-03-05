@@ -328,7 +328,8 @@ class StellarPulseHandler(BaseHTTPRequestHandler):
     
     def _render_reports(self) -> str:
         """渲染历史报告页"""
-        reports_dir = "/home/ec2-user/stellarpulse/reports"
+        base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        reports_dir = os.path.join(base_dir, "reports")
         reports = []
         
         if os.path.exists(reports_dir):
@@ -357,7 +358,8 @@ class StellarPulseHandler(BaseHTTPRequestHandler):
     def _load_items(self) -> list:
         """加载数据"""
         try:
-            with open('/home/ec2-user/stellarpulse/data.json', 'r') as f:
+            base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+            with open(os.path.join(base_dir, 'data.json'), 'r') as f:
                 data = json.load(f)
                 return data.get('items', [])
         except:
@@ -366,7 +368,8 @@ class StellarPulseHandler(BaseHTTPRequestHandler):
     def _load_subscriptions(self) -> list:
         """加载订阅"""
         try:
-            with open('/home/ec2-user/stellarpulse/keywords.json', 'r') as f:
+            base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+            with open(os.path.join(base_dir, 'keywords.json'), 'r') as f:
                 data = json.load(f)
                 return data.get('subscriptions', [])
         except:

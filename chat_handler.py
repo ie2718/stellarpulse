@@ -9,7 +9,8 @@ import os
 from datetime import datetime, timedelta
 from typing import List, Dict, Any, Optional
 
-DATA_FILE = "/home/ec2-user/stellarpulse/data.json"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_FILE = os.path.join(BASE_DIR, "data.json")
 CACHE_FILE = "/tmp/stellarpulse_last_query.json"
 
 def load_data() -> Dict:

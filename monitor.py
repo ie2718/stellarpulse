@@ -8,6 +8,7 @@ import json
 import os
 import sys
 import argparse
+import subprocess
 from datetime import datetime, timedelta
 from pathlib import Path
 from typing import List, Dict, Any
@@ -370,6 +371,23 @@ def generate_whatsapp_summary(items: List[Dict], matches: List[Dict]) -> str:
     
     return msg
 
+def sync_to_github():
+    """同步到 GitHub（仅在内容有变更时提交）"""
+    try:
+        # 检查是否有变更
+        subprocess.run(["git", "add", "-A"], cwd=BASE_DIR, check=True)
+        # 检查暂存区是否有变更
+        result = subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=BASE_DIR, capture_output=True)
+        if result.returncode != 0:  # 有变更才提交
+            commit_msg = f"chore: auto-update StellarPulse data {datetime.now().strftime('%Y-%m-%d %H:%M')}"
+            subprocess.run(["git", "commit", "-m", commit_msg], cwd=BASE_DIR, check=True)
+            subprocess.run(["git", "push", "origin", "main"], cwd=BASE_DIR, check=True)
+            print("\n[GitHub] 已自动同步提交")
+        else:
+            print("\n[GitHub] 无内容变更，跳过提交")
+    except subprocess.CalledProcessError as e:
+        print(f"\n[GitHub] 自动同步失败: {e}")
+
 # ============ 主流程 ============
 def main():
     parser = argparse.ArgumentParser(description='StellarPulse')
@@ -447,6 +465,9 @@ def main():
         print("WHATSAPP_MSG_END")
     else:
         print("\n[报告] 本期无相关资讯")
+    
+    # 自动同步到 GitHub
+    sync_to_github()
     
     print("=" * 60)
     print("✅ 完成")

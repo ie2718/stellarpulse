@@ -5,644 +5,645 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-03-08T20:00:37.179008",
-    "total_items": 28
+    "last_update": "2026-03-10T20:00:52.476517",
+    "total_items": 37
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 22
+      "count": 29
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 3
+      "count": 6
     },
     "space": {
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 5
+      "count": 7
     }
   },
   "stats": {
-    "total_items": 28,
-    "today_items": 28,
+    "total_items": 37,
+    "today_items": 37,
     "sources": {
-      "36氪": 9,
-      "Solidot": 8,
-      "量子位": 4,
-      "HackerNews": 7
+      "36氪": 16,
+      "Solidot": 10,
+      "量子位": 5,
+      "HackerNews": 6
     },
-    "last_update": "2026-03-08T20:00:37.179008"
+    "last_update": "2026-03-10T20:00:52.476517"
   },
   "trending": [
     {
-      "title": "00后小孩哥10天AI编程，陈天桥24小时砸3000万！靠大四作业当上CEO",
-      "link": "https://36kr.com/p/3713983582662788?f=rss",
-      "summary": "编辑：Aeneas KingHZ 一觉醒来，国产开源AI项目MiroFish登顶GitHub趋势榜榜首！ 国产开源AI项目MiroFish登顶GitHub趋势榜榜首 让人没想到的是，超越OpenAI、谷歌、微软等机构的开源项目的MiroFish，背后是一个国内大四学生，仅仅3个月的时间，就拿下3000万投资。 靠一个AI开源项目，他直接把自己的毕设变成了创业公司，还成为公司CEO？ 这不是什么神话，是这个AI时代真实发生在国内的故事。 更神奇的是，此前他的BettaFish项目，也曾登上GitHub全球趋势榜第一。 这两个项目不仅都曾登顶榜首，而且都是靠这位00后小孩哥，在10天内vibe c...",
+      "title": "光帆科技董红光：把AI耳机做成“第二台主机”，很难，却正确",
+      "link": "https://36kr.com/p/3716670530106761?f=rss",
+      "summary": "文｜邱晓芬 编辑｜苏建勋 2026年，AI硬件热到发烫。 OpenAI、Meta、苹果、阿里千问、字节等大厂都加入了入口争夺战，通过自研或重金外部收购团队，补上他们在AI上最后一块短板。而AI可穿戴设备，毫无疑问成为所有大厂们“补入口”的集体选择。 中国的公司也在快速吸收粮草弹药。作为全球第一家发布带摄像头AI耳机的公司，近期《智能涌现》获悉，「光帆科技」连续完成种子++轮和种子+++轮两轮融资。 本次融资由联想集团和小鹏汽车（星航资本）联合领投，高秉强教授、Brizan Ventures、ForeBright Concerto参投，多家老股东连续追投，募集资金将重点用于面向下一代人机交互的A...",
       "source": "36氪",
-      "pub_date": "2026-03-08 17:17:32  +0800",
-      "fetched_at": "2026-03-08T20:00:06.086482",
+      "pub_date": "2026-03-10 13:14:13  +0800",
+      "fetched_at": "2026-03-10T20:00:07.264360",
       "categories": [
         "ai"
       ],
-      "ai_summary": "编辑：Aeneas KingHZ 一觉醒来，国产开源AI项目MiroFish登顶GitHub趋势榜榜首！ 国产开源AI项目MiroFish登顶GitHub趋势榜榜首...",
+      "ai_summary": "中国的公司也在快速吸收粮草弹药。作为全球第一家发布带摄像头AI耳机的公司，近期《智能涌现》获悉，「光帆科技」连续完成种子++轮和种子+++轮两轮融资。 本次融资由联想集团和小鹏汽车（星航资本）联合领投，高秉强教授、Brizan Ventures、ForeBright...",
       "keywords": [
         "ai",
-        "项目",
-        "mirofish",
-        "github",
-        "后小孩哥"
+        "光帆科技董红光",
+        "耳机做成",
+        "第二台主机",
+        "很难"
+      ],
+      "importance": 3.0
+    },
+    {
+      "title": "8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场",
+      "link": "https://36kr.com/p/3716375591794051?f=rss",
+      "summary": "今日热点导览 国内成品油零售调价将开启上调窗口，加满一箱油将多花27.5元 2026年中国电影票房在全球占比超28%，领跑全球电影市场 中国有望成首个在月球找到水的国家 腾讯据称将以新资金重返派拉蒙收购华纳兄弟的交易 腾讯：旗下全场景AI智能体WorkBuddy正式上线 消息称苹果上调首款折叠机备货量，较原定目标增加20% TOP 3 大新闻 特朗普称对伊朗战事“已基本结束”：比预计快得多 记者当地时间3月9日获悉，美国总统特朗普表示，美国对伊朗的战争可能很快就会结束。据悉，特朗普在一次电话采访中说：“我觉得这场战争已基本结束了，差不多了。他们已经没有海军，没有通信系统，也没有空军了。” 特朗...",
+      "source": "36氪",
+      "pub_date": "2026-03-10 08:17:09  +0800",
+      "fetched_at": "2026-03-10T20:00:07.278523",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "今日热点导览 国内成品油零售调价将开启上调窗口，加满一箱油将多花27.5元 2026年中国电影票房在全球占比超28%，领跑全球电影市场 中国有望成首个在月球找到水的国家 腾讯据称将以新资金重返派拉蒙收购华纳兄弟的交易 腾讯：旗下全场景AI智能体WorkBuddy正式上线 消息称苹果上调首款折叠机备货...",
+      "keywords": [
+        "年中国电影票房在全球占比超",
+        "领跑全球电影市场",
+        "氪丨胖东来",
+        "名店长共分",
+        "亿资产利润"
       ],
       "importance": 1.5
     },
     {
-      "title": "美国国会将国际空间站寿命延长到 2032 年，要求 NASA 转向商业空间站",
-      "link": "https://www.solidot.org/story?sid=83705",
-      "summary": "最近修订的参议院授权法案（Senate authorization bill）将国际空间站的寿命从 2030 年延长到 2032 年，同时要求 NASA 转向商业空间站，加速用商业空间站取代国际空间站。法案要求在批准 60 天内 NASA 必须公开近地轨道商业空间站的需求；90 天内发布最终的征求建议书征求行业的回应；180 天内与两家或两家以上的商业供应商签订合同。Axiom Space、Blue Origin、Vast 和 Voyager 等私营公司正在敲定商业空间站的设计方案，它们都希望 NASA 提供更多需求信息，包括宇航员在空间站驻留时间、所需的科学设备类型等等。",
+      "title": "一百万颗卫星会如何影响天空？",
+      "link": "https://www.solidot.org/story?sid=83720",
+      "summary": "SpaceX 计划向太空发射 1 百万颗卫星，理由是建造太空数据中心。暂不讨论太空数据中心的可行性（没什么可行性），这一百万颗卫星会如何影响我们每一个人？SpaceX 已经向 FCC 递交了发射提议，对该计划的公众意见征集于上周五结束，逾千条公众意见绝大多数持反对立场，要求 FCC 停止推进该计划。SpaceX 已经向地球轨道发射了上万颗卫星，一百万颗则是已有数量的一百倍。SpaceX 平均每周发射两次，它的卫星不断上天，也不断坠落。越来越多的证据表明，火箭发射会将污染物排放到空气中，影响大气层，造成潜在的温室效应，可能加剧对臭氧层的威胁。如果 SpaceX 的一百万颗卫星全部脱离轨道，意味着...",
       "source": "Solidot",
-      "pub_date": "Fri, 06 Mar 2026 22:47:15 +0800",
-      "fetched_at": "2026-03-08T20:00:05.400160",
+      "pub_date": "Mon, 09 Mar 2026 18:31:46 +0800",
+      "fetched_at": "2026-03-10T20:00:06.162203",
       "categories": [
         "space"
       ],
-      "ai_summary": "最近修订的参议院授权法案（Senate authorization bill）将国际空间站的寿命从 2030 年延长到 2032 年，同时要求 NASA 转向商业空间站，加速用商业空间站取代国际空间站。法案要求在批准 60 天内 NASA 必须公开近地轨道商业空间站的需求；90 天内发布最终的征求建...",
+      "ai_summary": "SpaceX 计划向太空发射 1 百万颗卫星，理由是建造太空数据中心。暂不讨论太空数据中心的可行性（没什么可行性），这一百万颗卫星会如何影响我们每一个人？SpaceX 已经向 FCC 递交了发射提议，对该计划的公众意见征集于上周五结束，逾千条公众意见绝大多数持反对立场，要求 FCC 停止推进该计划。...",
       "keywords": [
-        "nasa",
-        "转向商业空间站",
-        "美国国会将国际空间站寿命延长到",
-        "要求",
-        "最近修订的参议院授权法案"
+        "spacex",
+        "fcc",
+        "一百万颗卫星会如何影响天空",
+        "计划向太空发射",
+        "百万颗卫星"
       ],
       "importance": 1.0
     },
     {
-      "title": "90 后女首富诞生",
-      "link": "https://36kr.com/p/3713629026972034?f=rss",
-      "summary": "作者/王露 报道/投资界PEdaily AI造富惊人。 最新发布的《胡润全球富豪榜》中，Lucy Guo以90亿元身家跻身榜单，成为全球90后白手起家女首富。 她的故事正是这一轮AI浪潮的缩影：10年前联合创办Scale AI，即便早已离职，但凭借手中疯狂膨胀的股权，跻身全球前1%富豪之列。 把视线拉远，一幅更宏大的财富图景正在展开：越来越多的女性创业者在AI赛道强势崛起，成为聚光灯下的新主角。而在光影之外，另一条通往财富自由的路径也被打通。一批AI公司里年轻的工程师、研究员乃至实习生，在短短数年间完成了命运跃迁。 31岁，全球最年轻女富豪 一位90后女生成长往事徐徐展开。 1994年，Luc...",
+      "title": "搭乘人形机器人概念，首开股份再涨停",
+      "link": "https://36kr.com/p/3716851288241541?f=rss",
+      "summary": "3月10日，随着人形机器人概念持续走强，因为投资了宇树科技等机器人公司，作为地产企业的首开股份也迎来了股价大涨，以9.94%的涨幅涨停。 首开股份的主营业务为地产开发，近年来受地产市场下行拖累，公司业绩持续下滑。据首开股份1月24日发布的业绩数据，其2025年1-12月共实现签约金额178.45亿元，预计2025年实现归属于母公司所有者的净利润为-55亿元至-69亿元。虽然相比2024年81.4亿元的亏损金额有所减少，但仍持续出现巨额亏损。 由于业绩持续下滑，过去几年内首开股份的股价也屡创新低，曾于2024年7月31日下跌至1.94元/股，相比2019年的股价高点跌掉了约78.6%。 但在20...",
       "source": "36氪",
-      "pub_date": "2026-03-08 09:45:52  +0800",
-      "fetched_at": "2026-03-08T20:00:06.120613",
+      "pub_date": "2026-03-10 16:17:16  +0800",
+      "fetched_at": "2026-03-10T20:00:07.255511",
       "categories": [
-        "ai"
+        "robotics"
       ],
-      "ai_summary": "最新发布的《胡润全球富豪榜》中，Lucy Guo以90亿元身家跻身榜单，成为全球90后白手起家女首富。...",
+      "ai_summary": "首开股份的主营业务为地产开发，近年来受地产市场下行拖累，公司业绩持续下滑。据首开股份1月24日发布的业绩数据，其2025年1-12月共实现签约金额178.45亿元，预计2025年实现归属于母公司所有者的净利润为-55亿元至-69亿元。虽然相比2024年81.4亿元的亏损金额有所减少，但仍持续出现巨额...",
       "keywords": [
-        "ai",
-        "后女首富诞生",
-        "作者",
-        "王露",
-        "报道"
+        "亿元",
+        "搭乘人形机器人概念",
+        "首开股份再涨停",
+        "随着人形机器人概念持续走强",
+        "因为投资了宇树科技等机器人公司"
       ],
       "importance": 1.0
     },
     {
-      "title": "NASA DART 探测器确认改变了小行星的轨道",
-      "link": "https://www.solidot.org/story?sid=83712",
-      "summary": "NASA 执行双小行星重定向测试(DART)任务的探测器于 2022 年 9 月撞击了小行星 Dimorphos，这是世界首次行星防御技术演示。撞击不仅改变了 Dimorphos 绕较大伴星 Didymos 的运动，也同时使这对双小行星绕太阳的轨道出现可测量的改变。观测结果显示，原本约 770 天的公转周期缩短了 0.15 秒，这是人类制造的物体首次被量测到改变天体绕太阳运行的轨道。先前研究已发现，Dimorphos 绕直径约 805 米的 Didymos 公转周期（约 12 小时）因撞击缩短了 33 分钟。新的研究指出，撞击喷出的碎屑使整个系统的轨道速度改变约每秒 11.7 微米，导致其绕太...",
-      "source": "Solidot",
-      "pub_date": "Sun, 08 Mar 2026 16:52:36 +0800",
-      "fetched_at": "2026-03-08T20:00:05.399182",
-      "categories": [
-        "space"
-      ],
-      "ai_summary": "NASA 执行双小行星重定向测试(DART)任务的探测器于 2022 年 9 月撞击了小行星 Dimorphos，这是世界首次行星防御技术演示。撞击不仅改变了 Dimorphos 绕较大伴星 Didymos 的运动，也同时使这对双小行星绕太阳的轨道出现可测量的改变。观测结果显示，原本约 770 天的...",
-      "keywords": [
-        "dimorphos",
-        "nasa",
-        "dart",
-        "didymos",
-        "探测器确认改变了小行星的轨道"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "在卫星照片披露美国军事基地损失之后 Planet Labs 停止发布卫星照片",
-      "link": "https://www.solidot.org/story?sid=83711",
-      "summary": "过去几天 Planet Labs 公司的卫星图像展示了美国在中东军事基地的战损情况，包括移动雷达 THAAD 遭到攻击的画面。Planet 周五宣布停止发布部分地区的卫星照片。Planet 运营着数百颗地球成像卫星，能每天对地球上的每一块陆地进行一次观测。其客户包括智库、非政府组织、学术机构、新闻媒体以及农业、林业和能源等行业的商业用户。它还与美国军方和情报机构签署了出售卫星照片的合同。Planet 宣布对特定地区的卫星照片强制推迟 96 小时发布。",
-      "source": "Solidot",
-      "pub_date": "Sat, 07 Mar 2026 22:18:33 +0800",
-      "fetched_at": "2026-03-08T20:00:05.399330",
-      "categories": [
-        "space"
-      ],
-      "ai_summary": "过去几天 Planet Labs 公司的卫星图像展示了美国在中东军事基地的战损情况，包括移动雷达 THAAD 遭到攻击的画面。Planet 周五宣布停止发布部分地区的卫星照片。Planet 运营着数百颗地球成像卫星，能每天对地球上的每一块陆地进行一次观测。其客户包括智库、非政府组织、学术机构、新闻媒...",
-      "keywords": [
-        "planet",
-        "labs",
-        "在卫星照片披露美国军事基地损失之后",
-        "停止发布卫星照片",
-        "过去几天"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "AI 翻译工具会将“幻觉”加入到维基百科文章",
-      "link": "https://www.solidot.org/story?sid=83710",
-      "summary": "维基百科编辑实施了新政策，限制使用 AI 翻译工具将英文条目翻译到其它语言的贡献者，原因是他们发现 AI 工具会在译文中加入“幻觉”——即原文不存在的内容。问题与非营利组织 Open Knowledge Association (OKA)有关，该组织主要依赖来自“全球南方（Global South）”的廉价劳工充当翻译合同工，将英文维基百科文章翻译到其他语言。部分译者开始使用 Google Gemini 和 ChatGPT 等工具加快翻译，但编辑在审阅译文时发现了大量错误，包括事实错误、缺少引用以及引用不相关来源。",
-      "source": "Solidot",
-      "pub_date": "Sat, 07 Mar 2026 22:02:33 +0800",
-      "fetched_at": "2026-03-08T20:00:05.399470",
+      "title": "用智能吉他起家后，这家公司又用AI音乐工作站拿下百万美元众筹，营收数亿｜Insight全球",
+      "link": "https://36kr.com/p/3715521730933127?f=rss",
+      "summary": "作者｜黄楠 编辑｜袁斯来 编者按：当出海越来越成为一家中国公司核心战略时，如何征战全球市场就成为一个极其专业的话题。在全球化的演变中，已有不少中国品牌站立潮头。鉴于此，硬氪特推出「Insight全球」专栏，从品牌成长与变迁，探索中国品牌出海的前沿方向与时代契机，为出海玩家与行业提供思考与启发。 这是我们专栏第61期——拿火音乐从广州起步，以“材料创新+智能交互”模式，2017年推出全球首款一体成型碳纤维吉他LAVA ME，在智能吉他赛道中迅速破局；2024年发布无弦吉他“精灵”，降低用户上手门槛；2025年将上百款经典效果器数字化复刻、推出LAVA STUDIO，海外众筹超226万美元刷新品类...",
+      "source": "36氪",
+      "pub_date": "2026-03-10 09:59:02  +0800",
+      "fetched_at": "2026-03-10T20:00:07.269571",
       "categories": [
         "ai"
       ],
-      "ai_summary": "维基百科编辑实施了新政策，限制使用 AI 翻译工具将英文条目翻译到其它语言的贡献者，原因是他们发现 AI 工具会在译文中加入“幻觉”——即原文不存在的内容。问题与非营利组织 Open Knowledge Association (OKA)有关，该组织主要依赖来自“全球南方（Global South）...",
+      "ai_summary": "作者｜黄楠 编辑｜袁斯来 编者按：当出海越来越成为一家中国公司核心战略时，如何征战全球市场就成为一个极其专业的话题。在全球化的演变中，已有不少中国品牌站立潮头。鉴于此，硬氪特推出「Insight全球」专栏，从品牌成长与变迁，探索中国品牌出海的前沿方向与时代契机，为出海玩家与行业提供思考与启发。 这是...",
       "keywords": [
-        "ai",
-        "幻觉",
-        "翻译工具会将",
-        "加入到维基百科文章",
-        "维基百科编辑实施了新政策"
+        "insight",
+        "全球",
+        "lava",
+        "用智能吉他起家后",
+        "这家公司又用"
       ],
-      "importance": 0.5
+      "importance": 1.0
     },
     {
-      "title": "苹果禁止美国用户下载字节跳动的其它应用",
-      "link": "https://www.solidot.org/story?sid=83709",
-      "summary": "拥有中国 App Store 账户的美国 iPhone 用户报告他们无法再下载或更新字节跳动的其它应用。用户会看到警告，“此应用在您所在的国家或地区不可用”。苹果是在遵守 2024 年美国国会通过的 TikTok 法案——《The Protecting Americans from Foreign Adversary Controlled Applications Act》，法案主要针对 TikTok，但也涵盖了字节跳动的其它应用如 TikTok 中国版抖音、AI 智能助手豆包以及阅读平台番茄小说。",
-      "source": "Solidot",
-      "pub_date": "Sat, 07 Mar 2026 21:47:43 +0800",
-      "fetched_at": "2026-03-08T20:00:05.399617",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "拥有中国 App Store 账户的美国 iPhone 用户报告他们无法再下载或更新字节跳动的其它应用。用户会看到警告，“此应用在您所在的国家或地区不可用”。苹果是在遵守 2024 年美国国会通过的 TikTok 法案——《The Protecting Americans from Foreign ...",
-      "keywords": [
-        "tiktok",
-        "苹果禁止美国用户下载字节跳动的其它应用",
-        "拥有中国",
-        "app",
-        "store"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "LGPL 授权代码用 AI 重写后改用 MIT 授权",
-      "link": "https://www.solidot.org/story?sid=83704",
-      "summary": "重新授权开源项目的许可协议在开源领域是非常困难的，因为这通常需要所有曾贡献过一行代码的人一致同意，这对历史悠久的项目而言是几乎不可能完成的任务。Python 字符编码检测器项目 chardet 移植自用 C++ 开发的 Mozilla 项目，采用了与原项目相同的 LGPL 许可证，LGPL 许可对商业使用不是太友好。维护者最近在 Claude Code 的帮助下重写了库发布了 v7.0.0 版本，将许可协议从 LGPL 更改为 MIT。项目原作者 a2mark 认为此举构成了潜在的 GPL 违反，因为开发者已经接触过原代码，并非是净室实现，因此完全重写代码的说法是没有意义的。",
-      "source": "Solidot",
-      "pub_date": "Fri, 06 Mar 2026 18:52:25 +0800",
-      "fetched_at": "2026-03-08T20:00:05.400288",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "重新授权开源项目的许可协议在开源领域是非常困难的，因为这通常需要所有曾贡献过一行代码的人一致同意，这对历史悠久的项目而言是几乎不可能完成的任务。Python 字符编码检测器项目 chardet 移植自用 C++ 开发的 Mozilla 项目，采用了与原项目相同的 LGPL 许可证，LGPL 许可对商...",
-      "keywords": [
-        "lgpl",
-        "mit",
-        "授权代码用",
-        "ai",
-        "重写后改用"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "大模型提示注入漏洞导致四千开发者机器被入侵",
-      "link": "https://www.solidot.org/story?sid=83703",
-      "summary": "2026 年 2 月 17 日，有人在 npm 上发布了 cline@2.3.0，它与之前的版本基本上相同，唯一的区别是在 package.json 中加入了一行代码：\"postinstall\": \"npm install -g openclaw@latest\"。在之后的八小时内，所有安装或更新 Cline 的开发者都在未经许可的情况下，在计算机上全局安装了 OpenClaw——拥有完整系统访问权限的 AI 智能体。在该软件包被撤回之前，其下载量大约 4000 次。有意思的不是有效载荷，而是攻击者最初是如何获取到 npm 令牌的：将一个提示信息注入到 GitHub 问题标题中，AI 分类机器人...",
-      "source": "Solidot",
-      "pub_date": "Fri, 06 Mar 2026 17:38:55 +0800",
-      "fetched_at": "2026-03-08T20:00:05.400428",
+      "title": "多个重点项目在珠海集中签约 总投资超100亿元",
+      "link": "https://36kr.com/newsflashes/3717028745426306?f=rss",
+      "summary": "36氪获悉，据珠海发布消息，近日，一批批重点项目在珠海集中签约，计划总投资超100亿元，涉及经纬力合必达AI-SOD合成总部大厦、百诺集团总部及机器人关节电机生产基地、石景山旅游中心、凤凰山桐阳里等产业及文旅项目。",
+      "source": "36氪",
+      "pub_date": "2026-03-10 19:24:06  +0800",
+      "fetched_at": "2026-03-10T20:00:07.283746",
       "categories": [
         "ai",
         "robotics"
       ],
-      "ai_summary": "2026 年 2 月 17 日，有人在 npm 上发布了 cline@2.3.0，它与之前的版本基本上相同，唯一的区别是在 package.json 中加入了一行代码：\"postinstall\": \"npm install -g openclaw@latest\"。在之后的八小时内，所有安装或更新 C...",
+      "ai_summary": "36氪获悉，据珠海发布消息，近日，一批批重点项目在珠海集中签约，计划总投资超100亿元，涉及经纬力合必达AI-SOD合成总部大厦、百诺集团总部及机器人关节电机生产基地、石景山旅游中心、凤凰山桐阳里等产业及文旅项目。",
       "keywords": [
-        "npm",
-        "cline",
-        "openclaw",
-        "ai",
-        "大模型提示注入漏洞导致四千开发者机器被入侵"
+        "亿元",
+        "多个重点项目在珠海集中签约",
+        "总投资超",
+        "氪获悉",
+        "据珠海发布消息"
       ],
-      "importance": 0.5
+      "importance": 1.0
     },
     {
-      "title": "关注面向创业公司和投资机构的 GTC 2026",
-      "link": "https://www.solidot.org/story?sid=83700",
-      "summary": "3月16 - 19日，NVIDIA初创加速计划将携手创业生态合作伙伴、优秀会员企业代表及创投联盟资深投资人在GTC 2026上带来全新会议特辑。会议包含3场针对中国创业者的精彩演讲。特辑内容将围绕中国创业生态格局、前沿技术趋势、2025年中国AI市场前景，以及重点行业投资方向等议题展开，全景呈现当前AI创业、前沿技术领域的热门话题。GTC现场还将设置Inception Startup Pavilion创业企业展区、投资人AI Day、创业公司和投资机构路演等环节。",
-      "source": "Solidot",
-      "pub_date": "Fri, 06 Mar 2026 15:17:36 +0800",
-      "fetched_at": "2026-03-08T20:00:05.400869",
+      "title": "SpaceX：倾向于选择在纳斯达克进行IPO，要求将其尽早纳入纳斯达克100指数作为上市条件",
+      "link": "https://36kr.com/newsflashes/3716962514056582?f=rss",
+      "summary": "知情人士称，埃隆·马斯克旗下太空探索技术公司（SpaceX）倾向于选择在纳斯达克进行IPO上市，SpaceX要求将其尽早纳入纳斯达克100指数作为上市条件。（财联社）",
+      "source": "36氪",
+      "pub_date": "2026-03-10 18:09:47  +0800",
+      "fetched_at": "2026-03-10T20:00:07.284971",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "知情人士称，埃隆·马斯克旗下太空探索技术公司（SpaceX）倾向于选择在纳斯达克进行IPO上市，SpaceX要求将其尽早纳入纳斯达克100指数作为上市条件。（财联社）",
+      "keywords": [
+        "spacex",
+        "倾向于选择在纳斯达克进行",
+        "ipo",
+        "要求将其尽早纳入纳斯达克",
+        "指数作为上市条件"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "OpenAI为龙虾紧急收购了一家23人公司",
+      "link": "https://www.qbitai.com/2026/03/385637.html",
+      "summary": "23人团队两年干出8600万估值",
+      "source": "量子位",
+      "pub_date": "Tue, 10 Mar 2026 08:13:46 +0000",
+      "fetched_at": "2026-03-10T20:00:07.396207",
       "categories": [
         "ai"
       ],
-      "ai_summary": "3月16 - 19日，NVIDIA初创加速计划将携手创业生态合作伙伴、优秀会员企业代表及创投联盟资深投资人在GTC 2026上带来全新会议特辑。会议包含3场针对中国创业者的精彩演讲。特辑内容将围绕中国创业生态格局、前沿技术趋势、2025年中国AI市场前景，以及重点行业投资方向等议题展开，全景呈现当前...",
+      "ai_summary": "23人团队两年干出8600万估值",
       "keywords": [
-        "gtc",
-        "ai",
-        "关注面向创业公司和投资机构的",
-        "nvidia",
-        "初创加速计划将携手创业生态合作伙伴"
+        "openai",
+        "为龙虾紧急收购了一家",
+        "人公司",
+        "人团队两年干出",
+        "万估值"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "机器人全程自主收拾客厅！390亿美元估值机器人端到端新技能，英伟达持续加注",
+      "link": "https://www.qbitai.com/2026/03/385126.html",
+      "summary": "团队自研具身大脑Helix 02作支撑",
+      "source": "量子位",
+      "pub_date": "Tue, 10 Mar 2026 05:50:05 +0000",
+      "fetched_at": "2026-03-10T20:00:07.396363",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "团队自研具身大脑Helix 02作支撑",
+      "keywords": [
+        "机器人全程自主收拾客厅",
+        "亿美元估值机器人端到端新技能",
+        "英伟达持续加注",
+        "团队自研具身大脑",
+        "helix"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "Meta 称上传盗版电子书属于合理使用",
+      "link": "https://www.solidot.org/story?sid=83727",
+      "summary": "为训练大模型，社交巨人 Meta 从 Z-Library 和 LibGen 等影子图书馆平台通过 BitTorrent 下载了逾百 TB 的电子书。在正在进行的由图书作者提起的诉讼中，Meta 律师辩称，通过 BitTorrent 将盗版电子书上传给陌生人属于合理使用。Meta 还强调，这些数据帮助美国确立了其在全球 AI 领域的领先地位。法庭去年裁决，使用盗版电子书训练大模型属于合理使用，但 Meta 仍然需要为通过 BitTorrent 下载和分享电子书的行为承担责任。图书作者认为，Meta 参与了侵权行为。Meta 在上周递交的补充书面询问中表示，在下载 BT 文件过程中共享文件也属于合...",
+      "source": "Solidot",
+      "pub_date": "Tue, 10 Mar 2026 16:13:52 +0800",
+      "fetched_at": "2026-03-10T20:00:06.161205",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "为训练大模型，社交巨人 Meta 从 Z-Library 和 LibGen 等影子图书馆平台通过 BitTorrent 下载了逾百 TB 的电子书。在正在进行的由图书作者提起的诉讼中，Meta 律师辩称，通过 BitTorrent 将盗版电子书上传给陌生人属于合理使用。Meta 还强调，这些数据帮助...",
+      "keywords": [
+        "meta",
+        "bittorrent",
+        "称上传盗版电子书属于合理使用",
+        "为训练大模型",
+        "社交巨人"
       ],
       "importance": 0.5
     }
   ],
   "latest": [
     {
-      "title": "In 1985 Maxell built a bunch of life-size robots for its bad floppy ad",
-      "link": "https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/",
-      "summary": "👍 120 | 💬 15",
+      "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
+      "link": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1",
+      "summary": "👍 72 | 💬 62",
       "source": "HackerNews",
-      "pub_date": "2026-03-04T22:16:31",
-      "fetched_at": "2026-03-08T20:00:37.156776",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "👍 120 | 💬 15",
-      "keywords": [
-        "in",
-        "maxell",
-        "built",
-        "bunch",
-        "of"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
-      "link": "https://github.com/karpathy/autoresearch",
-      "summary": "👍 129 | 💬 33",
-      "source": "HackerNews",
-      "pub_date": "2026-03-08T04:22:45",
-      "fetched_at": "2026-03-08T20:00:36.311412",
+      "pub_date": "2026-03-10T18:50:30",
+      "fetched_at": "2026-03-10T20:00:46.754178",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 129 | 💬 33",
+      "ai_summary": "👍 72 | 💬 62",
       "keywords": [
-        "autoresearch",
-        "agents",
-        "researching",
-        "on",
-        "single"
+        "yann",
+        "lecun",
+        "ai",
+        "startup",
+        "raises"
       ],
       "importance": 0
     },
     {
-      "title": "A decade of Docker containers",
-      "link": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
-      "summary": "👍 315 | 💬 211",
+      "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
+      "link": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
+      "summary": "👍 258 | 💬 184",
       "source": "HackerNews",
-      "pub_date": "2026-03-08T00:55:18",
-      "fetched_at": "2026-03-08T20:00:29.369362",
+      "pub_date": "2026-03-10T07:22:06",
+      "fetched_at": "2026-03-10T20:00:42.436861",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 315 | 💬 211",
+      "ai_summary": "👍 258 | 💬 184",
       "keywords": [
-        "decade",
-        "of",
-        "docker",
-        "containers"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "From RGB to L*a*b* color space (2024)",
-      "link": "https://kaizoudou.com/from-rgb-to-lab-color-space/",
-      "summary": "👍 49 | 💬 16",
-      "source": "HackerNews",
-      "pub_date": "2026-03-04T17:24:13",
-      "fetched_at": "2026-03-08T20:00:22.116078",
-      "categories": [
-        "space"
-      ],
-      "ai_summary": "👍 49 | 💬 16",
-      "keywords": [
-        "from",
-        "rgb",
-        "to",
-        "color",
-        "space"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Warn about PyPy being unmaintained",
-      "link": "https://github.com/astral-sh/uv/pull/17643",
-      "summary": "👍 215 | 💬 88",
-      "source": "HackerNews",
-      "pub_date": "2026-03-08T09:35:21",
-      "fetched_at": "2026-03-08T20:00:18.310259",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 215 | 💬 88",
-      "keywords": [
-        "warn",
-        "about",
-        "pypy",
-        "being",
-        "unmaintained"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
-      "link": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
-      "summary": "👍 43 | 💬 7",
-      "source": "HackerNews",
-      "pub_date": "2026-03-04T23:42:49",
-      "fetched_at": "2026-03-08T20:00:13.925068",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 43 | 💬 7",
-      "keywords": [
-        "rijksmuseum",
-        "researchers",
-        "discover",
-        "new",
-        "painting"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
-      "link": "https://arxiv.org/abs/2603.03823",
-      "summary": "👍 59 | 💬 9",
-      "source": "HackerNews",
-      "pub_date": "2026-03-08T16:11:50",
-      "fetched_at": "2026-03-08T20:00:08.734271",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 59 | 💬 9",
-      "keywords": [
-        "ci",
-        "swe",
-        "evaluating",
-        "agent",
-        "capabilities"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "技术获 NVIDIA、Pi 双重认可！原力灵机 DM0 模型重塑具身智能新范式",
-      "link": "https://www.qbitai.com/2026/03/384573.html",
-      "summary": "原力灵机 DM0 模型，正让机器人 “又聪明又敏捷” 的理想照进现实",
-      "source": "量子位",
-      "pub_date": "Fri, 06 Mar 2026 12:04:59 +0000",
-      "fetched_at": "2026-03-08T20:00:06.247207",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "原力灵机 DM0 模型，正让机器人 “又聪明又敏捷” 的理想照进现实",
-      "keywords": [
-        "原力灵机",
-        "dm",
-        "技术获",
-        "nvidia",
-        "pi"
+        "no",
+        "it",
+        "doesn",
+        "cost",
+        "anthropic"
       ],
       "importance": 0.5
     },
     {
-      "title": "彻底告别VE与VAE！商汤硬核重构多模态：砍掉所有中间编码器",
-      "link": "https://www.qbitai.com/2026/03/384623.html",
-      "summary": "2B规模吊打传统范式",
-      "source": "量子位",
-      "pub_date": "Sat, 07 Mar 2026 04:39:02 +0000",
-      "fetched_at": "2026-03-08T20:00:06.246981",
+      "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
+      "link": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
+      "summary": "👍 489 | 💬 502",
+      "source": "HackerNews",
+      "pub_date": "2026-03-09T23:12:53",
+      "fetched_at": "2026-03-10T20:00:39.729233",
       "categories": [
         "ai"
       ],
-      "ai_summary": "2B规模吊打传统范式",
+      "ai_summary": "👍 489 | 💬 502",
       "keywords": [
-        "彻底告别",
-        "ve",
-        "vae",
-        "商汤硬核重构多模态",
-        "砍掉所有中间编码器"
+        "the",
+        "is",
+        "legal",
+        "same",
+        "as"
       ],
       "importance": 0
     },
     {
-      "title": "央视点赞千问APP，“AI办事”让人工智能走进日常生活",
-      "link": "https://www.qbitai.com/2026/03/384637.html",
+      "title": "TCXO Failure Analysis",
+      "link": "https://serd.es/2026/03/06/TCXO-failure-analysis.html",
+      "summary": "👍 26 | 💬 3",
+      "source": "HackerNews",
+      "pub_date": "2026-03-07T12:49:38",
+      "fetched_at": "2026-03-10T20:00:27.176200",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 26 | 💬 3",
+      "keywords": [
+        "tcxo",
+        "failure",
+        "analysis"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "The Gervais Principle, or the Office According to \"The Office\"",
+      "link": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
+      "summary": "👍 64 | 💬 12",
+      "source": "HackerNews",
+      "pub_date": "2026-03-07T19:28:37",
+      "fetched_at": "2026-03-10T20:00:16.768557",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 64 | 💬 12",
+      "keywords": [
+        "the",
+        "office",
+        "gervais",
+        "principle",
+        "or"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
+      "link": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
+      "summary": "👍 174 | 💬 144",
+      "source": "HackerNews",
+      "pub_date": "2026-03-10T16:54:53",
+      "fetched_at": "2026-03-10T20:00:14.746509",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 174 | 💬 144",
+      "keywords": [
+        "policy",
+        "redox",
+        "os",
+        "has",
+        "adopted"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "打败GPT-5.2，嵌入真实工业生产，这个大模型什么来头？",
+      "link": "https://www.qbitai.com/2026/03/385010.html",
       "summary": "",
       "source": "量子位",
-      "pub_date": "Sat, 07 Mar 2026 08:40:25 +0000",
-      "fetched_at": "2026-03-08T20:00:06.246828",
+      "pub_date": "Mon, 09 Mar 2026 08:14:22 +0000",
+      "fetched_at": "2026-03-10T20:00:07.396591",
       "categories": [
         "ai"
       ],
       "ai_summary": "",
       "keywords": [
-        "央视点赞千问",
-        "app",
-        "ai",
-        "办事",
-        "让人工智能走进日常生活"
+        "打败",
+        "gpt",
+        "嵌入真实工业生产",
+        "这个大模型什么来头"
       ],
       "importance": 0
     },
     {
-      "title": "高中生AI创业，现在只招龙虾员工：每月成本2800",
-      "link": "https://www.qbitai.com/2026/03/384797.html",
-      "summary": "全龙虾公司，还设了好几个部门",
+      "title": "首个物理AI数据基座平台“无垠”落户浙江，专治机器人数据荒，家庭工业商业场景全覆盖",
+      "link": "https://www.qbitai.com/2026/03/385066.html",
+      "summary": "打通训练到商业化落地",
       "source": "量子位",
-      "pub_date": "Sun, 08 Mar 2026 10:07:27 +0000",
-      "fetched_at": "2026-03-08T20:00:06.246634",
+      "pub_date": "Mon, 09 Mar 2026 10:46:27 +0000",
+      "fetched_at": "2026-03-10T20:00:07.396582",
       "categories": [
-        "ai"
-      ],
-      "ai_summary": "全龙虾公司，还设了好几个部门",
-      "keywords": [
-        "高中生",
         "ai",
-        "创业",
-        "现在只招龙虾员工",
-        "每月成本"
+        "robotics"
+      ],
+      "ai_summary": "打通训练到商业化落地",
+      "keywords": [
+        "首个物理",
+        "ai",
+        "数据基座平台",
+        "无垠",
+        "落户浙江"
       ],
       "importance": 0
     },
     {
-      "title": "全国政协委员王坚：AI“龙虾”价格很快打下来",
-      "link": "https://36kr.com/newsflashes/3714026024759688?f=rss",
-      "summary": "针对近日火爆AI圈的“养龙虾”现象，全国政协委员、中国工程院院士王坚8日在接受采访时表示，AI“龙虾”会很快便宜下来并普及，任何行业内的人都不会没看到Open Claw的存在。（中新经纬）",
-      "source": "36氪",
-      "pub_date": "2026-03-08 16:28:36  +0800",
-      "fetched_at": "2026-03-08T20:00:06.121790",
+      "title": "Meta亚历山大王走人？小扎回应了",
+      "link": "https://www.qbitai.com/2026/03/385127.html",
+      "summary": "刚满29岁的Meta AI一号位",
+      "source": "量子位",
+      "pub_date": "Tue, 10 Mar 2026 05:23:30 +0000",
+      "fetched_at": "2026-03-10T20:00:07.396435",
       "categories": [
         "ai"
       ],
-      "ai_summary": "针对近日火爆AI圈的“养龙虾”现象，全国政协委员、中国工程院院士王坚8日在接受采访时表示，AI“龙虾”会很快便宜下来并普及，任何行业内的人都不会没看到Open Claw的存在。（中新经纬）",
+      "ai_summary": "刚满29岁的Meta AI一号位",
       "keywords": [
-        "ai",
-        "龙虾",
-        "全国政协委员王坚",
-        "价格很快打下来",
-        "针对近日火爆"
+        "meta",
+        "亚历山大王走人",
+        "小扎回应了",
+        "刚满",
+        "岁的"
       ],
-      "importance": 0
+      "importance": 0.5
     },
     {
-      "title": "90 后女首富诞生",
-      "link": "https://36kr.com/p/3713629026972034?f=rss",
-      "summary": "作者/王露 报道/投资界PEdaily AI造富惊人。 最新发布的《胡润全球富豪榜》中，Lucy Guo以90亿元身家跻身榜单，成为全球90后白手起家女首富。 她的故事正是这一轮AI浪潮的缩影：10年前联合创办Scale AI，即便早已离职，但凭借手中疯狂膨胀的股权，跻身全球前1%富豪之列。 把视线拉远，一幅更宏大的财富图景正在展开：越来越多的女性创业者在AI赛道强势崛起，成为聚光灯下的新主角。而在光影之外，另一条通往财富自由的路径也被打通。一批AI公司里年轻的工程师、研究员乃至实习生，在短短数年间完成了命运跃迁。 31岁，全球最年轻女富豪 一位90后女生成长往事徐徐展开。 1994年，Luc...",
-      "source": "36氪",
-      "pub_date": "2026-03-08 09:45:52  +0800",
-      "fetched_at": "2026-03-08T20:00:06.120613",
+      "title": "机器人全程自主收拾客厅！390亿美元估值机器人端到端新技能，英伟达持续加注",
+      "link": "https://www.qbitai.com/2026/03/385126.html",
+      "summary": "团队自研具身大脑Helix 02作支撑",
+      "source": "量子位",
+      "pub_date": "Tue, 10 Mar 2026 05:50:05 +0000",
+      "fetched_at": "2026-03-10T20:00:07.396363",
       "categories": [
-        "ai"
+        "robotics"
       ],
-      "ai_summary": "最新发布的《胡润全球富豪榜》中，Lucy Guo以90亿元身家跻身榜单，成为全球90后白手起家女首富。...",
+      "ai_summary": "团队自研具身大脑Helix 02作支撑",
       "keywords": [
-        "ai",
-        "后女首富诞生",
-        "作者",
-        "王露",
-        "报道"
+        "机器人全程自主收拾客厅",
+        "亿美元估值机器人端到端新技能",
+        "英伟达持续加注",
+        "团队自研具身大脑",
+        "helix"
       ],
       "importance": 1.0
     },
     {
-      "title": "OpenClaw掀起龙虾热：行动ASI奇点时刻！全球打工人巨变",
-      "link": "https://36kr.com/p/3713633084125321?f=rss",
-      "summary": "编辑：犀牛 OpenClaw是我们这个时代「最重要的」软件发布！ 刚刚，黄仁勋在摩根士丹利大会上激动地表示。 「这证明了Agentic AI的真正实力」，他说。 黄仁勋 3月，这只龙虾以人类历史上从未见过的速度，爬上GitHub的王座。 正式加冕GitHub软件项目星标榜史上第一。 GitHub软件项目星标榜 React花了十三年，靠无数求职要求、企业架构选型和培训班的反复锤炼才攒下逾24万颗星。 OpenClaw达到同样的高度，只用了100天。 随着OpenClaw的爆火，全球用户在AI Agent上消耗的Token量 整整 暴涨了1000倍！ 这不是一次普通的开源项目走红，这是一个信号——...",
-      "source": "36氪",
-      "pub_date": "2026-03-08 10:10:59  +0800",
-      "fetched_at": "2026-03-08T20:00:06.117958",
+      "title": "OpenAI为龙虾紧急收购了一家23人公司",
+      "link": "https://www.qbitai.com/2026/03/385637.html",
+      "summary": "23人团队两年干出8600万估值",
+      "source": "量子位",
+      "pub_date": "Tue, 10 Mar 2026 08:13:46 +0000",
+      "fetched_at": "2026-03-10T20:00:07.396207",
       "categories": [
         "ai"
       ],
-      "ai_summary": "GitHub软件项目星标榜 React花了十三年，靠无数求职要求、企业架构选型和培训班的反复锤炼才攒下逾24万颗星。 随着OpenClaw的爆火，全球用户在AI Agent上消耗的Token量 整整 暴涨了1000倍！",
+      "ai_summary": "23人团队两年干出8600万估值",
+      "keywords": [
+        "openai",
+        "为龙虾紧急收购了一家",
+        "人公司",
+        "人团队两年干出",
+        "万估值"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "SpaceX：倾向于选择在纳斯达克进行IPO，要求将其尽早纳入纳斯达克100指数作为上市条件",
+      "link": "https://36kr.com/newsflashes/3716962514056582?f=rss",
+      "summary": "知情人士称，埃隆·马斯克旗下太空探索技术公司（SpaceX）倾向于选择在纳斯达克进行IPO上市，SpaceX要求将其尽早纳入纳斯达克100指数作为上市条件。（财联社）",
+      "source": "36氪",
+      "pub_date": "2026-03-10 18:09:47  +0800",
+      "fetched_at": "2026-03-10T20:00:07.284971",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "知情人士称，埃隆·马斯克旗下太空探索技术公司（SpaceX）倾向于选择在纳斯达克进行IPO上市，SpaceX要求将其尽早纳入纳斯达克100指数作为上市条件。（财联社）",
+      "keywords": [
+        "spacex",
+        "倾向于选择在纳斯达克进行",
+        "ipo",
+        "要求将其尽早纳入纳斯达克",
+        "指数作为上市条件"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "博睿数据：OpenClaw是开源AI智能体执行框架，公司目前对此类技术尚无监控方案和产品",
+      "link": "https://36kr.com/newsflashes/3716995886282120?f=rss",
+      "summary": "36氪获悉，博睿数据发布异动公告，公司股票于2026年3月9日、2026年3月10日连续两个交易日内收盘价格涨幅偏离值累计超过30%。根据《上海证券交易所交易规则》《上海证券交易所科创板股票异常交易实时监控细则》的有关规定，属于股票交易异常波动。公司主要为企业级客户的IT运维管理提供应用性能管理及可观测性解决方案。OpenClaw是开源AI智能体执行框架，公司目前对此类技术尚无监控方案和产品，未形成商业化应用，也未形成收入，对公司目前业务不构成影响。",
+      "source": "36氪",
+      "pub_date": "2026-03-10 18:43:44  +0800",
+      "fetched_at": "2026-03-10T20:00:07.284438",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "36氪获悉，博睿数据发布异动公告，公司股票于2026年3月9日、2026年3月10日连续两个交易日内收盘价格涨幅偏离值累计超过30%。根据《上海证券交易所交易规则》《上海证券交易所科创板股票异常交易实时监控细则》的有关规定，属于股票交易异常波动。公司主要为企业级客户的IT运维管理提供应用性能管理及可...",
       "keywords": [
         "openclaw",
-        "github",
+        "是开源",
         "ai",
-        "掀起龙虾热",
-        "行动"
+        "智能体执行框架",
+        "公司目前对此类技术尚无监控方案和产品"
       ],
       "importance": 0.5
     },
     {
-      "title": "俞永福的一句话促成一个 IPO",
-      "link": "https://36kr.com/p/3713824137736576?f=rss",
-      "summary": "作者丨黎曼 编辑丨王庆武 来源丨东四十条资本 二级市场AI的狂热直接传导至一级市场，形成了AI企业上市的“窗口期红利”。 更为关键的一点是，资本市场对AI的关注点也开始发生转移，比如从“谁的模型更大”转向“谁能把AI变成可持续现金流”。 眼下，便有一家来自广州的AI应用层公司勇闯港交所。2026年2月底，钛动科技向港交所递表，冲击港股“Multi-Agent（营销多智能体）第一股”。钛动科技此时递表，有希望抢在热度消退前完成IPO定价。 更值得关注的是财务层面，钛动科技已实现持续盈利且毛利率稳定在82%以上，这种少见的高利润AI企业在当前市场环境下也具有稀缺性。 IPO前，钛动科技的投资方包括...",
+      "title": "顺为旗下公司入股银河航天",
+      "link": "https://36kr.com/newsflashes/3716981176252038?f=rss",
+      "summary": "36氪获悉，爱企查App显示，近日，银河航天（北京）网络技术有限公司发生工商变更，原股东凯镁有限公司、上海混沌投资（集团）有限公司等退出，新增顺为资本旗下天津海河顺科股权投资合伙企业（有限合伙）、北京榕启星辰企业管理合伙企业（有限合伙）等为股东。 银河航天（北京）网络技术有限公司成立于2019年6月，法定代表人为徐鸣，注册资本约4438万元人民币，经营范围包括经营电信业务、计算机系统服务、软件开发等。股东信息显示，该公司现由徐鸣、建银金辰创业投资有限公司及上述新增股东等共同持股。",
       "source": "36氪",
-      "pub_date": "2026-03-08 14:57:21  +0800",
-      "fetched_at": "2026-03-08T20:00:06.098533",
+      "pub_date": "2026-03-10 18:50:39  +0800",
+      "fetched_at": "2026-03-10T20:00:07.284321",
       "categories": [
-        "ai"
+        "space"
       ],
-      "ai_summary": "眼下，便有一家来自广州的AI应用层公司勇闯港交所。2026年2月底，钛动科技向港交所递表，冲击港股“Multi-Agent（营销多智能体）第一股”。钛动科技此时递表，有希望抢在热度消退前完成IPO定价。...",
+      "ai_summary": "36氪获悉，爱企查App显示，近日，银河航天（北京）网络技术有限公司发生工商变更，原股东凯镁有限公司、上海混沌投资（集团）有限公司等退出，新增顺为资本旗下天津海河顺科股权投资合伙企业（有限合伙）、北京榕启星辰企业管理合伙企业（有限合伙）等为股东。 银河航天（北京）网络技术有限公司成立于2019年6月...",
       "keywords": [
-        "ai",
-        "ipo",
-        "俞永福的一句话促成一个",
-        "作者丨黎曼",
-        "编辑丨王庆武"
+        "银河航天",
+        "北京",
+        "有限合伙",
+        "顺为旗下公司入股银河航天",
+        "氪获悉"
       ],
       "importance": 0
     },
     {
-      "title": "“变压器工厂干冒烟了”",
-      "link": "https://36kr.com/p/3713978630451584?f=rss",
-      "summary": "算力之争愈演愈烈，电力保障便成为背后的“隐形底座”。 作者丨韦香惠 来源丨投中网 马斯克又一次预言成真了。 “AI火了，也把变压器带火了，我老家的变压器工厂机器都快干冒烟了。”春节刚过，一位浙江朋友向我讲述她的家乡见闻。不止浙江，江苏、广东等地多家变压器企业在年前就已处于满产状态，部分面向数据中心的订单甚至排至明后年。原本被视为传统电力设备的变压器，正意外成为AI浪潮下最紧俏的基础设施之一。 这一趋势，早在2023年7月便被马斯克��破。当时，他带领xAI创始团队在Twitter Spaces的首场语音发布会上直言：未来一年，行业将从“芯片短缺”转向“变压器短缺”，随后两年可能出现电力短缺，决...",
+      "title": "英伟达与ABB联手研制AI工业机器人",
+      "link": "https://36kr.com/newsflashes/3717001635788420?f=rss",
+      "summary": "3月10日消息，英伟达和ABB机器人公司正联手开发新一代自主工业机器人。根据声明，双方正整合ABB的机器人训练软件与英伟达的Omniverse仿真平台，以开发能够在虚拟环境训练、并可在多个行业使用的机器人。两家公司表示，这些新型机器人正由鸿海测试，将在今年下半年实现商业化。（界面）",
       "source": "36氪",
-      "pub_date": "2026-03-08 15:59:30  +0800",
-      "fetched_at": "2026-03-08T20:00:06.096489",
+      "pub_date": "2026-03-10 18:55:32  +0800",
+      "fetched_at": "2026-03-10T20:00:07.284234",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "3月10日消息，英伟达和ABB机器人公司正联手开发新一代自主工业机器人。根据声明，双方正整合ABB的机器人训练软件与英伟达的Omniverse仿真平台，以开发能够在虚拟环境训练、并可在多个行业使用的机器人。两家公司表示，这些新型机器人正由鸿海测试，将在今年下半年实现商业化。（界面）",
+      "keywords": [
+        "abb",
+        "英伟达与",
+        "联手研制",
+        "ai",
+        "工业机器人"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "金融机构整体对OpenClaw等AI代理工具仍保持谨慎态度",
+      "link": "https://36kr.com/newsflashes/3717007296591239?f=rss",
+      "summary": "与个人用户的热情尝鲜相比，金融机构整体对OpenClaw等AI代理工具仍保持谨慎态度。多位受访人士指出，银行系统承载着大量客户信息和交易数据，对安全性要求极高。一旦AI代理获得过高权限或配置不当，可能带来数据泄露或系统风险。工商银行3月10日发布OpenClaw相关风险提示称，警惕代装陷阱、谨慎授权风险、防范投资诈骗。一方面，不随意开放通讯录、相册、文件夹等敏感权限，更不要在不明软件中输入身份证号、银行卡号、支付密码等信息；另一方面，对“AI代炒股”“稳赚不赔”“高收益低风险”等话术保持警惕，凡涉及转账、充值、投资，务必多核实、不轻信。（一财）",
+      "source": "36氪",
+      "pub_date": "2026-03-10 19:02:17  +0800",
+      "fetched_at": "2026-03-10T20:00:07.284153",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "与个人用户的热情尝鲜相比，金融机构整体对OpenClaw等AI代理工具仍保持谨慎态度。多位受访人士指出，银行系统承载着大量客户信息和交易数据，对安全性要求极高。一旦AI代理获得过高权限或配置不当，可能带来数据泄露或系统风险。工商银行3月10日发布OpenClaw相关风险提示称，警惕代装陷阱、谨慎授权...",
+      "keywords": [
+        "ai",
+        "openclaw",
+        "金融机构整体对",
+        "代理工具仍保持谨慎态度",
+        "与个人用户的热情尝鲜相比"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "花旗集团将2026年至2030年全球AI资本支出预测上调至8.9万亿美元",
+      "link": "https://36kr.com/newsflashes/3717016414729609?f=rss",
+      "summary": "据报道，花旗集团将2026年至2030年全球人工智能资本支出预测上调至8.9万亿美元，而此前的预测为8万亿美元。花旗集团将其同期全球人工智能收入预测上调至3.3万亿美元，而此前的预测为2.8万亿美元。（界面）",
+      "source": "36氪",
+      "pub_date": "2026-03-10 19:10:34  +0800",
+      "fetched_at": "2026-03-10T20:00:07.284078",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "据报道，花旗集团将2026年至2030年全球人工智能资本支出预测上调至8.9万亿美元，而此前的预测为8万亿美元。花旗集团将其同期全球人工智能收入预测上调至3.3万亿美元，而此前的预测为2.8万亿美元。（界面）",
+      "keywords": [
+        "万亿美元",
+        "花旗集团将",
+        "年至",
+        "而此前的预测为",
+        "年全球"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "“龙虾”智能体更新后依然存在安全风险，专家最新提示",
+      "link": "https://36kr.com/newsflashes/3717029962478983?f=rss",
+      "summary": "近期开源AI智能体OpenClaw（俗称“龙虾”）异常火爆，中国信息通信研究院专家今天再次提示，尽管“龙虾”智能体已经更新到最新版本，能修复已知的安全漏洞，但并不意味着完全消除安全风险。此前，工业和信息化部网络安全威胁和漏��信息共享平台已经发布过相关安全风险提示。专家建议，从以下几方面来安全使用“龙虾”智能体：第一，使用官方最新版本。第二，严格控制互联网暴露面。第三，坚持最小权限原则。第四，谨慎使用技能市场。第五，防范社会工程学攻击和浏览器劫持。第六，建立长效防护机制。 （央视新闻）",
+      "source": "36氪",
+      "pub_date": "2026-03-10 19:18:24  +0800",
+      "fetched_at": "2026-03-10T20:00:07.283833",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "近期开源AI智能体OpenClaw（俗称“龙虾”）异常火爆，中国信息通信研究院专家今天再次提示，尽管“龙虾”智能体已经更新到最新版本，能修复已知的安全漏洞，但并不意味着完全消除安全风险。此前，工业和信息化部网络安全威胁和漏��信息共享平台已经发布过相关安全风险提示。专家建议，从以下几方面来安全使用“...",
+      "keywords": [
+        "龙虾",
+        "智能体",
+        "智能体更新后依然存在安全风险",
+        "专家最新提示",
+        "近期开源"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "多个重点项目在珠海集中签约 总投资超100亿元",
+      "link": "https://36kr.com/newsflashes/3717028745426306?f=rss",
+      "summary": "36氪获悉，据珠海发布消息，近日，一批批重点项目在珠海集中签约，计划总投资超100亿元，涉及经纬力合必达AI-SOD合成总部大厦、百诺集团总部及机器人关节电机生产基地、石景山旅游中心、凤凰山桐阳里等产业及文旅项目。",
+      "source": "36氪",
+      "pub_date": "2026-03-10 19:24:06  +0800",
+      "fetched_at": "2026-03-10T20:00:07.283746",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "36氪获悉，据珠海发布消息，近日，一批批重点项目在珠海集中签约，计划总投资超100亿元，涉及经纬力合必达AI-SOD合成总部大厦、百诺集团总部及机器人关节电机生产基地、石景山旅游中心、凤凰山桐阳里等产业及文旅项目。",
+      "keywords": [
+        "亿元",
+        "多个重点项目在珠海集中签约",
+        "总投资超",
+        "氪获悉",
+        "据珠海发布消息"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "提前披露中东美军动向，这家AI卫星情报公司完成新一轮融资｜硬氪首发",
+      "link": "https://36kr.com/p/3715205580058756?f=rss",
+      "summary": "本文约1300字，建议阅读3分钟 作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，地理空间情报分析公司觅熵科技（杭州）有限公司（MizarVision）（以下简称“觅熵科技”）近日宣布完成pre-A轮融资，本轮融资由现象资本独家投资，融资金额超千万元人民币，资金将主要用于业务拓展。 觅熵科技成立于2021年，总部位于杭州，是国内首家专注于将商业卫星遥感与AI深度融合，服务实时地理情报的创新企业。公司通过聚合全球多模态实时传感器信息，构建专属的AI情报大模型，对地理空间信息进行深度解读，改变了传统的情报信息的使用方式，让来自太空视角的数据可以更好服务各行业决策。 值得注意，在近期的中东地缘热点事件...",
+      "source": "36氪",
+      "pub_date": "2026-03-09 12:24:09  +0800",
+      "fetched_at": "2026-03-10T20:00:07.282821",
       "categories": [
         "ai",
         "space"
       ],
-      "ai_summary": "“AI火了，也把变压器带火了，我老家的变压器工厂机器都快干冒烟了。”春节刚过，一位浙江朋友向我讲述她的家乡见闻。不止浙江，江苏、广东等地多家变压器企业在年前就已处于满产状态，部分面向数据中心的订单甚至排至明后年。原本被视为传统电力设备的变压器，正意外成为AI浪潮下最紧俏的基础设施之一。...",
+      "ai_summary": "本文约1300字，建议阅读3分钟 作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，地理空间情报分析公司觅熵科技（杭州）有限公司（MizarVision）（以下简称“觅熵科技”）近日宣布完成pre-A轮融资，本轮融资由现象资本独家投资，融资金额超千万元人民币，资金将主要用于业务拓展。...",
       "keywords": [
         "ai",
-        "变压器工厂干冒烟了",
-        "算力之争愈演愈烈",
-        "电力保障便成为背后的",
-        "隐形底座"
+        "提前披露中东美军动向",
+        "这家",
+        "卫星情报公司完成新一轮融资",
+        "硬氪首发"
       ],
       "importance": 0.5
-    },
-    {
-      "title": "赛道牛股频出 , 下一个千亿龙头是它？",
-      "link": "https://36kr.com/p/3714009108001160?f=rss",
-      "summary": "作者 | 弗雷迪 数据支持 | 勾股 大数 ��（www.gogudata.com） AI在A股的造富神话还在延续。 从ChatGPT问世以来，铲子变得越发金贵，工业富联、中际旭创、胜宏科技、寒武纪...各个AI基建赛道的大牛股，市值扶摇直上。 当算力逻辑延伸至上游能源供应，电网设备作为市场近来少有最受资金欢迎的核心主线之一，同样迎来了爆发，近一年翻倍股不胜其数。 去年，我们聊过的思源电气就成功迈入了千亿大关。 不知不觉，另一只特高压龙头今年累计涨幅达到了112%。 离千亿市值，仅一步之遥了。 01电网投资大周期 当大模型迈向由数十亿用户主导的实时推理阶段，科技局头们都逐渐意识到一个关键现实：...",
-      "source": "36氪",
-      "pub_date": "2026-03-08 16:19:29  +0800",
-      "fetched_at": "2026-03-08T20:00:06.094287",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "当算力逻辑延伸至上游能源供应，电网设备作为市场近来少有最受资金欢迎的核心主线之一，同样迎来了爆发，近一年翻倍股不胜其数。 01电网投资大周期 当大模型迈向由数十亿用户主导的实时推理阶段，科技局头们都逐渐意识到一个关键现实：...",
-      "keywords": [
-        "ai",
-        "赛道牛股频出",
-        "下一个千亿龙头是它",
-        "作者",
-        "弗雷迪"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "AI时代 , 长视频平台在存亡边缘苦苦挣扎",
-      "link": "https://36kr.com/p/3714020694061185?f=rss",
-      "summary": "2025年，对于长视频平台而言，是十分糟糕的一年。准确的说，自从2020年以来的每一年，对于长视频平台而言都很糟糕，但是去年尤其糟糕： 爱奇艺全年的营业收入下滑了7%，扣非净利润下滑了近3/4；会员、广告和内容分发三大业务的全年收入均呈现下滑态势。 腾讯视频的付费会员数已经不再增长，并且落后于腾讯音乐；虽然腾讯视频实现了盈利，但跟爱奇艺一样，是降本增效换来的。 芒果TV，作为“真正的第三大长视频平台”（MAU高于优酷），前三季度收入均呈现下滑态势，全年扣非净利润预告将下滑33-47%。 搞笑的是，如果把B站算作“长视频平台”（注：B站迫不及待想甩掉这个标签），B站反而是2025年这个行业表现最...",
-      "source": "36氪",
-      "pub_date": "2026-03-08 16:43:17  +0800",
-      "fetched_at": "2026-03-08T20:00:06.088329",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "腾讯视频的付费会员数已经不再增长，并且落后于腾讯音乐；虽然腾讯视频实现了盈利，但跟爱奇艺一样，是降本增效换来的。 搞笑的是，如果把B站算作“长视频平台”（注：B站迫不及待想甩掉这个标签），B站反而是2025年这个行业表现最...",
-      "keywords": [
-        "ai",
-        "时代",
-        "长视频平台在存亡边缘苦苦挣扎",
-        "对于长视频平台而言",
-        "是十分糟糕的一年"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "00后小孩哥10天AI编程，陈天桥24小时砸3000万！靠大四作业当上CEO",
-      "link": "https://36kr.com/p/3713983582662788?f=rss",
-      "summary": "编辑：Aeneas KingHZ 一觉醒来，国产开源AI项目MiroFish登顶GitHub趋势榜榜首！ 国产开源AI项目MiroFish登顶GitHub趋势榜榜首 让人没想到的是，超越OpenAI、谷歌、微软等机构的开源项目的MiroFish，背后是一个国内大四学生，仅仅3个月的时间，就拿下3000万投资。 靠一个AI开源项目，他直接把自己的毕设变成了创业公司，还成为公司CEO？ 这不是什么神话，是这个AI时代真实发生在国内的故事。 更神奇的是，此前他的BettaFish项目，也曾登上GitHub全球趋势榜第一。 这两个项目不仅都曾登顶榜首，而且都是靠这位00后小孩哥，在10天内vibe c...",
-      "source": "36氪",
-      "pub_date": "2026-03-08 17:17:32  +0800",
-      "fetched_at": "2026-03-08T20:00:06.086482",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "编辑：Aeneas KingHZ 一觉醒来，国产开源AI项目MiroFish登顶GitHub趋势榜榜首！ 国产开源AI项目MiroFish登顶GitHub趋势榜榜首...",
-      "keywords": [
-        "ai",
-        "项目",
-        "mirofish",
-        "github",
-        "后小孩哥"
-      ],
-      "importance": 1.5
-    },
-    {
-      "title": "清华公布毕业生去向 : 出国比例仅8.5%，华为字节是最大赢家",
-      "link": "https://36kr.com/p/3713882515403142?f=rss",
-      "summary": "听雨 发自 凹非寺量子位 | 公众号 QbitAI 清华毕业的人都去了哪呢？ 清华官方用最新数据给出了回应。 里面最值得关注的主要有几项数据： 第一，出国（境）深造比例为8.5%，低于近十年平均数据。 其中，本科生出国（境）深造比例为17.3%，硕士生出国（境）深造比例为6.6%。而近十年清华毕业生平均出国（境）深造比例为10%。 数据结论针对的质疑，不言自明。 第二，国内重要领域重点单位就业率超过86%，连续16年保持在80%以上。 本届签约人数名列前茅的大厂有：华为、比亚迪、字节跳动、腾讯、国家电网、美团、阿里、中国核工业集团、中国兵器工业集团等等。 不得不说，还得是清华，足迹几乎遍布国内...",
-      "source": "36氪",
-      "pub_date": "2026-03-08 17:43:44  +0800",
-      "fetched_at": "2026-03-08T20:00:06.077659",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "其中，本科生出国（境）深造比例为17.3%，硕士生出国（境）深造比例为6.6%。而近十年清华毕业生平均出国（境）深造比例为10%。 本届签约人数名列前茅的大厂有：华为、比亚迪、字节跳动、腾讯、国家电网、美团、阿里、中国核工业集团、中国兵器工业集团等等。",
-      "keywords": [
-        "深造比例为",
-        "清华公布毕业生去向",
-        "出国比例仅",
-        "华为字节是最大赢家",
-        "听雨"
-      ],
-      "importance": 0
     }
   ],
-  "updated_at": "2026-03-08T20:00:37.179008"
+  "updated_at": "2026-03-10T20:00:52.476517"
 }

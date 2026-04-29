@@ -5,15 +5,15 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-04-28T20:00:48.620656",
-    "total_items": 23
+    "last_update": "2026-04-29T08:00:27.985070",
+    "total_items": 31
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 22
+      "count": 30
     },
     "robotics": {
       "name": "Robotics",
@@ -29,24 +29,44 @@
     }
   },
   "stats": {
-    "total_items": 23,
-    "today_items": 23,
+    "total_items": 31,
+    "today_items": 31,
     "sources": {
-      "36氪": 9,
-      "HackerNews": 5,
-      "Solidot": 7,
-      "量子位": 2
+      "36氪": 15,
+      "Solidot": 8,
+      "量子位": 2,
+      "HackerNews": 6
     },
-    "last_update": "2026-04-28T20:00:48.620656"
+    "last_update": "2026-04-29T08:00:27.985070"
   },
   "trending": [
+    {
+      "title": "CoreWeave：OpenAI是“极佳的合作伙伴”，但并非唯一",
+      "link": "https://36kr.com/newsflashes/3786651357993985?f=rss",
+      "summary": "4月28日，CoreWeave声明称，OpenAI确实是“极佳的合作伙伴”，但并非公司唯一的合作伙伴。CoreWeave的业务由一系列客户共同支撑，其中包括Meta、Anthropic、微软、谷歌、IBM、Perplexity AI、Jane Street以及众多其他企业。（界面）",
+      "source": "36氪",
+      "pub_date": "2026-04-29 07:33:49  +0800",
+      "fetched_at": "2026-04-29T08:00:06.613255",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "4月28日，CoreWeave声明称，OpenAI确实是“极佳的合作伙伴”，但并非公司唯一的合作伙伴。CoreWeave的业务由一系列客户共同支撑，其中包括Meta、Anthropic、微软、谷歌、IBM、Perplexity AI、Jane Street以及众多其他企业。（界面）",
+      "keywords": [
+        "coreweave",
+        "openai",
+        "极佳的合作伙伴",
+        "但并非唯一",
+        "声明称"
+      ],
+      "importance": 2.5
+    },
     {
       "title": "36氪首发 | 韩国现代、微光创投押注焊接机器人，营收预计破数亿，拿下船厂数千万订单",
       "link": "https://36kr.com/p/3785955616152839?f=rss",
       "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，专注于焊接垂直场景的具身智能机器人公司——昇视唯盛已完成数千万元A+轮融资。本轮融资由韩国现代、微光创投联合投资，资金将主要用于“具身大脑”的研发、软硬件产品的迭代以及市场推广。 昇视唯盛成立于2020年，核心团队由来自哈尔滨工业大学、上海交通大学等高校的机器人领域专家，以及拥有多年工业自动化从业经验的资深人员组成。创始人王德钊及核心团队在机器人及自动化领域拥有十余年产业经验，对焊接场景的工艺需求及行业痛点有深刻理解。 昇视唯盛的核心技术优势在于其“AI算法+焊接工艺+机器人本体”三合一的自主核心能力。公司于2022年收购哈工现代机器人有限公司，控股子公司哈...",
       "source": "36氪",
       "pub_date": "2026-04-28 11:53:31  +0800",
-      "fetched_at": "2026-04-28T20:00:05.424516",
+      "fetched_at": "2026-04-29T08:00:06.593000",
       "categories": [
         "ai",
         "robotics"
@@ -67,7 +87,7 @@
       "summary": "TOP3大新闻 DeepSeek 输入缓存降价 多家美国廉价航空公司寻求政府资金纾困 东方甄选回应大量用户申请退会员 穿西装开空调太费电，日本东京鼓励公务员穿短裤 印度移动支付平台MobiKwik获央行批准 TOP3大事件 国家发展改革委：依法依规对外资收购Manus项目作出禁止投资决定 据国家发展改革委网站4月27日消息，外商投资安全审查工作机制办公室（国家发展改革委）依法依规对外资收购Manus项目作出禁止投资决定，要求当事人撤销该收购交易。 2025年12月30日，全球首款通用人工智能体Manus发布公告称，Manus即将加入美国科技巨头Meta。Manus将继续通过app和网站为用户提...",
       "source": "36氪",
       "pub_date": "2026-04-28 08:04:02  +0800",
-      "fetched_at": "2026-04-28T20:00:05.431303",
+      "fetched_at": "2026-04-29T08:00:06.598663",
       "categories": [
         "ai"
       ],
@@ -87,7 +107,7 @@
       "summary": "大公司： 谷歌将在韩国新建人工智能园区，韩国总统府证实 韩国总统政策顾问金龙范于周一表示，韩国政府与谷歌达成协议，将在首尔共建一座人工智能园区，深化谷歌与韩国本土技术人才、初创企业的合作。金龙范介绍，韩国总统李在明当日在首尔会见了谷歌深度思维（DeepMind）首席执行官德米斯・哈萨比斯。韩国科学技术部与谷歌就此人工智能园区项目签署了合作谅解备忘录。 法国汽车零部件供应商Forvia 21亿美元出售汽车内饰业务 法国汽车零部件供应商Forvia达成协议，将旗下汽车内饰业务出售给阿波罗全球管理，含债务在内，该业务板块估值约21亿美元。该内饰业务依托覆盖欧洲、北美、亚洲的全球生产与研发基地网络，为...",
       "source": "36氪",
       "pub_date": "2026-04-27 19:25:19  +0800",
-      "fetched_at": "2026-04-28T20:00:05.438741",
+      "fetched_at": "2026-04-29T08:00:06.606063",
       "categories": [
         "ai"
       ],
@@ -107,7 +127,7 @@
       "summary": "大公司： 拒买新闻就交税，澳洲拟向科技巨头征约2%营收税 澳大利亚政府公布法案草案，拟对Meta、谷歌等科技巨头征收新税，除非这些平台自愿与当地新闻机构签署付费协议，以应对传统媒体在数码平台冲击下面临的生存压力。据报道，根据拟议的新法律安排，这些大型数码平台须就分享本地媒体新闻内容所带来的平台流量，向出版商提供经济补偿。澳洲总理阿尔巴尼斯表明，政府将给予Meta、谷歌等公司机会，与本地新闻出版商达成内容交易。 网信部门依法查处“剪映”App等生成合成内容标识违法问题网站平台 36氪获悉，据网信中国，近期网信部门工作中发现，“剪映”“猫箱”App及“即梦AI”网站存在未有效落实人工智能生成合成内...",
       "source": "36氪",
       "pub_date": "2026-04-28 18:09:31  +0800",
-      "fetched_at": "2026-04-28T20:00:05.413754",
+      "fetched_at": "2026-04-29T08:00:06.582295",
       "categories": [
         "ai",
         "space"
@@ -128,7 +148,7 @@
       "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，寻明生科（Aureka Biotechnologies）近期已完成3500万美元A+轮融资。本轮融资由红杉中国领投，经纬创投、博远资本跟投，老股东五源资本、启明创投、纽尔利资本等持续加注。 去年底，寻明生科就曾获得一笔数千万美元的A轮融资。截至目前，公司A轮次融资的累计金额已接近1亿美元。 寻明生科方面表示，本轮募集资金将用于推动自研创新功能抗体设计平台AuraIDE™建设，加大基座模型与智能体能力建设、完善高通量高内涵实验平台设施，进一步打通智能体从立项、分子设计到转化落地的关键环节。 2023年成立至今的3年间，寻明生科已完成从搭建生成式抗体药物研发平...",
       "source": "36氪",
       "pub_date": "2026-04-28 08:00:00  +0800",
-      "fetched_at": "2026-04-28T20:00:05.433702",
+      "fetched_at": "2026-04-29T08:00:06.600918",
       "categories": [
         "ai"
       ],
@@ -143,42 +163,62 @@
       "importance": 1.0
     },
     {
-      "title": "昆仑万维：第一季度营收同比增长45.69%，短剧业务单月流水超4800万美元",
-      "link": "https://36kr.com/newsflashes/3786398647377157?f=rss",
-      "summary": "4月28日，昆仑万维发布2026年第一季度报告。报告期内，公司营收25.7亿元，同比增长45.69%，其中海外业务收入24.87亿元，同比增长49.29%。伴随AI技术商业化落地加速推进，天工AI业务收入较2025年第四季度延续高速增长态势。公司经营活动产生的现金流量净额同比显著改善，内生造血能力明显增强。公司短剧和AI短剧平台业务单月流水超4800万美元，年度经常性收入（ARR）突破5.7亿美元。",
+      "title": "OpenAI预计用户将大幅转向更便宜的ChatGPT套餐",
+      "link": "https://36kr.com/newsflashes/3787131818368000?f=rss",
+      "summary": "当地时间4月28日，据报道，OpenAI预计，其更便宜、含广告的套餐不仅将吸引新用户，也会促使数千万付费订阅用户降级。OpenAI预计，今年其消费者订阅用户将增长一倍以上，达到1.22亿，并在2030年增至3.06亿。其中，旗舰月费套餐ChatGPT Plus的订阅用户数量预计今年将下降80%，至约900万；最昂贵的Pro套餐用户数量预计将翻倍，但占比仍不到总用户的1%。（界面）",
       "source": "36氪",
-      "pub_date": "2026-04-28 19:23:53  +0800",
-      "fetched_at": "2026-04-28T20:00:05.443476",
+      "pub_date": "2026-04-29 07:59:39  +0800",
+      "fetched_at": "2026-04-29T08:00:06.611082",
       "categories": [
         "ai"
       ],
-      "ai_summary": "4月28日，昆仑万维发布2026年第一季度报告。报告期内，公司营收25.7亿元，同比增长45.69%，其中海外业务收入24.87亿元，同比增长49.29%。伴随AI技术商业化落地加速推进，天工AI业务收入较2025年第四季度延续高速增长态势。公司经营活动产生的现金流量净额同比显著改善，内生造血能力明...",
+      "ai_summary": "当地时间4月28日，据报道，OpenAI预计，其更便宜、含广告的套餐不仅将吸引新用户，也会促使数千万付费订阅用户降级。OpenAI预计，今年其消费者订阅用户将增长一倍以上，达到1.22亿，并在2030年增至3.06亿。其中，旗舰月费套餐ChatGPT Plus的订阅用户数量预计今年将下降80%，至约...",
       "keywords": [
-        "ai",
-        "万美元",
-        "亿元",
-        "同比增长",
-        "昆仑万维"
+        "openai",
+        "chatgpt",
+        "预计",
+        "预计用户将大幅转向更便宜的",
+        "套餐"
       ],
       "importance": 1.0
     },
     {
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "summary": "👍 899 | 💬 767",
-      "source": "HackerNews",
-      "pub_date": "2026-04-27T21:22:42",
-      "fetched_at": "2026-04-28T20:00:15.392293",
+      "title": "AI世纪对决开庭，马斯克在OpenAI审判中出庭作证",
+      "link": "https://36kr.com/newsflashes/3787129658891273?f=rss",
+      "summary": "本周二，埃隆・马斯克出庭作证表示，他起诉 OpenAI 及其高管的诉讼，早已超越单一企业纠纷，直指人工智能这项足以毁灭全人类的技术未来。马斯克指控，OpenAI首席执行官山姆・奥尔特曼、总裁格雷格・布罗克曼联手欺骗自己，背弃了OpenAI最初的非营利使命。目前，马斯克向美国加州北区联邦地区法院提起诉讼，要求OpenAI赔偿1300亿美元损失，强制公司恢复非营利架构，并罢免奥尔特曼与布罗克曼的董事职务。（新浪财经）",
+      "source": "36氪",
+      "pub_date": "2026-04-29 07:47:30  +0800",
+      "fetched_at": "2026-04-29T08:00:06.612123",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 899 | 💬 767",
+      "ai_summary": "本周二，埃隆・马斯克出庭作证表示，他起诉 OpenAI 及其高管的诉讼，早已超越单一企业纠纷，直指人工智能这项足以毁灭全人类的技术未来。马斯克指控，OpenAI首席执行官山姆・奥尔特曼、总裁格雷格・布罗克曼联手欺骗自己，背弃了OpenAI最初的非营利使命。目前，马斯克向美国加州北区联邦地区法院提起诉...",
       "keywords": [
-        "and",
-        "microsoft",
         "openai",
-        "end",
-        "their"
+        "ai",
+        "世纪对决开庭",
+        "马斯克在",
+        "审判中出庭作证"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "英伟达斥资1.3亿美元在班加罗尔签订10年租约，扩大印度业务版图",
+      "link": "https://36kr.com/newsflashes/3786650760240393?f=rss",
+      "summary": "英伟达正通过一笔巨额写字楼租赁交易在印度扎根，凸显其在全球AI发展领域的大力推进。这家芯片巨头的印度子公司已签署协议，在班加罗尔Mahadevpura地区租下约76万平方英尺的办公空间，租期10年，交易价值超过1.3亿美元。该租约于2026年4月1日生效，涵盖Bagmane Capital旗下Memphis South Tower的12个楼层。英伟达还支付了超过360万美元的押金。（新浪财经）",
+      "source": "36氪",
+      "pub_date": "2026-04-29 07:22:11  +0800",
+      "fetched_at": "2026-04-29T08:00:06.613706",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "英伟达正通过一笔巨额写字楼租赁交易在印度扎根，凸显其在全球AI发展领域的大力推进。这家芯片巨头的印度子公司已签署协议，在班加罗尔Mahadevpura地区租下约76万平方英尺的办公空间，租期10年，交易价值超过1.3亿美元。该租约于2026年4月1日生效，涵盖Bagmane Capital旗下Mem...",
+      "keywords": [
+        "英伟达斥资",
+        "亿美元在班加罗尔签订",
+        "年租约",
+        "扩大印度业务版图",
+        "英伟达正通过一笔巨额写字楼租赁交易在印度扎根"
       ],
       "importance": 1.0
     },
@@ -188,7 +228,7 @@
       "summary": "超任游戏机 SNES 的开源模拟器项目 ZSNES 在 2007 年 1 月 24 日发布 1.51 版本后停止了开发。时隔 19 年之后原作者 zsKnight 和 _Demo_ 推出了 ZSNES 的继任者 Super ZSNES。Super ZSNES 与 ZSNES 并无继承关系，新项目摒弃了旧代码，不借助 AI 辅助编程完全重写，相比原版本拥有更精确的 CPU 和音频核心，大量使用基于 GPU 的渲染，而非像原版那样依赖基于 CPU 的模拟。Super ZSNES 的 Super Enhancement Engine 目前支持 7 款热门游戏，未来会支持更多游戏，新增强为旧 SNES...",
       "source": "Solidot",
       "pub_date": "Tue, 28 Apr 2026 15:54:18 +0800",
-      "fetched_at": "2026-04-28T20:00:04.969667",
+      "fetched_at": "2026-04-29T08:00:04.390433",
       "categories": [
         "ai"
       ],
@@ -201,140 +241,80 @@
         "原作者推出"
       ],
       "importance": 0.5
-    },
-    {
-      "title": "GitHub Copilot 切换到基于使用量的计费方式",
-      "link": "https://www.solidot.org/story?sid=84168",
-      "summary": "微软旗下的代码托管平台 GitHub 通过其官方博客宣布 AI 辅助编程工具 GitHub Copilot 将从 6 月 1 日起切换到基于使用量的计费方式。GitHub 称 Copilot 每个套餐都含有定额 GitHub AI 积分，以前如果使用额度耗尽将切换到基于 Premium Requests 的计费方式，以后将切换到基于使用量的计费方式。Copilot 基础套餐价格不变，Pro 仍为每月 10 美元，Pro+ 仍为每月 39 美元，Business 仍为每用户每月 19 美元，Enterprise 仍为每用户每月 39 美元。代码补全和下次编辑建议功能不消耗 AI 积分。",
-      "source": "Solidot",
-      "pub_date": "Tue, 28 Apr 2026 15:12:55 +0800",
-      "fetched_at": "2026-04-28T20:00:04.969841",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "微软旗下的代码托管平台 GitHub 通过其官方博客宣布 AI 辅助编程工具 GitHub Copilot 将从 6 月 1 日起切换到基于使用量的计费方式。GitHub 称 Copilot 每个套餐都含有定额 GitHub AI 积分，以前如果使用额度耗尽将切换到基于 Premium Reques...",
-      "keywords": [
-        "github",
-        "copilot",
-        "美元",
-        "ai",
-        "积分"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "研究发现三分之一新网站是 AI 生成或使用 AI 辅助",
-      "link": "https://www.solidot.org/story?sid=84167",
-      "summary": "斯坦福、伦敦帝国理工和互联网档案馆的研究人员发表论文《The Impact of AI-Generated Text on the Internet》，他们利用互联网档案馆的数据发现在 ChatGPT 发布三年之后，35% 的新网站是 AI 生成或使用 AI 辅助，而 ChatGPT 之前的比例是零。论文合作者、斯坦福 AI 研究员 Jonas Dolezal 说，人类用了几十年时间塑造互联网，但它的很大一部分仅仅三年就被 AI 重新定义，我们正见证数字化景观在短时间内的一次重大转变。",
-      "source": "Solidot",
-      "pub_date": "Tue, 28 Apr 2026 14:41:03 +0800",
-      "fetched_at": "2026-04-28T20:00:04.969992",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "斯坦福、伦敦帝国理工和互联网档案馆的研究人员发表论文《The Impact of AI-Generated Text on the Internet》，他们利用互联网档案馆的数据发现在 ChatGPT 发布三年之后，35% 的新网站是 AI 生成或使用 AI 辅助，而 ChatGPT 之前的比例是零...",
-      "keywords": [
-        "ai",
-        "生成或使用",
-        "辅助",
-        "斯坦福",
-        "the"
-      ],
-      "importance": 0.5
     }
   ],
   "latest": [
     {
-      "title": "The predictable failure of the QDay Prize",
-      "link": "https://algassert.com/post/2601",
-      "summary": "👍 3 | 💬 0",
+      "title": "VibeVoice: Open-source frontier voice AI",
+      "link": "https://github.com/microsoft/VibeVoice",
+      "summary": "👍 311 | 💬 166",
       "source": "HackerNews",
-      "pub_date": "2026-04-27T00:45:40",
-      "fetched_at": "2026-04-28T20:00:48.591286",
+      "pub_date": "2026-04-28T19:56:04",
+      "fetched_at": "2026-04-29T08:00:26.986600",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 3 | 💬 0",
+      "ai_summary": "👍 311 | 💬 166",
       "keywords": [
-        "the",
-        "predictable",
-        "failure",
-        "of",
-        "qday"
+        "vibevoice",
+        "open",
+        "source",
+        "frontier",
+        "voice"
       ],
       "importance": 0
     },
     {
-      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "link": "https://app.oravys.com/blog/mercor-breach-2026",
-      "summary": "👍 552 | 💬 209",
+      "title": "Parry Parries Again: Reanimating the Famous Paranoid Chatbot (In a Day)",
+      "link": "https://sites.google.com/view/elizagen-org/blog/parry-parries-again",
+      "summary": "👍 7 | 💬 1",
       "source": "HackerNews",
-      "pub_date": "2026-04-27T17:57:10",
-      "fetched_at": "2026-04-28T20:00:35.012157",
+      "pub_date": "2026-04-27T10:32:32",
+      "fetched_at": "2026-04-29T08:00:25.961308",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 552 | 💬 209",
+      "ai_summary": "👍 7 | 💬 1",
       "keywords": [
-        "tb",
-        "of",
-        "voice",
-        "samples",
-        "just"
+        "parry",
+        "parries",
+        "again",
+        "reanimating",
+        "the"
       ],
       "importance": 0
     },
     {
-      "title": "The Social Edge of Intelligence: Individual Gain, Collective Loss",
-      "link": "https://www.theideasletter.org/essay/the-social-edge-of-intelligence/",
-      "summary": "👍 37 | 💬 42",
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "link": "https://github.com/localsend/localsend",
+      "summary": "👍 724 | 💬 227",
       "source": "HackerNews",
-      "pub_date": "2026-04-28T18:08:38",
-      "fetched_at": "2026-04-28T20:00:25.189855",
+      "pub_date": "2026-04-28T19:54:20",
+      "fetched_at": "2026-04-29T08:00:24.877480",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 37 | 💬 42",
+      "ai_summary": "👍 724 | 💬 227",
       "keywords": [
-        "the",
-        "social",
-        "edge",
-        "of",
-        "intelligence"
+        "localsend",
+        "an",
+        "open",
+        "source",
+        "cross"
       ],
       "importance": 0
-    },
-    {
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "summary": "👍 899 | 💬 767",
-      "source": "HackerNews",
-      "pub_date": "2026-04-27T21:22:42",
-      "fetched_at": "2026-04-28T20:00:15.392293",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 899 | 💬 767",
-      "keywords": [
-        "and",
-        "microsoft",
-        "openai",
-        "end",
-        "their"
-      ],
-      "importance": 1.0
     },
     {
       "title": "Who owns the code Claude Code wrote?",
       "link": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
-      "summary": "👍 31 | 💬 22",
+      "summary": "👍 231 | 💬 275",
       "source": "HackerNews",
       "pub_date": "2026-04-28T19:24:52",
-      "fetched_at": "2026-04-28T20:00:13.663475",
+      "fetched_at": "2026-04-29T08:00:20.380662",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 31 | 💬 22",
+      "ai_summary": "👍 231 | 💬 275",
       "keywords": [
         "code",
         "who",
@@ -345,12 +325,52 @@
       "importance": 0
     },
     {
+      "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
+      "link": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
+      "summary": "👍 44 | 💬 0",
+      "source": "HackerNews",
+      "pub_date": "2026-04-27T21:54:47",
+      "fetched_at": "2026-04-29T08:00:15.537135",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 44 | 💬 0",
+      "keywords": [
+        "behavioral",
+        "timescale",
+        "synaptic",
+        "plasticity",
+        "rewires"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+      "link": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+      "summary": "👍 159 | 💬 58",
+      "source": "HackerNews",
+      "pub_date": "2026-04-29T03:24:43",
+      "fetched_at": "2026-04-29T08:00:12.586729",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 159 | 💬 58",
+      "keywords": [
+        "openai",
+        "models",
+        "coming",
+        "to",
+        "amazon"
+      ],
+      "importance": 0.5
+    },
+    {
       "title": "AI真能搞钱了！这家公司把大模型玩成闭环赚钱机器",
       "link": "https://www.qbitai.com/2026/04/410294.html",
       "summary": "跑通AI盈利正循环，还教你躺着用Agent赚钱。",
       "source": "量子位",
       "pub_date": "Tue, 28 Apr 2026 07:21:21 +0000",
-      "fetched_at": "2026-04-28T20:00:05.582689",
+      "fetched_at": "2026-04-29T08:00:06.730357",
       "categories": [
         "ai"
       ],
@@ -370,7 +390,7 @@
       "summary": "助力更多企业与个人低门槛迈入AI时代",
       "source": "量子位",
       "pub_date": "Tue, 28 Apr 2026 10:29:28 +0000",
-      "fetched_at": "2026-04-28T20:00:05.582439",
+      "fetched_at": "2026-04-29T08:00:06.730126",
       "categories": [
         "ai"
       ],
@@ -385,22 +405,142 @@
       "importance": 0.5
     },
     {
-      "title": "昆仑万维：第一季度营收同比增长45.69%，短剧业务单月流水超4800万美元",
-      "link": "https://36kr.com/newsflashes/3786398647377157?f=rss",
-      "summary": "4月28日，昆仑万维发布2026年第一季度报告。报告期内，公司营收25.7亿元，同比增长45.69%，其中海外业务收入24.87亿元，同比增长49.29%。伴随AI技术商业化落地加速推进，天工AI业务收入较2025年第四季度延续高速增长态势。公司经营活动产生的现金流量净额同比显著改善，内生造血能力明显增强。公司短剧和AI短剧平台业务单月流水超4800万美元，年度经常性收入（ARR）突破5.7亿美元。",
+      "title": "OpenAI：企业和广告业务正在增长",
+      "link": "https://36kr.com/newsflashes/3786658519292934?f=rss",
+      "summary": "OpenAI表示，企业和广告业务正在增长。此前，有报道称OpenAI近期未能实现销售和新增用户目标。（财联社）",
       "source": "36氪",
-      "pub_date": "2026-04-28 19:23:53  +0800",
-      "fetched_at": "2026-04-28T20:00:05.443476",
+      "pub_date": "2026-04-29 07:19:05  +0800",
+      "fetched_at": "2026-04-29T08:00:06.613783",
       "categories": [
         "ai"
       ],
-      "ai_summary": "4月28日，昆仑万维发布2026年第一季度报告。报告期内，公司营收25.7亿元，同比增长45.69%，其中海外业务收入24.87亿元，同比增长49.29%。伴随AI技术商业化落地加速推进，天工AI业务收入较2025年第四季度延续高速增长态势。公司经营活动产生的现金流量净额同比显著改善，内生造血能力明...",
+      "ai_summary": "OpenAI表示，企业和广告业务正在增长。此前，有报道称OpenAI近期未能实现销售和新增用户目标。（财联社）",
       "keywords": [
+        "openai",
+        "企业和广告业务正在增长",
+        "表示",
+        "此前",
+        "有报道称"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "英伟达斥资1.3亿美元在班加罗尔签订10年租约，扩大印度业务版图",
+      "link": "https://36kr.com/newsflashes/3786650760240393?f=rss",
+      "summary": "英伟达正通过一笔巨额写字楼租赁交易在印度扎根，凸显其在全球AI发展领域的大力推进。这家芯片巨头的印度子公司已签署协议，在班加罗尔Mahadevpura地区租下约76万平方英尺的办公空间，租期10年，交易价值超过1.3亿美元。该租约于2026年4月1日生效，涵盖Bagmane Capital旗下Memphis South Tower的12个楼层。英伟达还支付了超过360万美元的押金。（新浪财经）",
+      "source": "36氪",
+      "pub_date": "2026-04-29 07:22:11  +0800",
+      "fetched_at": "2026-04-29T08:00:06.613706",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "英伟达正通过一笔巨额写字楼租赁交易在印度扎根，凸显其在全球AI发展领域的大力推进。这家芯片巨头的印度子公司已签署协议，在班加罗尔Mahadevpura地区租下约76万平方英尺的办公空间，租期10年，交易价值超过1.3亿美元。该租约于2026年4月1日生效，涵盖Bagmane Capital旗下Mem...",
+      "keywords": [
+        "英伟达斥资",
+        "亿美元在班加罗尔签订",
+        "年租约",
+        "扩大印度业务版图",
+        "英伟达正通过一笔巨额写字楼租赁交易在印度扎根"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "CoreWeave：OpenAI是“极佳的合作伙伴”，但并非唯一",
+      "link": "https://36kr.com/newsflashes/3786651357993985?f=rss",
+      "summary": "4月28日，CoreWeave声明称，OpenAI确实是“极佳的合作伙伴”，但并非公司唯一的合作伙伴。CoreWeave的业务由一系列客户共同支撑，其中包括Meta、Anthropic、微软、谷歌、IBM、Perplexity AI、Jane Street以及众多其他企业。（界面）",
+      "source": "36氪",
+      "pub_date": "2026-04-29 07:33:49  +0800",
+      "fetched_at": "2026-04-29T08:00:06.613255",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "4月28日，CoreWeave声明称，OpenAI确实是“极佳的合作伙伴”，但并非公司唯一的合作伙伴。CoreWeave的业务由一系列客户共同支撑，其中包括Meta、Anthropic、微软、谷歌、IBM、Perplexity AI、Jane Street以及众多其他企业。（界面）",
+      "keywords": [
+        "coreweave",
+        "openai",
+        "极佳的合作伙伴",
+        "但并非唯一",
+        "声明称"
+      ],
+      "importance": 2.5
+    },
+    {
+      "title": "英伟达推出Nemotron 3 Nano Omni模型",
+      "link": "https://36kr.com/newsflashes/3787104415718400?f=rss",
+      "summary": "当地时间4月28日，英伟达在公司博客宣布，推出名为Nemotron 3 Nano Omni的开源全模态推理模型，旨在为企业级AI Agent提供一体化基础模型底座。英伟达介绍，这款模型融合了视觉、音频与语言能力，将帮助AI智能体实现高达9倍的效率提升。（界面）",
+      "source": "36氪",
+      "pub_date": "2026-04-29 07:43:44  +0800",
+      "fetched_at": "2026-04-29T08:00:06.612473",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "当地时间4月28日，英伟达在公司博客宣布，推出名为Nemotron 3 Nano Omni的开源全模态推理模型，旨在为企业级AI Agent提供一体化基础模型底座。英伟达介绍，这款模型融合了视觉、音频与语言能力，将帮助AI智能体实现高达9倍的效率提升。（界面）",
+      "keywords": [
+        "nemotron",
+        "nano",
+        "omni",
         "ai",
-        "万美元",
-        "亿元",
-        "同比增长",
-        "昆仑万维"
+        "英伟达推出"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "AI世纪对决开庭，马斯克在OpenAI审判中出庭作证",
+      "link": "https://36kr.com/newsflashes/3787129658891273?f=rss",
+      "summary": "本周二，埃隆・马斯克出庭作证表示，他起诉 OpenAI 及其高管的诉讼，早已超越单一企业纠纷，直指人工智能这项足以毁灭全人类的技术未来。马斯克指控，OpenAI首席执行官山姆・奥尔特曼、总裁格雷格・布罗克曼联手欺骗自己，背弃了OpenAI最初的非营利使命。目前，马斯克向美国加州北区联邦地区法院提起诉讼，要求OpenAI赔偿1300亿美元损失，强制公司恢复非营利架构，并罢免奥尔特曼与布罗克曼的董事职务。（新浪财经）",
+      "source": "36氪",
+      "pub_date": "2026-04-29 07:47:30  +0800",
+      "fetched_at": "2026-04-29T08:00:06.612123",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "本周二，埃隆・马斯克出庭作证表示，他起诉 OpenAI 及其高管的诉讼，早已超越单一企业纠纷，直指人工智能这项足以毁灭全人类的技术未来。马斯克指控，OpenAI首席执行官山姆・奥尔特曼、总裁格雷格・布罗克曼联手欺骗自己，背弃了OpenAI最初的非营利使命。目前，马斯克向美国加州北区联邦地区法院提起诉...",
+      "keywords": [
+        "openai",
+        "ai",
+        "世纪对决开庭",
+        "马斯克在",
+        "审判中出庭作证"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "韩国资金涌入，港股硬科技资产受青睐",
+      "link": "https://36kr.com/newsflashes/3787120593460233?f=rss",
+      "summary": "韩国证券存管机构（KSD）最新数据显示，4月以来韩国投资者持续买入港股，半导体、AI算力硬件、新能源等中国硬科技资产受到资金青睐。在外资涌入下，恒生AH股溢价指数已降至近8年低位，部分两地上市的硬科技龙头甚至H股较A股价格更高。机构人士认为，外资是推动AH股溢价率变化的核心力量。展望未来两个月，恒生科技指数有望迎来上行契机，半导体和硬件设备等硬科技领域有望持续受到资金青睐。（中证网）",
+      "source": "36氪",
+      "pub_date": "2026-04-29 07:51:10  +0800",
+      "fetched_at": "2026-04-29T08:00:06.611644",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "韩国证券存管机构（KSD）最新数据显示，4月以来韩国投资者持续买入港股，半导体、AI算力硬件、新能源等中国硬科技资产受到资金青睐。在外资涌入下，恒生AH股溢价指数已降至近8年低位，部分两地上市的硬科技龙头甚至H股较A股价格更高。机构人士认为，外资是推动AH股溢价率变化的核心力量。展望未来两个月，恒生...",
+      "keywords": [
+        "ah",
+        "韩国资金涌入",
+        "港股硬科技资产受青睐",
+        "韩国证券存管机构",
+        "ksd"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "OpenAI预计用户将大幅转向更便宜的ChatGPT套餐",
+      "link": "https://36kr.com/newsflashes/3787131818368000?f=rss",
+      "summary": "当地时间4月28日，据报道，OpenAI预计，其更便宜、含广告的套餐不仅将吸引新用户，也会促使数千万付费订阅用户降级。OpenAI预计，今年其消费者订阅用户将增长一倍以上，达到1.22亿，并在2030年增至3.06亿。其中，旗舰月费套餐ChatGPT Plus的订阅用户数量预计今年将下降80%，至约900万；最昂贵的Pro套餐用户数量预计将翻倍，但占比仍不到总用户的1%。（界面）",
+      "source": "36氪",
+      "pub_date": "2026-04-29 07:59:39  +0800",
+      "fetched_at": "2026-04-29T08:00:06.611082",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "当地时间4月28日，据报道，OpenAI预计，其更便宜、含广告的套餐不仅将吸引新用户，也会促使数千万付费订阅用户降级。OpenAI预计，今年其消费者订阅用户将增长一倍以上，达到1.22亿，并在2030年增至3.06亿。其中，旗舰月费套餐ChatGPT Plus的订阅用户数量预计今年将下降80%，至约...",
+      "keywords": [
+        "openai",
+        "chatgpt",
+        "预计",
+        "预计用户将大幅转向更便宜的",
+        "套餐"
       ],
       "importance": 1.0
     },
@@ -410,7 +550,7 @@
       "summary": "大公司： 谷歌将在韩国新建人工智能园区，韩国总统府证实 韩国总统政策顾问金龙范于周一表示，韩国政府与谷歌达成协议，将在首尔共建一座人工智能园区，深化谷歌与韩国本土技术人才、初创企业的合作。金龙范介绍，韩国总统李在明当日在首尔会见了谷歌深度思维（DeepMind）首席执行官德米斯・哈萨比斯。韩国科学技术部与谷歌就此人工智能园区项目签署了合作谅解备忘录。 法国汽车零部件供应商Forvia 21亿美元出售汽车内饰业务 法国汽车零部件供应商Forvia达成协议，将旗下汽车内饰业务出售给阿波罗全球管理，含债务在内，该业务板块估值约21亿美元。该内饰业务依托覆盖欧洲、北美、亚洲的全球生产与研发基地网络，为...",
       "source": "36氪",
       "pub_date": "2026-04-27 19:25:19  +0800",
-      "fetched_at": "2026-04-28T20:00:05.438741",
+      "fetched_at": "2026-04-29T08:00:06.606063",
       "categories": [
         "ai"
       ],
@@ -430,7 +570,7 @@
       "summary": "作者｜黄楠 编辑｜袁斯来 近日，智能割草机器人公司未岚大陆第100万台智能割草机器人下线仪式在其常州研发生产基地举办。未岚大陆CEO任冠佼、总裁兼CTO陈子冲、德国莱茵TÜV电子电气产品服务全球高级副总裁郝福来（Frank Holzmann）等出席仪式。 在割草机器人赛道竞争白热化的节点，百万台是对技术路线选择、供应链韧性与全球化布局的一次系统验证。从2021年发布第一款无边界智能割草机器人，到2026年累计量产突破100万台，未岚大陆的路径勾勒了一家中国庭院机器人公司的崛起曲线。 未岚大陆第100万台智能割草机器人下线 曲线增长背后是赛道热度的迅猛攀升。据中国机电产品进出口商会数据，2025...",
       "source": "36氪",
       "pub_date": "2026-04-27 19:41:44  +0800",
-      "fetched_at": "2026-04-28T20:00:05.435778",
+      "fetched_at": "2026-04-29T08:00:06.603146",
       "categories": [
         "robotics"
       ],
@@ -450,7 +590,7 @@
       "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，寻明生科（Aureka Biotechnologies）近期已完成3500万美元A+轮融资。本轮融资由红杉中国领投，经纬创投、博远资本跟投，老股东五源资本、启明创投、纽尔利资本等持续加注。 去年底，寻明生科就曾获得一笔数千万美元的A轮融资。截至目前，公司A轮次融资的累计金额已接近1亿美元。 寻明生科方面表示，本轮募集资金将用于推动自研创新功能抗体设计平台AuraIDE™建设，加大基座模型与智能体能力建设、完善高通量高内涵实验平台设施，进一步打通智能体从立项、分子设计到转化落地的关键环节。 2023年成立至今的3年间，寻明生科已完成从搭建生成式抗体药物研发平...",
       "source": "36氪",
       "pub_date": "2026-04-28 08:00:00  +0800",
-      "fetched_at": "2026-04-28T20:00:05.433702",
+      "fetched_at": "2026-04-29T08:00:06.600918",
       "categories": [
         "ai"
       ],
@@ -470,7 +610,7 @@
       "summary": "近期，数字科技文娱公司星迹互动完成了数千万元的天使轮融资。本轮投资方包括正大集团、北京大融文化传媒、禹牧智能以及麦迈科技等。36氪获悉，此次融资将主要用于公司人员规模的扩张、产能拉升以及平台建设。 星迹互动于2025年成立，以AI为核心驱动力，专注于精品IP的开发与运营。具体来讲，公司的业务包括新老IP的开发与运营、漫剧的承制与出海、儿童原创动画孵化，以及数字人IP与虚拟偶像的打造。 公司创始人张文广是连续创业者，曾是二更联合创始人、微梦传媒高级副总裁，在品牌传播领域积累了丰富的经验。 资方北京大融文化传媒CEO曹柏松如此评价张文广和星迹互动——AI内容赛道中有很多野蛮生长的公司，他们的逻辑是...",
       "source": "36氪",
       "pub_date": "2026-04-28 08:00:00  +0800",
-      "fetched_at": "2026-04-28T20:00:05.432515",
+      "fetched_at": "2026-04-29T08:00:06.599843",
       "categories": [
         "ai"
       ],
@@ -490,7 +630,7 @@
       "summary": "TOP3大新闻 DeepSeek 输入缓存降价 多家美国廉价航空公司寻求政府资金纾困 东方甄选回应大量用户申请退会员 穿西装开空调太费电，日本东京鼓励公务员穿短裤 印度移动支付平台MobiKwik获央行批准 TOP3大事件 国家发展改革委：依法依规对外资收购Manus项目作出禁止投资决定 据国家发展改革委网站4月27日消息，外商投资安全审查工作机制办公室（国家发展改革委）依法依规对外资收购Manus项目作出禁止投资决定，要求当事人撤销该收购交易。 2025年12月30日，全球首款通用人工智能体Manus发布公告称，Manus即将加入美国科技巨头Meta。Manus将继续通过app和网站为用户提...",
       "source": "36氪",
       "pub_date": "2026-04-28 08:04:02  +0800",
-      "fetched_at": "2026-04-28T20:00:05.431303",
+      "fetched_at": "2026-04-29T08:00:06.598663",
       "categories": [
         "ai"
       ],
@@ -503,150 +643,7 @@
         "项目作出禁止投资决定"
       ],
       "importance": 1.5
-    },
-    {
-      "title": "36氪首发 | 韩国现代、微光创投押注焊接机器人，营收预计破数亿，拿下船厂数千万订单",
-      "link": "https://36kr.com/p/3785955616152839?f=rss",
-      "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，专注于焊接垂直场景的具身智能机器人公司——昇视唯盛已完成数千万元A+轮融资。本轮融资由韩国现代、微光创投联合投资，资金将主要用于“具身大脑”的研发、软硬件产品的迭代以及市场推广。 昇视唯盛成立于2020年，核心团队由来自哈尔滨工业大学、上海交通大学等高校的机器人领域专家，以及拥有多年工业自动化从业经验的资深人员组成。创始人王德钊及核心团队在机器人及自动化领域拥有十余年产业经验，对焊接场景的工艺需求及行业痛点有深刻理解。 昇视唯盛的核心技术优势在于其“AI算法+焊接工艺+机器人本体”三合一的自主核心能力。公司于2022年收购哈工现代机器人有限公司，控股子公司哈...",
-      "source": "36氪",
-      "pub_date": "2026-04-28 11:53:31  +0800",
-      "fetched_at": "2026-04-28T20:00:05.424516",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，专注于焊接垂直场景的具身智能机器人公司——昇视唯盛已完成数千万元A+轮融资。本轮融资由韩国现代、微光创投联合投资，资金将主要用于“具身大脑”的研发、软硬件产品的迭代以及市场推广。...",
-      "keywords": [
-        "氪首发",
-        "韩国现代",
-        "微光创投押注焊接机器人",
-        "营收预计破数亿",
-        "拿下船厂数千万订单"
-      ],
-      "importance": 1.5
-    },
-    {
-      "title": "独家对谈｜缘启智慧CEO邓江，一个80后银行码农出身的AI医疗创业者",
-      "link": "https://36kr.com/p/3786252394945795?f=rss",
-      "summary": "图源：公众号「职场Bonus」（ID：ZhiChangHongLi） 今年三月，《职场Bonus》报道了前百川智能商业化合伙人邓江加入北电数智的消息。没想到不到半年后，他出来创业了。 如今，他是AI医疗大模型新晋创业者邓江，是「缘启智慧」公司的创始人兼CEO邓江。在他低调开张的节骨眼上，我们联系到了这位技术背景的金融老兵，期待他能分享自己在风口上跨越、历险、不断前进的职业故事，以及，他这次创业要做什么事儿。 ● 欢迎观看+关注《职场Bonus》旗下原创视频号 翻阅他的履历，我们的第一印象是：“挺能熬的。”相较于我过往接触的多数创业者常有的风险偏好，他的风格更为稳健，每一步决策和行动都力求扎实可...",
-      "source": "36氪",
-      "pub_date": "2026-04-28 17:12:04  +0800",
-      "fetched_at": "2026-04-28T20:00:05.422876",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "如今，他是AI医疗大模型新晋创业者邓江，是「缘启智慧」公司的创始人兼CEO邓江。在他低调开张的节骨眼上，我们联系到了这位技术背景的金融老兵，期待他能分享自己在风口上跨越、历险、不断前进的职业故事，以及，他这次创业要做什么事儿。 ● 欢迎观看+关注《职场Bonus》旗下原创视频号...",
-      "keywords": [
-        "职场",
-        "bonus",
-        "缘启智慧",
-        "ceo",
-        "邓江"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "氪星晚报｜我国最大规模AI4S集群接入全国一体化算力网；亚马逊低地轨道卫星计划又一批卫星发射升空；我国首款正向设计自转旋翼机完成首飞",
-      "link": "https://36kr.com/p/3786324189027332?f=rss",
-      "summary": "大公司： 拒买新闻就交税，澳洲拟向科技巨头征约2%营收税 澳大利亚政府公布法案草案，拟对Meta、谷歌等科技巨头征收新税，除非这些平台自愿与当地新闻机构签署付费协议，以应对传统媒体在数码平台冲击下面临的生存压力。据报道，根据拟议的新法律安排，这些大型数码平台须就分享本地媒体新闻内容所带来的平台流量，向出版商提供经济补偿。澳洲总理阿尔巴尼斯表明，政府将给予Meta、谷歌等公司机会，与本地新闻出版商达成内容交易。 网信部门依法查处“剪映”App等生成合成内容标识违法问题网站平台 36氪获悉，据网信中国，近期网信部门工作中发现，“剪映”“猫箱”App及“即梦AI”网站存在未有效落实人工智能生成合成内...",
-      "source": "36氪",
-      "pub_date": "2026-04-28 18:09:31  +0800",
-      "fetched_at": "2026-04-28T20:00:05.413754",
-      "categories": [
-        "ai",
-        "space"
-      ],
-      "ai_summary": "大公司： 拒买新闻就交税，澳洲拟向科技巨头征约2%营收税 澳大利亚政府公布法案草案，拟对Meta、谷歌等科技巨头征收新税，除非这些平台自愿与当地新闻机构签署付费协议，以应对传统媒体在数码平台冲击下面临的生存压力。据报道，根据拟议的新法律安排，这些大型数码平台须就分享本地媒体新闻内容所带来的平台流量，...",
-      "keywords": [
-        "ai",
-        "meta",
-        "剪映",
-        "app",
-        "氪星晚报"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "Linux 7.1-rc1 释出",
-      "link": "https://www.solidot.org/story?sid=84157",
-      "summary": "Linus Torvalds 在内核邮件列表上宣布释出 Linux 7.1-rc1。主要变化包括：移除对部分旧硬件的支持，其中包括 i486 和俄罗斯 Baikal CPU，清理部分旧 PCMCIA 驱动；新 NTFS 驱动，支持 12 种新 SoC，新联想 Legion Go 驱动，Intel QAT Zstd 支持，AMD Zen 6 支持，Intel Linear Address Space Separation (LASS)，等等。",
-      "source": "Solidot",
-      "pub_date": "Mon, 27 Apr 2026 14:35:53 +0800",
-      "fetched_at": "2026-04-28T20:00:04.973633",
-      "categories": [
-        "ai",
-        "space"
-      ],
-      "ai_summary": "Linus Torvalds 在内核邮件列表上宣布释出 Linux 7.1-rc1。主要变化包括：移除对部分旧硬件的支持，其中包括 i486 和俄罗斯 Baikal CPU，清理部分旧 PCMCIA 驱动；新 NTFS 驱动，支持 12 种新 SoC，新联想 Legion Go 驱动，Intel Q...",
-      "keywords": [
-        "驱动",
-        "支持",
-        "linux",
-        "rc",
-        "intel"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "AI 成本可能高于人工成本",
-      "link": "https://www.solidot.org/story?sid=84159",
-      "summary": "多家企业在 AI 上的支出已经超过了员工薪资，IT 预算严重超支。Uber CTO 的 2026 年 AI 预算因 token 费用超支。根据 Gartner 预测，2026 年全球 IT 支出预计将达到 6.31 万亿美元，比 2025 年增长 13.5%。这一增长是由 AI 基础设施、软件和云服务的“持续发展势头”推动的。即使是 IT 预算最充足的公司也需要证明 AI 投入的长期回报。当 AI 实验室提高价格时，对 AI 的大量投入可能会从一种炫耀的资本变成一种负担。",
-      "source": "Solidot",
-      "pub_date": "Mon, 27 Apr 2026 17:29:16 +0800",
-      "fetched_at": "2026-04-28T20:00:04.973030",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "多家企业在 AI 上的支出已经超过了员工薪资，IT 预算严重超支。Uber CTO 的 2026 年 AI 预算因 token 费用超支。根据 Gartner 预测，2026 年全球 IT 支出预计将达到 6.31 万亿美元，比 2025 年增长 13.5%。这一增长是由 AI 基础设施、软件和云服...",
-      "keywords": [
-        "ai",
-        "it",
-        "成本可能高于人工成本",
-        "多家企业在",
-        "上的支出已经超过了员工薪资"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "Greg K-H 使用基于 AMD Ryzen AI Max 的 AI 工具发现内核 Bug",
-      "link": "https://www.solidot.org/story?sid=84160",
-      "summary": "稳定版内核维护者 Greg Kroah-Hartman 正在使用名为 gkh_clanker_t1000 的 AI 工具发现内核 Bug。他在 Mastodon 上分享了 gkh_clanker_t1000 的硬件图片。gkh_clanker_t1000 运行在搭载 AMD Ryzen AI Max+“Strix Halo”APU 的 Framework Desktop 之上，Ryzen AI Max+ 提供了最高 128GB 的统一内存，可分配 96GB 内存给 GPU 使用，其性能足以运行本地大模型以及其它基于开源软件栈的 AI 工具。Greg K-H 尚未透露 gkh_clanker_t...",
-      "source": "Solidot",
-      "pub_date": "Mon, 27 Apr 2026 18:03:08 +0800",
-      "fetched_at": "2026-04-28T20:00:04.972731",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "稳定版内核维护者 Greg Kroah-Hartman 正在使用名为 gkh_clanker_t1000 的 AI 工具发现内核 Bug。他在 Mastodon 上分享了 gkh_clanker_t1000 的硬件图片。gkh_clanker_t1000 运行在搭载 AMD Ryzen AI Max...",
-      "keywords": [
-        "ai",
-        "gkh",
-        "clanker",
-        "greg",
-        "ryzen"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "研究发现三分之一新网站是 AI 生成或使用 AI 辅助",
-      "link": "https://www.solidot.org/story?sid=84167",
-      "summary": "斯坦福、伦敦帝国理工和互联网档案馆的研究人员发表论文《The Impact of AI-Generated Text on the Internet》，他们利用互联网档案馆的数据发现在 ChatGPT 发布三年之后，35% 的新网站是 AI 生成或使用 AI 辅助，而 ChatGPT 之前的比例是零。论文合作者、斯坦福 AI 研究员 Jonas Dolezal 说，人类用了几十年时间塑造互联网，但它的很大一部分仅仅三年就被 AI 重新定义，我们正见证数字化景观在短时间内的一次重大转变。",
-      "source": "Solidot",
-      "pub_date": "Tue, 28 Apr 2026 14:41:03 +0800",
-      "fetched_at": "2026-04-28T20:00:04.969992",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "斯坦福、伦敦帝国理工和互联网档案馆的研究人员发表论文《The Impact of AI-Generated Text on the Internet》，他们利用互联网档案馆的数据发现在 ChatGPT 发布三年之后，35% 的新网站是 AI 生成或使用 AI 辅助，而 ChatGPT 之前的比例是零...",
-      "keywords": [
-        "ai",
-        "生成或使用",
-        "辅助",
-        "斯坦福",
-        "the"
-      ],
-      "importance": 0.5
     }
   ],
-  "updated_at": "2026-04-28T20:00:48.620656"
+  "updated_at": "2026-04-29T08:00:27.985070"
 }

@@ -5,109 +5,48 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-05-02T12:00:49.468682",
-    "total_items": 22
+    "last_update": "2026-05-02T20:00:52.411991",
+    "total_items": 21
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 18
+      "count": 17
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 3
+      "count": 1
     },
     "space": {
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 6
+      "count": 3
     }
   },
   "stats": {
-    "total_items": 22,
-    "today_items": 22,
+    "total_items": 21,
+    "today_items": 21,
     "sources": {
-      "36氪": 9,
-      "Solidot": 5,
-      "量子位": 5,
-      "HackerNews": 3
+      "Solidot": 7,
+      "36氪": 6,
+      "量子位": 6,
+      "HackerNews": 2
     },
-    "last_update": "2026-05-02T12:00:49.468682"
+    "last_update": "2026-05-02T20:00:52.411991"
   },
   "trending": [
-    {
-      "title": "五角大楼与七家AI巨头签约，Anthropic遭排除",
-      "link": "https://36kr.com/newsflashes/3791458087836675?f=rss",
-      "summary": "五角大楼5月1日宣布，已与七家领先的人工智能公司达成协议，将其先进技术部署到国防部的机密网络中。SpaceX、OpenAI、谷歌、英伟达、Reflection、微软和亚马逊云服务入选，而Anthropic因安全限制争议被排除在外。（新浪财经）",
-      "source": "36氪",
-      "pub_date": "2026-05-02 09:28:31  +0800",
-      "fetched_at": "2026-05-02T12:00:17.233334",
-      "categories": [
-        "ai",
-        "space"
-      ],
-      "ai_summary": "五角大楼5月1日宣布，已与七家领先的人工智能公司达成协议，将其先进技术部署到国防部的机密网络中。SpaceX、OpenAI、谷歌、英伟达、Reflection、微软和亚马逊云服务入选，而Anthropic因安全限制争议被排除在外。（新浪财经）",
-      "keywords": [
-        "anthropic",
-        "五角大楼与七家",
-        "ai",
-        "巨头签约",
-        "遭排除"
-      ],
-      "importance": 3.5
-    },
-    {
-      "title": "美银：全球超大规模云计算企业2027年AI资本开支或达1万亿美元",
-      "link": "https://36kr.com/newsflashes/3790542827576582?f=rss",
-      "summary": "美银证券发布半导体行业研究报告，分析师Vivek Arya团队在四大美国科技巨头——谷歌、微软、亚马逊、Meta相继公布2026年第一季度财报并更新资本支出展望后，将2026年全球超大规模云计算企业资本支出预测上调至超过8000亿美元，同比增长67%，并预计2027年将进一步突破1万亿美元，同比增长约25%。（财联社）",
-      "source": "36氪",
-      "pub_date": "2026-05-01 17:39:33  +0800",
-      "fetched_at": "2026-05-02T12:00:17.234008",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "美银证券发布半导体行业研究报告，分析师Vivek Arya团队在四大美国科技巨头——谷歌、微软、亚马逊、Meta相继公布2026年第一季度财报并更新资本支出展望后，将2026年全球超大规模云计算企业资本支出预测上调至超过8000亿美元，同比增长67%，并预计2027年将进一步突破1万亿美元，同比增长...",
-      "keywords": [
-        "万亿美元",
-        "美银",
-        "全球超大规模云计算企业",
-        "ai",
-        "资本开支或达"
-      ],
-      "importance": 2.5
-    },
-    {
-      "title": "美国数据中心新建天然气项目排放量超过部分国家一年总排放量",
-      "link": "https://www.solidot.org/story?sid=84176",
-      "summary": "仅美国 11 个数据中心园区配套的新建天然气项目的温室气体排放量就有望超过摩洛哥 2024 年全年排放量。这些新建天然气发电项目旨在为 OpenAI、Meta、微软和 xAI 等公司的数据中心供电，其温室气体年排放量可能超过 1.29 亿吨。这些项目绕过了电网，专门为数据中心供电。由于公众对电费上涨的抵制，以及接入电网面临漫长的等待，越来越多的数据中心倾向于自行发电。xAI Colossus 和 Colossus 2 园区申请的空气排放许可显示每个园区每年可能产生逾 640 万吨碳排放，超过了 30 个中等规模天然气电厂的排放量。微软正计划从西德克萨斯州天然气项目购买电力，该项目每年排放逾 1...",
-      "source": "Solidot",
-      "pub_date": "Wed, 29 Apr 2026 11:51:44 +0800",
-      "fetched_at": "2026-05-02T12:00:02.951099",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "仅美国 11 个数据中心园区配套的新建天然气项目的温室气体排放量就有望超过摩洛哥 2024 年全年排放量。这些新建天然气发电项目旨在为 OpenAI、Meta、微软和 xAI 等公司的数据中心供电，其温室气体年排放量可能超过 1.29 亿吨。这些项目绕过了电网，专门为数据中心供电。由于公众对电费上涨...",
-      "keywords": [
-        "xai",
-        "colossus",
-        "美国数据中心新建天然气项目排放量超过部分国家一年总排放量",
-        "仅美国",
-        "个数据中心园区配套的新建天然气项目的温室气体排放量就有望超过摩洛哥"
-      ],
-      "importance": 2.0
-    },
     {
       "title": "马斯克称他创办非盈利的 OpenAI 是为了对抗 Google",
       "link": "https://www.solidot.org/story?sid=84182",
       "summary": "2024 年马斯克（Elon Musk）向旧金山高等法院起诉 OpenAI 及其联合创始人 Sam Altman 和 Greg Brockman 违反公司的创始原则，将商业利益置于公共利益之上。OpenAI 则公开了马斯克的邮件，证明作为曾经的联合创始人，马斯克同意 OpenAI 建立一个盈利实体，还表示将提供资金，但之后暂停了资金支持，他的目的是获得多数股权和董事会控制权，双方最终因此终止了合作。本周这起诉讼正式进入审讯阶段，马斯克在法庭上作证，称创办 OpenAI 是将其作为一家非盈利公司去对抗 Google，如果 OpenAI 的目标是盈利他不会支持它。马斯克称他在与 Google 联合...",
       "source": "Solidot",
       "pub_date": "Wed, 29 Apr 2026 17:55:43 +0800",
-      "fetched_at": "2026-05-02T12:00:02.949398",
+      "fetched_at": "2026-05-02T20:00:02.547260",
       "categories": [
         "ai"
       ],
@@ -122,12 +61,52 @@
       "importance": 1.0
     },
     {
+      "title": "周杰伦伙伴，要被卖了",
+      "link": "https://36kr.com/p/3791838183234816?f=rss",
+      "summary": "图片来源：视觉中国 作者/吴琼 报道/投资界PEdaily 音乐顶流也迎来了卖身结局。 近日，华尔街大佬比尔·阿克曼旗下潘兴广场正式向环球音乐（UMG）发出一份收购要约——以现金加股票的方式收购环球音乐。由此，后者估值高达约640亿美元（约合人民币4300亿元）。 你或许不熟悉环球音乐，但一定听过来自这里的歌——周杰伦、陈奕迅、泰勒·斯威夫特、贾斯汀·比伯、防弹少年团……这些顶流艺人的音乐作品，均由环球音乐发行或持有版权。每当你打开音乐软件，也许就有一笔钱进了环球音乐的口袋。 如今面对天价邀约，这家音乐帝国正面临着抉择时刻。 估值4000亿，环球音乐要被卖了 此番买家，堪称华尔街的传奇人物。 ...",
+      "source": "36氪",
+      "pub_date": "2026-05-02 17:37:20  +0800",
+      "fetched_at": "2026-05-02T20:00:14.068435",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "近日，华尔街大佬比尔·阿克曼旗下潘兴广场正式向环球音乐（UMG）发出一份收购要约——以现金加股票的方式收购环球音乐。由此，后者估值高达约640亿美元（约合人民币4300亿元）。...",
+      "keywords": [
+        "周杰伦伙伴",
+        "要被卖了",
+        "图片来源",
+        "视觉中国",
+        "作者"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+      "link": "https://36kr.com/p/3791662444911617?f=rss",
+      "summary": "梦晨 发自 凹非寺 苹果大失误！把自用的Claude.md打包到了官方App里。 这下直接被坐实了：苹果内部在使用Claude Code构建生产级应用。 这么大的公司，也在Vibe Coding？ 苹果内部在使用Claude Code构建生产级应用 项目级的Claude.md通常用来告诉AI这个项目是什么、怎么构建、要遵循哪些规范、避免哪些雷区…… 这家全球最注重保密的科技公司，还是把自己的秘密泄露了。 事故发生后后，苹果在24小时内已紧急撤回，但部分内容已经曝光。 等一下。 这和Claude Code源码泄露时把source map打包进发布版怎么一样一样的。 该不会这两个事故，罪魁祸首都是...",
+      "source": "36氪",
+      "pub_date": "2026-05-02 14:52:34  +0800",
+      "fetched_at": "2026-05-02T20:00:14.078965",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "苹果内部在使用Claude Code构建生产级应用 项目级的Claude.md通常用来告诉AI这个项目是什么、怎么构建、要遵循哪些规范、避免哪些雷区…… 这家全球最注重保密的科技公司，还是把自己的秘密泄露了。 这和Claude Code源码泄露时把source map打包进发布版怎么一样一样的。",
+      "keywords": [
+        "claude",
+        "md",
+        "code",
+        "app",
+        "vibe"
+      ],
+      "importance": 1.0
+    },
+    {
       "title": "36氪首发｜国内首家落地“筷子夹”塔架回收技术的商业航天公司，完成5亿元融资",
       "link": "https://36kr.com/p/3790141500366085?f=rss",
       "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，近日，上海大航跃迁航天科技有限公司（下称“大航跃迁”）完成5亿元融资。本轮融资由前海方舟、厚纪资本、普华资本领投，君领资本、海愿资本、惠丰达、君川资本、重庆沙创科技、中重科技、元创资本、汉理资本、上海天使会等机构，以及产业方神猴电缆联合参与投资，部分老股东持续加仓；华兴资本担任长期财务顾问。 本轮资金将主要用于加速大航跃迁核心产品，国内首款塔架回收运载火箭“跃迁一号”的研制与首飞，百吨级液氧甲烷发动机研发与测试。 大航跃迁成立于2024年2月，是国内首家落地“筷子夹”塔架式回收技术的二代民营火箭企业。 创始人陈曙光长期深耕航天领域，早期曾任职于中国...",
       "source": "36氪",
       "pub_date": "2026-05-01 10:52:49  +0800",
-      "fetched_at": "2026-05-02T12:00:17.209056",
+      "fetched_at": "2026-05-02T20:00:14.102746",
       "categories": [
         "space"
       ],
@@ -142,67 +121,44 @@
       "importance": 1.0
     },
     {
-      "title": "从扫地机到火箭车，追觅在硅谷造了一场“瞬息全宇宙”",
-      "link": "https://36kr.com/p/3789057332043016?f=rss",
-      "summary": "作者 | 邓咏仪 编辑 | 杨轩 如果你在4月27日这一周走进美国旧金山艺术宫，也许你会感到惊讶——这不像一个艺术圣地，更像一场包罗万象的博览会。 来自50多个国家的媒体、KOL、客户挤在展区里。映入眼帘的产品，小至智能吊坠、吹风机、LED 美容面罩、扫地机，大至洗地机、空调、冰箱、手机，甚至还有一辆“火箭车”的概念超跑。 Nebula NEXT 01 在舞台台上，图灵奖得主 David Patterson、7-Eleven 前 CEO James Keyes、Meta 前 VP来谈论AI如何重塑物理世界；而苹果联合创始人沃兹尼亚克（Steve Wozniak）以及NBA传奇球星德怀恩·韦德施...",
-      "source": "36氪",
-      "pub_date": "2026-04-30 17:33:41  +0800",
-      "fetched_at": "2026-05-02T12:00:17.231935",
+      "title": "为什么 OpenAI 的系统提示词要专门限制 Goblins",
+      "link": "https://www.solidot.org/story?sid=84202",
+      "summary": "OpenAI Codex CLI 系统提示词专门加入了一条对地精（Goblins）等词的限制：“never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant to the user's query”。官方解释称，从 GPT-5.1 开始该公司的模型在比喻中提及 goblin 等词的频率大增，ChatGPT 中 goblin 的使用量增加了 175%，grem...",
+      "source": "Solidot",
+      "pub_date": "Sat, 02 May 2026 00:27:08 +0800",
+      "fetched_at": "2026-05-02T20:00:02.544278",
       "categories": [
-        "ai",
-        "space"
+        "ai"
       ],
-      "ai_summary": "来自50多个国家的媒体、KOL、客户挤在展区里。映入眼帘的产品，小至智能吊坠、吹风机、LED 美容面罩、扫地机，大至洗地机、空调、冰箱、手机，甚至还有一辆“火箭车”的概念超跑。 Nebula NEXT 01 在舞台台上，图灵奖得主 David Patterson、7-Eleven 前 CEO...",
+      "ai_summary": "OpenAI Codex CLI 系统提示词专门加入了一条对地精（Goblins）等词的限制：“never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures un...",
       "keywords": [
-        "从扫地机到火箭车",
-        "追觅在硅谷造了一场",
-        "瞬息全宇宙",
-        "作者",
-        "邓咏仪"
+        "goblins",
+        "openai",
+        "or",
+        "goblin",
+        "为什么"
       ],
-      "importance": 1.0
+      "importance": 0.5
     },
     {
-      "title": "特斯拉去年为马斯克支付安保费480万美元",
-      "link": "https://36kr.com/newsflashes/3791531152186376?f=rss",
-      "summary": "根据特斯拉最新提交给美国证券交易委员会的文件，随着企业对高知名度高管的安全威胁担忧不断加剧，特斯拉在2025年为马斯克支付的安保费用约480万美元，较前一年的280万美元增长71%。 截至今年2月，特斯拉在马斯克身上的安保支出已从去年同期的 50 万美元增至 130 万美元，翻了一倍多。 这并不是马斯克的全部安保费用。马斯克的其他公司，包括SpaceX和xAI，也会承担一部分安保费用，以应对与马斯克高知名度相关的风险。（新浪财经）",
-      "source": "36氪",
-      "pub_date": "2026-05-02 10:37:55  +0800",
-      "fetched_at": "2026-05-02T12:00:17.232821",
+      "title": "Mozilla 反对 Chrome 的 Prompt API",
+      "link": "https://www.solidot.org/story?sid=84199",
+      "summary": "Google Chrome 在 2025 年提出了 Prompt API，也就是为浏览器集成的本地模型——使用前需要下载——提供统一的 JavaScript API。Google 还有意让该 API 成为一个 W3C 标准。Chrome 桌面版集成的大模型是 Gemini Nano，使用该模型需要本地设备至少有 4GB 显存、16GB 内存和至少 22GB 可用空间（浏览器所在硬盘）。Mozilla 开发者发表声明反对 Chrome 的 Prompt API。开发者认为该 API 存在巨大的互操作性问题，因为不同的模型都有各种独特的特性，因此系统提示词需要对模型进行针对性调整，然而对一个模型进...",
+      "source": "Solidot",
+      "pub_date": "Fri, 01 May 2026 21:05:03 +0800",
+      "fetched_at": "2026-05-02T20:00:02.544887",
       "categories": [
-        "ai",
-        "space"
+        "ai"
       ],
-      "ai_summary": "根据特斯拉最新提交给美国证券交易委员会的文件，随着企业对高知名度高管的安全威胁担忧不断加剧，特斯拉在2025年为马斯克支付的安保费用约480万美元，较前一年的280万美元增长71%。 截至今年2月，特斯拉在马斯克身上的安保支出已从去年同期的 50 万美元增至 130 万美元，翻了一倍多。",
+      "ai_summary": "Google Chrome 在 2025 年提出了 Prompt API，也就是为浏览器集成的本地模型——使用前需要下载——提供统一的 JavaScript API。Google 还有意让该 API 成为一个 W3C 标准。Chrome 桌面版集成的大模型是 Gemini Nano，使用该模型需要本...",
       "keywords": [
-        "万美元",
-        "特斯拉去年为马斯克支付安保费",
-        "根据特斯拉最新提交给美国证券交易委员会的文件",
-        "随着企业对高知名度高管的安全威胁担忧不断加剧",
-        "特斯拉在"
+        "api",
+        "chrome",
+        "prompt",
+        "gb",
+        "mozilla"
       ],
-      "importance": 1.0
-    },
-    {
-      "title": "Meta收购机器人AI公司，加速布局人形机器人技术",
-      "link": "https://36kr.com/newsflashes/3791455361113344?f=rss",
-      "summary": "Meta Platforms已完成对机器人人工智能初创公司Assured Robot Intelligence的收购，以加速其人形机器人技术的研发进程。该收购于5月1日完成，具体财务条款未予披露。Assured Robot Intelligence专注于为机器人开发AI模型，其技术旨在使机器人能够在复杂动态环境中理解、预测并适应人类行为。Meta发言人表示，该初创公司“处于机器人智能的前沿领域”。（新浪财经）",
-      "source": "36氪",
-      "pub_date": "2026-05-02 09:56:47  +0800",
-      "fetched_at": "2026-05-02T12:00:17.233080",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "Meta Platforms已完成对机器人人工智能初创公司Assured Robot Intelligence的收购，以加速其人形机器人技术的研发进程。该收购于5月1日完成，具体财务条款未予披露。Assured Robot Intelligence专注于为机器人开发AI模型，其技术旨在使机器人能够在...",
-      "keywords": [
-        "meta",
-        "ai",
-        "assured",
-        "robot",
-        "intelligence"
-      ],
-      "importance": 1.0
+      "importance": 0.5
     },
     {
       "title": "活动邀请 ｜ NVIDIA 开发者见面会：从基础设施到智能体，全链路专家深度解析",
@@ -210,7 +166,7 @@
       "summary": "从底层的 GPU 开发，到长上下文的大模型推理，再到能够自主规划的 Agentic AI，AI 技术的演进正全方位重塑软件开发的范式。为了帮助开发者更好地应对日益复杂的全栈挑战，NVIDIA 企业开发者社区诚邀您参加即将在苏州举办的 NVIDIA 开发者见面会。本次见面会将汇集来自 NVIDIA 全球及本地的技术专家，为您带来从基础设施优化到前沿智能体应用的全链路干货分享。 查看全文",
       "source": "Solidot",
       "pub_date": "Thu, 30 Apr 2026 16:21:45 +0800",
-      "fetched_at": "2026-05-02T12:00:02.947254",
+      "fetched_at": "2026-05-02T20:00:02.545830",
       "categories": [
         "ai"
       ],
@@ -230,7 +186,7 @@
       "summary": "基因组学先驱 Craig Venter 去世，享年 79 岁。他因在 1990 年代末与人类基因组计划竞争建立一个基因组数据库而闻名，但他的数据库是设想要付费才能访问，因此在科学界并不受欢迎，促使其他科研团队加速公开发布基因组测序结果。2000 年由美国总统克林顿牵手，人类基因组计划和 Venter 创办的 Celera Genomics 公司同意所有人类基因组数据为人类共同财富，不允许专利保护，且对所有研究者公开。",
       "source": "Solidot",
       "pub_date": "Thu, 30 Apr 2026 14:29:16 +0800",
-      "fetched_at": "2026-05-02T12:00:02.947899",
+      "fetched_at": "2026-05-02T20:00:02.546274",
       "categories": [
         "ai"
       ],
@@ -243,66 +199,86 @@
         "享年"
       ],
       "importance": 0.5
+    },
+    {
+      "title": "Zed 编辑器发布 1.0 版本",
+      "link": "https://www.solidot.org/story?sid=84187",
+      "summary": "用 Rust 开发的文本编辑器项目 Zed 宣布发布 1.0 版本。开发者表示 1.0 版本并不意味着“完成”或“完美”，而是意味着到达了一个关键点。开发者还宣称 Zed 编辑器是一个 AI 原生编辑器，能并行运行多个 AI 智能体，包括 Claude Agent、Codex、OpenCode，以及 Cursor。AI 构建在编辑器的基础架构之中，而不是附加组件。",
+      "source": "Solidot",
+      "pub_date": "Wed, 29 Apr 2026 23:36:21 +0800",
+      "fetched_at": "2026-05-02T20:00:02.546574",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "用 Rust 开发的文本编辑器项目 Zed 宣布发布 1.0 版本。开发者表示 1.0 版本并不意味着“完成”或“完美”，而是意味着到达了一个关键点。开发者还宣称 Zed 编辑器是一个 AI 原生编辑器，能并行运行多个 AI 智能体，包括 Claude Agent、Codex、OpenCode，以及...",
+      "keywords": [
+        "zed",
+        "ai",
+        "版本",
+        "编辑器发布",
+        "rust"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT",
+      "link": "https://36kr.com/p/3791460373929221?f=rss",
+      "summary": "编辑：桃子 【新智元导读】大型翻车现场！起诉OpenAI「背叛使命」的马斯克，竟亲口承认自家Grok模型蒸馏了ChatGPT。 对薄公堂第四天，马斯克爆出了大瓜！ 4月30日，加州奥克兰联邦法院，马斯克诉OpenAI案进入第四天。 现场，OpenAI首席律师William Savitt站起来，问了一个让整个法庭安静了三秒的问题： xAI是否蒸馏了OpenAI的模型？ 马斯克先是打了个太极，「所有AI公司都在这么干」。Savitt继续追问道，所以答案是yes？ 部分如此（Partly）。 此话一出，全网瞬间看呆！ 马斯克承认Grok模型蒸馏了ChatGPT 一个正在起诉OpenAI「背叛非���...",
+      "source": "36氪",
+      "pub_date": "2026-05-02 09:25:01  +0800",
+      "fetched_at": "2026-05-02T20:00:14.097284",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "编辑：桃子 【新智元导读】大型翻车现场！起诉OpenAI「背叛使命」的马斯克，竟亲口承认自家Grok模型蒸馏了ChatGPT。 现场，OpenAI首席律师William Savitt站起来，问了一个让整个法庭安静了三秒的问题： xAI是否蒸馏了OpenAI的模型？",
+      "keywords": [
+        "openai",
+        "chatgpt",
+        "grok",
+        "模型蒸馏了",
+        "savitt"
+      ],
+      "importance": 0.5
     }
   ],
   "latest": [
     {
-      "title": "The gay jailbreak technique",
-      "link": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
-      "summary": "👍 422 | 💬 167",
+      "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
+      "link": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
+      "summary": "👍 19 | 💬 9",
       "source": "HackerNews",
-      "pub_date": "2026-05-02T00:59:35",
-      "fetched_at": "2026-05-02T12:00:48.539589",
+      "pub_date": "2026-05-02T16:54:27",
+      "fetched_at": "2026-05-02T20:00:30.048939",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 422 | 💬 167",
+      "ai_summary": "👍 19 | 💬 9",
       "keywords": [
-        "the",
-        "gay",
-        "jailbreak",
-        "technique"
+        "show",
+        "hn",
+        "filling",
+        "pdf",
+        "forms"
       ],
       "importance": 0
     },
     {
-      "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
-      "link": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
-      "summary": "👍 104 | 💬 137",
+      "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
+      "link": "https://mljar.com/",
+      "summary": "👍 19 | 💬 1",
       "source": "HackerNews",
-      "pub_date": "2026-04-30T06:56:10",
-      "fetched_at": "2026-05-02T12:00:39.263314",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "👍 104 | 💬 137",
-      "keywords": [
-        "eka",
-        "robotic",
-        "claw",
-        "feels",
-        "like"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
-      "link": "https://www.nature.com/articles/s41467-026-71526-5",
-      "summary": "👍 26 | 💬 5",
-      "source": "HackerNews",
-      "pub_date": "2026-04-30T02:58:37",
-      "fetched_at": "2026-05-02T12:00:30.051755",
+      "pub_date": "2026-05-02T18:21:31",
+      "fetched_at": "2026-05-02T20:00:25.646021",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 26 | 💬 5",
+      "ai_summary": "👍 19 | 💬 1",
       "keywords": [
-        "direct",
-        "electrochemical",
-        "black",
-        "coffee",
-        "quality"
+        "show",
+        "hn",
+        "mljar",
+        "studio",
+        "local"
       ],
       "importance": 0
     },
@@ -312,7 +288,7 @@
       "summary": "从算力时代到智能时代，三大结构性变化",
       "source": "量子位",
       "pub_date": "Thu, 30 Apr 2026 09:08:31 +0000",
-      "fetched_at": "2026-05-02T12:00:17.388750",
+      "fetched_at": "2026-05-02T20:00:14.239162",
       "categories": [
         "ai"
       ],
@@ -332,7 +308,7 @@
       "summary": "Stripe推出由 Link 驱动的智能体钱包",
       "source": "量子位",
       "pub_date": "Thu, 30 Apr 2026 09:16:56 +0000",
-      "fetched_at": "2026-05-02T12:00:17.388678",
+      "fetched_at": "2026-05-02T20:00:14.239088",
       "categories": [
         "ai"
       ],
@@ -352,7 +328,7 @@
       "summary": "瓜多到吃不完",
       "source": "量子位",
       "pub_date": "Fri, 01 May 2026 06:21:38 +0000",
-      "fetched_at": "2026-05-02T12:00:17.388454",
+      "fetched_at": "2026-05-02T20:00:14.238857",
       "categories": [
         "ai"
       ],
@@ -372,7 +348,7 @@
       "summary": "真机部署“零微调”",
       "source": "量子位",
       "pub_date": "Fri, 01 May 2026 06:28:46 +0000",
-      "fetched_at": "2026-05-02T12:00:17.388378",
+      "fetched_at": "2026-05-02T20:00:14.238777",
       "categories": [
         "robotics"
       ],
@@ -392,7 +368,7 @@
       "summary": "一代科研人的赛博苦中作乐",
       "source": "量子位",
       "pub_date": "Fri, 01 May 2026 13:20:15 +0000",
-      "fetched_at": "2026-05-02T12:00:17.388160",
+      "fetched_at": "2026-05-02T20:00:14.238595",
       "categories": [
         "ai"
       ],
@@ -407,108 +383,24 @@
       "importance": 0
     },
     {
-      "title": "美银：全球超大规模云计算企业2027年AI资本开支或达1万亿美元",
-      "link": "https://36kr.com/newsflashes/3790542827576582?f=rss",
-      "summary": "美银证券发布半导体行业研究报告，分析师Vivek Arya团队在四大美国科技巨头——谷歌、微软、亚马逊、Meta相继公布2026年第一季度财报并更新资本支出展望后，将2026年全球超大规模云计算企业资本支出预测上调至超过8000亿美元，同比增长67%，并预计2027年将进一步突破1万亿美元，同比增长约25%。（财联社）",
-      "source": "36氪",
-      "pub_date": "2026-05-01 17:39:33  +0800",
-      "fetched_at": "2026-05-02T12:00:17.234008",
+      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+      "link": "https://www.qbitai.com/2026/05/412713.html",
+      "summary": "",
+      "source": "量子位",
+      "pub_date": "Sat, 02 May 2026 03:30:12 +0000",
+      "fetched_at": "2026-05-02T20:00:14.238339",
       "categories": [
         "ai"
       ],
-      "ai_summary": "美银证券发布半导体行业研究报告，分析师Vivek Arya团队在四大美国科技巨头——谷歌、微软、亚马逊、Meta相继公布2026年第一季度财报并更新资本支出展望后，将2026年全球超大规模云计算企业资本支出预测上调至超过8000亿美元，同比增长67%，并预计2027年将进一步突破1万亿美元，同比增长...",
+      "ai_summary": "",
       "keywords": [
-        "万亿美元",
-        "美银",
-        "全球超大规模云计算企业",
-        "ai",
-        "资本开支或达"
+        "苹果官方",
+        "app",
+        "误打包了",
+        "claude",
+        "md"
       ],
-      "importance": 2.5
-    },
-    {
-      "title": "五角大楼与七家AI巨头签约，Anthropic遭排除",
-      "link": "https://36kr.com/newsflashes/3791458087836675?f=rss",
-      "summary": "五角大楼5月1日宣布，已与七家领先的人工智能公司达成协议，将其先进技术部署到国防部的机密网络中。SpaceX、OpenAI、谷歌、英伟达、Reflection、微软和亚马逊云服务入选，而Anthropic因安全限制争议被排除在外。（新浪财经）",
-      "source": "36氪",
-      "pub_date": "2026-05-02 09:28:31  +0800",
-      "fetched_at": "2026-05-02T12:00:17.233334",
-      "categories": [
-        "ai",
-        "space"
-      ],
-      "ai_summary": "五角大楼5月1日宣布，已与七家领先的人工智能公司达成协议，将其先进技术部署到国防部的机密网络中。SpaceX、OpenAI、谷歌、英伟达、Reflection、微软和亚马逊云服务入选，而Anthropic因安全限制争议被排除在外。（新浪财经）",
-      "keywords": [
-        "anthropic",
-        "五角大楼与七家",
-        "ai",
-        "巨头签约",
-        "遭排除"
-      ],
-      "importance": 3.5
-    },
-    {
-      "title": "Meta收购机器人AI公司，加速布局人形机器人技术",
-      "link": "https://36kr.com/newsflashes/3791455361113344?f=rss",
-      "summary": "Meta Platforms已完成对机器人人工智能初创公司Assured Robot Intelligence的收购，以加速其人形机器人技术的研发进程。该收购于5月1日完成，具体财务条款未予披露。Assured Robot Intelligence专注于为机器人开发AI模型，其技术旨在使机器人能够在复杂动态环境中理解、预测并适应人类行为。Meta发言人表示，该初创公司“处于机器人智能的前沿领域”。（新浪财经）",
-      "source": "36氪",
-      "pub_date": "2026-05-02 09:56:47  +0800",
-      "fetched_at": "2026-05-02T12:00:17.233080",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "Meta Platforms已完成对机器人人工智能初创公司Assured Robot Intelligence的收购，以加速其人形机器人技术的研发进程。该收购于5月1日完成，具体财务条款未予披露。Assured Robot Intelligence专注于为机器人开发AI模型，其技术旨在使机器人能够在...",
-      "keywords": [
-        "meta",
-        "ai",
-        "assured",
-        "robot",
-        "intelligence"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "特斯拉去年为马斯克支付安保费480万美元",
-      "link": "https://36kr.com/newsflashes/3791531152186376?f=rss",
-      "summary": "根据特斯拉最新提交给美国证券交易委员会的文件，随着企业对高知名度高管的安全威胁担忧不断加剧，特斯拉在2025年为马斯克支付的安保费用约480万美元，较前一年的280万美元增长71%。 截至今年2月，特斯拉在马斯克身上的安保支出已从去年同期的 50 万美元增至 130 万美元，翻了一倍多。 这并不是马斯克的全部安保费用。马斯克的其他公司，包括SpaceX和xAI，也会承担一部分安保费用，以应对与马斯克高知名度相关的风险。（新浪财经）",
-      "source": "36氪",
-      "pub_date": "2026-05-02 10:37:55  +0800",
-      "fetched_at": "2026-05-02T12:00:17.232821",
-      "categories": [
-        "ai",
-        "space"
-      ],
-      "ai_summary": "根据特斯拉最新提交给美国证券交易委员会的文件，随着企业对高知名度高管的安全威胁担忧不断加剧，特斯拉在2025年为马斯克支付的安保费用约480万美元，较前一年的280万美元增长71%。 截至今年2月，特斯拉在马斯克身上的安保支出已从去年同期的 50 万美元增至 130 万美元，翻了一倍多。",
-      "keywords": [
-        "万美元",
-        "特斯拉去年为马斯克支付安保费",
-        "根据特斯拉最新提交给美国证券交易委员会的文件",
-        "随着企业对高知名度高管的安全威胁担忧不断加剧",
-        "特斯拉在"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "从扫地机到火箭车，追觅在硅谷造了一场“瞬息全宇宙”",
-      "link": "https://36kr.com/p/3789057332043016?f=rss",
-      "summary": "作者 | 邓咏仪 编辑 | 杨轩 如果你在4月27日这一周走进美国旧金山艺术宫，也许你会感到惊讶——这不像一个艺术圣地，更像一场包罗万象的博览会。 来自50多个国家的媒体、KOL、客户挤在展区里。映入眼帘的产品，小至智能吊坠、吹风机、LED 美容面罩、扫地机，大至洗地机、空调、冰箱、手机，甚至还有一辆“火箭车”的概念超跑。 Nebula NEXT 01 在舞台台上，图灵奖得主 David Patterson、7-Eleven 前 CEO James Keyes、Meta 前 VP来谈论AI如何重塑物理世界；而苹果联合创始人沃兹尼亚克（Steve Wozniak）以及NBA传奇球星德怀恩·韦德施...",
-      "source": "36氪",
-      "pub_date": "2026-04-30 17:33:41  +0800",
-      "fetched_at": "2026-05-02T12:00:17.231935",
-      "categories": [
-        "ai",
-        "space"
-      ],
-      "ai_summary": "来自50多个国家的媒体、KOL、客户挤在展区里。映入眼帘的产品，小至智能吊坠、吹风机、LED 美容面罩、扫地机，大至洗地机、空调、冰箱、手机，甚至还有一辆“火箭车”的概念超跑。 Nebula NEXT 01 在舞台台上，图灵奖得主 David Patterson、7-Eleven 前 CEO...",
-      "keywords": [
-        "从扫地机到火箭车",
-        "追觅在硅谷造了一场",
-        "瞬息全宇宙",
-        "作者",
-        "邓咏仪"
-      ],
-      "importance": 1.0
+      "importance": 0.5
     },
     {
       "title": "借航天展推“反向技术输出”，自然堂试炼叙事资源转化的产品力｜最前线",
@@ -516,7 +408,7 @@
       "summary": "在中国美妆行业竞争日趋激烈、技术叙事不断升级的背景下，企业如何构建差异化“护城河”成为核心议题。近日，中国化妆品集团自然堂联合上海天文馆推出的航天主题科普展，为观察本土品牌在科研与品牌叙事之间的平衡提供了一个样本。 4月24日（第十一个“中国航天日”）前后，自然堂与上海天文馆在上海奉贤“东方美谷”园区内举办“遇见宇宙 发现更美”主题展览。展览面向公众免费开放一个月，内容涵盖宇宙起源、中国空间站建设以及太空生活等多个维度，并通过模型展示、VR体验等形式强化互动性。 从形式上看，这类跨界活动近年来在美妆行业并不罕见，但其背后所指向的“科技背书”，正在成为品牌竞争的重要组成部分——国际美妆巨头近年来...",
       "source": "36氪",
       "pub_date": "2026-05-01 09:42:35  +0800",
-      "fetched_at": "2026-05-02T12:00:17.209978",
+      "fetched_at": "2026-05-02T20:00:14.103563",
       "categories": [
         "space"
       ],
@@ -536,7 +428,7 @@
       "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，近日，上海大航跃迁航天科技有限公司（下称“大航跃迁”）完成5亿元融资。本轮融资由前海方舟、厚纪资本、普华资本领投，君领资本、海愿资本、惠丰达、君川资本、重庆沙创科技、中重科技、元创资本、汉理资本、上海天使会等机构，以及产业方神猴电缆联合参与投资，部分老股东持续加仓；华兴资本担任长期财务顾问。 本轮资金将主要用于加速大航跃迁核心产品，国内首款塔架回收运载火箭“跃迁一号”的研制与首飞，百吨级液氧甲烷发动机研发与测试。 大航跃迁成立于2024年2月，是国内首家落地“筷子夹”塔架式回收技术的二代民营火箭企业。 创始人陈曙光长期深耕航天领域，早期曾任职于中国...",
       "source": "36氪",
       "pub_date": "2026-05-01 10:52:49  +0800",
-      "fetched_at": "2026-05-02T12:00:17.209056",
+      "fetched_at": "2026-05-02T20:00:14.102746",
       "categories": [
         "space"
       ],
@@ -556,7 +448,7 @@
       "summary": "4月27日，旧金山艺术宫，这座美国百年历史地标迎来了一场科技发布会。 追觅科技以“DREAME NEXT”为主题的全球发布会周在此开幕，展台上那台红色超跑的尾部，两个固体火箭推进器格外醒目。这便是追觅“星空计划”重磅打造的Nebula NEXT 01 JET Edition，业内称其为“火箭车”。 从车企研发负责人到供应链从业者再到行业分析师，目光都聚焦于此。 这款火箭车搭载专属定制双固体火箭助推系统，可实现150毫秒瞬时响应，最大推力100千牛，与波音737单台发动机的推力接近，车辆零百加速仅需0.9秒。 同时亮相的还有旗舰级激光雷达DHX1、首款可量产全固态电池、全线控智能底盘等一系列“星...",
       "source": "36氪",
       "pub_date": "2026-05-01 18:26:42  +0800",
-      "fetched_at": "2026-05-02T12:00:17.207030",
+      "fetched_at": "2026-05-02T20:00:14.100732",
       "categories": [
         "space"
       ],
@@ -573,10 +465,10 @@
     {
       "title": "马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT",
       "link": "https://36kr.com/p/3791460373929221?f=rss",
-      "summary": "编辑：桃子 【新智元导读】大型翻车现场！起诉OpenAI「背叛使命」的马斯克，竟亲口承认自家Grok模型蒸馏了ChatGPT。 对薄公堂第四天，马斯克爆出了大瓜！ 4月30日，加州奥克兰联邦法院，马斯克诉OpenAI案进入第四天。 现场，OpenAI首席律师William Savitt站起来，问了一个让整个法庭安静了三秒的问题： xAI是否蒸馏了OpenAI的模型？ 马斯克先是打了个太极，「所有AI公司都在这么干」。Savitt继续追问道，所以答案是yes？ 部分如此（Partly）。 此话一出，全网瞬间看呆！ 马斯克承认Grok模型蒸馏了ChatGPT 一个正在起诉OpenAI「背叛非营利使...",
+      "summary": "编辑：桃子 【新智元导读】大型翻车现场！起诉OpenAI「背叛使命」的马斯克，竟亲口承认自家Grok模型蒸馏了ChatGPT。 对薄公堂第四天，马斯克爆出了大瓜！ 4月30日，加州奥克兰联邦法院，马斯克诉OpenAI案进入第四天。 现场，OpenAI首席律师William Savitt站起来，问了一个让整个法庭安静了三秒的问题： xAI是否蒸馏了OpenAI的模型？ 马斯克先是打了个太极，「所有AI公司都在这么干」。Savitt继续追问道，所以答案是yes？ 部分如此（Partly）。 此话一出，全网瞬间看呆！ 马斯克承认Grok模型蒸馏了ChatGPT 一个正在起诉OpenAI「背叛非���...",
       "source": "36氪",
       "pub_date": "2026-05-02 09:25:01  +0800",
-      "fetched_at": "2026-05-02T12:00:17.203912",
+      "fetched_at": "2026-05-02T20:00:14.097284",
       "categories": [
         "ai"
       ],
@@ -591,24 +483,44 @@
       "importance": 0.5
     },
     {
-      "title": "美国数据中心新建天然气项目排放量超过部分国家一年总排放量",
-      "link": "https://www.solidot.org/story?sid=84176",
-      "summary": "仅美国 11 个数据中心园区配套的新建天然气项目的温室气体排放量就有望超过摩洛哥 2024 年全年排放量。这些新建天然气发电项目旨在为 OpenAI、Meta、微软和 xAI 等公司的数据中心供电，其温室气体年排放量可能超过 1.29 亿吨。这些项目绕过了电网，专门为数据中心供电。由于公众对电费上涨的抵制，以及接入电网面临漫长的等待，越来越多的数据中心倾向于自行发电。xAI Colossus 和 Colossus 2 园区申请的空气排放许可显示每个园区每年可能产生逾 640 万吨碳排放，超过了 30 个中等规模天然气电厂的排放量。微软正计划从西德克萨斯州天然气项目购买电力，该项目每年排放逾 1...",
-      "source": "Solidot",
-      "pub_date": "Wed, 29 Apr 2026 11:51:44 +0800",
-      "fetched_at": "2026-05-02T12:00:02.951099",
+      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+      "link": "https://36kr.com/p/3791662444911617?f=rss",
+      "summary": "梦晨 发自 凹非寺 苹果大失误！把自用的Claude.md打包到了官方App里。 这下直接被坐实了：苹果内部在使用Claude Code构建生产级应用。 这么大的公司，也在Vibe Coding？ 苹果内部在使用Claude Code构建生产级应用 项目级的Claude.md通常用来告诉AI这个项目是什么、怎么构建、要遵循哪些规范、避免哪些雷区…… 这家全球最注重保密的科技公司，还是把自己的秘密泄露了。 事故发生后后，苹果在24小时内已紧急撤回，但部分内容已经曝光。 等一下。 这和Claude Code源码泄露时把source map打包进发布版怎么一样一样的。 该不会这两个事故，罪魁祸首都是...",
+      "source": "36氪",
+      "pub_date": "2026-05-02 14:52:34  +0800",
+      "fetched_at": "2026-05-02T20:00:14.078965",
       "categories": [
         "ai"
       ],
-      "ai_summary": "仅美国 11 个数据中心园区配套的新建天然气项目的温室气体排放量就有望超过摩洛哥 2024 年全年排放量。这些新建天然气发电项目旨在为 OpenAI、Meta、微软和 xAI 等公司的数据中心供电，其温室气体年排放量可能超过 1.29 亿吨。这些项目绕过了电网，专门为数据中心供电。由于公众对电费上涨...",
+      "ai_summary": "苹果内部在使用Claude Code构建生产级应用 项目级的Claude.md通常用来告诉AI这个项目是什么、怎么构建、要遵循哪些规范、避免哪些雷区…… 这家全球最注重保密的科技公司，还是把自己的秘密泄露了。 这和Claude Code源码泄露时把source map打包进发布版怎么一样一样的。",
       "keywords": [
-        "xai",
-        "colossus",
-        "美国数据中心新建天然气项目排放量超过部分国家一年总排放量",
-        "仅美国",
-        "个数据中心园区配套的新建天然气项目的温室气体排放量就有望超过摩洛哥"
+        "claude",
+        "md",
+        "code",
+        "app",
+        "vibe"
       ],
-      "importance": 2.0
+      "importance": 1.0
+    },
+    {
+      "title": "周杰伦伙伴，要被卖了",
+      "link": "https://36kr.com/p/3791838183234816?f=rss",
+      "summary": "图片来源：视觉中国 作者/吴琼 报道/投资界PEdaily 音乐顶流也迎来了卖身结局。 近日，华尔街大佬比尔·阿克曼旗下潘兴广场正式向环球音乐（UMG）发出一份收购要约——以现金加股票的方式收购环球音乐。由此，后者估值高达约640亿美元（约合人民币4300亿元）。 你或许不熟悉环球音乐，但一定听过来自这里的歌——周杰伦、陈奕迅、泰勒·斯威夫特、贾斯汀·比伯、防弹少年团……这些顶流艺人的音乐作品，均由环球音乐发行或持有版权。每当你打开音乐软件，也许就有一笔钱进了环球音乐的口袋。 如今面对天价邀约，这家音乐帝国正面临着抉择时刻。 估值4000亿，环球音乐要被卖了 此番买家，堪称华尔街的传奇人物。 ...",
+      "source": "36氪",
+      "pub_date": "2026-05-02 17:37:20  +0800",
+      "fetched_at": "2026-05-02T20:00:14.068435",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "近日，华尔街大佬比尔·阿克曼旗下潘兴广场正式向环球音乐（UMG）发出一份收购要约——以现金加股票的方式收购环球音乐。由此，后者估值高达约640亿美元（约合人民币4300亿元）。...",
+      "keywords": [
+        "周杰伦伙伴",
+        "要被卖了",
+        "图片来源",
+        "视觉中国",
+        "作者"
+      ],
+      "importance": 1.0
     },
     {
       "title": "马斯克称他创办非盈利的 OpenAI 是为了对抗 Google",
@@ -616,7 +528,7 @@
       "summary": "2024 年马斯克（Elon Musk）向旧金山高等法院起诉 OpenAI 及其联合创始人 Sam Altman 和 Greg Brockman 违反公司的创始原则，将商业利益置于公共利益之上。OpenAI 则公开了马斯克的邮件，证明作为曾经的联合创始人，马斯克同意 OpenAI 建立一个盈利实体，还表示将提供资金，但之后暂停了资金支持，他的目的是获得多数股权和董事会控制权，双方最终因此终止了合作。本周这起诉讼正式进入审讯阶段，马斯克在法庭上作证，称创办 OpenAI 是将其作为一家非盈利公司去对抗 Google，如果 OpenAI 的目标是盈利他不会支持它。马斯克称他在与 Google 联合...",
       "source": "Solidot",
       "pub_date": "Wed, 29 Apr 2026 17:55:43 +0800",
-      "fetched_at": "2026-05-02T12:00:02.949398",
+      "fetched_at": "2026-05-02T20:00:02.547260",
       "categories": [
         "ai"
       ],
@@ -636,7 +548,7 @@
       "summary": "用 Rust 开发的文本编辑器项目 Zed 宣布发布 1.0 版本。开发者表示 1.0 版本并不意味着“完成”或“完美”，而是意味着到达了一个关键点。开发者还宣称 Zed 编辑器是一个 AI 原生编辑器，能并行运行多个 AI 智能体，包括 Claude Agent、Codex、OpenCode，以及 Cursor。AI 构建在编辑器的基础架构之中，而不是附加组件。",
       "source": "Solidot",
       "pub_date": "Wed, 29 Apr 2026 23:36:21 +0800",
-      "fetched_at": "2026-05-02T12:00:02.948545",
+      "fetched_at": "2026-05-02T20:00:02.546574",
       "categories": [
         "ai"
       ],
@@ -649,7 +561,87 @@
         "rust"
       ],
       "importance": 0.5
+    },
+    {
+      "title": "基因组学先驱 Craig Venter 去世，享年 79 岁",
+      "link": "https://www.solidot.org/story?sid=84189",
+      "summary": "基因组学先驱 Craig Venter 去世，享年 79 岁。他因在 1990 年代末与人类基因组计划竞争建立一个基因组数据库而闻名，但他的数据库是设想要付费才能访问，因此在科学界并不受欢迎，促使其他科研团队加速公开发布基因组测序结果。2000 年由美国总统克林顿牵手，人类基因组计划和 Venter 创办的 Celera Genomics 公司同意所有人类基因组数据为人类共同财富，不允许专利保护，且对所有研究者公开。",
+      "source": "Solidot",
+      "pub_date": "Thu, 30 Apr 2026 14:29:16 +0800",
+      "fetched_at": "2026-05-02T20:00:02.546274",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "基因组学先驱 Craig Venter 去世，享年 79 岁。他因在 1990 年代末与人类基因组计划竞争建立一个基因组数据库而闻名，但他的数据库是设想要付费才能访问，因此在科学界并不受欢迎，促使其他科研团队加速公开发布基因组测序结果。2000 年由美国总统克林顿牵手，人类基因组计划和 Venter...",
+      "keywords": [
+        "venter",
+        "基因组学先驱",
+        "craig",
+        "去世",
+        "享年"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "活动邀请 ｜ NVIDIA 开发者见面会：从基础设施到智能体，全链路专家深度解析",
+      "link": "https://www.solidot.org/story?sid=84194",
+      "summary": "从底层的 GPU 开发，到长上下文的大模型推理，再到能够自主规划的 Agentic AI，AI 技术的演进正全方位重塑软件开发的范式。为了帮助开发者更好地应对日益复杂的全栈挑战，NVIDIA 企业开发者社区诚邀您参加即将在苏州举办的 NVIDIA 开发者见面会。本次见面会将汇集来自 NVIDIA 全球及本地的技术专家，为您带来从基础设施优化到前沿智能体应用的全链路干货分享。 查看全文",
+      "source": "Solidot",
+      "pub_date": "Thu, 30 Apr 2026 16:21:45 +0800",
+      "fetched_at": "2026-05-02T20:00:02.545830",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "从底层的 GPU 开发，到长上下文的大模型推理，再到能够自主规划的 Agentic AI，AI 技术的演进正全方位重塑软件开发的范式。为了帮助开发者更好地应对日益复杂的全栈挑战，NVIDIA 企业开发者社区诚邀您参加即将在苏州举办的 NVIDIA 开发者见面会。本次见面会将汇集来自 NVIDIA 全...",
+      "keywords": [
+        "nvidia",
+        "开发者见面会",
+        "ai",
+        "活动邀请",
+        "从基础设施到智能体"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Mozilla 反对 Chrome 的 Prompt API",
+      "link": "https://www.solidot.org/story?sid=84199",
+      "summary": "Google Chrome 在 2025 年提出了 Prompt API，也就是为浏览器集成的本地模型——使用前需要下载——提供统一的 JavaScript API。Google 还有意让该 API 成为一个 W3C 标准。Chrome 桌面版集成的大模型是 Gemini Nano，使用该模型需要本地设备至少有 4GB 显存、16GB 内存和至少 22GB 可用空间（浏览器所在硬盘）。Mozilla 开发者发表声明反对 Chrome 的 Prompt API。开发者认为该 API 存在巨大的互操作性问题，因为不同的模型都有各种独特的特性，因此系统提示词需要对模型进行针对性调整，然而对一个模型进...",
+      "source": "Solidot",
+      "pub_date": "Fri, 01 May 2026 21:05:03 +0800",
+      "fetched_at": "2026-05-02T20:00:02.544887",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Google Chrome 在 2025 年提出了 Prompt API，也就是为浏览器集成的本地模型——使用前需要下载——提供统一的 JavaScript API。Google 还有意让该 API 成为一个 W3C 标准。Chrome 桌面版集成的大模型是 Gemini Nano，使用该模型需要本...",
+      "keywords": [
+        "api",
+        "chrome",
+        "prompt",
+        "gb",
+        "mozilla"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "内核曝出 Root 提权漏洞 Copy Fail",
+      "link": "https://www.solidot.org/story?sid=84200",
+      "summary": "Xint Code 团队报告了被称为 Copy Fail 的内核 root 提权漏洞。该漏洞非常容易利用，影响 2017 年以来的几乎所有内核版本。在漏洞披露前内核安全团队没有提前通知发行版也引发了争议。内核不将损坏的页面标记为可写回，因此磁盘上的文件内容不变，但内存中的页面缓存已被篡改。访问文件时，系统读取的是页面缓存，因此损坏的数据会立即影响整个系统。本地非特权用户可通过损坏 setuid 二进制文件的页面缓存获取 root 权限。由于页面缓存在主机和容器之间共享，攻击者可以跨容器边界利用此漏洞。该漏洞影响几乎所有发行版，主要发行版都已经释出或准备释出补丁。",
+      "source": "Solidot",
+      "pub_date": "Fri, 01 May 2026 22:48:55 +0800",
+      "fetched_at": "2026-05-02T20:00:02.544706",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Xint Code 团队报告了被称为 Copy Fail 的内核 root 提权漏洞。该漏洞非常容易利用，影响 2017 年以来的几乎所有内核版本。在漏洞披露前内核安全团队没有提前通知发行版也引发了争议。内核不将损坏的页面标记为可写回，因此磁盘上的文件内容不变，但内存中的页面缓存已被篡改。访问文件时...",
+      "keywords": [
+        "root",
+        "提权漏洞",
+        "copy",
+        "fail",
+        "内核曝出"
+      ],
+      "importance": 0
     }
   ],
-  "updated_at": "2026-05-02T12:00:49.468682"
+  "updated_at": "2026-05-02T20:00:52.411991"
 }

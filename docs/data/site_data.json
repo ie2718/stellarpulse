@@ -5,15 +5,15 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-05-04T20:00:53.032458",
-    "total_items": 22
+    "last_update": "2026-05-05T08:00:27.936536",
+    "total_items": 20
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 18
+      "count": 16
     },
     "robotics": {
       "name": "Robotics",
@@ -29,15 +29,15 @@
     }
   },
   "stats": {
-    "total_items": 22,
-    "today_items": 22,
+    "total_items": 20,
+    "today_items": 20,
     "sources": {
       "36氪": 5,
-      "Solidot": 6,
+      "Solidot": 5,
       "量子位": 7,
-      "HackerNews": 4
+      "HackerNews": 3
     },
-    "last_update": "2026-05-04T20:00:53.032458"
+    "last_update": "2026-05-05T08:00:27.936536"
   },
   "trending": [
     {
@@ -46,7 +46,7 @@
       "summary": "图片来源：视觉中国 作者/吴琼 报道/投资界PEdaily 音乐顶流也迎来了卖身结局。 近日，华尔街大佬比尔·阿克曼旗下潘兴广场正式向环球音乐（UMG）发出一份收购要约——以现金加股票的方式收购环球音乐。由此，后者估值高达约640亿美元（约合人民币4300亿元）。 你或许不熟悉环球音乐，但一定听过来自这里的歌——周杰伦、陈奕迅、泰勒·斯威夫特、贾斯汀·比伯、防弹少年团……这些顶流艺人的音乐作品，均由环球音乐发行或持有版权。每当你打开音乐软件，也许就有一笔钱进了环球音乐的口袋。 如今面对天价邀约，这家音乐帝国正面临着抉择时刻。 估值4000亿，环球音乐要被卖了 此番买家，堪称华尔街的传奇人物。 ...",
       "source": "36氪",
       "pub_date": "2026-05-02 17:37:20  +0800",
-      "fetched_at": "2026-05-04T20:00:14.692007",
+      "fetched_at": "2026-05-05T08:00:06.804612",
       "categories": [
         "ai"
       ],
@@ -66,7 +66,7 @@
       "summary": "梦晨 发自 凹非寺 苹果大失误！把自用的Claude.md打包到了官方App里。 这下直接被坐实了：苹果内部在使用Claude Code构建生产级应用。 这么大的公司，也在Vibe Coding？ 苹果内部在使用Claude Code构建生产级应用 项目级的Claude.md通常用来告诉AI这个项目是什么、怎么构建、要遵循哪些规范、避免哪些雷区…… 这家全球最注重保密的科技公司，还是把自己的秘密泄露了。 事故发生后后，苹果在24小时内已紧急撤回，但部分内容已经曝光。 等一下。 这和Claude Code源码泄露时把source map打包进发布版怎么一样一样的。 该不会这两个事故，罪魁祸首都是...",
       "source": "36氪",
       "pub_date": "2026-05-02 14:52:34  +0800",
-      "fetched_at": "2026-05-04T20:00:14.702627",
+      "fetched_at": "2026-05-05T08:00:06.817715",
       "categories": [
         "ai"
       ],
@@ -81,12 +81,32 @@
       "importance": 1.0
     },
     {
+      "title": "天文学家发现 27 颗围绕双恒星运行的候选行星",
+      "link": "https://www.solidot.org/story?sid=84210",
+      "summary": "天文学家发现了 27 颗围绕双恒星运行的候选行星，类似星球大战里的沙漠行星塔图因（Tatooine）。天文学家至今发现了 18 颗环双星行星，但类似环绕太阳运行的的单恒星行星则发现了逾 8000 颗。科学家以前通过凌日现象识别环双星行星，但需要在特定条件下才能观测到。现在他们采用了轨道进动（apsidal precession），寻找相互绕行且发生掩食的双星系统中轨道出现的摆动，这种摆动通常只能用存在第三个天体去解释。研究团队利用 NASA Transiting Exoplanet Survey Satellite 卫星收集的数据，从 1590 个恒星系统中识别出 36 个候选天体，其中 27...",
+      "source": "Solidot",
+      "pub_date": "Mon, 04 May 2026 20:56:29 +0800",
+      "fetched_at": "2026-05-05T08:00:04.276696",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "天文学家发现了 27 颗围绕双恒星运行的候选行星，类似星球大战里的沙漠行星塔图因（Tatooine）。天文学家至今发现了 18 颗环双星行星，但类似环绕太阳运行的的单恒星行星则发现了逾 8000 颗。科学家以前通过凌日现象识别环双星行星，但需要在特定条件下才能观测到。现在他们采用了轨道进动（apsi...",
+      "keywords": [
+        "颗围绕双恒星运行的候选行星",
+        "天文学家发现",
+        "天文学家发现了",
+        "类似星球大战里的沙漠行星塔图因",
+        "tatooine"
+      ],
+      "importance": 0.5
+    },
+    {
       "title": "VS Code 默认在 commit 中插入 Co-Authored-by Copilot",
       "link": "https://www.solidot.org/story?sid=84209",
       "summary": "微软的编辑器 VS Code 被发现默认在 commit 中插入了 Co-Authored-by Copilot，不管用户有没有使用其 AI 助手 Copilot。此事再次在用户中引发了大量批评。微软开发者回应称他们将会在下个版本中解决默认启用的问题，称如果用户没有使用 AI 助手那么就不应该说代码是 Copilot 合作编写的。",
       "source": "Solidot",
       "pub_date": "Sun, 03 May 2026 23:34:19 +0800",
-      "fetched_at": "2026-05-04T20:00:04.995690",
+      "fetched_at": "2026-05-05T08:00:04.276919",
       "categories": [
         "ai"
       ],
@@ -106,7 +126,7 @@
       "summary": "日程安排平台 Cal.com 上月宣布从开源转为闭源，理由是 AI 工具更容易从开源代码中发现漏洞，而安全性依赖于模糊，因此闭源有助于提高安全。现在英国国家医疗服务体系（NHS）以相同的理由准备关闭它几乎所有的开源库，这一决定引发了广泛争议和批评。批评者指出 NHS 公布的大部分开源库是数据集、内部工具、指南、研究工具、前端设计等，它们不会因为安全扫描技术的进步而受到影响。此外是否开源对于 Anthropic Mythos 之类的 AI 工具并无区别，因为它们也能分析二进制程序并寻找漏洞。批评者发表了公开信，呼吁 NHS 保持其代码公开。",
       "source": "Solidot",
       "pub_date": "Sun, 03 May 2026 00:07:05 +0800",
-      "fetched_at": "2026-05-04T20:00:04.996322",
+      "fetched_at": "2026-05-05T08:00:04.277385",
       "categories": [
         "ai"
       ],
@@ -126,7 +146,7 @@
       "summary": "OpenAI Codex CLI 系统提示词专门加入了一条对地精（Goblins）等词的限制：“never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant to the user's query”。官方解释称，从 GPT-5.1 开始该公司的模型在比喻中提及 goblin 等词的频率大增，ChatGPT 中 goblin 的使用量增加了 175%，grem...",
       "source": "Solidot",
       "pub_date": "Sat, 02 May 2026 00:27:08 +0800",
-      "fetched_at": "2026-05-04T20:00:04.996951",
+      "fetched_at": "2026-05-05T08:00:04.278655",
       "categories": [
         "ai"
       ],
@@ -141,32 +161,12 @@
       "importance": 0.5
     },
     {
-      "title": "Mozilla 反对 Chrome 的 Prompt API",
-      "link": "https://www.solidot.org/story?sid=84199",
-      "summary": "Google Chrome 在 2025 年提出了 Prompt API，也就是为浏览器集成的本地模型——使用前需要下载——提供统一的 JavaScript API。Google 还有意让该 API 成为一个 W3C 标准。Chrome 桌面版集成的大模型是 Gemini Nano，使用该模型需要本地设备至少有 4GB 显存、16GB 内存和至少 22GB 可用空间（浏览器所在硬盘）。Mozilla 开发者发表声明反对 Chrome 的 Prompt API。开发者认为该 API 存在巨大的互操作性问题，因为不同的模型都有各种独特的特性，因此系统提示词需要对模型进行针对性调整，然而对一个模型进...",
-      "source": "Solidot",
-      "pub_date": "Fri, 01 May 2026 21:05:03 +0800",
-      "fetched_at": "2026-05-04T20:00:04.997516",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Google Chrome 在 2025 年提出了 Prompt API，也就是为浏览器集成的本地模型——使用前需要下载——提供统一的 JavaScript API。Google 还有意让该 API 成为一个 W3C 标准。Chrome 桌面版集成的大模型是 Gemini Nano，使用该模型需要本...",
-      "keywords": [
-        "api",
-        "chrome",
-        "prompt",
-        "gb",
-        "mozilla"
-      ],
-      "importance": 0.5
-    },
-    {
       "title": "卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线",
       "link": "https://36kr.com/p/3789475357400068?f=rss",
       "summary": "文｜肖漫 编辑｜李勤 当下的智能汽车领域，物理 AI 已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。 卓驭在北京车展上也发布了面向移动物理 AI 的原生多模态基础模型。在卓驭科技副总裁于贝贝看来，算法厂商向物理AI转型不是为了迎合资本市场而编织的想象空间，而是一条关乎厂商存亡的生存法则。 “如果不上这条技术路线，很可能今后就跑不出来了。”于贝贝说。 在新的竞争维度上，算法厂商的对手不再仅仅是曾经的同行，还包括那些从数字 AI 领域跨界而来的巨头、具身智能公司等。 这场全新的竞赛让算法厂商进入全新维度的淘汰赛中，而此次能真正跑出来的玩家，其商业空间也将随着打开。 基于移动基座模...",
       "source": "36氪",
       "pub_date": "2026-05-02 21:17:06  +0800",
-      "fetched_at": "2026-05-04T20:00:14.685995",
+      "fetched_at": "2026-05-05T08:00:06.796240",
       "categories": [
         "ai",
         "robotics"
@@ -187,7 +187,7 @@
       "summary": "文｜周鑫雨 编辑｜杨轩 规模化落地，今年的具身公司都在谈这个。 数字竞速，不约而同出现在具身公司的产线、招股书、出货量上——2026年4月以来，智元机器人宣布第1万台机器人量产下线，5000到10000，只用了三个多月；宇树科技的IPO招股书也摊开了激进商业化的一角：2025年营收17.07亿元，出货量超过5500台。 激进的数字背后，是“低价、高性能”的中国机器人在全球的扩张。宇树科技创始人王兴兴曾在2025年世界机器人大会上提到，过去几年，宇树的海外营收一直占总营收的50%以上。 在这些具身玩家中，魔法原子MagicLab近期提出了一个相当激进的营收目标：2036年，要实现140亿美元的营...",
       "source": "36氪",
       "pub_date": "2026-05-02 21:01:36  +0800",
-      "fetched_at": "2026-05-04T20:00:14.689238",
+      "fetched_at": "2026-05-05T08:00:06.801151",
       "categories": [
         "ai",
         "robotics"
@@ -208,7 +208,7 @@
       "summary": "瓜多到吃不完",
       "source": "量子位",
       "pub_date": "Sun, 03 May 2026 09:43:20 +0000",
-      "fetched_at": "2026-05-04T20:00:14.864375",
+      "fetched_at": "2026-05-05T08:00:06.976548",
       "categories": [
         "ai"
       ],
@@ -228,7 +228,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Sat, 02 May 2026 03:30:12 +0000",
-      "fetched_at": "2026-05-04T20:00:14.864630",
+      "fetched_at": "2026-05-05T08:00:06.976803",
       "categories": [
         "ai"
       ],
@@ -245,83 +245,62 @@
   ],
   "latest": [
     {
-      "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-      "link": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
-      "summary": "👍 411 | 💬 364",
+      "title": "Sierra Raises $950M at $15B Valuation",
+      "link": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+      "summary": "👍 81 | 💬 106",
       "source": "HackerNews",
-      "pub_date": "2026-05-03T08:30:50",
-      "fetched_at": "2026-05-04T20:00:42.298172",
+      "pub_date": "2026-05-04T23:51:37",
+      "fetched_at": "2026-05-05T08:00:27.897984",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 411 | 💬 364",
+      "ai_summary": "👍 81 | 💬 106",
       "keywords": [
-        "openai",
-        "correctly",
-        "diagnosed",
-        "of",
-        "er"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "US–Indian space mission maps extreme subsidence in Mexico City",
-      "link": "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html",
-      "summary": "👍 160 | 💬 63",
-      "source": "HackerNews",
-      "pub_date": "2026-05-01T21:38:27",
-      "fetched_at": "2026-05-04T20:00:37.782895",
-      "categories": [
-        "space"
-      ],
-      "ai_summary": "👍 160 | 💬 63",
-      "keywords": [
-        "us",
-        "indian",
-        "space",
-        "mission",
-        "maps"
+        "sierra",
+        "raises",
+        "at",
+        "valuation"
       ],
       "importance": 0
     },
     {
-      "title": "Let's Buy Spirit Air",
-      "link": "https://letsbuyspiritair.com/",
-      "summary": "👍 390 | 💬 358",
+      "title": "Let's talk about LLMs",
+      "link": "https://www.b-list.org/weblog/2026/apr/09/llms/",
+      "summary": "👍 124 | 💬 84",
       "source": "HackerNews",
-      "pub_date": "2026-05-04T07:36:11",
-      "fetched_at": "2026-05-04T20:00:35.792530",
+      "pub_date": "2026-05-05T01:29:39",
+      "fetched_at": "2026-05-05T08:00:25.215047",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 390 | 💬 358",
+      "ai_summary": "👍 124 | 💬 84",
       "keywords": [
         "let",
-        "buy",
-        "spirit",
-        "air"
+        "talk",
+        "about",
+        "llms"
       ],
       "importance": 0
     },
     {
-      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
-      "link": "https://github.com/aattaran/deepclaude",
-      "summary": "👍 511 | 💬 202",
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "summary": "👍 216 | 💬 86",
       "source": "HackerNews",
-      "pub_date": "2026-05-04T06:13:20",
-      "fetched_at": "2026-05-04T20:00:27.809105",
+      "pub_date": "2026-05-05T03:42:47",
+      "fetched_at": "2026-05-05T08:00:08.933364",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 511 | 💬 202",
+      "ai_summary": "👍 216 | 💬 86",
       "keywords": [
-        "deepclaude",
-        "claude",
-        "code",
-        "agent",
-        "loop"
+        "how",
+        "openai",
+        "delivers",
+        "low",
+        "latency"
       ],
-      "importance": 0
+      "importance": 0.5
     },
     {
       "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
@@ -329,7 +308,7 @@
       "summary": "真机部署“零微调”",
       "source": "量子位",
       "pub_date": "Fri, 01 May 2026 06:28:46 +0000",
-      "fetched_at": "2026-05-04T20:00:14.865175",
+      "fetched_at": "2026-05-05T08:00:06.977110",
       "categories": [
         "robotics"
       ],
@@ -349,7 +328,7 @@
       "summary": "一代科研人的赛博苦中作乐",
       "source": "量子位",
       "pub_date": "Fri, 01 May 2026 13:20:15 +0000",
-      "fetched_at": "2026-05-04T20:00:14.864794",
+      "fetched_at": "2026-05-05T08:00:06.976950",
       "categories": [
         "ai"
       ],
@@ -369,7 +348,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Sat, 02 May 2026 03:30:12 +0000",
-      "fetched_at": "2026-05-04T20:00:14.864630",
+      "fetched_at": "2026-05-05T08:00:06.976803",
       "categories": [
         "ai"
       ],
@@ -389,7 +368,7 @@
       "summary": "与全球社区共同推动具身智能创新",
       "source": "量子位",
       "pub_date": "Sun, 03 May 2026 03:56:44 +0000",
-      "fetched_at": "2026-05-04T20:00:14.864546",
+      "fetched_at": "2026-05-05T08:00:06.976707",
       "categories": [
         "robotics"
       ],
@@ -408,7 +387,7 @@
       "summary": "完全无需互联网数据",
       "source": "量子位",
       "pub_date": "Sun, 03 May 2026 09:42:55 +0000",
-      "fetched_at": "2026-05-04T20:00:14.864470",
+      "fetched_at": "2026-05-05T08:00:06.976631",
       "categories": [
         "ai"
       ],
@@ -428,7 +407,7 @@
       "summary": "瓜多到吃不完",
       "source": "量子位",
       "pub_date": "Sun, 03 May 2026 09:43:20 +0000",
-      "fetched_at": "2026-05-04T20:00:14.864375",
+      "fetched_at": "2026-05-05T08:00:06.976548",
       "categories": [
         "ai"
       ],
@@ -448,7 +427,7 @@
       "summary": "专门针对DeepSeek优化",
       "source": "量子位",
       "pub_date": "Mon, 04 May 2026 06:09:16 +0000",
-      "fetched_at": "2026-05-04T20:00:14.864280",
+      "fetched_at": "2026-05-05T08:00:06.976450",
       "categories": [
         "ai"
       ],
@@ -468,7 +447,7 @@
       "summary": "精锻科技在业绩说明会表示，公司机器人相关业务目前仍处于研发和市场开拓阶段，量产设备计划于2026年陆续到位并安装调试，但规模化生产需待客户验证通过及订单落地，具体时间表存在不确定性。当前公司机器人业务尚未形成销售收入，敬请关注投资风险。（证券时报）",
       "source": "36氪",
       "pub_date": "2026-05-04 12:28:04  +0800",
-      "fetched_at": "2026-05-04T20:00:14.716443",
+      "fetched_at": "2026-05-05T08:00:06.825316",
       "categories": [
         "robotics"
       ],
@@ -488,7 +467,7 @@
       "summary": "梦晨 发自 凹非寺 苹果大失误！把自用的Claude.md打包到了官方App里。 这下直接被坐实了：苹果内部在使用Claude Code构建生产级应用。 这么大的公司，也在Vibe Coding？ 苹果内部在使用Claude Code构建生产级应用 项目级的Claude.md通常用来告诉AI这个项目是什么、怎么构建、要遵循哪些规范、避免哪些雷区…… 这家全球最注重保密的科技公司，还是把自己的秘密泄露了。 事故发生后后，苹果在24小时内已紧急撤回，但部分内容已经曝光。 等一下。 这和Claude Code源码泄露时把source map打包进发布版怎么一样一样的。 该不会这两个事故，罪魁祸首都是...",
       "source": "36氪",
       "pub_date": "2026-05-02 14:52:34  +0800",
-      "fetched_at": "2026-05-04T20:00:14.702627",
+      "fetched_at": "2026-05-05T08:00:06.817715",
       "categories": [
         "ai"
       ],
@@ -508,7 +487,7 @@
       "summary": "图片来源：视觉中国 作者/吴琼 报道/投资界PEdaily 音乐顶流也迎来了卖身结局。 近日，华尔街大佬比尔·阿克曼旗下潘兴广场正式向环球音乐（UMG）发出一份收购要约——以现金加股票的方式收购环球音乐。由此，后者估值高达约640亿美元（约合人民币4300亿元）。 你或许不熟悉环球音乐，但一定听过来自这里的歌——周杰伦、陈奕迅、泰勒·斯威夫特、贾斯汀·比伯、防弹少年团……这些顶流艺人的音乐作品，均由环球音乐发行或持有版权。每当你打开音乐软件，也许就有一笔钱进了环球音乐的口袋。 如今面对天价邀约，这家音乐帝国正面临着抉择时刻。 估值4000亿，环球音乐要被卖了 此番买家，堪称华尔街的传奇人物。 ...",
       "source": "36氪",
       "pub_date": "2026-05-02 17:37:20  +0800",
-      "fetched_at": "2026-05-04T20:00:14.692007",
+      "fetched_at": "2026-05-05T08:00:06.804612",
       "categories": [
         "ai"
       ],
@@ -528,7 +507,7 @@
       "summary": "文｜周鑫雨 编辑｜杨轩 规模化落地，今年的具身公司都在谈这个。 数字竞速，不约而同出现在具身公司的产线、招股书、出货量上——2026年4月以来，智元机器人宣布第1万台机器人量产下线，5000到10000，只用了三个多月；宇树科技的IPO招股书也摊开了激进商业化的一角：2025年营收17.07亿元，出货量超过5500台。 激进的数字背后，是“低价、高性能”的中国机器人在全球的扩张。宇树科技创始人王兴兴曾在2025年世界机器人大会上提到，过去几年，宇树的海外营收一直占总营收的50%以上。 在这些具身玩家中，魔法原子MagicLab近期提出了一个相当激进的营收目标：2036年，要实现140亿美元的营...",
       "source": "36氪",
       "pub_date": "2026-05-02 21:01:36  +0800",
-      "fetched_at": "2026-05-04T20:00:14.689238",
+      "fetched_at": "2026-05-05T08:00:06.801151",
       "categories": [
         "ai",
         "robotics"
@@ -549,7 +528,7 @@
       "summary": "文｜肖漫 编辑｜李勤 当下的智能汽车领域，物理 AI 已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。 卓驭在北京车展上也发布了面向移动物理 AI 的原生多模态基础模型。在卓驭科技副总裁于贝贝看来，算法厂商向物理AI转型不是为了迎合资本市场而编织的想象空间，而是一条关乎厂商存亡的生存法则。 “如果不上这条技术路线，很可能今后就跑不出来了。”于贝贝说。 在新的竞争维度上，算法厂商的对手不再仅仅是曾经的同行，还包括那些从数字 AI 领域跨界而来的巨头、具身智能公司等。 这场全新的竞赛让算法厂商进入全新维度的淘汰赛中，而此次能真正跑出来的玩家，其商业空间也将随着打开。 基于移动基座模...",
       "source": "36氪",
       "pub_date": "2026-05-02 21:17:06  +0800",
-      "fetched_at": "2026-05-04T20:00:14.685995",
+      "fetched_at": "2026-05-05T08:00:06.796240",
       "categories": [
         "ai",
         "robotics"
@@ -565,52 +544,12 @@
       "importance": 0.5
     },
     {
-      "title": "Mozilla 反对 Chrome 的 Prompt API",
-      "link": "https://www.solidot.org/story?sid=84199",
-      "summary": "Google Chrome 在 2025 年提出了 Prompt API，也就是为浏览器集成的本地模型——使用前需要下载——提供统一的 JavaScript API。Google 还有意让该 API 成为一个 W3C 标准。Chrome 桌面版集成的大模型是 Gemini Nano，使用该模型需要本地设备至少有 4GB 显存、16GB 内存和至少 22GB 可用空间（浏览器所在硬盘）。Mozilla 开发者发表声明反对 Chrome 的 Prompt API。开发者认为该 API 存在巨大的互操作性问题，因为不同的模型都有各种独特的特性，因此系统提示词需要对模型进行针对性调整，然而对一个模型进...",
-      "source": "Solidot",
-      "pub_date": "Fri, 01 May 2026 21:05:03 +0800",
-      "fetched_at": "2026-05-04T20:00:04.997516",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Google Chrome 在 2025 年提出了 Prompt API，也就是为浏览器集成的本地模型——使用前需要下载——提供统一的 JavaScript API。Google 还有意让该 API 成为一个 W3C 标准。Chrome 桌面版集成的大模型是 Gemini Nano，使用该模型需要本...",
-      "keywords": [
-        "api",
-        "chrome",
-        "prompt",
-        "gb",
-        "mozilla"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "内核曝出 Root 提权漏洞 Copy Fail",
-      "link": "https://www.solidot.org/story?sid=84200",
-      "summary": "Xint Code 团队报告了被称为 Copy Fail 的内核 root 提权漏洞。该漏洞非常容易利用，影响 2017 年以来的几乎所有内核版本。在漏洞披露前内核安全团队没有提前通知发行版也引发了争议。内核不将损坏的页面标记为可写回，因此磁盘上的文件内容不变，但内存中的页面缓存已被篡改。访问文件时，系统读取的是页面缓存，因此损坏的数据会立即影响整个系统。本地非特权用户可通过损坏 setuid 二进制文件的页面缓存获取 root 权限。由于页面缓存在主机和容器之间共享，攻击者可以跨容器边界利用此漏洞。该漏洞影响几乎所有发行版，主要发行版都已经释出或准备释出补丁。",
-      "source": "Solidot",
-      "pub_date": "Fri, 01 May 2026 22:48:55 +0800",
-      "fetched_at": "2026-05-04T20:00:04.997294",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Xint Code 团队报告了被称为 Copy Fail 的内核 root 提权漏洞。该漏洞非常容易利用，影响 2017 年以来的几乎所有内核版本。在漏洞披露前内核安全团队没有提前通知发行版也引发了争议。内核不将损坏的页面标记为可写回，因此磁盘上的文件内容不变，但内存中的页面缓存已被篡改。访问文件时...",
-      "keywords": [
-        "root",
-        "提权漏洞",
-        "copy",
-        "fail",
-        "内核曝出"
-      ],
-      "importance": 0
-    },
-    {
       "title": "为什么 OpenAI 的系统提示词要专门限制 Goblins",
       "link": "https://www.solidot.org/story?sid=84202",
       "summary": "OpenAI Codex CLI 系统提示词专门加入了一条对地精（Goblins）等词的限制：“never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant to the user's query”。官方解释称，从 GPT-5.1 开始该公司的模型在比喻中提及 goblin 等词的频率大增，ChatGPT 中 goblin 的使用量增加了 175%，grem...",
       "source": "Solidot",
       "pub_date": "Sat, 02 May 2026 00:27:08 +0800",
-      "fetched_at": "2026-05-04T20:00:04.996951",
+      "fetched_at": "2026-05-05T08:00:04.278655",
       "categories": [
         "ai"
       ],
@@ -630,7 +569,7 @@
       "summary": "杭州市中级人民法院公布了一起有关“AI 接替人类员工”的判例，判决公司因“AI 成本比人工低”而辞退员工系违法行为，涉事企业需要支付赔偿金 26 万元人民币。在本案中，现年 35 岁的小周(化名) 2022 年入职杭州某家科技公司担任 AI 大模型“质检员”，负责对 AI 大模型与用户交互形成的答案进行正确性判定。2025 年，该公司以“AI 大模型技术升级，原来需要人工完成的质检工作，现在 AI 自己就能做了”为由，试图对小周进行调岗降薪：从主管降为普通员工、月薪从 2.5 万元人民币降到 1.5 万元。小周拒绝如此安排，随后就被公司解除劳动合同。小周申请劳动仲裁，仲裁庭判定公司应当支付违法...",
       "source": "Solidot",
       "pub_date": "Sat, 02 May 2026 23:37:07 +0800",
-      "fetched_at": "2026-05-04T20:00:04.996486",
+      "fetched_at": "2026-05-05T08:00:04.277542",
       "categories": [
         "ai"
       ],
@@ -643,7 +582,67 @@
         "接替人类员工"
       ],
       "importance": 0
+    },
+    {
+      "title": "英国 NHS 以 AI 为由准备关闭所有开源库",
+      "link": "https://www.solidot.org/story?sid=84206",
+      "summary": "日程安排平台 Cal.com 上月宣布从开源转为闭源，理由是 AI 工具更容易从开源代码中发现漏洞，而安全性依赖于模糊，因此闭源有助于提高安全。现在英国国家医疗服务体系（NHS）以相同的理由准备关闭它几乎所有的开源库，这一决定引发了广泛争议和批评。批评者指出 NHS 公布的大部分开源库是数据集、内部工具、指南、研究工具、前端设计等，它们不会因为安全扫描技术的进步而受到影响。此外是否开源对于 Anthropic Mythos 之类的 AI 工具并无区别，因为它们也能分析二进制程序并寻找漏洞。批评者发表了公开信，呼吁 NHS 保持其代码公开。",
+      "source": "Solidot",
+      "pub_date": "Sun, 03 May 2026 00:07:05 +0800",
+      "fetched_at": "2026-05-05T08:00:04.277385",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "日程安排平台 Cal.com 上月宣布从开源转为闭源，理由是 AI 工具更容易从开源代码中发现漏洞，而安全性依赖于模糊，因此闭源有助于提高安全。现在英国国家医疗服务体系（NHS）以相同的理由准备关闭它几乎所有的开源库，这一决定引发了广泛争议和批评。批评者指出 NHS 公布的大部分开源库是数据集、内部...",
+      "keywords": [
+        "nhs",
+        "ai",
+        "英国",
+        "为由准备关闭所有开源库",
+        "日程安排平台"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "VS Code 默认在 commit 中插入 Co-Authored-by Copilot",
+      "link": "https://www.solidot.org/story?sid=84209",
+      "summary": "微软的编辑器 VS Code 被发现默认在 commit 中插入了 Co-Authored-by Copilot，不管用户有没有使用其 AI 助手 Copilot。此事再次在用户中引发了大量批评。微软开发者回应称他们将会在下个版本中解决默认启用的问题，称如果用户没有使用 AI 助手那么就不应该说代码是 Copilot 合作编写的。",
+      "source": "Solidot",
+      "pub_date": "Sun, 03 May 2026 23:34:19 +0800",
+      "fetched_at": "2026-05-05T08:00:04.276919",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "微软的编辑器 VS Code 被发现默认在 commit 中插入了 Co-Authored-by Copilot，不管用户有没有使用其 AI 助手 Copilot。此事再次在用户中引发了大量批评。微软开发者回应称他们将会在下个版本中解决默认启用的问题，称如果用户没有使用 AI 助手那么就不应该说代码...",
+      "keywords": [
+        "copilot",
+        "vs",
+        "code",
+        "commit",
+        "co"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "天文学家发现 27 颗围绕双恒星运行的候选行星",
+      "link": "https://www.solidot.org/story?sid=84210",
+      "summary": "天文学家发现了 27 颗围绕双恒星运行的候选行星，类似星球大战里的沙漠行星塔图因（Tatooine）。天文学家至今发现了 18 颗环双星行星，但类似环绕太阳运行的的单恒星行星则发现了逾 8000 颗。科学家以前通过凌日现象识别环双星行星，但需要在特定条件下才能观测到。现在他们采用了轨道进动（apsidal precession），寻找相互绕行且发生掩食的双星系统中轨道出现的摆动，这种摆动通常只能用存在第三个天体去解释。研究团队利用 NASA Transiting Exoplanet Survey Satellite 卫星收集的数据，从 1590 个恒星系统中识别出 36 个候选天体，其中 27...",
+      "source": "Solidot",
+      "pub_date": "Mon, 04 May 2026 20:56:29 +0800",
+      "fetched_at": "2026-05-05T08:00:04.276696",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "天文学家发现了 27 颗围绕双恒星运行的候选行星，类似星球大战里的沙漠行星塔图因（Tatooine）。天文学家至今发现了 18 颗环双星行星，但类似环绕太阳运行的的单恒星行星则发现了逾 8000 颗。科学家以前通过凌日现象识别环双星行星，但需要在特定条件下才能观测到。现在他们采用了轨道进动（apsi...",
+      "keywords": [
+        "颗围绕双恒星运行的候选行星",
+        "天文学家发现",
+        "天文学家发现了",
+        "类似星球大战里的沙漠行星塔图因",
+        "tatooine"
+      ],
+      "importance": 0.5
     }
   ],
-  "updated_at": "2026-05-04T20:00:53.032458"
+  "updated_at": "2026-05-05T08:00:27.936536"
 }

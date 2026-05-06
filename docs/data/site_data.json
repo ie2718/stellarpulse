@@ -5,21 +5,21 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-05-06T08:00:29.579454",
-    "total_items": 31
+    "last_update": "2026-05-06T12:00:44.610672",
+    "total_items": 17
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 28
+      "count": 15
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 4
+      "count": 1
     },
     "space": {
       "name": "Space",
@@ -29,164 +29,23 @@
     }
   },
   "stats": {
-    "total_items": 31,
-    "today_items": 31,
+    "total_items": 17,
+    "today_items": 17,
     "sources": {
-      "36氪": 17,
       "Solidot": 3,
       "量子位": 7,
-      "HackerNews": 4
+      "HackerNews": 7
     },
-    "last_update": "2026-05-06T08:00:29.579454"
+    "last_update": "2026-05-06T12:00:44.610672"
   },
   "trending": [
-    {
-      "title": "OpenAI与Anthropic合资企业洽谈收购AI服务公司",
-      "link": "https://36kr.com/newsflashes/3797027135315202?f=rss",
-      "summary": "OpenAI和Anthropic分别与私募股权公司成立的合资企业正在洽谈收购帮助企业管理人工智能系统的服务公司。据五位知情人士透露，OpenAI的合资企业Deployment Company已从TPG、贝恩资本等19家投资者处筹集约40亿美元，估值达100亿美元，目前有三笔交易进入后期阶段，主要目标是将数百名工程师和顾问纳入麾下。Anthropic则通过其合资企业筹集约15亿美元，投资者包括黑石集团、Hellman & Friedman和高盛。（新浪财经）",
-      "source": "36氪",
-      "pub_date": "2026-05-06 07:51:48  +0800",
-      "fetched_at": "2026-05-06T08:00:06.720155",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "OpenAI和Anthropic分别与私募股权公司成立的合资企业正在洽谈收购帮助企业管理人工智能系统的服务公司。据五位知情人士透露，OpenAI的合资企业Deployment Company已从TPG、贝恩资本等19家投资者处筹集约40亿美元，估值达100亿美元，目前有三笔交易进入后期阶段，主要目标...",
-      "keywords": [
-        "openai",
-        "anthropic",
-        "亿美元",
-        "合资企业洽谈收购",
-        "ai"
-      ],
-      "importance": 2.0
-    },
-    {
-      "title": "8点1氪丨豆包新增付费订阅；抖音集团副总裁回应红果短剧付费；苹果因Siri人工智能功能推迟发布，以2.5亿美元和解诉讼",
-      "link": "https://36kr.com/p/3797041945304327?f=rss",
-      "summary": "今日热点导览 分析师称iPhone 18 Pro定价策略激进，起步价8999元 胖东来郑州店注册成立，预计今年10月开业 保时捷卖掉布加迪，预计2026年销量下滑至3万辆 马斯克就推特持股披露诉讼与美证监会达成和解 三星继承人已付清12万亿韩元遗产税 TOP 3 大新闻 豆包将在免费模式外新增付费订阅，官方回应 近日，豆包App Store页面出现付费版本服务声明。对此，豆包官方回应称，豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，相关方案细节目前还在测试阶段。 另据接近豆包的人士透露，付费功能将主要专注在复杂任务和生产力场景，如PPT生成、数据分析、影视制作等。随着...",
-      "source": "36氪",
-      "pub_date": "2026-05-06 07:55:08  +0800",
-      "fetched_at": "2026-05-06T08:00:06.686441",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "今日热点导览 分析师称iPhone 18 Pro定价策略激进，起步价8999元 胖东来郑州店注册成立，预计今年10月开业 保时捷卖掉布加迪，预计2026年销量下滑至3万辆 马斯克就推特持股披露诉讼与美证监会达成和解 三星继承人已付清12万亿韩元遗产税 TOP 3 大新闻 豆包将在免费模式外新增付费订...",
-      "keywords": [
-        "氪丨豆包新增付费订阅",
-        "抖音集团副总裁回应红果短剧付费",
-        "苹果因",
-        "siri",
-        "人工智能功能推迟发布"
-      ],
-      "importance": 1.5
-    },
-    {
-      "title": "苹果因Siri人工智能功能推迟发布，以2.5亿美元和解诉讼",
-      "link": "https://36kr.com/newsflashes/3797014541802504?f=rss",
-      "summary": "苹果周二就一起股东诉讼达成和解，赔偿金额为2.5亿美元。该诉讼源于该公司推迟了其Siri语音助手的人工智能升级。该诉讼由彼得·兰德谢夫特于2024年在加利福尼亚州联邦法院提起，起因是这家iPhone制造商在2024年年度软件开发者大会上宣布了一系列AI升级功能 并开始投放广告，称这些功能将于当年秋季随新款iPhone一同推出。但最终发布的iPhone并未包含这些功能，原告方声称这损害了股东利益。（新浪财经）",
-      "source": "36氪",
-      "pub_date": "2026-05-06 07:37:59  +0800",
-      "fetched_at": "2026-05-06T08:00:06.720637",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "苹果周二就一起股东诉讼达成和解，赔偿金额为2.5亿美元。该诉讼源于该公司推迟了其Siri语音助手的人工智能升级。该诉讼由彼得·兰德谢夫特于2024年在加利福尼亚州联邦法院提起，起因是这家iPhone制造商在2024年年度软件开发者大会上宣布了一系列AI升级功能 并开始投放广告，称这些功能将于当年秋季...",
-      "keywords": [
-        "iphone",
-        "siri",
-        "苹果因",
-        "人工智能功能推迟发布",
-        "亿美元和解诉讼"
-      ],
-      "importance": 1.5
-    },
-    {
-      "title": "Alphabet发行欧元和加元债券，合计融资近170亿美元",
-      "link": "https://36kr.com/newsflashes/3797008763919368?f=rss",
-      "summary": "谷歌母公司Alphabet为支持人工智能（AI）投资，正在加大举债力度，在全球多个债券市场融资。Alphabet发行其史上规模最大的欧元计价债券，并首次发行加元债券，合计融资近170亿美元。几个月前，Alphabet发行了英镑和瑞郎计价债券，这也是该公司首次以这两种货币发债，当时还同步发行了美元债。（新浪财经）",
-      "source": "36氪",
-      "pub_date": "2026-05-06 07:17:03  +0800",
-      "fetched_at": "2026-05-06T08:00:06.721227",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "谷歌母公司Alphabet为支持人工智能（AI）投资，正在加大举债力度，在全球多个债券市场融资。Alphabet发行其史上规模最大的欧元计价债券，并首次发行加元债券，合计融资近170亿美元。几个月前，Alphabet发行了英镑和瑞郎计价债券，这也是该公司首次以这两种货币发债，当时还同步发行了美元债。...",
-      "keywords": [
-        "alphabet",
-        "合计融资近",
-        "亿美元",
-        "发行欧元和加元债券",
-        "谷歌母公司"
-      ],
-      "importance": 1.5
-    },
-    {
-      "title": "周杰伦伙伴，要被卖了",
-      "link": "https://36kr.com/p/3791838183234816?f=rss",
-      "summary": "图片来源：视觉中国 作者/吴琼 报道/投资界PEdaily 音乐顶流也迎来了卖身结局。 近日，华尔街大佬比尔·阿克曼旗下潘兴广场正式向环球音乐（UMG）发出一份收购要约——以现金加股票的方式收购环球音乐。由此，后者估值高达约640亿美元（约合人民币4300亿元）。 你或许不熟悉环球音乐，但一定听过来自这里的歌——周杰伦、陈奕迅、泰勒·斯威夫特、贾斯汀·比伯、防弹少年团……这些顶流艺人的音乐作品，均由环球音乐发行或持有版权。每当你打开音乐软件，也许就有一笔钱进了环球音乐的口袋。 如今面对天价邀约，这家音乐帝国正面临着抉择时刻。 估值4000亿，环球音乐要被卖了 此番买家，堪称华尔街的传奇人物。 ...",
-      "source": "36氪",
-      "pub_date": "2026-05-02 17:37:20  +0800",
-      "fetched_at": "2026-05-06T08:00:06.711481",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "近日，华尔街大佬比尔·阿克曼旗下潘兴广场正式向环球音乐（UMG）发出一份收购要约——以现金加股票的方式收购环球音乐。由此，后者估值高达约640亿美元（约合人民币4300亿元）。...",
-      "keywords": [
-        "周杰伦伙伴",
-        "要被卖了",
-        "图片来源",
-        "视觉中国",
-        "作者"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
-      "link": "https://36kr.com/p/3791662444911617?f=rss",
-      "summary": "梦晨 发自 凹非寺 苹果大失误！把自用的Claude.md打包到了官方App里。 这下直接被坐实了：苹果内部在使用Claude Code构建生产级应用。 这么大的公司，也在Vibe Coding？ 苹果内部在使用Claude Code构建生产级应用 项目级的Claude.md通常用来告诉AI这个项目是什么、怎么构建、要遵循哪些规范、避免哪些雷区…… 这家全球最注重保密的科技公司，还是把自己的秘密泄露了。 事故发生后后，苹果在24小时内已紧急撤回，但部分内容已经曝光。 等一下。 这和Claude Code源码泄露时把source map打包进发布版怎么一样一样的。 该不会这两个事故，罪魁祸首都是...",
-      "source": "36氪",
-      "pub_date": "2026-05-02 14:52:34  +0800",
-      "fetched_at": "2026-05-06T08:00:06.719753",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "苹果内部在使用Claude Code构建生产级应用 项目级的Claude.md通常用来告诉AI这个项目是什么、怎么构建、要遵循哪些规范、避免哪些雷区…… 这家全球最注重保密的科技公司，还是把自己的秘密泄露了。 这和Claude Code源码泄露时把source map打包进发布版怎么一样一样的。",
-      "keywords": [
-        "claude",
-        "md",
-        "code",
-        "app",
-        "vibe"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "Anthropic发布面向金融服务公司的新型AI智能体",
-      "link": "https://36kr.com/newsflashes/3797021079575559?f=rss",
-      "summary": "Anthropic PBC 推出了一系列新的AI智能体，旨在处理更广泛的金融服务任务。据称这些智能体可以撰写客户会议的演示文稿、审核财务报表，并将案件上报进行合规审查。这十款新工具的目标用户是银行、保险、资产管理和金融科技领域的专业人士。Anthropic首席执行官Dario Amodei将于周二在纽约举行的Anthropic活动上与摩根大通首席执行官Jamie Dimon一起发表关于人工智能的演讲，届时银行业领袖也将出席。（财联社）",
-      "source": "36氪",
-      "pub_date": "2026-05-06 07:41:39  +0800",
-      "fetched_at": "2026-05-06T08:00:06.720555",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Anthropic PBC 推出了一系列新的AI智能体，旨在处理更广泛的金融服务任务。据称这些智能体可以撰写客户会议的演示文稿、审核财务报表，并将案件上报进行合规审查。这十款新工具的目标用户是银行、保险、资产管理和金融科技领域的专业人士。Anthropic首席执行官Dario Amodei将于周二在...",
-      "keywords": [
-        "anthropic",
-        "ai",
-        "智能体",
-        "发布面向金融服务公司的新型",
-        "pbc"
-      ],
-      "importance": 1.0
-    },
     {
       "title": "天文学家发现 27 颗围绕双恒星运行的候选行星",
       "link": "https://www.solidot.org/story?sid=84210",
       "summary": "天文学家发现了 27 颗围绕双恒星运行的候选行星，类似星球大战里的沙漠行星塔图因（Tatooine）。天文学家至今发现了 18 颗环双星行星，但类似环绕太阳运行的的单恒星行星则发现了逾 8000 颗。科学家以前通过凌日现象识别环双星行星，但需要在特定条件下才能观测到。现在他们采用了轨道进动（apsidal precession），寻找相互绕行且发生掩食的双星系统中轨道出现的摆动，这种摆动通常只能用存在第三个天体去解释。研究团队利用 NASA Transiting Exoplanet Survey Satellite 卫星收集的数据，从 1590 个恒星系统中识别出 36 个候选天体，其中 27...",
       "source": "Solidot",
       "pub_date": "Mon, 04 May 2026 20:56:29 +0800",
-      "fetched_at": "2026-05-06T08:00:06.088412",
+      "fetched_at": "2026-05-06T12:00:04.778743",
       "categories": [
         "space"
       ],
@@ -206,7 +65,7 @@
       "summary": "微软的编辑器 VS Code 被发现默认在 commit 中插入了 Co-Authored-by Copilot，不管用户有没有使用其 AI 助手 Copilot。此事再次在用户中引发了大量批评。微软开发者回应称他们将会在下个版本中解决默认启用的问题，称如果用户没有使用 AI 助手那么就不应该说代码是 Copilot 合作编写的。",
       "source": "Solidot",
       "pub_date": "Sun, 03 May 2026 23:34:19 +0800",
-      "fetched_at": "2026-05-06T08:00:06.088580",
+      "fetched_at": "2026-05-06T12:00:04.778907",
       "categories": [
         "ai"
       ],
@@ -226,7 +85,7 @@
       "summary": "日程安排平台 Cal.com 上月宣布从开源转为闭源，理由是 AI 工具更容易从开源代码中发现漏洞，而安全性依赖于模糊，因此闭源有助于提高安全。现在英国国家医疗服务体系（NHS）以相同的理由准备关闭它几乎所有的开源库，这一决定引发了广泛争议和批评。批评者指出 NHS 公布的大部分开源库是数据集、内部工具、指南、研究工具、前端设计等，它们不会因为安全扫描技术的进步而受到影响。此外是否开源对于 Anthropic Mythos 之类的 AI 工具并无区别，因为它们也能分析二进制程序并寻找漏洞。批评者发表了公开信，呼吁 NHS 保持其代码公开。",
       "source": "Solidot",
       "pub_date": "Sun, 03 May 2026 00:07:05 +0800",
-      "fetched_at": "2026-05-06T08:00:06.089209",
+      "fetched_at": "2026-05-06T12:00:04.779376",
       "categories": [
         "ai"
       ],
@@ -239,20 +98,159 @@
         "日程安排平台"
       ],
       "importance": 0.5
+    },
+    {
+      "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+      "link": "https://www.qbitai.com/2026/05/412080.html",
+      "summary": "瓜多到吃不完",
+      "source": "量子位",
+      "pub_date": "Sun, 03 May 2026 09:43:20 +0000",
+      "fetched_at": "2026-05-06T12:00:20.058329",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "瓜多到吃不完",
+      "keywords": [
+        "太抓马了",
+        "马斯克",
+        "openai",
+        "开庭",
+        "硅谷巨富互揭老底像极了村口吵架"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+      "link": "https://www.qbitai.com/2026/05/412713.html",
+      "summary": "",
+      "source": "量子位",
+      "pub_date": "Sat, 02 May 2026 03:30:12 +0000",
+      "fetched_at": "2026-05-06T12:00:20.058750",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "",
+      "keywords": [
+        "苹果官方",
+        "app",
+        "误打包了",
+        "claude",
+        "md"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+      "summary": "👍 1308 | 💬 882",
+      "source": "HackerNews",
+      "pub_date": "2026-05-05T15:34:55",
+      "fetched_at": "2026-05-06T12:00:43.584567",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 1308 | 💬 882",
+      "keywords": [
+        "google",
+        "chrome",
+        "silently",
+        "installs",
+        "gb"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "刚刚，ChatGPT免费模型升级了：幻觉砍半/记忆更强/回答更简洁",
+      "link": "https://www.qbitai.com/2026/05/412995.html",
+      "summary": "奥特曼特别强调，如果你最近都只用深度思考模型了，不妨回来看看",
+      "source": "量子位",
+      "pub_date": "Wed, 06 May 2026 00:22:35 +0000",
+      "fetched_at": "2026-05-06T12:00:20.058028",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "奥特曼特别强调，如果你最近都只用深度思考模型了，不妨回来看看",
+      "keywords": [
+        "刚刚",
+        "chatgpt",
+        "免费模型升级了",
+        "幻觉砍半",
+        "记忆更强"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "“DeepSeek版Claude Code”，Github 2.3k星",
+      "link": "https://www.qbitai.com/2026/05/412914.html",
+      "summary": "专门针对DeepSeek优化",
+      "source": "量子位",
+      "pub_date": "Mon, 04 May 2026 06:09:16 +0000",
+      "fetched_at": "2026-05-06T12:00:20.058191",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "专门针对DeepSeek优化",
+      "keywords": [
+        "deepseek",
+        "claude",
+        "code",
+        "github",
+        "专门针对"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "不好！1930年的AI都来抢程序员饭碗了",
+      "link": "https://www.qbitai.com/2026/05/412896.html",
+      "summary": "完全无需互联网数据",
+      "source": "量子位",
+      "pub_date": "Sun, 03 May 2026 09:42:55 +0000",
+      "fetched_at": "2026-05-06T12:00:20.058469",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "完全无需互联网数据",
+      "keywords": [
+        "不好",
+        "年的",
+        "ai",
+        "都来抢程序员饭碗了",
+        "完全无需互联网数据"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+      "link": "https://www.qbitai.com/2026/05/412870.html",
+      "summary": "与全球社区共同推动具身智能创新",
+      "source": "量子位",
+      "pub_date": "Sun, 03 May 2026 03:56:44 +0000",
+      "fetched_at": "2026-05-06T12:00:20.058611",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "与全球社区共同推动具身智能创新",
+      "keywords": [
+        "突破视觉仿真算力瓶颈",
+        "新一代具身智能仿真框架开源",
+        "高吞吐并行高保真渲染助力规模化训练",
+        "与全球社区共同推动具身智能创新"
+      ],
+      "importance": 0
     }
   ],
   "latest": [
     {
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
       "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "summary": "👍 1204 | 💬 819",
+      "summary": "👍 1308 | 💬 882",
       "source": "HackerNews",
       "pub_date": "2026-05-05T15:34:55",
-      "fetched_at": "2026-05-06T08:00:27.590112",
+      "fetched_at": "2026-05-06T12:00:43.584567",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 1204 | 💬 819",
+      "ai_summary": "👍 1308 | 💬 882",
       "keywords": [
         "google",
         "chrome",
@@ -265,14 +263,14 @@
     {
       "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
       "link": "https://news.ycombinator.com/item?id=48023496",
-      "summary": "👍 88 | 💬 12",
+      "summary": "👍 105 | 💬 27",
       "source": "HackerNews",
       "pub_date": "2026-05-05T23:03:18",
-      "fetched_at": "2026-05-06T08:00:21.366636",
+      "fetched_at": "2026-05-06T12:00:41.092172",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 88 | 💬 12",
+      "ai_summary": "👍 105 | 💬 27",
       "keywords": [
         "agents",
         "show",
@@ -285,14 +283,14 @@
     {
       "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
       "link": "https://paletteinspiration.com/",
-      "summary": "👍 89 | 💬 35",
+      "summary": "👍 129 | 💬 45",
       "source": "HackerNews",
       "pub_date": "2026-05-06T02:13:14",
-      "fetched_at": "2026-05-06T08:00:16.512646",
+      "fetched_at": "2026-05-06T12:00:37.420506",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 89 | 💬 35",
+      "ai_summary": "👍 129 | 💬 45",
       "keywords": [
         "show",
         "hn",
@@ -303,16 +301,36 @@
       "importance": 0
     },
     {
-      "title": "Three Inverse Laws of AI",
-      "link": "https://susam.net/inverse-laws-of-robotics.html",
-      "summary": "👍 335 | 💬 239",
+      "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
+      "link": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
+      "summary": "👍 26 | 💬 2",
       "source": "HackerNews",
-      "pub_date": "2026-05-05T23:27:18",
-      "fetched_at": "2026-05-06T08:00:12.471837",
+      "pub_date": "2026-05-03T23:28:48",
+      "fetched_at": "2026-05-06T12:00:33.568564",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 335 | 💬 239",
+      "ai_summary": "👍 26 | 💬 2",
+      "keywords": [
+        "wiki",
+        "builder",
+        "skill",
+        "to",
+        "build"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Three Inverse Laws of AI",
+      "link": "https://susam.net/inverse-laws-of-robotics.html",
+      "summary": "👍 388 | 💬 260",
+      "source": "HackerNews",
+      "pub_date": "2026-05-05T23:27:18",
+      "fetched_at": "2026-05-06T12:00:29.843534",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 388 | 💬 260",
       "keywords": [
         "three",
         "inverse",
@@ -323,22 +341,42 @@
       "importance": 0
     },
     {
-      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
-      "link": "https://www.qbitai.com/2026/05/412577.html",
-      "summary": "真机部署“零微调”",
-      "source": "量子位",
-      "pub_date": "Fri, 01 May 2026 06:28:46 +0000",
-      "fetched_at": "2026-05-06T08:00:06.848090",
+      "title": "Telus Uses AI to Alter Call-Agent Accents",
+      "link": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+      "summary": "👍 56 | 💬 23",
+      "source": "HackerNews",
+      "pub_date": "2026-05-06T09:38:44",
+      "fetched_at": "2026-05-06T12:00:24.640243",
       "categories": [
-        "robotics"
+        "ai"
       ],
-      "ai_summary": "真机部署“零微调”",
+      "ai_summary": "👍 56 | 💬 23",
       "keywords": [
-        "突破视觉仿真算力瓶颈",
-        "新一代具身智能仿真框架开源",
-        "高吞吐并行高保真渲染助力规模化训练",
-        "真机部署",
-        "零微调"
+        "telus",
+        "uses",
+        "ai",
+        "to",
+        "alter"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "link": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "summary": "👍 25 | 💬 4",
+      "source": "HackerNews",
+      "pub_date": "2026-05-06T11:10:33",
+      "fetched_at": "2026-05-06T12:00:22.207777",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 25 | 💬 4",
+      "keywords": [
+        "agents",
+        "can",
+        "now",
+        "create",
+        "cloudflare"
       ],
       "importance": 0
     },
@@ -348,7 +386,7 @@
       "summary": "一代科研人的赛博苦中作乐",
       "source": "量子位",
       "pub_date": "Fri, 01 May 2026 13:20:15 +0000",
-      "fetched_at": "2026-05-06T08:00:06.847946",
+      "fetched_at": "2026-05-06T12:00:20.058904",
       "categories": [
         "ai"
       ],
@@ -368,7 +406,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Sat, 02 May 2026 03:30:12 +0000",
-      "fetched_at": "2026-05-06T08:00:06.847818",
+      "fetched_at": "2026-05-06T12:00:20.058750",
       "categories": [
         "ai"
       ],
@@ -388,7 +426,7 @@
       "summary": "与全球社区共同推动具身智能创新",
       "source": "量子位",
       "pub_date": "Sun, 03 May 2026 03:56:44 +0000",
-      "fetched_at": "2026-05-06T08:00:06.847743",
+      "fetched_at": "2026-05-06T12:00:20.058611",
       "categories": [
         "robotics"
       ],
@@ -407,7 +445,7 @@
       "summary": "完全无需互联网数据",
       "source": "量子位",
       "pub_date": "Sun, 03 May 2026 09:42:55 +0000",
-      "fetched_at": "2026-05-06T08:00:06.847667",
+      "fetched_at": "2026-05-06T12:00:20.058469",
       "categories": [
         "ai"
       ],
@@ -427,7 +465,7 @@
       "summary": "瓜多到吃不完",
       "source": "量子位",
       "pub_date": "Sun, 03 May 2026 09:43:20 +0000",
-      "fetched_at": "2026-05-06T08:00:06.847586",
+      "fetched_at": "2026-05-06T12:00:20.058329",
       "categories": [
         "ai"
       ],
@@ -447,7 +485,7 @@
       "summary": "专门针对DeepSeek优化",
       "source": "量子位",
       "pub_date": "Mon, 04 May 2026 06:09:16 +0000",
-      "fetched_at": "2026-05-06T08:00:06.847498",
+      "fetched_at": "2026-05-06T12:00:20.058191",
       "categories": [
         "ai"
       ],
@@ -462,185 +500,85 @@
       "importance": 0
     },
     {
-      "title": "Meta正开发人工智能代理“Hatch”",
-      "link": "https://36kr.com/newsflashes/3796990208810248?f=rss",
-      "summary": "据报道，Meta Platforms正开发一款名为“Hatch”的人工智能代理，目标6月底前内部测试。此外，Meta还将在Instagram上推出一款基于代理的购物工具。（界面）",
-      "source": "36氪",
-      "pub_date": "2026-05-06 07:13:52  +0800",
-      "fetched_at": "2026-05-06T08:00:06.721379",
+      "title": "刚刚，ChatGPT免费模型升级了：幻觉砍半/记忆更强/回答更简洁",
+      "link": "https://www.qbitai.com/2026/05/412995.html",
+      "summary": "奥特曼特别强调，如果你最近都只用深度思考模型了，不妨回来看看",
+      "source": "量子位",
+      "pub_date": "Wed, 06 May 2026 00:22:35 +0000",
+      "fetched_at": "2026-05-06T12:00:20.058028",
       "categories": [
         "ai"
       ],
-      "ai_summary": "据报道，Meta Platforms正开发一款名为“Hatch”的人工智能代理，目标6月底前内部测试。此外，Meta还将在Instagram上推出一款基于代理的购物工具。（界面）",
+      "ai_summary": "奥特曼特别强调，如果你最近都只用深度思考模型了，不妨回来看看",
       "keywords": [
-        "meta",
-        "hatch",
-        "正开发人工智能代理",
-        "据报道",
-        "platforms"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "苹果将允许用户选用多款第三方人工智能服务",
-      "link": "https://36kr.com/newsflashes/3797008058375428?f=rss",
-      "summary": "苹果公司将允许用户从一系列外部人工智能服务中进行选择，为其软件各项功能提供支持。此举旨在推进将旗下设备打造为综合性AI平台的战略。知情人士表示，用户将能够在多个第三方AI模型中进行选择，用于生成和编辑文本及图像等任务。这项变化预计将于今年秋季随iOS 27、iPadOS 27 和macOS 27上线。（新浪财经）",
-      "source": "36氪",
-      "pub_date": "2026-05-06 07:16:20  +0800",
-      "fetched_at": "2026-05-06T08:00:06.721306",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "苹果公司将允许用户从一系列外部人工智能服务中进行选择，为其软件各项功能提供支持。此举旨在推进将旗下设备打造为综合性AI平台的战略。知情人士表示，用户将能够在多个第三方AI模型中进行选择，用于生成和编辑文本及图像等任务。这项变化预计将于今年秋季随iOS 27、iPadOS 27 和macOS 27上线...",
-      "keywords": [
-        "ai",
-        "苹果将允许用户选用多款第三方人工智能服务",
-        "苹果公司将允许用户从一系列外部人工智能服务中进行选择",
-        "为其软件各项功能提供支持",
-        "此举旨在推进将旗下设备打造为综合性"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "Alphabet发行欧元和加元债券，合计融资近170亿美元",
-      "link": "https://36kr.com/newsflashes/3797008763919368?f=rss",
-      "summary": "谷歌母公司Alphabet为支持人工智能（AI）投资，正在加大举债力度，在全球多个债券市场融资。Alphabet发行其史上规模最大的欧元计价债券，并首次发行加元债券，合计融资近170亿美元。几个月前，Alphabet发行了英镑和瑞郎计价债券，这也是该公司首次以这两种货币发债，当时还同步发行了美元债。（新浪财经）",
-      "source": "36氪",
-      "pub_date": "2026-05-06 07:17:03  +0800",
-      "fetched_at": "2026-05-06T08:00:06.721227",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "谷歌母公司Alphabet为支持人工智能（AI）投资，正在加大举债力度，在全球多个债券市场融资。Alphabet发行其史上规模最大的欧元计价债券，并首次发行加元债券，合计融资近170亿美元。几个月前，Alphabet发行了英镑和瑞郎计价债券，这也是该公司首次以这两种货币发债，当时还同步发行了美元债。...",
-      "keywords": [
-        "alphabet",
-        "合计融资近",
-        "亿美元",
-        "发行欧元和加元债券",
-        "谷歌母公司"
-      ],
-      "importance": 1.5
-    },
-    {
-      "title": "黑石集团、KKR正就接入谷歌的AI模型与Alphabet进行谈判",
-      "link": "https://36kr.com/newsflashes/3797010754657280?f=rss",
-      "summary": "黑石集团、KKR正与Alphabet进行谈判，以便让他们所拥有的公司能够接入谷歌的人工智能模型。Alphabet也在与EQT讨论获取谷歌的人工智能模型。（财联社）",
-      "source": "36氪",
-      "pub_date": "2026-05-06 07:19:04  +0800",
-      "fetched_at": "2026-05-06T08:00:06.721078",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "黑石集团、KKR正与Alphabet进行谈判，以便让他们所拥有的公司能够接入谷歌的人工智能模型。Alphabet也在与EQT讨论获取谷歌的人工智能模型。（财联社）",
-      "keywords": [
-        "alphabet",
-        "黑石集团",
-        "kkr",
-        "进行谈判",
-        "正就接入谷歌的"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "OpenAI：GPT-5.5 Instant从今天开始向所有ChatGPT用户推出",
-      "link": "https://36kr.com/newsflashes/3797010059385864?f=rss",
-      "summary": "OpenAI称，GPT-5.5 Instant从今天开始向所有ChatGPT用户推出，对于付费用户，GPT‑5.3 Instant将在未来3个月内继续可用，用户可通过模型配置设置访问，之后该版本将正式退役。记忆来源功能正在网页端向所有ChatGPT消费级套餐用户逐步推出，并即将在移动端上线。（财联社）",
-      "source": "36氪",
-      "pub_date": "2026-05-06 07:26:27  +0800",
-      "fetched_at": "2026-05-06T08:00:06.720938",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "OpenAI称，GPT-5.5 Instant从今天开始向所有ChatGPT用户推出，对于付费用户，GPT‑5.3 Instant将在未来3个月内继续可用，用户可通过模型配置设置访问，之后该版本将正式退役。记忆来源功能正在网页端向所有ChatGPT消费级套餐用户逐步推出，并即将在移动端上线。（财联社...",
-      "keywords": [
-        "gpt",
-        "instant",
+        "刚刚",
         "chatgpt",
-        "openai",
-        "从今天开始向所有"
+        "免费模型升级了",
+        "幻觉砍半",
+        "记忆更强"
       ],
-      "importance": 0.5
+      "importance": 0
     },
     {
-      "title": "亚马逊将在法国投资超150亿欧元，涉物流中心、云计算、AI等领域",
-      "link": "https://36kr.com/newsflashes/3797011126099206?f=rss",
-      "summary": "当地时间5月5日，亚马逊宣布计划在2026年至2028年期间在法国投资超150亿欧元，创造超7000个永久性就业岗位，这将是其在该国最大一笔投资。这些投资涵盖基础设施建设和运营支出，包括新建物流中心、投资现有网络以及在法国发展云计算和人工智能能力。（界面）",
-      "source": "36氪",
-      "pub_date": "2026-05-06 07:30:31  +0800",
-      "fetched_at": "2026-05-06T08:00:06.720865",
+      "title": "英国 NHS 以 AI 为由准备关闭所有开源库",
+      "link": "https://www.solidot.org/story?sid=84206",
+      "summary": "日程安排平台 Cal.com 上月宣布从开源转为闭源，理由是 AI 工具更容易从开源代码中发现漏洞，而安全性依赖于模糊，因此闭源有助于提高安全。现在英国国家医疗服务体系（NHS）以相同的理由准备关闭它几乎所有的开源库，这一决定引发了广泛争议和批评。批评者指出 NHS 公布的大部分开源库是数据集、内部工具、指南、研究工具、前端设计等，它们不会因为安全扫描技术的进步而受到影响。此外是否开源对于 Anthropic Mythos 之类的 AI 工具并无区别，因为它们也能分析二进制程序并寻找漏洞。批评者发表了公开信，呼吁 NHS 保持其代码公开。",
+      "source": "Solidot",
+      "pub_date": "Sun, 03 May 2026 00:07:05 +0800",
+      "fetched_at": "2026-05-06T12:00:04.779376",
       "categories": [
         "ai"
       ],
-      "ai_summary": "当地时间5月5日，亚马逊宣布计划在2026年至2028年期间在法国投资超150亿欧元，创造超7000个永久性就业岗位，这将是其在该国最大一笔投资。这些投资涵盖基础设施建设和运营支出，包括新建物流中心、投资现有网络以及在法国发展云计算和人工智能能力。（界面）",
+      "ai_summary": "日程安排平台 Cal.com 上月宣布从开源转为闭源，理由是 AI 工具更容易从开源代码中发现漏洞，而安全性依赖于模糊，因此闭源有助于提高安全。现在英国国家医疗服务体系（NHS）以相同的理由准备关闭它几乎所有的开源库，这一决定引发了广泛争议和批评。批评者指出 NHS 公布的大部分开源库是数据集、内部...",
       "keywords": [
-        "亿欧元",
-        "亚马逊将在法国投资超",
-        "涉物流中心",
-        "云计算",
-        "ai"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "苹果因Siri人工智能功能推迟发布，以2.5亿美元和解诉讼",
-      "link": "https://36kr.com/newsflashes/3797014541802504?f=rss",
-      "summary": "苹果周二就一起股东诉讼达成和解，赔偿金额为2.5亿美元。该诉讼源于该公司推迟了其Siri语音助手的人工智能升级。该诉讼由彼得·兰德谢夫特于2024年在加利福尼亚州联邦法院提起，起因是这家iPhone制造商在2024年年度软件开发者大会上宣布了一系列AI升级功能 并开始投放广告，称这些功能将于当年秋季随新款iPhone一同推出。但最终发布的iPhone并未包含这些功能，原告方声称这损害了股东利益。（新浪财经）",
-      "source": "36氪",
-      "pub_date": "2026-05-06 07:37:59  +0800",
-      "fetched_at": "2026-05-06T08:00:06.720637",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "苹果周二就一起股东诉讼达成和解，赔偿金额为2.5亿美元。该诉讼源于该公司推迟了其Siri语音助手的人工智能升级。该诉讼由彼得·兰德谢夫特于2024年在加利福尼亚州联邦法院提起，起因是这家iPhone制造商在2024年年度软件开发者大会上宣布了一系列AI升级功能 并开始投放广告，称这些功能将于当年秋季...",
-      "keywords": [
-        "iphone",
-        "siri",
-        "苹果因",
-        "人工智能功能推迟发布",
-        "亿美元和解诉讼"
-      ],
-      "importance": 1.5
-    },
-    {
-      "title": "Anthropic发布面向金融服务公司的新型AI智能体",
-      "link": "https://36kr.com/newsflashes/3797021079575559?f=rss",
-      "summary": "Anthropic PBC 推出了一系列新的AI智能体，旨在处理更广泛的金融服务任务。据称这些智能体可以撰写客户会议的演示文稿、审核财务报表，并将案件上报进行合规审查。这十款新工具的目标用户是银行、保险、资产管理和金融科技领域的专业人士。Anthropic首席执行官Dario Amodei将于周二在纽约举行的Anthropic活动上与摩根大通首席执行官Jamie Dimon一起发表关于人工智能的演讲，届时银行业领袖也将出席。（财联社）",
-      "source": "36氪",
-      "pub_date": "2026-05-06 07:41:39  +0800",
-      "fetched_at": "2026-05-06T08:00:06.720555",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Anthropic PBC 推出了一系列新的AI智能体，旨在处理更广泛的金融服务任务。据称这些智能体可以撰写客户会议的演示文稿、审核财务报表，并将案件上报进行合规审查。这十款新工具的目标用户是银行、保险、资产管理和金融科技领域的专业人士。Anthropic首席执行官Dario Amodei将于周二在...",
-      "keywords": [
-        "anthropic",
+        "nhs",
         "ai",
-        "智能体",
-        "发布面向金融服务公司的新型",
-        "pbc"
+        "英国",
+        "为由准备关闭所有开源库",
+        "日程安排平台"
       ],
-      "importance": 1.0
+      "importance": 0.5
     },
     {
-      "title": "多家出版商起诉Meta指控其盗用版权作品训练人工智能",
-      "link": "https://36kr.com/newsflashes/3797024101768192?f=rss",
-      "summary": "多家出版商对Meta平台公司提起集体诉讼，指控其非法使用受版权保护的作品，用于搜集素材并训练旗下人工智能模型。此次发起诉讼的机构与个人包括：圣智学习（Cengage Learning）、阿歇特出版（Hachette）、麦克米伦（Macmillan）、麦格劳（McGraw）以及作家斯科特・图罗，他们要求启动陪审团庭审，审理此次版权侵权诉求。（新浪财经）",
-      "source": "36氪",
-      "pub_date": "2026-05-06 07:44:43  +0800",
-      "fetched_at": "2026-05-06T08:00:06.720467",
+      "title": "VS Code 默认在 commit 中插入 Co-Authored-by Copilot",
+      "link": "https://www.solidot.org/story?sid=84209",
+      "summary": "微软的编辑器 VS Code 被发现默认在 commit 中插入了 Co-Authored-by Copilot，不管用户有没有使用其 AI 助手 Copilot。此事再次在用户中引发了大量批评。微软开发者回应称他们将会在下个版本中解决默认启用的问题，称如果用户没有使用 AI 助手那么就不应该说代码是 Copilot 合作编写的。",
+      "source": "Solidot",
+      "pub_date": "Sun, 03 May 2026 23:34:19 +0800",
+      "fetched_at": "2026-05-06T12:00:04.778907",
       "categories": [
         "ai"
       ],
-      "ai_summary": "多家出版商对Meta平台公司提起集体诉讼，指控其非法使用受版权保护的作品，用于搜集素材并训练旗下人工智能模型。此次发起诉讼的机构与个人包括：圣智学习（Cengage Learning）、阿歇特出版（Hachette）、麦克米伦（Macmillan）、麦格劳（McGraw）以及作家斯科特・图罗，他们要...",
+      "ai_summary": "微软的编辑器 VS Code 被发现默认在 commit 中插入了 Co-Authored-by Copilot，不管用户有没有使用其 AI 助手 Copilot。此事再次在用户中引发了大量批评。微软开发者回应称他们将会在下个版本中解决默认启用的问题，称如果用户没有使用 AI 助手那么就不应该说代码...",
       "keywords": [
-        "meta",
-        "多家出版商起诉",
-        "指控其盗用版权作品训练人工智能",
-        "多家出版商对",
-        "平台公司提起集体诉讼"
+        "copilot",
+        "vs",
+        "code",
+        "commit",
+        "co"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "天文学家发现 27 颗围绕双恒星运行的候选行星",
+      "link": "https://www.solidot.org/story?sid=84210",
+      "summary": "天文学家发现了 27 颗围绕双恒星运行的候选行星，类似星球大战里的沙漠行星塔图因（Tatooine）。天文学家至今发现了 18 颗环双星行星，但类似环绕太阳运行的的单恒星行星则发现了逾 8000 颗。科学家以前通过凌日现象识别环双星行星，但需要在特定条件下才能观测到。现在他们采用了轨道进动（apsidal precession），寻找相互绕行且发生掩食的双星系统中轨道出现的摆动，这种摆动通常只能用存在第三个天体去解释。研究团队利用 NASA Transiting Exoplanet Survey Satellite 卫星收集的数据，从 1590 个恒星系统中识别出 36 个候选天体，其中 27...",
+      "source": "Solidot",
+      "pub_date": "Mon, 04 May 2026 20:56:29 +0800",
+      "fetched_at": "2026-05-06T12:00:04.778743",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "天文学家发现了 27 颗围绕双恒星运行的候选行星，类似星球大战里的沙漠行星塔图因（Tatooine）。天文学家至今发现了 18 颗环双星行星，但类似环绕太阳运行的的单恒星行星则发现了逾 8000 颗。科学家以前通过凌日现象识别环双星行星，但需要在特定条件下才能观测到。现在他们采用了轨道进动（apsi...",
+      "keywords": [
+        "颗围绕双恒星运行的候选行星",
+        "天文学家发现",
+        "天文学家发现了",
+        "类似星球大战里的沙漠行星塔图因",
+        "tatooine"
       ],
       "importance": 0.5
     }
   ],
-  "updated_at": "2026-05-06T08:00:29.579454"
+  "updated_at": "2026-05-06T12:00:44.610672"
 }

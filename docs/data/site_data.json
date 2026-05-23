@@ -5,39 +5,38 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-05-23T12:00:45.831008",
-    "total_items": 28
+    "last_update": "2026-05-23T20:00:47.260047",
+    "total_items": 18
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 23
+      "count": 15
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 4
+      "count": 3
     },
     "space": {
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 5
+      "count": 3
     }
   },
   "stats": {
-    "total_items": 28,
-    "today_items": 28,
+    "total_items": 18,
+    "today_items": 18,
     "sources": {
       "Solidot": 9,
-      "36氪": 10,
-      "HackerNews": 7,
-      "量子位": 2
+      "量子位": 5,
+      "HackerNews": 4
     },
-    "last_update": "2026-05-23T12:00:45.831008"
+    "last_update": "2026-05-23T20:00:47.260047"
   },
   "trending": [
     {
@@ -46,7 +45,7 @@
       "summary": "SpaceX 周三晚上向美国证券交易委员会（SEC）递交了招股说明书，首次披露了其财务状况。根据招股说明书，在合并了马斯克（Elon Musk）旗下的 xAI 和 X/Twitter 之后，SpaceX 最大的收入来源就是今年五月与 Anthropic 达成的为期三年的数据中心交易，租用 Colossus 1 园区的算力，每月支付 12.5 亿美元。但这笔交易并非是保障性，任何一方都可以提前 90 天通知终止交易。其它数据包括：2025 年营收 187 亿美元，营业亏损 26 亿美元，净亏损 49 亿美元。其中卫星宽带 Starlink / Connectivity 业务营收 114 亿美元营...",
       "source": "Solidot",
       "pub_date": "Thu, 21 May 2026 16:22:11 +0800",
-      "fetched_at": "2026-05-23T12:00:02.173727",
+      "fetched_at": "2026-05-23T20:00:02.338867",
       "categories": [
         "ai",
         "space"
@@ -62,52 +61,12 @@
       "importance": 2.0
     },
     {
-      "title": "氪星晚报｜优步与印度JSW集团达成协议，合作在印度开发及部署电动汽车；英伟达、AMD、英特尔参投，AI初创公司Hark完成7亿美元融资；神舟二十三号发射在即，各系统准备就绪",
-      "link": "https://36kr.com/p/3816943010071427?f=rss",
-      "summary": "大公司： Jefferies预计7-Eleven日本业务营业利润将达2270亿日元，本财年同店销售增长势头强劲 投行杰富瑞（Jefferies）分析师栗山俊介在最新发布的研究报告中指出，凭借在现做食品领域的拓展及有效的营销策略，日本零售巨头零售集团7&I控股（Seven & i Holdings）旗下的日本7-Eleven便利店本财年同店销售额有望实现稳步增长。报告预测，7&I控股国内便利店业务在本财年的营业利润将达到2270亿日元，且在下一财年有望继续增长4.8%。（新浪财经） 雅诗兰黛与Puig终止合并谈判，组建美妆巨头计划作罢 美国美妆巨头雅诗兰黛已终止与西班牙竞品Puig的合并谈判，这...",
-      "source": "36氪",
-      "pub_date": "2026-05-22 20:02:33  +0800",
-      "fetched_at": "2026-05-23T12:00:16.448092",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "大公司： Jefferies预计7-Eleven日本业务营业利润将达2270亿日元，本财年同店销售增长势头强劲 投行杰富瑞（Jefferies）分析师栗山俊介在最新发布的研究报告中指出，凭借在现做食品领域的拓展及有效的营销策略，日本零售巨头零售集团7&I控股（Seven & i Holdings）旗...",
-      "keywords": [
-        "jefferies",
-        "eleven",
-        "亿日元",
-        "puig",
-        "氪星晚报"
-      ],
-      "importance": 2.0
-    },
-    {
-      "title": "Anthropic最快下周完成逾300亿美元融资轮",
-      "link": "https://36kr.com/newsflashes/3821194878947715?f=rss",
-      "summary": "Anthropic PBC最快将于下周完成最新一轮融资，融资额可能超过300亿美元，公司估值超过9000亿美元，从而超越竞争对手OpenAI，成为全球估值最高的人工智能初创公司。据报道，红杉资本、Dragoneer Investment Group、Altimeter Capital和Greenoaks Capital Partners预计将联合领投本轮融资。上述每家公司计划投资约20亿美元。（新浪财经）",
-      "source": "36氪",
-      "pub_date": "2026-05-23 09:30:22  +0800",
-      "fetched_at": "2026-05-23T12:00:16.463074",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Anthropic PBC最快将于下周完成最新一轮融资，融资额可能超过300亿美元，公司估值超过9000亿美元，从而超越竞争对手OpenAI，成为全球估值最高的人工智能初创公司。据报道，红杉资本、Dragoneer Investment Group、Altimeter Capital和Greenoa...",
-      "keywords": [
-        "亿美元",
-        "anthropic",
-        "capital",
-        "最快下周完成逾",
-        "亿美元融资轮"
-      ],
-      "importance": 2.0
-    },
-    {
       "title": "GitHub 面临生存之战",
       "link": "https://www.solidot.org/story?sid=84375",
       "summary": "在被微软收购八年之后，最大的代码托管平台 GitHub 正面临生存之战，它的宕机和安全问题频发，而竞争对手的压力也越来越大。过去几周，GitHub 发生了多起严重的宕机事故，因员工的 VS Code 安装了一个恶意库扩展导致 3800 个内部代码库被窃取。GitHub 现员工和前员工在接受采访时描述了公司在领导层缺乏和竞争对手压力下挣扎的困境。2025 年夏天 CEO Thomas Dohmke 离职之后，微软没有再任命新 CEO，而是让领导团队成员向 CoreAI 汇报工作，CoreAI 由前 Meta 工程主管 Jay Parikh 负责，他由 CEO Satya Nadella 亲自招揽...",
       "source": "Solidot",
       "pub_date": "Fri, 22 May 2026 21:13:31 +0800",
-      "fetched_at": "2026-05-23T12:00:02.171528",
+      "fetched_at": "2026-05-23T20:00:02.336916",
       "categories": [
         "ai"
       ],
@@ -127,7 +86,7 @@
       "summary": "Google 的 AI 搜索非常容易被人为操纵。因为以前的搜索结果是第一页给你 10 个链接然后让用户判断，现在的 AI 搜索是给你一个答案，而答案的来源可能只有一个。BBC 科技记者通过个人网站上一篇热狗文章演示了这一操纵。专家表示此类操纵正大规模系统性地发生。操纵 AI 搜索向用户提供偏见或不准确信息可能会带来严重后果。这并非一个无关紧要的问题。在全球范围内，逾 10 亿人日常使用 AI 聊天机器人，每月有 25 亿人浏览 Google 的 AI overviews。如果你能操控此类工具就能获得巨大的权力。Google 等公司也注意到了该问题。, Google 上周更新了其政策，将试图操纵...",
       "source": "Solidot",
       "pub_date": "Thu, 21 May 2026 15:45:53 +0800",
-      "fetched_at": "2026-05-23T12:00:02.173904",
+      "fetched_at": "2026-05-23T20:00:02.339014",
       "categories": [
         "ai",
         "robotics"
@@ -143,31 +102,12 @@
       "importance": 1.0
     },
     {
-      "title": "SpaceX launches Starship v3 rocket",
-      "link": "https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505",
-      "summary": "👍 201 | 💬 102",
-      "source": "HackerNews",
-      "pub_date": "2026-05-23T07:41:55",
-      "fetched_at": "2026-05-23T12:00:30.361741",
-      "categories": [
-        "space"
-      ],
-      "ai_summary": "👍 201 | 💬 102",
-      "keywords": [
-        "spacex",
-        "launches",
-        "starship",
-        "rocket"
-      ],
-      "importance": 1.0
-    },
-    {
       "title": "国际空间站俄罗斯舱段再次发生漏气事故",
       "link": "https://www.solidot.org/story?sid=84367",
       "summary": "NASA 证实国际空间站的俄罗斯舱段再次发生漏气事故。过去五年俄罗斯航天局和 NASA 一直在追踪俄罗斯舱段的空气泄漏，漏气的舱段位于 Progress（进步号）气闸舱和 Zvezda（星辰号）服务舱之间的 PrK 模块，漏气原因是微小的结构裂缝。今年 1 月 NASA 宣布在多次检查和密封处理后 PrK 舱段的内部压力已经稳定，不再漏气。然而 PrK 舱段的漏气情况在三周前再次出现。NASA 表示它正与俄罗斯航天局协调后续处理步骤。此次事件再次引发了对国际空间站长期生存能力的担忧。",
       "source": "Solidot",
       "pub_date": "Fri, 22 May 2026 13:33:25 +0800",
-      "fetched_at": "2026-05-23T12:00:02.172745",
+      "fetched_at": "2026-05-23T20:00:02.338127",
       "categories": [
         "space"
       ],
@@ -187,7 +127,7 @@
       "summary": "Google 本周二宣布搜索框将变成 AI 聊天机器人的对话框，那么它久经时间考虑的商业模式——搜索广告——自然也会跟着进入 AI 模式。Google 周三宣布将在 AI 模式中引入更多“富有帮助的广告（helpful ads）”。搜索巨人表示在测试两类新广告，提供相关产品的细节和有用的指导。作为广告的一部分，它们都会包含一个独立的 AI 解释器。广告也都会标明“赞助”字样。两类新广告其一称之为“对话式发现广告”——广告即答案；其二称之为“高亮答案”（Highlighted Answers）——将高度相关的广告作为推荐列表的一部分提供给用户。",
       "source": "Solidot",
       "pub_date": "Thu, 21 May 2026 21:28:12 +0800",
-      "fetched_at": "2026-05-23T12:00:02.173034",
+      "fetched_at": "2026-05-23T20:00:02.338414",
       "categories": [
         "ai",
         "robotics"
@@ -208,7 +148,7 @@
       "summary": "NASA 局长 Jared Isaacman 表示他预计中国将在 2027 年执行载人绕月飞行任务，他正以此为由要求修改阿尔忒弥斯计划，加快美国重返月球的步伐。Isaacman 称，下次全世界观看宇航员绕月飞行时——很可能是 2027 年的某个时候——他们将是中国宇航员，美国将不再是唯一能将人类送入月球环境的国家。中国尚未公布月球载人飞行的时间表。迄今所有载人绕月飞行、轨道飞行或登月任务均由 NASA 执行：包括 1968-1972 年间的九次阿波罗计划以及今年四月的阿尔忒弥斯 2 号任务。",
       "source": "Solidot",
       "pub_date": "Thu, 21 May 2026 18:36:12 +0800",
-      "fetched_at": "2026-05-23T12:00:02.173178",
+      "fetched_at": "2026-05-23T20:00:02.338560",
       "categories": [
         "space"
       ],
@@ -223,58 +163,97 @@
       "importance": 0.5
     },
     {
-      "title": "让好项目，更早被看见",
-      "link": "https://36kr.com/p/3820226045104257?f=rss",
-      "summary": "提交报道链接：https://36kr.com/seek-report-new?t=1779418211266 36氪AI寻求报道 很多项目第一次被行业真正看见，往往已经不是它最需要被看见的时候。 那时候，它可能已经拿了融资，跑出了数据，进入了热门赛道，也开始频繁出现在投资人、媒体和产业方的视野里。 但创业不是从融资新闻开始的。 在更早的时候，一个项目可能只是一支还不够知名的团队，一个刚刚跑通的产品，一个藏在垂直行业里的新方法，或者一个还没有被充分解释清楚的市场判断。 它不一定站在风口中央，也不一定拥有明星机构背书。更多时候，它甚至还没学会把自己的价值讲清楚。 但这并不意味着它不值得被看见。 ...",
-      "source": "36氪",
-      "pub_date": "2026-05-22 16:55:24  +0800",
-      "fetched_at": "2026-05-23T12:00:16.462041",
+      "title": "OpenAI大神教你如何榨干Codex",
+      "link": "https://www.qbitai.com/2026/05/423179.html",
+      "summary": "13k星开源库作者解锁Codex-maxxing！",
+      "source": "量子位",
+      "pub_date": "Sat, 23 May 2026 09:50:51 +0000",
+      "fetched_at": "2026-05-23T20:00:17.618077",
       "categories": [
         "ai"
       ],
-      "ai_summary": "提交报道链接：https://36kr.com/seek-report-new?t=1779418211266 36氪AI寻求报道 很多项目第一次被行业真正看见，往往已经不是它最需要被看见的时候。...",
+      "ai_summary": "13k星开源库作者解锁Codex-maxxing！",
       "keywords": [
-        "让好项目",
-        "更早被看见",
-        "提交报道链接",
-        "https",
-        "kr"
+        "codex",
+        "openai",
+        "大神教你如何榨干",
+        "星开源库作者解锁",
+        "maxxing"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资",
+      "link": "https://www.qbitai.com/2026/05/423159.html",
+      "summary": "不造人形机器人，死磕餐饮后厨",
+      "source": "量子位",
+      "pub_date": "Sat, 23 May 2026 02:48:28 +0000",
+      "fetched_at": "2026-05-23T20:00:17.618230",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "不造人形机器人，死磕餐饮后厨",
+      "keywords": [
+        "美团外卖前负责人入局餐饮具身模型",
+        "元节智能获千万级种子轮融资",
+        "不造人形机器人",
+        "死磕餐饮后厨"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
+      "link": "https://www.qbitai.com/2026/05/422615.html",
+      "summary": "一个AI统一入口，搞定所有",
+      "source": "量子位",
+      "pub_date": "Fri, 22 May 2026 06:38:04 +0000",
+      "fetched_at": "2026-05-23T20:00:17.618509",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "一个AI统一入口，搞定所有",
+      "keywords": [
+        "ai",
+        "狂揽",
+        "轮融资",
+        "拿下",
+        "万用户"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Microsoft starts canceling Claude Code licenses",
+      "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "summary": "👍 308 | 💬 249",
+      "source": "HackerNews",
+      "pub_date": "2026-05-23T01:32:04",
+      "fetched_at": "2026-05-23T20:00:30.643440",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 308 | 💬 249",
+      "keywords": [
+        "microsoft",
+        "starts",
+        "canceling",
+        "claude",
+        "code"
       ],
       "importance": 0.5
     }
   ],
   "latest": [
     {
-      "title": "1940 Air Terminal Museum Begins Liquidation",
-      "link": "https://www.1940airterminal.org/news/liquidation-of-simulators",
-      "summary": "👍 100 | 💬 28",
-      "source": "HackerNews",
-      "pub_date": "2026-05-23T01:05:32",
-      "fetched_at": "2026-05-23T12:00:41.860030",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 100 | 💬 28",
-      "keywords": [
-        "air",
-        "terminal",
-        "museum",
-        "begins",
-        "liquidation"
-      ],
-      "importance": 0
-    },
-    {
       "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
       "link": "https://modelrift.com/blog/openscad-llm-benchmark/",
-      "summary": "👍 360 | 💬 143",
+      "summary": "👍 391 | 💬 153",
       "source": "HackerNews",
       "pub_date": "2026-05-22T18:38:26",
-      "fetched_at": "2026-05-23T12:00:40.947181",
+      "fetched_at": "2026-05-23T20:00:47.213989",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 360 | 💬 143",
+      "ai_summary": "👍 391 | 💬 153",
       "keywords": [
         "antigravity",
         "tops",
@@ -285,72 +264,16 @@
       "importance": 0
     },
     {
-      "title": "I’m writing again",
-      "link": "https://www.cringely.com/2026/05/21/im-writing-again/",
-      "summary": "👍 109 | 💬 29",
-      "source": "HackerNews",
-      "pub_date": "2026-05-22T22:36:27",
-      "fetched_at": "2026-05-23T12:00:39.630425",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 109 | 💬 29",
-      "keywords": [
-        "writing",
-        "again"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "CISA tries to contain data leak",
-      "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-      "summary": "👍 152 | 💬 44",
-      "source": "HackerNews",
-      "pub_date": "2026-05-23T00:54:31",
-      "fetched_at": "2026-05-23T12:00:32.300001",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 152 | 💬 44",
-      "keywords": [
-        "cisa",
-        "tries",
-        "to",
-        "contain",
-        "data"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "SpaceX launches Starship v3 rocket",
-      "link": "https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505",
-      "summary": "👍 201 | 💬 102",
-      "source": "HackerNews",
-      "pub_date": "2026-05-23T07:41:55",
-      "fetched_at": "2026-05-23T12:00:30.361741",
-      "categories": [
-        "space"
-      ],
-      "ai_summary": "👍 201 | 💬 102",
-      "keywords": [
-        "spacex",
-        "launches",
-        "starship",
-        "rocket"
-      ],
-      "importance": 1.0
-    },
-    {
       "title": "Neutron scattering explains why gluten-free pasta falls apart (2025)",
       "link": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
-      "summary": "👍 23 | 💬 4",
+      "summary": "👍 76 | 💬 27",
       "source": "HackerNews",
       "pub_date": "2026-05-20T20:42:46",
-      "fetched_at": "2026-05-23T12:00:23.507115",
+      "fetched_at": "2026-05-23T20:00:44.431257",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 23 | 💬 4",
+      "ai_summary": "👍 76 | 💬 27",
       "keywords": [
         "neutron",
         "scattering",
@@ -361,23 +284,44 @@
       "importance": 0
     },
     {
-      "title": "Is AI Profitable Yet?",
-      "link": "https://isaiprofitable.com/",
-      "summary": "👍 176 | 💬 118",
+      "title": "CISA tries to contain data leak",
+      "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "summary": "👍 222 | 💬 50",
       "source": "HackerNews",
-      "pub_date": "2026-05-23T10:10:38",
-      "fetched_at": "2026-05-23T12:00:18.929099",
+      "pub_date": "2026-05-23T00:54:31",
+      "fetched_at": "2026-05-23T20:00:36.243319",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 176 | 💬 118",
+      "ai_summary": "👍 222 | 💬 50",
       "keywords": [
-        "is",
-        "ai",
-        "profitable",
-        "yet"
+        "cisa",
+        "tries",
+        "to",
+        "contain",
+        "data"
       ],
       "importance": 0
+    },
+    {
+      "title": "Microsoft starts canceling Claude Code licenses",
+      "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "summary": "👍 308 | 💬 249",
+      "source": "HackerNews",
+      "pub_date": "2026-05-23T01:32:04",
+      "fetched_at": "2026-05-23T20:00:30.643440",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 308 | 💬 249",
+      "keywords": [
+        "microsoft",
+        "starts",
+        "canceling",
+        "claude",
+        "code"
+      ],
+      "importance": 0.5
     },
     {
       "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
@@ -385,7 +329,7 @@
       "summary": "一个AI统一入口，搞定所有",
       "source": "量子位",
       "pub_date": "Fri, 22 May 2026 06:38:04 +0000",
-      "fetched_at": "2026-05-23T12:00:16.607272",
+      "fetched_at": "2026-05-23T20:00:17.618509",
       "categories": [
         "ai"
       ],
@@ -405,7 +349,7 @@
       "summary": "不造人形机器人，死磕餐饮后厨",
       "source": "量子位",
       "pub_date": "Sat, 23 May 2026 02:48:28 +0000",
-      "fetched_at": "2026-05-23T12:00:16.606942",
+      "fetched_at": "2026-05-23T20:00:17.618230",
       "categories": [
         "robotics"
       ],
@@ -419,203 +363,62 @@
       "importance": 0.5
     },
     {
-      "title": "美“星舰”实施第12次试飞",
-      "link": "https://36kr.com/newsflashes/3821193075954054?f=rss",
-      "summary": "洛杉矶5月22日电（记者谭晶晶）美东时间22日18时30分（北京时间23日6时30分）左右，美国太空探索技术公司新一代重型运载火箭“星舰”从得克萨斯州发射升空，实施第12次试飞。此次试飞启用新一代“星舰”飞船和“超级重型”助推器，搭载升级版“猛禽”发动机，并首次使用重新设计的发射台。试飞的主要目标是在真实飞行环境中验证这些新系统和新部件的性能。（新华社）",
-      "source": "36氪",
-      "pub_date": "2026-05-23 09:18:36  +0800",
-      "fetched_at": "2026-05-23T12:00:16.463241",
+      "title": "DeepSeek V4价格打骨折，宁王京东网易抢着入场，梁文锋：目标是AGI",
+      "link": "https://www.qbitai.com/2026/05/423162.html",
+      "summary": "梁文锋承诺坚持开源路线",
+      "source": "量子位",
+      "pub_date": "Sat, 23 May 2026 09:46:37 +0000",
+      "fetched_at": "2026-05-23T20:00:17.618160",
       "categories": [
-        "space"
+        "ai"
       ],
-      "ai_summary": "洛杉矶5月22日电（记者谭晶晶）美东时间22日18时30分（北京时间23日6时30分）左右，美国太空探索技术公司新一代重型运载火箭“星舰”从得克萨斯州发射升空，实施第12次试飞。此次试飞启用新一代“星舰”飞船和“超级重型”助推器，搭载升级版“猛禽”发动机，并首次使用重新设计的发射台。试飞的主要目标是...",
+      "ai_summary": "梁文锋承诺坚持开源路线",
       "keywords": [
-        "星舰",
-        "实施第",
-        "次试飞",
-        "洛杉矶",
-        "日电"
+        "deepseek",
+        "价格打骨折",
+        "宁王京东网易抢着入场",
+        "梁文锋",
+        "目标是"
       ],
       "importance": 0
     },
     {
-      "title": "Anthropic最快下周完成逾300亿美元融资轮",
-      "link": "https://36kr.com/newsflashes/3821194878947715?f=rss",
-      "summary": "Anthropic PBC最快将于下周完成最新一轮融资，融资额可能超过300亿美元，公司估值超过9000亿美元，从而超越竞争对手OpenAI，成为全球估值最高的人工智能初创公司。据报道，红杉资本、Dragoneer Investment Group、Altimeter Capital和Greenoaks Capital Partners预计将联合领投本轮融资。上述每家公司计划投资约20亿美元。（新浪财经）",
-      "source": "36氪",
-      "pub_date": "2026-05-23 09:30:22  +0800",
-      "fetched_at": "2026-05-23T12:00:16.463074",
+      "title": "OpenAI大神教你如何榨干Codex",
+      "link": "https://www.qbitai.com/2026/05/423179.html",
+      "summary": "13k星开源库作者解锁Codex-maxxing！",
+      "source": "量子位",
+      "pub_date": "Sat, 23 May 2026 09:50:51 +0000",
+      "fetched_at": "2026-05-23T20:00:17.618077",
       "categories": [
         "ai"
       ],
-      "ai_summary": "Anthropic PBC最快将于下周完成最新一轮融资，融资额可能超过300亿美元，公司估值超过9000亿美元，从而超越竞争对手OpenAI，成为全球估值最高的人工智能初创公司。据报道，红杉资本、Dragoneer Investment Group、Altimeter Capital和Greenoa...",
+      "ai_summary": "13k星开源库作者解锁Codex-maxxing！",
       "keywords": [
-        "亿美元",
-        "anthropic",
-        "capital",
-        "最快下周完成逾",
-        "亿美元融资轮"
-      ],
-      "importance": 2.0
-    },
-    {
-      "title": "英特尔推出混合AI解决方案SuperClaw，主打隐私安全与低成本",
-      "link": "https://36kr.com/newsflashes/3821197146722696?f=rss",
-      "summary": "当地时间5月21日，英特尔AI超级构建团队推出专为AI PC及边缘设备打造的混合智能体AI解决方案SuperClaw。该方案采用本地优先的混合架构，使云端Token消耗降低达70%，并能以99%的准确率识别敏感信息。Beta测试版预计于2026年6月下半月开放下载。（界面）",
-      "source": "36氪",
-      "pub_date": "2026-05-23 10:05:39  +0800",
-      "fetched_at": "2026-05-23T12:00:16.462761",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "当地时间5月21日，英特尔AI超级构建团队推出专为AI PC及边缘设备打造的混合智能体AI解决方案SuperClaw。该方案采用本地优先的混合架构，使云端Token消耗降低达70%，并能以99%的准确率识别敏感信息。Beta测试版预计于2026年6月下半月开放下载。（界面）",
-      "keywords": [
-        "ai",
-        "解决方案",
-        "superclaw",
-        "英特尔推出混合",
-        "主打隐私安全与低成本"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "星巴克叫停AI库存自动盘点工具：上线9个月，错误频出",
-      "link": "https://36kr.com/newsflashes/3821221746266498?f=rss",
-      "summary": "星巴克本周正式终止了其在北美地区门店使用的AI库存自动盘点工具。该系统旨在通过平板电脑拍照自动统计牛奶、糖浆等物料库存，但在上线9个月后因频繁出错而被叫停。（新浪财经）",
-      "source": "36氪",
-      "pub_date": "2026-05-23 11:37:41  +0800",
-      "fetched_at": "2026-05-23T12:00:16.462270",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "星巴克本周正式终止了其在北美地区门店使用的AI库存自动盘点工具。该系统旨在通过平板电脑拍照自动统计牛奶、糖浆等物料库存，但在上线9个月后因频繁出错而被叫停。（新浪财经）",
-      "keywords": [
-        "ai",
-        "库存自动盘点工具",
-        "星巴克叫停",
-        "上线",
-        "个月"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "让好项目，更早被看见",
-      "link": "https://36kr.com/p/3820226045104257?f=rss",
-      "summary": "提交报道链接：https://36kr.com/seek-report-new?t=1779418211266 36氪AI寻求报道 很多项目第一次被行业真正看见，往往已经不是它最需要被看见的时候。 那时候，它可能已经拿了融资，跑出了数据，进入了热门赛道，也开始频繁出现在投资人、媒体和产业方的视野里。 但创业不是从融资新闻开始的。 在更早的时候，一个项目可能只是一支还不够知名的团队，一个刚刚跑通的产品，一个藏在垂直行业里的新方法，或者一个还没有被充分解释清楚的市场判断。 它不一定站在风口中央，也不一定拥有明星机构背书。更多时候，它甚至还没学会把自己的价值讲清楚。 但这并不意味着它不值得被看见。 ...",
-      "source": "36氪",
-      "pub_date": "2026-05-22 16:55:24  +0800",
-      "fetched_at": "2026-05-23T12:00:16.462041",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "提交报道链接：https://36kr.com/seek-report-new?t=1779418211266 36氪AI寻求报道 很多项目第一次被行业真正看见，往往已经不是它最需要被看见的时候。...",
-      "keywords": [
-        "让好项目",
-        "更早被看见",
-        "提交报道链接",
-        "https",
-        "kr"
+        "codex",
+        "openai",
+        "大神教你如何榨干",
+        "星开源库作者解锁",
+        "maxxing"
       ],
       "importance": 0.5
     },
     {
-      "title": "让智能体看见世界：CV × AI Agent 的行业场景新实践| 2026AI Partner·北京亦庄AI+产业大会",
-      "link": "https://36kr.com/p/3820220616495492?f=rss",
-      "summary": "让智能体“看见”世界，不是给它装上摄像头那么简单。当CV遇上AI Agent，乘数效应正在发生。AI Agent不等于Chatbot，真正的价值在于静默看护与自主决策。 AI进入产业腹地仍面临两大鸿沟：视觉认知与行业的理解。为此，大华股份构建了星汉大模型系列——V系列视觉大模型让系统“看得懂”物理世界，L系列行业模型打通业务逻辑。未来“基模+行业Know-how”将成为新范式，而AI的终局不是刷榜，是让每个行业、每个个体都不掉队。 以下为大华股份研发中心副总裁 周文凯 演讲内容，经36氪整理编辑： 周文凯丨大华股份研发中心副总裁 非常感谢北京亦庄和36氪给我们这个机会来给大家做一个分享。 我今...",
-      "source": "36氪",
-      "pub_date": "2026-05-22 16:57:09  +0800",
-      "fetched_at": "2026-05-23T12:00:16.457436",
+      "title": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026",
+      "link": "https://www.qbitai.com/2026/05/423202.html",
+      "summary": "“AI时代经验不再是护城河”",
+      "source": "量子位",
+      "pub_date": "Sat, 23 May 2026 10:09:58 +0000",
+      "fetched_at": "2026-05-23T20:00:17.617976",
       "categories": [
         "ai"
       ],
-      "ai_summary": "AI进入产业腹地仍面临两大鸿沟：视觉认知与行业的理解。为此，大华股份构建了星汉大模型系列——V系列视觉大模型让系统“看得懂”物理世界，L系列行业模型打通业务逻辑。未来“基模+行业Know-how”将成为新范式，而AI的终局不是刷榜，是让每个行业、每个个体都不掉队。 以下为大华股份研发中心副总裁...",
+      "ai_summary": "“AI时代经验不再是护城河”",
       "keywords": [
         "ai",
-        "agent",
-        "cv",
-        "让智能体看见世界",
-        "的行业场景新实践"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "江行智能：从感知环境到改变世界：物理AI的机遇、路径与实践| 2026AI Partner·北京亦庄AI+产业大会",
-      "link": "https://36kr.com/p/3820298219425924?f=rss",
-      "summary": "中国工业物理AI的真正优势不在模型参数，而在全球12倍的工业机器人部署密度、两倍的发电量和密集的5G边缘节点——场景密度、基建底座和开源模型的合力，正在推动物理AI从实验室走向规模化落地。 江行智能提出工业物理AI的三层模型，这套系统已在新能源场站和电网巡检场景落地——覆盖贵州、内蒙古等多地，核心算法准确率达99%。陈龙特别指出，工业场景下一个看似简单的巡检任务通常需要拆成100到200个子任务，这对AI的稳定性和可靠性提出了远超消费级应用的要求。 以下为演讲内容，经36氪整理编辑： 陈龙丨江行智能基模CTO 各位嘉宾、行业伙伴下午好，我是来自江行智能的具身基模CTO陈龙，我的分享题目是从感知...",
-      "source": "36氪",
-      "pub_date": "2026-05-22 18:23:21  +0800",
-      "fetched_at": "2026-05-23T12:00:16.452185",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "江行智能提出工业物理AI的三层模型，这套系统已在新能源场站和电网巡检场景落地——覆盖贵州、内蒙古等多地，核心算法准确率达99%。陈龙特别指出，工业场景下一个看似简单的巡检任务通常需要拆成100到200个子任务，这对AI的稳定性和可靠性提出了远超消费级应用的要求。 以下为演讲内容，经36氪整理编辑：...",
-      "keywords": [
-        "ai",
-        "cto",
-        "江行智能",
-        "从感知环境到改变世界",
-        "物理"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "AI时代核心终端生态定位与用户需求洞察| 2026AI Partner·北京亦庄AI+产业大会",
-      "link": "https://36kr.com/p/3820318177841541?f=rss",
-      "summary": "AI不是某一个超级单品的故事，而是一个多端协同的生态故事，消费者的期待与顾虑，正在定义这个生态的进化方向。 AI与硬件的融合分为四个阶段，当前正处于从深度融合走向生态化的关键节点。AI渗透率在手机端已从15%涨到40%，但仍是“加分项”而非“决策项”。未来，AI硬件生态的四个步骤——感知、记忆、决策、行动，或将分别由眼镜、手机、PC协同完成。 以下为演讲内容，经36氪整理编辑： 赵晓鹏丨NIQ GfK创新事业部总经理 大家好，很荣幸有这个机会，跟大家分享NIQ GfK对消费端的观点。我们公司专注研究消费者和终端产品，和大家的日常生活联系非常紧密。 我今天的主题是AI时代核心终端生态定位与用户需...",
-      "source": "36氪",
-      "pub_date": "2026-05-22 18:37:09  +0800",
-      "fetched_at": "2026-05-23T12:00:16.449447",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "AI与硬件的融合分为四个阶段，当前正处于从深度融合走向生态化的关键节点。AI渗透率在手机端已从15%涨到40%，但仍是“加分项”而非“决策项”。未来，AI硬件生态的四个步骤——感知、记忆、决策、行动，或将分别由眼镜、手机、PC协同完成。 以下为演讲内容，经36氪整理编辑： 赵晓鹏丨NIQ...",
-      "keywords": [
-        "ai",
-        "niq",
-        "gfk",
-        "时代核心终端生态定位与用户需求洞察",
-        "partner"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "氪星晚报｜优步与印度JSW集团达成协议，合作在印度开发及部署电动汽车；英伟达、AMD、英特尔参投，AI初创公司Hark完成7亿美元融资；神舟二十三号发射在即，各系统准备就绪",
-      "link": "https://36kr.com/p/3816943010071427?f=rss",
-      "summary": "大公司： Jefferies预计7-Eleven日本业务营业利润将达2270亿日元，本财年同店销售增长势头强劲 投行杰富瑞（Jefferies）分析师栗山俊介在最新发布的研究报告中指出，凭借在现做食品领域的拓展及有效的营销策略，日本零售巨头零售集团7&I控股（Seven & i Holdings）旗下的日本7-Eleven便利店本财年同店销售额有望实现稳步增长。报告预测，7&I控股国内便利店业务在本财年的营业利润将达到2270亿日元，且在下一财年有望继续增长4.8%。（新浪财经） 雅诗兰黛与Puig终止合并谈判，组建美妆巨头计划作罢 美国美妆巨头雅诗兰黛已终止与西班牙竞品Puig的合并谈判，这...",
-      "source": "36氪",
-      "pub_date": "2026-05-22 20:02:33  +0800",
-      "fetched_at": "2026-05-23T12:00:16.448092",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "大公司： Jefferies预计7-Eleven日本业务营业利润将达2270亿日元，本财年同店销售增长势头强劲 投行杰富瑞（Jefferies）分析师栗山俊介在最新发布的研究报告中指出，凭借在现做食品领域的拓展及有效的营销策略，日本零售巨头零售集团7&I控股（Seven & i Holdings）旗...",
-      "keywords": [
-        "jefferies",
-        "eleven",
-        "亿日元",
-        "puig",
-        "氪星晚报"
-      ],
-      "importance": 2.0
-    },
-    {
-      "title": "用AI来管公司，Moka推出三款AI HR工具｜涌现新栏目",
-      "link": "https://36kr.com/p/3819979202253189?f=rss",
-      "summary": "作者｜梁键强 编辑｜王毓婵 一句话介绍 Moka为AI人力资源软件服务商，早期从智能化招聘管理系统起步，后逐步扩展至更完整的HR管理系统。5月，Moka上线了招聘Eva、人事Eva和BPEva三款AI HR产品。 招聘Eva覆盖招聘全流程，辅助企业完成识人、筛选和面试；人事Eva聚焦报表处理、流程流转和员工咨询等重复事务；BPEva则用于动态更新人才画像，辅助企业进行人才识别和组织决策。 支撑这三款产品的是Moka AI工坊，它相当于底层能力平台，可以让企业用业务语言描述需求，具有快速响应、个性化定制和安全上线等能力。 图片来源：Moka 团队介绍 Moka联合创始人兼CEO李国兴，本科阶段获...",
-      "source": "36氪",
-      "pub_date": "2026-05-23 10:00:00  +0800",
-      "fetched_at": "2026-05-23T12:00:16.434276",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "作者｜梁键强 编辑｜王毓婵 一句话介绍 Moka为AI人力资源软件服务商，早期从智能化招聘管理系统起步，后逐步扩展至更完整的HR管理系统。5月，Moka上线了招聘Eva、人事Eva和BPEva三款AI HR产品。...",
-      "keywords": [
-        "moka",
-        "ai",
-        "eva",
-        "hr",
-        "人事"
+        "五类人",
+        "替代不了",
+        "企业做第二名最稳妥",
+        "昆仑万维方汉"
       ],
       "importance": 0
     },
@@ -625,7 +428,7 @@
       "summary": "Google 的 AI 搜索非常容易被人为操纵。因为以前的搜索结果是第一页给你 10 个链接然后让用户判断，现在的 AI 搜索是给你一个答案，而答案的来源可能只有一个。BBC 科技记者通过个人网站上一篇热狗文章演示了这一操纵。专家表示此类操纵正大规模系统性地发生。操纵 AI 搜索向用户提供偏见或不准确信息可能会带来严重后果。这并非一个无关紧要的问题。在全球范围内，逾 10 亿人日常使用 AI 聊天机器人，每月有 25 亿人浏览 Google 的 AI overviews。如果你能操控此类工具就能获得巨大的权力。Google 等公司也注意到了该问题。, Google 上周更新了其政策，将试图操纵...",
       "source": "Solidot",
       "pub_date": "Thu, 21 May 2026 15:45:53 +0800",
-      "fetched_at": "2026-05-23T12:00:02.173904",
+      "fetched_at": "2026-05-23T20:00:02.339014",
       "categories": [
         "ai",
         "robotics"
@@ -639,7 +442,169 @@
         "因为以前的搜索结果是第一页给你"
       ],
       "importance": 1.0
+    },
+    {
+      "title": "SpaceX 最大的收入来源是与 Anthropic 达成的数据中心交易",
+      "link": "https://www.solidot.org/story?sid=84362",
+      "summary": "SpaceX 周三晚上向美国证券交易委员会（SEC）递交了招股说明书，首次披露了其财务状况。根据招股说明书，在合并了马斯克（Elon Musk）旗下的 xAI 和 X/Twitter 之后，SpaceX 最大的收入来源就是今年五月与 Anthropic 达成的为期三年的数据中心交易，租用 Colossus 1 园区的算力，每月支付 12.5 亿美元。但这笔交易并非是保障性，任何一方都可以提前 90 天通知终止交易。其它数据包括：2025 年营收 187 亿美元，营业亏损 26 亿美元，净亏损 49 亿美元。其中卫星宽带 Starlink / Connectivity 业务营收 114 亿美元营...",
+      "source": "Solidot",
+      "pub_date": "Thu, 21 May 2026 16:22:11 +0800",
+      "fetched_at": "2026-05-23T20:00:02.338867",
+      "categories": [
+        "ai",
+        "space"
+      ],
+      "ai_summary": "SpaceX 周三晚上向美国证券交易委员会（SEC）递交了招股说明书，首次披露了其财务状况。根据招股说明书，在合并了马斯克（Elon Musk）旗下的 xAI 和 X/Twitter 之后，SpaceX 最大的收入来源就是今年五月与 Anthropic 达成的为期三年的数据中心交易，租用 Colos...",
+      "keywords": [
+        "亿美元",
+        "spacex",
+        "anthropic",
+        "最大的收入来源是与",
+        "达成的数据中心交易"
+      ],
+      "importance": 2.0
+    },
+    {
+      "title": "NASA 预计中国将在 2027 年执行载人绕月飞行任务",
+      "link": "https://www.solidot.org/story?sid=84364",
+      "summary": "NASA 局长 Jared Isaacman 表示他预计中国将在 2027 年执行载人绕月飞行任务，他正以此为由要求修改阿尔忒弥斯计划，加快美国重返月球的步伐。Isaacman 称，下次全世界观看宇航员绕月飞行时——很可能是 2027 年的某个时候——他们将是中国宇航员，美国将不再是唯一能将人类送入月球环境的国家。中国尚未公布月球载人飞行的时间表。迄今所有载人绕月飞行、轨道飞行或登月任务均由 NASA 执行：包括 1968-1972 年间的九次阿波罗计划以及今年四月的阿尔忒弥斯 2 号任务。",
+      "source": "Solidot",
+      "pub_date": "Thu, 21 May 2026 18:36:12 +0800",
+      "fetched_at": "2026-05-23T20:00:02.338560",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "NASA 局长 Jared Isaacman 表示他预计中国将在 2027 年执行载人绕月飞行任务，他正以此为由要求修改阿尔忒弥斯计划，加快美国重返月球的步伐。Isaacman 称，下次全世界观看宇航员绕月飞行时——很可能是 2027 年的某个时候——他们将是中国宇航员，美国将不再是唯一能将人类送入...",
+      "keywords": [
+        "nasa",
+        "年执行载人绕月飞行任务",
+        "isaacman",
+        "预计中国将在",
+        "局长"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Google 宣布在 AI 模式下加入更多广告",
+      "link": "https://www.solidot.org/story?sid=84365",
+      "summary": "Google 本周二宣布搜索框将变成 AI 聊天机器人的对话框，那么它久经时间考虑的商业模式——搜索广告——自然也会跟着进入 AI 模式。Google 周三宣布将在 AI 模式中引入更多“富有帮助的广告（helpful ads）”。搜索巨人表示在测试两类新广告，提供相关产品的细节和有用的指导。作为广告的一部分，它们都会包含一个独立的 AI 解释器。广告也都会标明“赞助”字样。两类新广告其一称之为“对话式发现广告”——广告即答案；其二称之为“高亮答案”（Highlighted Answers）——将高度相关的广告作为推荐列表的一部分提供给用户。",
+      "source": "Solidot",
+      "pub_date": "Thu, 21 May 2026 21:28:12 +0800",
+      "fetched_at": "2026-05-23T20:00:02.338414",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "Google 本周二宣布搜索框将变成 AI 聊天机器人的对话框，那么它久经时间考虑的商业模式——搜索广告——自然也会跟着进入 AI 模式。Google 周三宣布将在 AI 模式中引入更多“富有帮助的广告（helpful ads）”。搜索巨人表示在测试两类新广告，提供相关产品的细节和有用的指导。作为广...",
+      "keywords": [
+        "ai",
+        "google",
+        "宣布在",
+        "模式下加入更多广告",
+        "本周二宣布搜索框将变成"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "国际空间站俄罗斯舱段再次发生漏气事故",
+      "link": "https://www.solidot.org/story?sid=84367",
+      "summary": "NASA 证实国际空间站的俄罗斯舱段再次发生漏气事故。过去五年俄罗斯航天局和 NASA 一直在追踪俄罗斯舱段的空气泄漏，漏气的舱段位于 Progress（进步号）气闸舱和 Zvezda（星辰号）服务舱之间的 PrK 模块，漏气原因是微小的结构裂缝。今年 1 月 NASA 宣布在多次检查和密封处理后 PrK 舱段的内部压力已经稳定，不再漏气。然而 PrK 舱段的漏气情况在三周前再次出现。NASA 表示它正与俄罗斯航天局协调后续处理步骤。此次事件再次引发了对国际空间站长期生存能力的担忧。",
+      "source": "Solidot",
+      "pub_date": "Fri, 22 May 2026 13:33:25 +0800",
+      "fetched_at": "2026-05-23T20:00:02.338127",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "NASA 证实国际空间站的俄罗斯舱段再次发生漏气事故。过去五年俄罗斯航天局和 NASA 一直在追踪俄罗斯舱段的空气泄漏，漏气的舱段位于 Progress（进步号）气闸舱和 Zvezda（星辰号）服务舱之间的 PrK 模块，漏气原因是微小的结构裂缝。今年 1 月 NASA 宣布在多次检查和密封处理后 ...",
+      "keywords": [
+        "nasa",
+        "prk",
+        "国际空间站俄罗斯舱段再次发生漏气事故",
+        "证实国际空间站的俄罗斯舱段再次发生漏气事故",
+        "过去五年俄罗斯航天局和"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "特朗普政府不想要埃博拉病毒的美国感染者回国治疗",
+      "link": "https://www.solidot.org/story?sid=84368",
+      "summary": "刚果再次爆发了埃博拉疫情，确诊或接触病毒的人中包括了美国医生，但上周特朗普政府拒绝让他们回国接受治疗。39 岁的外科医生 Peter Stafford 于周日确诊，本周三美国 CDC 的埃博拉疫情事件响应经理 Satish Pillai 表示，Stafford 已送往德国，目前情况稳定。他的妻子 Rebekah Stafford 也是医生，也是病毒接触者，但目前还没有出现症状，他们以及四个孩子都送往了德国。另一名医生 Patrick LaRochelle 与 Stafford 夫妇同属于 Serge 传教团，他是病毒接触者，目前无症状，他已送往布拉格接受监测和治疗。他的妻子和孩子曾与他一同在刚...",
+      "source": "Solidot",
+      "pub_date": "Fri, 22 May 2026 14:09:35 +0800",
+      "fetched_at": "2026-05-23T20:00:02.337989",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "刚果再次爆发了埃博拉疫情，确诊或接触病毒的人中包括了美国医生，但上周特朗普政府拒绝让他们回国接受治疗。39 岁的外科医生 Peter Stafford 于周日确诊，本周三美国 CDC 的埃博拉疫情事件响应经理 Satish Pillai 表示，Stafford 已送往德国，目前情况稳定。他的妻子 R...",
+      "keywords": [
+        "stafford",
+        "特朗普政府不想要埃博拉病毒的美国感染者回国治疗",
+        "刚果再次爆发了埃博拉疫情",
+        "确诊或接触病毒的人中包括了美国医生",
+        "但上周特朗普政府拒绝让他们回国接受治疗"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "脱离人体的大脑被用于药物测试",
+      "link": "https://www.solidot.org/story?sid=84372",
+      "summary": "一天前这颗大脑还在一个活人身上。如今在其主人去世数小时后，它静静地躺在一辆小推车上。车上布满了管道，向这个器官内泵入数升的血液替代品和其它液体，为其输送氧气并排出代谢废物。它的大部分核心功能都完好无损，但其电活动已被麻醉剂压制，使这颗大脑处于一种介于生死之间的游离状态。随着它代谢着实验性药物，传感器实时记录着其反应，捕捉关于细胞、蛋白质和生理机能的数百个数据点。24 小时后，它将被切成数百个碎片，以进行更深入的研究。它是生物创业公司 Bexorg 使用脑维持设备 BrainEx 培养和研究的逾七百颗大脑之一，被用于深入理解潜在疗法在患有帕金森、阿尔茨海默或肌萎缩侧索硬化症等神经退行性疾病大脑中...",
+      "source": "Solidot",
+      "pub_date": "Fri, 22 May 2026 17:43:48 +0800",
+      "fetched_at": "2026-05-23T20:00:02.337408",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "一天前这颗大脑还在一个活人身上。如今在其主人去世数小时后，它静静地躺在一辆小推车上。车上布满了管道，向这个器官内泵入数升的血液替代品和其它液体，为其输送氧气并排出代谢废物。它的大部分核心功能都完好无损，但其电活动已被麻醉剂压制，使这颗大脑处于一种介于生死之间的游离状态。随着它代谢着实验性药物，传感器...",
+      "keywords": [
+        "脱离人体的大脑被用于药物测试",
+        "一天前这颗大脑还在一个活人身上",
+        "如今在其主人去世数小时后",
+        "它静静地躺在一辆小推车上",
+        "车上布满了管道"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "GitHub 面临生存之战",
+      "link": "https://www.solidot.org/story?sid=84375",
+      "summary": "在被微软收购八年之后，最大的代码托管平台 GitHub 正面临生存之战，它的宕机和安全问题频发，而竞争对手的压力也越来越大。过去几周，GitHub 发生了多起严重的宕机事故，因员工的 VS Code 安装了一个恶意库扩展导致 3800 个内部代码库被窃取。GitHub 现员工和前员工在接受采访时描述了公司在领导层缺乏和竞争对手压力下挣扎的困境。2025 年夏天 CEO Thomas Dohmke 离职之后，微软没有再任命新 CEO，而是让领导团队成员向 CoreAI 汇报工作，CoreAI 由前 Meta 工程主管 Jay Parikh 负责，他由 CEO Satya Nadella 亲自招揽...",
+      "source": "Solidot",
+      "pub_date": "Fri, 22 May 2026 21:13:31 +0800",
+      "fetched_at": "2026-05-23T20:00:02.336916",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "在被微软收购八年之后，最大的代码托管平台 GitHub 正面临生存之战，它的宕机和安全问题频发，而竞争对手的压力也越来越大。过去几周，GitHub 发生了多起严重的宕机事故，因员工的 VS Code 安装了一个恶意库扩展导致 3800 个内部代码库被窃取。GitHub 现员工和前员工在接受采访时描述...",
+      "keywords": [
+        "github",
+        "ceo",
+        "coreai",
+        "面临生存之战",
+        "在被微软收购八年之后"
+      ],
+      "importance": 1.5
+    },
+    {
+      "title": "Linus Torvalds 谈 AI",
+      "link": "https://www.solidot.org/story?sid=84376",
+      "summary": "Linux 作者 Linus Torvalds 在北美开源峰会上谈论了 AI，他认为 AI 工具正在重塑内核开发，但他坚称 AI 只是一种不错的工具，不会完全替代程序员。Torvalds 称内核最近两个版本的 commits 数增加了 20%，他一开始以为是内核版本号从 6.x 跳到 7.x 而让开发者兴奋不已，结果发现是因为 AI 辅助编程工具过去半年有了显著进步。他承认 AI 工具降低贡献者的门槛，但它真正的影响是社会而不是技术层面，一个例子就是安全邮件列表涌入了大量重复性的 bug 报告。为应对这一情况，内核制定了新规则。Torvalds 同时督促安全研究人员不要提前披露漏洞利用，内核最...",
+      "source": "Solidot",
+      "pub_date": "Fri, 22 May 2026 22:16:48 +0800",
+      "fetched_at": "2026-05-23T20:00:02.336651",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Linux 作者 Linus Torvalds 在北美开源峰会上谈论了 AI，他认为 AI 工具正在重塑内核开发，但他坚称 AI 只是一种不错的工具，不会完全替代程序员。Torvalds 称内核最近两个版本的 commits 数增加了 20%，他一开始以为是内核版本号从 6.x 跳到 7.x 而让开...",
+      "keywords": [
+        "ai",
+        "torvalds",
+        "linus",
+        "linux",
+        "作者"
+      ],
+      "importance": 0
     }
   ],
-  "updated_at": "2026-05-23T12:00:45.831008"
+  "updated_at": "2026-05-23T20:00:47.260047"
 }

@@ -5,21 +5,21 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-05-28T20:00:49.683124",
-    "total_items": 20
+    "last_update": "2026-05-29T12:00:54.057499",
+    "total_items": 16
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 18
+      "count": 14
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 1
+      "count": 3
     },
     "space": {
       "name": "Space",
@@ -29,14 +29,14 @@
     }
   },
   "stats": {
-    "total_items": 20,
-    "today_items": 20,
+    "total_items": 16,
+    "today_items": 16,
     "sources": {
-      "Solidot": 6,
+      "Solidot": 5,
       "量子位": 7,
-      "HackerNews": 7
+      "HackerNews": 4
     },
-    "last_update": "2026-05-28T20:00:49.683124"
+    "last_update": "2026-05-29T12:00:54.057499"
   },
   "trending": [
     {
@@ -45,7 +45,7 @@
       "summary": "教宗良十四世发布了其首道通谕《伟大的人类（Magnifica Humanitas）》，谈论了在 AI 时代守护人类。但这篇 通谕被质疑部分是在 AI 帮助下撰写的。AI 检测工具 Pangra 的分析显示，部分段落有 40% 到 100% 的概率是由 AI 撰写的，大部分段落则没有使用 AI。以前发布的通谕没有发现使用 AI 的痕迹。根据文本和间接证据判断，所使用的 AI 很可能是 Anthropic 的 Claude。而这份通谕的一位顾问是 Anthropic 联合创始人 Christopher Olah。",
       "source": "Solidot",
       "pub_date": "Wed, 27 May 2026 14:47:20 +0800",
-      "fetched_at": "2026-05-28T20:00:06.207538",
+      "fetched_at": "2026-05-29T12:00:04.007561",
       "categories": [
         "ai"
       ],
@@ -65,7 +65,7 @@
       "summary": "8篇由同一个系统生成或形式化证明的数学论文",
       "source": "量子位",
       "pub_date": "Thu, 28 May 2026 08:11:40 +0000",
-      "fetched_at": "2026-05-28T20:00:21.475930",
+      "fetched_at": "2026-05-29T12:00:19.277341",
       "categories": [
         "ai"
       ],
@@ -80,32 +80,12 @@
       "importance": 1.0
     },
     {
-      "title": "I think Anthropic and OpenAI have found product-market fit",
-      "link": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "summary": "👍 915 | 💬 1029",
-      "source": "HackerNews",
-      "pub_date": "2026-05-28T00:39:13",
-      "fetched_at": "2026-05-28T20:00:30.169187",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 915 | 💬 1029",
-      "keywords": [
-        "think",
-        "anthropic",
-        "and",
-        "openai",
-        "have"
-      ],
-      "importance": 1.0
-    },
-    {
       "title": "Google 转型 AI 搜索之后 DuckDuckGo 安装量上涨最高三成",
       "link": "https://www.solidot.org/story?sid=84415",
       "summary": "Google 上周宣布将大幅更改搜索功能，把搜索框改为 AI 聊天机器人的对话框，此举立即在用户中间引发了强烈反对。一部分批评者认为这将杀死开放 Web，一部分人担心 AI overviews 会展示错误的答案，且剥夺了不想要 AI 的用户的控制权。部分用户因此转向了替代搜索 DuckDuckGo。DuckDuckGo 称，其美国应用在 5 月 20 日-25 日期间的安装量周环比平均增长 18.1%，安装量增势持续了六天，5 月 25 日达到最高的 30.5%。而在 iOS 平台上，安装量周环比平均增长 33%，最高 69.9%。不展示 AI 结果的 noai.duckduckgo.com ...",
       "source": "Solidot",
       "pub_date": "Wed, 27 May 2026 18:56:39 +0800",
-      "fetched_at": "2026-05-28T20:00:06.206942",
+      "fetched_at": "2026-05-29T12:00:04.007031",
       "categories": [
         "ai",
         "robotics"
@@ -121,72 +101,12 @@
       "importance": 0.5
     },
     {
-      "title": "在内存天价时代 Meta 更新了 CacheLib 项目",
-      "link": "https://www.solidot.org/story?sid=84407",
-      "summary": "Meta 在 2021 年开源了缓存引擎 CacheLib，该项目旨在利用非易失性存储器作为缓存去扩展服务，以抵消不断上涨的 DRAM 成本。该项目在 2024 年 6 月之后就停止了更新，但在 2026 年 5 月 25 日 Meta 再次释出了更新——而今天由于 AI 热 DRAM 价格相比 2021 年几乎是天价。",
-      "source": "Solidot",
-      "pub_date": "Tue, 26 May 2026 22:39:00 +0800",
-      "fetched_at": "2026-05-28T20:00:06.208271",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Meta 在 2021 年开源了缓存引擎 CacheLib，该项目旨在利用非易失性存储器作为缓存去扩展服务，以抵消不断上涨的 DRAM 成本。该项目在 2024 年 6 月之后就停止了更新，但在 2026 年 5 月 25 日 Meta 再次释出了更新——而今天由于 AI 热 DRAM 价格相比 2...",
-      "keywords": [
-        "meta",
-        "cachelib",
-        "dram",
-        "在内存天价时代",
-        "更新了"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "OpenAI挖来了个F1级别车手搞公关",
-      "link": "https://www.qbitai.com/2026/05/425857.html",
-      "summary": "曾在Salesforce干了13年营销",
-      "source": "量子位",
-      "pub_date": "Wed, 27 May 2026 06:55:44 +0000",
-      "fetched_at": "2026-05-28T20:00:21.476512",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "曾在Salesforce干了13年营销",
-      "keywords": [
-        "openai",
-        "挖来了个",
-        "级别车手搞公关",
-        "曾在",
-        "salesforce"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "summary": "👍 908 | 💬 435",
-      "source": "HackerNews",
-      "pub_date": "2026-05-28T00:28:41",
-      "fetched_at": "2026-05-28T20:00:46.250652",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 908 | 💬 435",
-      "keywords": [
-        "duckduckgo",
-        "search",
-        "saw",
-        "more",
-        "visits"
-      ],
-      "importance": 0.5
-    },
-    {
       "title": "袭击石油设施释放的污染相当于一次火山喷发",
       "link": "https://www.solidot.org/story?sid=84422",
       "summary": "武汉大学和中国气象局研究团队利用风云卫星和欧洲哨兵卫星量化了今年三月伊朗石油设施遭袭击后释放的二氧化硫。3 月 7 日的空袭中伊朗 Fardis、Shahran 和 Aghdasieh 油库以及德黑兰炼油厂遭到严重破坏，其中 Shahran 油库破坏最为严重，燃烧的石油流入城市下水道系统，引燃城市绿地，造成大量有毒烟雾。当地居民报告他们立即出现了呼吸困难、皮肤刺激和口中有苦味等健康问题。科学家特别关注了油库燃烧释放的具有强刺激性和腐蚀性的二氧化硫污染。利用风云-3(FY-3F 和 FY-3E)和哨兵-5P，科学家发现当地的二氧化硫浓度从 0.8 DU 上升到 2.0 DU（DU 指 Dobso...",
       "source": "Solidot",
       "pub_date": "Thu, 28 May 2026 15:43:55 +0800",
-      "fetched_at": "2026-05-28T20:00:06.205859",
+      "fetched_at": "2026-05-29T12:00:04.006094",
       "categories": [
         "space"
       ],
@@ -206,7 +126,7 @@
       "summary": "对于人眼愈来愈难以分辨、几乎以假乱真的 AI 视频，YouTube 宣布将自动标记 AI 生成视频，并以最显眼的方式展示给用户，此举旨在改进内容透明度。对于长视频：AI 标签将显示在视频播放器下方和描述上方。对于短视频：标签将以叠加层的形式显示在视频上。",
       "source": "Solidot",
       "pub_date": "Thu, 28 May 2026 13:29:00 +0800",
-      "fetched_at": "2026-05-28T20:00:06.206162",
+      "fetched_at": "2026-05-29T12:00:04.006339",
       "categories": [
         "ai"
       ],
@@ -226,7 +146,7 @@
       "summary": "中国在 2022 年发射了 64 枚火箭，2025 年创下了 93 枚的发射纪录，数量仅次于美国。随着中国公司加速发射国网和千帆宽带卫星星座，火箭发射数量还会增加。但中国公司在发射时没有更好的处理火箭的上面级。根据 Jim Shell 的最新分析，过去五年中国在高生存期轨道上的火箭残骸质量从不到 100 吨增至 252 吨。高生存期轨道顾名思义也就是火箭残骸会长期留在轨道上。为发射巨型宽带卫星星座，中国预计未来十年将会执行千次或以上的火箭发射。",
       "source": "Solidot",
       "pub_date": "Wed, 27 May 2026 23:19:59 +0800",
-      "fetched_at": "2026-05-28T20:00:06.206764",
+      "fetched_at": "2026-05-29T12:00:04.006882",
       "categories": [
         "space"
       ],
@@ -239,206 +159,165 @@
         "年创下了"
       ],
       "importance": 0
+    },
+    {
+      "title": "清华系团队给大模型织了一张“智能算力电网”",
+      "link": "https://www.qbitai.com/2026/05/426353.html",
+      "summary": "单位Token成本降低40%",
+      "source": "量子位",
+      "pub_date": "Fri, 29 May 2026 02:47:09 +0000",
+      "fetched_at": "2026-05-29T12:00:19.276956",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "单位Token成本降低40%",
+      "keywords": [
+        "清华系团队给大模型织了一张",
+        "智能算力电网",
+        "单位",
+        "token",
+        "成本降低"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Claude 4.8炸场！部分能力超过Mythos，支持数百子智能体并行",
+      "link": "https://www.qbitai.com/2026/05/426314.html",
+      "summary": "可以长时间执行任务，人类不用经常回来检查它的工作",
+      "source": "量子位",
+      "pub_date": "Thu, 28 May 2026 23:57:47 +0000",
+      "fetched_at": "2026-05-29T12:00:19.277050",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "可以长时间执行任务，人类不用经常回来检查它的工作",
+      "keywords": [
+        "claude",
+        "炸场",
+        "部分能力超过",
+        "mythos",
+        "支持数百子智能体并行"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "世界模型接棒语言模型，这家公司全球首创物理AGI“双金字塔”体系，通用机器人进入“家庭时代”",
+      "link": "https://www.qbitai.com/2026/05/426237.html",
+      "summary": "12个月冲击物理AGI的“GPT-3时刻”",
+      "source": "量子位",
+      "pub_date": "Thu, 28 May 2026 13:01:16 +0000",
+      "fetched_at": "2026-05-29T12:00:19.277194",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "12个月冲击物理AGI的“GPT-3时刻”",
+      "keywords": [
+        "agi",
+        "世界模型接棒语言模型",
+        "这家公司全球首创物理",
+        "双金字塔",
+        "体系"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "沙钢签约钉钉，让悟空成为每一位“钢铁人”的生产力工具",
+      "link": "https://www.qbitai.com/2026/05/426223.html",
+      "summary": "实现AI技术从“能力”到“价值”的转化",
+      "source": "量子位",
+      "pub_date": "Thu, 28 May 2026 08:47:27 +0000",
+      "fetched_at": "2026-05-29T12:00:19.277272",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "实现AI技术从“能力”到“价值”的转化",
+      "keywords": [
+        "沙钢签约钉钉",
+        "让悟空成为每一位",
+        "钢铁人",
+        "的生产力工具",
+        "实现"
+      ],
+      "importance": 0
     }
   ],
   "latest": [
     {
-      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "summary": "👍 908 | 💬 435",
+      "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+      "link": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+      "summary": "👍 128 | 💬 62",
       "source": "HackerNews",
-      "pub_date": "2026-05-28T00:28:41",
-      "fetched_at": "2026-05-28T20:00:46.250652",
+      "pub_date": "2026-05-29T07:42:47",
+      "fetched_at": "2026-05-29T12:00:49.195314",
       "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 908 | 💬 435",
-      "keywords": [
-        "duckduckgo",
-        "search",
-        "saw",
-        "more",
-        "visits"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "Rust (and Slint) on a Jailbroken Kindle",
-      "link": "https://sverre.me/blog/rust-on-kindle/",
-      "summary": "👍 176 | 💬 24",
-      "source": "HackerNews",
-      "pub_date": "2026-05-28T03:51:47",
-      "fetched_at": "2026-05-28T20:00:44.499570",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 176 | 💬 24",
-      "keywords": [
-        "rust",
-        "and",
-        "slint",
-        "on",
-        "jailbroken"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "AI sticker shock hits corporate America",
-      "link": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
-      "summary": "👍 41 | 💬 9",
-      "source": "HackerNews",
-      "pub_date": "2026-05-28T18:39:32",
-      "fetched_at": "2026-05-28T20:00:31.066898",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 41 | 💬 9",
-      "keywords": [
         "ai",
-        "sticker",
-        "shock",
-        "hits",
-        "corporate"
+        "robotics"
+      ],
+      "ai_summary": "👍 128 | 💬 62",
+      "keywords": [
+        "sf",
+        "startup",
+        "is",
+        "testing",
+        "robots"
       ],
       "importance": 0
     },
     {
-      "title": "I think Anthropic and OpenAI have found product-market fit",
-      "link": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "summary": "👍 915 | 💬 1029",
+      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+      "link": "https://minimaxir.com/2026/05/openrouter-hy3/",
+      "summary": "👍 21 | 💬 6",
       "source": "HackerNews",
-      "pub_date": "2026-05-28T00:39:13",
-      "fetched_at": "2026-05-28T20:00:30.169187",
+      "pub_date": "2026-05-29T08:09:35",
+      "fetched_at": "2026-05-29T12:00:47.244275",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 915 | 💬 1029",
+      "ai_summary": "👍 21 | 💬 6",
       "keywords": [
-        "think",
-        "anthropic",
-        "and",
-        "openai",
-        "have"
+        "the",
+        "mysterious",
+        "hy",
+        "llm",
+        "is"
       ],
-      "importance": 1.0
+      "importance": 0
     },
     {
-      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
-      "link": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
-      "summary": "👍 62 | 💬 18",
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "link": "https://llmgame.scalex.dev",
+      "summary": "👍 265 | 💬 115",
       "source": "HackerNews",
-      "pub_date": "2026-05-28T18:56:55",
-      "fetched_at": "2026-05-28T20:00:29.019694",
+      "pub_date": "2026-05-28T21:02:00",
+      "fetched_at": "2026-05-29T12:00:42.356946",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 62 | 💬 18",
+      "ai_summary": "👍 265 | 💬 115",
       "keywords": [
-        "amd",
-        "pulls",
-        "bait",
-        "and",
-        "switch"
+        "show",
+        "hn",
+        "continue",
+        "second",
+        "game"
       ],
       "importance": 0
     },
     {
-      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-      "link": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
-      "summary": "👍 92 | 💬 29",
+      "title": "Claude Opus 4.8",
+      "link": "https://www.anthropic.com/news/claude-opus-4-8",
+      "summary": "👍 1307 | 💬 1052",
       "source": "HackerNews",
-      "pub_date": "2026-05-28T14:40:31",
-      "fetched_at": "2026-05-28T20:00:26.187063",
+      "pub_date": "2026-05-29T00:49:14",
+      "fetched_at": "2026-05-29T12:00:22.474163",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 92 | 💬 29",
+      "ai_summary": "👍 1307 | 💬 1052",
       "keywords": [
-        "eureka",
-        "machine",
-        "that",
-        "thinks",
-        "like"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "YouTube to automatically label AI-generated videos",
-      "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "summary": "👍 963 | 💬 578",
-      "source": "HackerNews",
-      "pub_date": "2026-05-28T04:00:51",
-      "fetched_at": "2026-05-28T20:00:23.784942",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 963 | 💬 578",
-      "keywords": [
-        "youtube",
-        "to",
-        "automatically",
-        "label",
-        "ai"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "OpenAI挖来了个F1级别车手搞公关",
-      "link": "https://www.qbitai.com/2026/05/425857.html",
-      "summary": "曾在Salesforce干了13年营销",
-      "source": "量子位",
-      "pub_date": "Wed, 27 May 2026 06:55:44 +0000",
-      "fetched_at": "2026-05-28T20:00:21.476512",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "曾在Salesforce干了13年营销",
-      "keywords": [
-        "openai",
-        "挖来了个",
-        "级别车手搞公关",
-        "曾在",
-        "salesforce"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "5秒完成3D场景编辑，北大&港中文&上海AI Lab搞出VGGT-Edit，120倍加速太炸了",
-      "link": "https://www.qbitai.com/2026/05/425870.html",
-      "summary": "不再绕回2D",
-      "source": "量子位",
-      "pub_date": "Wed, 27 May 2026 09:01:54 +0000",
-      "fetched_at": "2026-05-28T20:00:21.476446",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "不再绕回2D",
-      "keywords": [
-        "秒完成",
-        "场景编辑",
-        "北大",
-        "港中文",
-        "上海"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "雷鸟双品齐发：GT 系列、V4 同台亮相，次世代 AI 眼镜雷鸟 iO 提前预告",
-      "link": "https://www.qbitai.com/2026/05/425897.html",
-      "summary": "专业影视级 AR 眼镜",
-      "source": "量子位",
-      "pub_date": "Wed, 27 May 2026 11:55:55 +0000",
-      "fetched_at": "2026-05-28T20:00:21.476303",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "专业影视级 AR 眼镜",
-      "keywords": [
-        "雷鸟双品齐发",
-        "gt",
-        "系列",
-        "同台亮相",
-        "次世代"
+        "claude",
+        "opus"
       ],
       "importance": 0
     },
@@ -448,7 +327,7 @@
       "summary": "“87%用户不懂代码，却用AI跑通了一人公司”",
       "source": "量子位",
       "pub_date": "Thu, 28 May 2026 07:34:57 +0000",
-      "fetched_at": "2026-05-28T20:00:21.476088",
+      "fetched_at": "2026-05-29T12:00:19.277482",
       "categories": [
         "ai"
       ],
@@ -468,7 +347,7 @@
       "summary": "医学AI Agent到了关键拐点",
       "source": "量子位",
       "pub_date": "Thu, 28 May 2026 08:01:57 +0000",
-      "fetched_at": "2026-05-28T20:00:21.476008",
+      "fetched_at": "2026-05-29T12:00:19.277414",
       "categories": [
         "ai"
       ],
@@ -488,7 +367,7 @@
       "summary": "8篇由同一个系统生成或形式化证明的数学论文",
       "source": "量子位",
       "pub_date": "Thu, 28 May 2026 08:11:40 +0000",
-      "fetched_at": "2026-05-28T20:00:21.475930",
+      "fetched_at": "2026-05-29T12:00:19.277341",
       "categories": [
         "ai"
       ],
@@ -508,7 +387,7 @@
       "summary": "实现AI技术从“能力”到“价值”的转化",
       "source": "量子位",
       "pub_date": "Thu, 28 May 2026 08:47:27 +0000",
-      "fetched_at": "2026-05-28T20:00:21.475808",
+      "fetched_at": "2026-05-29T12:00:19.277272",
       "categories": [
         "ai"
       ],
@@ -523,24 +402,65 @@
       "importance": 0
     },
     {
-      "title": "在内存天价时代 Meta 更新了 CacheLib 项目",
-      "link": "https://www.solidot.org/story?sid=84407",
-      "summary": "Meta 在 2021 年开源了缓存引擎 CacheLib，该项目旨在利用非易失性存储器作为缓存去扩展服务，以抵消不断上涨的 DRAM 成本。该项目在 2024 年 6 月之后就停止了更新，但在 2026 年 5 月 25 日 Meta 再次释出了更新——而今天由于 AI 热 DRAM 价格相比 2021 年几乎是天价。",
-      "source": "Solidot",
-      "pub_date": "Tue, 26 May 2026 22:39:00 +0800",
-      "fetched_at": "2026-05-28T20:00:06.208271",
+      "title": "世界模型接棒语言模型，这家公司全球首创物理AGI“双金字塔”体系，通用机器人进入“家庭时代”",
+      "link": "https://www.qbitai.com/2026/05/426237.html",
+      "summary": "12个月冲击物理AGI的“GPT-3时刻”",
+      "source": "量子位",
+      "pub_date": "Thu, 28 May 2026 13:01:16 +0000",
+      "fetched_at": "2026-05-29T12:00:19.277194",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "12个月冲击物理AGI的“GPT-3时刻”",
+      "keywords": [
+        "agi",
+        "世界模型接棒语言模型",
+        "这家公司全球首创物理",
+        "双金字塔",
+        "体系"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Claude 4.8炸场！部分能力超过Mythos，支持数百子智能体并行",
+      "link": "https://www.qbitai.com/2026/05/426314.html",
+      "summary": "可以长时间执行任务，人类不用经常回来检查它的工作",
+      "source": "量子位",
+      "pub_date": "Thu, 28 May 2026 23:57:47 +0000",
+      "fetched_at": "2026-05-29T12:00:19.277050",
       "categories": [
         "ai"
       ],
-      "ai_summary": "Meta 在 2021 年开源了缓存引擎 CacheLib，该项目旨在利用非易失性存储器作为缓存去扩展服务，以抵消不断上涨的 DRAM 成本。该项目在 2024 年 6 月之后就停止了更新，但在 2026 年 5 月 25 日 Meta 再次释出了更新——而今天由于 AI 热 DRAM 价格相比 2...",
+      "ai_summary": "可以长时间执行任务，人类不用经常回来检查它的工作",
       "keywords": [
-        "meta",
-        "cachelib",
-        "dram",
-        "在内存天价时代",
-        "更新了"
+        "claude",
+        "炸场",
+        "部分能力超过",
+        "mythos",
+        "支持数百子智能体并行"
       ],
-      "importance": 0.5
+      "importance": 0
+    },
+    {
+      "title": "清华系团队给大模型织了一张“智能算力电网”",
+      "link": "https://www.qbitai.com/2026/05/426353.html",
+      "summary": "单位Token成本降低40%",
+      "source": "量子位",
+      "pub_date": "Fri, 29 May 2026 02:47:09 +0000",
+      "fetched_at": "2026-05-29T12:00:19.276956",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "单位Token成本降低40%",
+      "keywords": [
+        "清华系团队给大模型织了一张",
+        "智能算力电网",
+        "单位",
+        "token",
+        "成本降低"
+      ],
+      "importance": 0
     },
     {
       "title": "教宗的首份通谕被怀疑部分是在 AI 帮助下撰写的",
@@ -548,7 +468,7 @@
       "summary": "教宗良十四世发布了其首道通谕《伟大的人类（Magnifica Humanitas）》，谈论了在 AI 时代守护人类。但这篇 通谕被质疑部分是在 AI 帮助下撰写的。AI 检测工具 Pangra 的分析显示，部分段落有 40% 到 100% 的概率是由 AI 撰写的，大部分段落则没有使用 AI。以前发布的通谕没有发现使用 AI 的痕迹。根据文本和间接证据判断，所使用的 AI 很可能是 Anthropic 的 Claude。而这份通谕的一位顾问是 Anthropic 联合创始人 Christopher Olah。",
       "source": "Solidot",
       "pub_date": "Wed, 27 May 2026 14:47:20 +0800",
-      "fetched_at": "2026-05-28T20:00:06.207538",
+      "fetched_at": "2026-05-29T12:00:04.007561",
       "categories": [
         "ai"
       ],
@@ -568,7 +488,7 @@
       "summary": "Google 上周宣布将大幅更改搜索功能，把搜索框改为 AI 聊天机器人的对话框，此举立即在用户中间引发了强烈反对。一部分批评者认为这将杀死开放 Web，一部分人担心 AI overviews 会展示错误的答案，且剥夺了不想要 AI 的用户的控制权。部分用户因此转向了替代搜索 DuckDuckGo。DuckDuckGo 称，其美国应用在 5 月 20 日-25 日期间的安装量周环比平均增长 18.1%，安装量增势持续了六天，5 月 25 日达到最高的 30.5%。而在 iOS 平台上，安装量周环比平均增长 33%，最高 69.9%。不展示 AI 结果的 noai.duckduckgo.com ...",
       "source": "Solidot",
       "pub_date": "Wed, 27 May 2026 18:56:39 +0800",
-      "fetched_at": "2026-05-28T20:00:06.206942",
+      "fetched_at": "2026-05-29T12:00:04.007031",
       "categories": [
         "ai",
         "robotics"
@@ -589,7 +509,7 @@
       "summary": "中国在 2022 年发射了 64 枚火箭，2025 年创下了 93 枚的发射纪录，数量仅次于美国。随着中国公司加速发射国网和千帆宽带卫星星座，火箭发射数量还会增加。但中国公司在发射时没有更好的处理火箭的上面级。根据 Jim Shell 的最新分析，过去五年中国在高生存期轨道上的火箭残骸质量从不到 100 吨增至 252 吨。高生存期轨道顾名思义也就是火箭残骸会长期留在轨道上。为发射巨型宽带卫星星座，中国预计未来十年将会执行千次或以上的火箭发射。",
       "source": "Solidot",
       "pub_date": "Wed, 27 May 2026 23:19:59 +0800",
-      "fetched_at": "2026-05-28T20:00:06.206764",
+      "fetched_at": "2026-05-29T12:00:04.006882",
       "categories": [
         "space"
       ],
@@ -609,7 +529,7 @@
       "summary": "对于人眼愈来愈难以分辨、几乎以假乱真的 AI 视频，YouTube 宣布将自动标记 AI 生成视频，并以最显眼的方式展示给用户，此举旨在改进内容透明度。对于长视频：AI 标签将显示在视频播放器下方和描述上方。对于短视频：标签将以叠加层的形式显示在视频上。",
       "source": "Solidot",
       "pub_date": "Thu, 28 May 2026 13:29:00 +0800",
-      "fetched_at": "2026-05-28T20:00:06.206162",
+      "fetched_at": "2026-05-29T12:00:04.006339",
       "categories": [
         "ai"
       ],
@@ -629,7 +549,7 @@
       "summary": "武汉大学和中国气象局研究团队利用风云卫星和欧洲哨兵卫星量化了今年三月伊朗石油设施遭袭击后释放的二氧化硫。3 月 7 日的空袭中伊朗 Fardis、Shahran 和 Aghdasieh 油库以及德黑兰炼油厂遭到严重破坏，其中 Shahran 油库破坏最为严重，燃烧的石油流入城市下水道系统，引燃城市绿地，造成大量有毒烟雾。当地居民报告他们立即出现了呼吸困难、皮肤刺激和口中有苦味等健康问题。科学家特别关注了油库燃烧释放的具有强刺激性和腐蚀性的二氧化硫污染。利用风云-3(FY-3F 和 FY-3E)和哨兵-5P，科学家发现当地的二氧化硫浓度从 0.8 DU 上升到 2.0 DU（DU 指 Dobso...",
       "source": "Solidot",
       "pub_date": "Thu, 28 May 2026 15:43:55 +0800",
-      "fetched_at": "2026-05-28T20:00:06.205859",
+      "fetched_at": "2026-05-29T12:00:04.006094",
       "categories": [
         "space"
       ],
@@ -644,5 +564,5 @@
       "importance": 0
     }
   ],
-  "updated_at": "2026-05-28T20:00:49.683124"
+  "updated_at": "2026-05-29T12:00:54.057499"
 }

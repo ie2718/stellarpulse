@@ -5,21 +5,21 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-06-02T12:00:35.061723",
-    "total_items": 26
+    "last_update": "2026-06-02T20:00:53.396417",
+    "total_items": 19
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 24
+      "count": 18
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 5
+      "count": 3
     },
     "space": {
       "name": "Space",
@@ -29,70 +29,49 @@
     }
   },
   "stats": {
-    "total_items": 26,
-    "today_items": 26,
+    "total_items": 19,
+    "today_items": 19,
     "sources": {
-      "Solidot": 8,
-      "36氪": 7,
-      "HackerNews": 5,
-      "量子位": 6
+      "Solidot": 7,
+      "HackerNews": 7,
+      "量子位": 5
     },
-    "last_update": "2026-06-02T12:00:35.061723"
+    "last_update": "2026-06-02T20:00:53.396417"
   },
   "trending": [
     {
-      "title": "英伟达税",
-      "link": "https://www.solidot.org/story?sid=84438",
-      "summary": "生活在美国数据中心周围的居民都有电费大幅上涨的经历。他们可能并不知道，部分电费账单其实是支付给英伟达的税。英伟达控制着 81% 的数据中心 AI 芯片市场，上个财年其数据中心业务收入 1937 亿美元，毛利率为 75%。对英伟达顶尖 GPU 芯片的拆解报告显示，其制造成本约 3300 美元，但售价高达 2.8 万美元，利润率高达 88%。如此高的利润其实是一种税，总要有人来承担。数据中心周围的居民就处于这条支付链条的末端。为了少给英伟达缴税，科技巨头都在竞相开发更便宜的 AI 加速芯片，如 Google 的 TPU、亚马逊的 Trainium、微软的 Maia 以及 Meta 的 MTIA，O...",
+      "title": "Anthropic 申请 IPO",
+      "link": "https://www.solidot.org/story?sid=84458",
+      "summary": "Anthropic 已向美国证券交易委员会（SEC）秘密提交了 IPO 招股说明书。该公司表示在 SEC 完成审查之后，将根据市场状况等因素选择上市。Anthropic 的估值今年以来出现了爆炸式增长，在上周的最新一轮融资中估值达到了 9650 亿美元，超过了 OpenAI 在 3 月下旬的 8520 亿美元估值。美国股市即将迎来三家万亿市值公司的上市，SpaceX 预计本月上市，Anthropic 竞争对手 OpenAI 预计会很快递交上市申请，三家公司的市值预计将达到 4 万亿美元。",
       "source": "Solidot",
-      "pub_date": "Sat, 30 May 2026 00:23:13 +0800",
-      "fetched_at": "2026-06-02T12:00:04.691209",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "生活在美国数据中心周围的居民都有电费大幅上涨的经历。他们可能并不知道，部分电费账单其实是支付给英伟达的税。英伟达控制着 81% 的数据中心 AI 芯片市场，上个财年其数据中心业务收入 1937 亿美元，毛利率为 75%。对英伟达顶尖 GPU 芯片的拆解报告显示，其制造成本约 3300 美元，但售价高...",
-      "keywords": [
-        "ai",
-        "英伟达税",
-        "生活在美国数据中心周围的居民都有电费大幅上涨的经历",
-        "他们可能并不知道",
-        "部分电费账单其实是支付给英伟达的税"
-      ],
-      "importance": 2.5
-    },
-    {
-      "title": "8点1氪丨豆包将在6月下旬正式付费 ；韩国SK海力士工厂发生火灾；宇树科技IPO过会，王兴兴身家或超140亿",
-      "link": "https://36kr.com/p/3835278829008257?f=rss",
-      "summary": "今日热点导览 闲鱼回应读取用户手机内文物照片上架售卖 赛力斯字节合作新品牌细节曝光：将推纯电、增程双动力 英伟达推出NVIDIA DSX平台 OpenAI官宣进军机器人赛道，短期内专注研发协助型机器人 4月中国产汽车在韩国注册登记进口榜排第三，史上首超日本车 TOP 3大新闻 豆包预计6月下旬正式付费，并加速打通抖音电商 5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增值内容，以满足不同用户的差异化需求。” 据36氪独家了解，以上只是豆包商业化的预热动作。在接下来的季度中，豆包将持续推进商业化的落地。知情...",
-      "source": "36氪",
-      "pub_date": "2026-06-02 08:12:57  +0800",
-      "fetched_at": "2026-06-02T12:00:05.164004",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "今日热点导览 闲鱼回应读取用户手机内文物照片上架售卖 赛力斯字节合作新品牌细节曝光：将推纯电、增程双动力 英伟达推出NVIDIA DSX平台 OpenAI官宣进军机器人赛道，短期内专注研发协助型机器人 4月中国产汽车在韩国注册登记进口榜排第三，史上首超日本车 TOP 3大新闻 豆包预计6月下旬正式付...",
-      "keywords": [
-        "月下旬正式付费",
-        "氪丨豆包将在",
-        "韩国",
-        "sk",
-        "海力士工厂发生火灾"
-      ],
-      "importance": 2.0
-    },
-    {
-      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "link": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "summary": "👍 144 | 💬 315",
-      "source": "HackerNews",
-      "pub_date": "2026-06-02T07:45:46",
-      "fetched_at": "2026-06-02T12:00:11.249875",
+      "pub_date": "Tue, 02 Jun 2026 13:57:08 +0800",
+      "fetched_at": "2026-06-02T20:00:05.311755",
       "categories": [
         "ai",
         "space"
       ],
-      "ai_summary": "👍 144 | 💬 315",
+      "ai_summary": "Anthropic 已向美国证券交易委员会（SEC）秘密提交了 IPO 招股说明书。该公司表示在 SEC 完成审查之后，将根据市场状况等因素选择上市。Anthropic 的估值今年以来出现了爆炸式增长，在上周的最新一轮融资中估值达到了 9650 亿美元，超过了 OpenAI 在 3 月下旬的 852...",
+      "keywords": [
+        "anthropic",
+        "ipo",
+        "sec",
+        "openai",
+        "申请"
+      ],
+      "importance": 3.0
+    },
+    {
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "link": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "summary": "👍 425 | 💬 738",
+      "source": "HackerNews",
+      "pub_date": "2026-06-02T07:45:46",
+      "fetched_at": "2026-06-02T20:00:27.884951",
+      "categories": [
+        "ai",
+        "space"
+      ],
+      "ai_summary": "👍 425 | 💬 738",
       "keywords": [
         "can",
         "the",
@@ -103,160 +82,199 @@
       "importance": 2.0
     },
     {
-      "title": "丹麦养老基金将 SpaceX 列入投资黑名单",
-      "link": "https://www.solidot.org/story?sid=84442",
-      "summary": "丹麦养老基金 AkademikerPension 今年一月以美国政府的信用评级不高为由抛售美国国债，现在它以治理结构问题而将 SpaceX 列入投资黑名单。SpaceX 于 5 月 20 日提交了 IPO 申请，其目标估值高达 1.8 万亿美元。AkademikerPension 首席投资官 Anders Schelde 表示这一估值不仅严重过高，而且该公司还存在在灾难性的治理结构问题。Elon Musk 拥有该公司绝对的控制权，控制约 80% 的投票权，同时兼任 CEO、CTO 和董事会主席。美国多家养老基金也都对 SpaceX 的治理结构表示担忧。Schelde 认为 SpaceX 的合理...",
+      "title": "黑客利用 Meta AI 机器人接管 Instagram 名人账号",
+      "link": "https://www.solidot.org/story?sid=84457",
+      "summary": "亲伊朗黑客诱骗 Meta AI 机器人短时间内接管了多个 Instagram 名人账号，其中包括奥巴马和美国太空军总军士长（Chief Master Sergeant），之后在账号上发表了亲伊朗的图片和信息。攻击方法非常简单：首先使用 VPN 连接到目标用户常住地附近，然后请求重置账号密码，要求与 Meta AI 客服对话，指示 AI 将目标账户关联到一个新邮箱地址，AI 按指示向该邮箱地址发送一次性验证码后，攻击者就可以重置密码接管账号。目前 Telegram 上已经出现了大量交易被接管账号的频道。Meta 的 Andy Stone 声称该公司已经采取行动解决了问题。",
       "source": "Solidot",
-      "pub_date": "Sat, 30 May 2026 22:57:37 +0800",
-      "fetched_at": "2026-06-02T12:00:04.690647",
+      "pub_date": "Tue, 02 Jun 2026 12:19:07 +0800",
+      "fetched_at": "2026-06-02T20:00:05.311893",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "亲伊朗黑客诱骗 Meta AI 机器人短时间内接管了多个 Instagram 名人账号，其中包括奥巴马和美国太空军总军士长（Chief Master Sergeant），之后在账号上发表了亲伊朗的图片和信息。攻击方法非常简单：首先使用 VPN 连接到目标用户常住地附近，然后请求重置账号密码，要求与 ...",
+      "keywords": [
+        "ai",
+        "meta",
+        "instagram",
+        "名人账号",
+        "黑客利用"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+      "summary": "👍 290 | 💬 101",
+      "source": "HackerNews",
+      "pub_date": "2026-06-02T05:50:02",
+      "fetched_at": "2026-06-02T20:00:34.902064",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 290 | 💬 101",
+      "keywords": [
+        "openai",
+        "frontier",
+        "models",
+        "and",
+        "codex"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "中国将数据和算法纳入商业秘密保护",
+      "link": "https://www.solidot.org/story?sid=84462",
+      "summary": "中国扩大商业秘密保护范围，将数据和算法纳入其中，以加强防范技术外流。中国国家市场监督管理总局修订的《商业秘密保护规定》在星期一（6月1日）正式施行。这是中国法律首次明确将数据、算法等数字资产纳入商业秘密保护范围。新规也对远程办公和跨境企业合作提出更严格的安全要求。企业必须采取保护措施，包括按照员工职级限制文件访问权限、隐藏敏感信息，以及记录用户操作行为等。规定还将境外实施的侵犯商业秘密行为纳入规制范围，但未明确具体执法机制。配合新规实施，中国国家市场监管总局星期一启动为期一个月的专项执法行动，重点针对生物医药、半导体和人工智能等关键领域，严厉打击“恶意挖角”以及员工跳槽时携带商业秘密等行为。",
+      "source": "Solidot",
+      "pub_date": "Tue, 02 Jun 2026 16:37:19 +0800",
+      "fetched_at": "2026-06-02T20:00:05.311139",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "中国扩大商业秘密保护范围，将数据和算法纳入其中，以加强防范技术外流。中国国家市场监督管理总局修订的《商业秘密保护规定》在星期一（6月1日）正式施行。这是中国法律首次明确将数据、算法等数字资产纳入商业秘密保护范围。新规也对远程办公和跨境企业合作提出更严格的安全要求。企业必须采取保护措施，包括按照员工职...",
+      "keywords": [
+        "中国将数据和算法纳入商业秘密保护",
+        "中国扩大商业秘密保护范围",
+        "将数据和算法纳入其中",
+        "以加强防范技术外流",
+        "中国国家市场监督管理总局修订的"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "三种埃博拉疫苗在研发中",
+      "link": "https://www.solidot.org/story?sid=84456",
+      "summary": "The International Aids Vaccine Initiative(IAVI)、牛津大学以及 Moderna 公司正在研发针对埃博拉病毒的疫苗。IAVI 表示正在刚果民主共和国爆发的埃博拉疫情可能是至今最严重的。疫情发生在冲突地区，已经报告了逾千例疑似病例，邻国乌干达已确诊 9 例。目前已知有六种埃博拉病毒株，只有三种会引发疫情。最常见的 Zaire 毒株已有针对性的疫苗，但此次爆发的是比较罕见的 Bundibugyo 毒株，目前还没有针对它的疫苗。Moderna 公司宣布将利用 mRNA 技术研发针对 Bundibugyo 毒株的疫苗。",
+      "source": "Solidot",
+      "pub_date": "Tue, 02 Jun 2026 00:27:06 +0800",
+      "fetched_at": "2026-06-02T20:00:05.312030",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "The International Aids Vaccine Initiative(IAVI)、牛津大学以及 Moderna 公司正在研发针对埃博拉病毒的疫苗。IAVI 表示正在刚果民主共和国爆发的埃博拉疫情可能是至今最严重的。疫情发生在冲突地区，已经报告了逾千例疑似病例，邻国乌干达已确诊 9 例。...",
+      "keywords": [
+        "iavi",
+        "moderna",
+        "bundibugyo",
+        "三种埃博拉疫苗在研发中",
+        "the"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "地球熔心在 2010 年突然逆转方向",
+      "link": "https://www.solidot.org/story?sid=84449",
+      "summary": "根据卫星对地磁场的测量，太平洋一区域下的地球熔融核心在 2010 年突然逆转了流动方向，从西向流动转为东向流动。爱丁堡大学地球科学家 Frederik Dahl Madsen 说，“科学家现在想了解，这种逆转究竟代表着短暂的波动、周期性振荡的一部分，还是地核环流的一种新的稳定平衡。持续监测对确定未来几年这一流动如何演变至关重要。”Madsen 团队分析了 1997-2025 年间 27 年的卫星数据，拼凑出可能发生的变化。外地核大部分运动都受被称为偏心行星环流（eccentric planetary gyre）的环流模式支配。2010 年太平洋下方的区域，部分外核突然偏离了这种模式，从 201...",
+      "source": "Solidot",
+      "pub_date": "Mon, 01 Jun 2026 15:55:06 +0800",
+      "fetched_at": "2026-06-02T20:00:05.312959",
       "categories": [
         "space"
       ],
-      "ai_summary": "丹麦养老基金 AkademikerPension 今年一月以美国政府的信用评级不高为由抛售美国国债，现在它以治理结构问题而将 SpaceX 列入投资黑名单。SpaceX 于 5 月 20 日提交了 IPO 申请，其目标估值高达 1.8 万亿美元。AkademikerPension 首席投资官 And...",
+      "ai_summary": "根据卫星对地磁场的测量，太平洋一区域下的地球熔融核心在 2010 年突然逆转了流动方向，从西向流动转为东向流动。爱丁堡大学地球科学家 Frederik Dahl Madsen 说，“科学家现在想了解，这种逆转究竟代表着短暂的波动、周期性振荡的一部分，还是地核环流的一种新的稳定平衡。持续监测对确定未来...",
       "keywords": [
-        "spacex",
-        "列入投资黑名单",
-        "akademikerpension",
-        "schelde",
-        "丹麦养老基金将"
+        "madsen",
+        "地球熔心在",
+        "年突然逆转方向",
+        "根据卫星对地磁场的测量",
+        "太平洋一区域下的地球熔融核心在"
       ],
-      "importance": 1.5
+      "importance": 0
     },
     {
-      "title": "氪星晚报｜中国国新等在杭州成立创业投资基金，出资额10.01亿；天津人工智能传感器产业园正式开园，首批10家企业集中签约；浙江：拟实施“星火计划”培育未来产业行动，加速量子技术产品规模化应用",
-      "link": "https://36kr.com/p/3834354415347337?f=rss",
-      "summary": "大公司： 中通快递在广州成立新物流公司，注册资本5亿 36氪获悉，天眼查App显示，近日，广州中竞物流有限公司成立，法定代表人为范嘉玮，注册资本5亿人民币，经营范围包括国内货物运输代理、机械设备租赁、计算机系统服务等。股东信息显示，该公司由中通快递股份有限公司全资持股。 OpenAI官宣进军机器人赛道，短期内专注研发协助型机器人 OpenAI CEO山姆·奥特曼在社交平台发布OpenAI Robotics招聘信息，称公司正在寻找杰出的全栈硬件、运营、系统及机器学习工程师，共同编程并制造对社会真正有用的机器人。奥特曼表示，人工智能应当能够在现实世界中帮助人类。短期内，OpenAI专注于研发能够协...",
-      "source": "36氪",
-      "pub_date": "2026-06-01 18:56:21  +0800",
-      "fetched_at": "2026-06-02T12:00:05.178898",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "大公司： 中通快递在广州成立新物流公司，注册资本5亿 36氪获悉，天眼查App显示，近日，广州中竞物流有限公司成立，法定代表人为范嘉玮，注册资本5亿人民币，经营范围包括国内货物运输代理、机械设备租赁、计算机系统服务等。股东信息显示，该公司由中通快递股份有限公司全资持股。 OpenAI官宣进军机器人赛...",
-      "keywords": [
-        "openai",
-        "注册资本",
-        "氪星晚报",
-        "中国国新等在杭州成立创业投资基金",
-        "出资额"
-      ],
-      "importance": 1.5
-    },
-    {
-      "title": "首轮融资数千万美元、估值2.5亿美元，「Aippy」正在打造下一代AI游戏社区 | 36氪首发",
-      "link": "https://36kr.com/p/3834400181741440?f=rss",
-      "summary": "36氪获悉，NADA AI团队开发的AI游戏社区「Aippy」，已于近日完成数千万美元首轮融资，本轮由歌未资本（Glowill Capital）投资，投后估值2.5亿美元。本轮资金将主要用于顶尖人才引进和欧美核心市场用户规模化增长。 Aippy成立于2025年，由港股上市公司赤子城科技孵化，其创始人、CEO Evan (叶椿建）是赤子城联合创始人，并长期担任赤子城CTO，在海外社交、游戏领域有十余年深耕经验。目前团队规模接近30人，核心成员来自清华大学、美国西北大学、慕尼黑工业大学等国内外顶尖高校，覆盖算法、产品、运营等关键岗位。 Aippy产品界面图 作为AI驱动的游戏创作与互动社区，Aip...",
-      "source": "36氪",
-      "pub_date": "2026-06-02 08:00:06  +0800",
-      "fetched_at": "2026-06-02T12:00:05.166681",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "36氪获悉，NADA AI团队开发的AI游戏社区「Aippy」，已于近日完成数千万美元首轮融资，本轮由歌未资本（Glowill Capital）投资，投后估值2.5亿美元。本轮资金将主要用于顶尖人才引进和欧美核心市场用户规模化增长。...",
-      "keywords": [
-        "aippy",
-        "ai",
-        "亿美元",
-        "游戏社区",
-        "首轮融资数千万美元"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "量坤科技获数亿元天使轮融资，AI4S急需量子级精度数据 | 36氪独家",
-      "link": "https://36kr.com/p/3826034537223043?f=rss",
-      "summary": "「暗涌Waves」独家获悉，量子计算公司「量坤科技」近日完成数亿元人民币天使轮、天使+轮融资。本轮系列融资由英诺天使基金领投，国汽投资、北工投资、BV百度风投、水木清华校友基金、明势创投等多家机构参与投资。光源资本担任独家财务顾问。 这笔融资背后，是一个逐渐清晰的判断：AI for Science需要量子计算。 AI可以学习规律，但模型能力上限，受制于它所见过世界的“分辨率”。在化学、材料与医药等研发场景中，如果底层数据的精度不够，模型预测结果也会显著受限。 量子计算，天然适合模拟分子结构、化学键等体系。作为一种高精度求解器，它有可能输出更接近物理世界规律的计算结果；计算产出的量子级高精度数据...",
-      "source": "36氪",
-      "pub_date": "2026-06-01 19:06:39  +0800",
-      "fetched_at": "2026-06-02T12:00:05.176001",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "「暗涌Waves」独家获悉，量子计算公司「量坤科技」近日完成数亿元人民币天使轮、天使+轮融资。本轮系列融资由英诺天使基金领投，国汽投资、北工投资、BV百度风投、水木清华校友基金、明势创投等多家机构参与投资。光源资本担任独家财务顾问。...",
-      "keywords": [
-        "ai",
-        "量坤科技获数亿元天使轮融资",
-        "急需量子级精度数据",
-        "氪独家",
-        "暗涌"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "一家美国公司一个月内在 Claude AI 上花费了 5 亿美元",
-      "link": "https://www.solidot.org/story?sid=84441",
-      "summary": "Axios 报道，一家未公布名字的公司一个月内在 Claude AI 上花掉了 5 亿美元，原因是公司忘记了为员工设置 Claude 使用限制。虽然没有公开名字，但能在 AI 上每月随意支出 5 亿美元且没有自己的 AI 大模型的公司寥寥无几。报道称，美国公司开始感受到在 AI 上过度支出带来的压力，企业领导者开始质疑 AI 支出飙升是否带来了实质性的回报。亚马逊早些时候被报道其员工为完成内部指标而虚增 token 消耗量。本周亚马逊取消了内部排行榜，防止员工为提高排名而将 AI 用于不必要的任务。",
+      "title": "Paint.net 项目通过诉讼拿回 Paint.net 域名",
+      "link": "https://www.solidot.org/story?sid=84448",
+      "summary": "流行图像编辑软件 Paint.net 的官方域名是 www.getpaint.net，因为域名 Paint.net 掌握在第三方手中。现在你可以直接通过 Paint.net 域名获取该软件了。过去 22 年 Paint.net 域名原所有者一直拒绝出售域名，除非项目开发者 Rick Brewster 支付巨额费用。但域名所有者犯下了一个严重错误，他们创建了一个模仿 Paint.net 项目下载页的网站，通过恶意链接和广告获利。Brewster 提起了诉讼，主张利用他人作品牟利构成了侵犯版权和域名抢注。他赢得了诉讼，没有花钱就拿回了 Paint.net 域名。Paint.net 未来将成为主站，...",
       "source": "Solidot",
-      "pub_date": "Sat, 30 May 2026 22:37:12 +0800",
-      "fetched_at": "2026-06-02T12:00:04.690781",
+      "pub_date": "Mon, 01 Jun 2026 14:55:51 +0800",
+      "fetched_at": "2026-06-02T20:00:05.313087",
       "categories": [
         "ai"
       ],
-      "ai_summary": "Axios 报道，一家未公布名字的公司一个月内在 Claude AI 上花掉了 5 亿美元，原因是公司忘记了为员工设置 Claude 使用限制。虽然没有公开名字，但能在 AI 上每月随意支出 5 亿美元且没有自己的 AI 大模型的公司寥寥无几。报道称，美国公司开始感受到在 AI 上过度支出带来的压力...",
+      "ai_summary": "流行图像编辑软件 Paint.net 的官方域名是 www.getpaint.net，因为域名 Paint.net 掌握在第三方手中。现在你可以直接通过 Paint.net 域名获取该软件了。过去 22 年 Paint.net 域名原所有者一直拒绝出售域名，除非项目开发者 Rick Brewster...",
       "keywords": [
-        "ai",
-        "claude",
-        "亿美元",
-        "一家美国公司一个月内在",
-        "上花费了"
+        "net",
+        "paint",
+        "域名",
+        "brewster",
+        "项目通过诉讼拿回"
       ],
-      "importance": 0.5
+      "importance": 0
     },
     {
-      "title": "Krafton 同意向《Subnautica 2》开发商支付 2.5 亿美元奖金",
-      "link": "https://www.solidot.org/story?sid=84440",
-      "summary": "水下生存游戏《Subnautica》的开发商 Unknown Worlds Entertainment 因一笔 2.5 亿美元的奖金而与母公司、韩国发行商 Krafton 闹上法庭。在这起备受瞩目的案件中，Krafton CEO Changhan Kim 不想支付奖金，他在咨询了 ChatGPT 之后以莫须有理由突然解雇了 Unknown Worlds 的主要高管。今年三月法庭裁决 Unknown Worlds 前 CEO Ted Gill 恢复原职。Unknown Worlds 也在本月释出了《Subnautica 2》的抢先体验版本（early access）。虽然还在开发之中，但《Sub...",
+      "title": "16 岁男孩命名蓝牙设备为 BOMB，客机被迫返航",
+      "link": "https://www.solidot.org/story?sid=84446",
+      "summary": "2026年 5 月 30 日下午 5:58，美联航 UA236 航班波音 767-400ER 客机从纽瓦克自由国际机场起飞，飞往西班牙马略卡岛帕尔玛机场（Palma de Mallorca Airport）。在跨大西洋飞行约一个半小时后，原本平静的飞行却让机上乘客陷入了混乱。据乘客在社媒上分享的经历，乘务员突然通过广播发出紧急指令：所有乘客必须立即关闭蓝牙连接。机组人员多次发出语气越来越紧张的广播，声称该指令直接来自美联航位于芝加哥的总部。机组人员警告说，如果蓝牙信号不被关闭，飞机将被迫返航。尽管收到了警告，至少还有两台蓝牙设备处于开启状态。飞行员最终决定中止飞行。根据社媒上的消息，原因是一名...",
       "source": "Solidot",
-      "pub_date": "Sat, 30 May 2026 22:07:47 +0800",
-      "fetched_at": "2026-06-02T12:00:04.690936",
+      "pub_date": "Mon, 01 Jun 2026 14:00:06 +0800",
+      "fetched_at": "2026-06-02T20:00:05.313351",
       "categories": [
         "ai"
       ],
-      "ai_summary": "水下生存游戏《Subnautica》的开发商 Unknown Worlds Entertainment 因一笔 2.5 亿美元的奖金而与母公司、韩国发行商 Krafton 闹上法庭。在这起备受瞩目的案件中，Krafton CEO Changhan Kim 不想支付奖金，他在咨询了 ChatGPT 之...",
+      "ai_summary": "2026年 5 月 30 日下午 5:58，美联航 UA236 航班波音 767-400ER 客机从纽瓦克自由国际机场起飞，飞往西班牙马略卡岛帕尔玛机场（Palma de Mallorca Airport）。在跨大西洋飞行约一个半小时后，原本平静的飞行却让机上乘客陷入了混乱。据乘客在社媒上分享的经历...",
       "keywords": [
-        "unknown",
-        "worlds",
-        "krafton",
-        "subnautica",
-        "ceo"
+        "岁男孩命名蓝牙设备为",
+        "bomb",
+        "客机被迫返航",
+        "日下午",
+        "美联航"
       ],
-      "importance": 0.5
+      "importance": 0
     },
     {
-      "title": "前美团外卖技术负责人创业，做具身智能时代的“餐饮世界模型”",
-      "link": "https://36kr.com/p/3834292242130825?f=rss",
-      "summary": "具身智能的落地，正在从实验室走向最真实、最繁忙的物理世界。 而元节智能（AtomBite.AI）选择了一个看起来并不性感、但足够真实的场景：餐饮后厨。 36氪获悉，具身智能公司元节智能近日完成千万级种子轮融资，由英诺科创基金领投，水木清华校友种子基金、知名投资人个人跟投。资金将主要用于餐饮场景具身世界模型研发及核心产品落地。 元节核心团队在成立公司前有过较长时期的探索和孵化，此次融资标志着项目初步验证可行性，并已拿到国内外多家头部公司的产品合作部署意向。 元节智能的创始团队带有鲜明的“美团基因”。 创始人兼CEO王栋博士曾任美团外卖事业部技术负责人，管理千人产研团队，主导构建支撑日均数千万订单...",
-      "source": "36氪",
-      "pub_date": "2026-06-02 09:57:17  +0800",
-      "fetched_at": "2026-06-02T12:00:05.157219",
+      "title": "字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手",
+      "link": "https://www.qbitai.com/2026/06/427810.html",
+      "summary": "AI视频编辑先理解再动手",
+      "source": "量子位",
+      "pub_date": "Tue, 02 Jun 2026 09:28:00 +0000",
+      "fetched_at": "2026-06-02T20:00:20.575622",
       "categories": [
-        "ai",
-        "robotics"
+        "ai"
       ],
-      "ai_summary": "36氪获悉，具身智能公司元节智能近日完成千万级种子轮融资，由英诺科创基金领投，水木清华校友种子基金、知名投资人个人跟投。资金将主要用于餐饮场景具身世界模型研发及核心产品落地。 创始人兼CEO王栋博士曾任美团外卖事业部技术负责人，管理千人产研团队，主导构建支撑日均数千万订单...",
+      "ai_summary": "AI视频编辑先理解再动手",
       "keywords": [
-        "前美团外卖技术负责人创业",
-        "做具身智能时代的",
-        "餐饮世界模型",
-        "具身智能的落地",
-        "正在从实验室走向最真实"
+        "ai",
+        "视频编辑先理解再动手",
+        "字节开源统一框架",
+        "bernini",
+        "dit"
       ],
-      "importance": 0.5
+      "importance": 0
     }
   ],
   "latest": [
     {
-      "title": "AI Agent Guidelines for CS336 at Stanford",
-      "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "summary": "👍 350 | 💬 122",
+      "title": "Strace-ui, Bonsai_term, and the TUI renaissance",
+      "link": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
+      "summary": "👍 65 | 💬 42",
       "source": "HackerNews",
-      "pub_date": "2026-06-02T00:41:49",
-      "fetched_at": "2026-06-02T12:00:23.631975",
+      "pub_date": "2026-06-02T12:05:23",
+      "fetched_at": "2026-06-02T20:00:45.378817",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 350 | 💬 122",
+      "ai_summary": "👍 65 | 💬 42",
+      "keywords": [
+        "strace",
+        "ui",
+        "bonsai",
+        "term",
+        "and"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+      "summary": "👍 435 | 💬 140",
+      "source": "HackerNews",
+      "pub_date": "2026-06-02T00:41:49",
+      "fetched_at": "2026-06-02T20:00:39.648796",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 435 | 💬 140",
       "keywords": [
         "ai",
         "agent",
@@ -267,16 +285,36 @@
       "importance": 0
     },
     {
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-      "summary": "👍 175 | 💬 61",
+      "title": "How is Groq raising more money?",
+      "link": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
+      "summary": "👍 119 | 💬 53",
       "source": "HackerNews",
-      "pub_date": "2026-06-02T05:50:02",
-      "fetched_at": "2026-06-02T12:00:15.026663",
+      "pub_date": "2026-06-02T09:05:29",
+      "fetched_at": "2026-06-02T20:00:36.978540",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 175 | 💬 61",
+      "ai_summary": "👍 119 | 💬 53",
+      "keywords": [
+        "how",
+        "is",
+        "groq",
+        "raising",
+        "more"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+      "summary": "👍 290 | 💬 101",
+      "source": "HackerNews",
+      "pub_date": "2026-06-02T05:50:02",
+      "fetched_at": "2026-06-02T20:00:34.902064",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 290 | 💬 101",
       "keywords": [
         "openai",
         "frontier",
@@ -289,14 +327,14 @@
     {
       "title": "Chipotlai Max",
       "link": "https://github.com/cyberpapiii/chipotlai-max",
-      "summary": "👍 96 | 💬 17",
+      "summary": "👍 257 | 💬 39",
       "source": "HackerNews",
       "pub_date": "2026-06-02T07:06:35",
-      "fetched_at": "2026-06-02T12:00:13.153466",
+      "fetched_at": "2026-06-02T20:00:33.795209",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 96 | 💬 17",
+      "ai_summary": "👍 257 | 💬 39",
       "keywords": [
         "chipotlai",
         "max"
@@ -304,37 +342,17 @@
       "importance": 0
     },
     {
-      "title": "How is Groq raising more money?",
-      "link": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
-      "summary": "👍 46 | 💬 18",
-      "source": "HackerNews",
-      "pub_date": "2026-06-02T09:05:29",
-      "fetched_at": "2026-06-02T12:00:12.081237",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 46 | 💬 18",
-      "keywords": [
-        "how",
-        "is",
-        "groq",
-        "raising",
-        "more"
-      ],
-      "importance": 0
-    },
-    {
       "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
       "link": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "summary": "👍 144 | 💬 315",
+      "summary": "👍 425 | 💬 738",
       "source": "HackerNews",
       "pub_date": "2026-06-02T07:45:46",
-      "fetched_at": "2026-06-02T12:00:11.249875",
+      "fetched_at": "2026-06-02T20:00:27.884951",
       "categories": [
         "ai",
         "space"
       ],
-      "ai_summary": "👍 144 | 💬 315",
+      "ai_summary": "👍 425 | 💬 738",
       "keywords": [
         "can",
         "the",
@@ -345,82 +363,22 @@
       "importance": 2.0
     },
     {
-      "title": "材料版AlphaFold来了！40个工业任务全方位SOTA，AI4S迎来行业大突破",
-      "link": "https://www.qbitai.com/2026/06/427142.html",
-      "summary": "叠加LLM“训练buff”，材料AI终于学会了“物理直觉”",
-      "source": "量子位",
-      "pub_date": "Mon, 01 Jun 2026 05:25:27 +0000",
-      "fetched_at": "2026-06-02T12:00:05.334218",
+      "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+      "link": "https://blog.adafruit.com/",
+      "summary": "👍 118 | 💬 41",
+      "source": "HackerNews",
+      "pub_date": "2026-06-02T18:00:56",
+      "fetched_at": "2026-06-02T20:00:23.996287",
       "categories": [
         "ai"
       ],
-      "ai_summary": "叠加LLM“训练buff”，材料AI终于学会了“物理直觉”",
+      "ai_summary": "👍 118 | 💬 41",
       "keywords": [
-        "ai",
-        "材料版",
-        "alphafold",
-        "来了",
-        "个工业任务全方位"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026",
-      "link": "https://www.qbitai.com/2026/06/427141.html",
-      "summary": "Demo从来都不难做，难的是让它在企业生产环境里真正跑起来",
-      "source": "量子位",
-      "pub_date": "Mon, 01 Jun 2026 05:32:24 +0000",
-      "fetched_at": "2026-06-02T12:00:05.334144",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Demo从来都不难做，难的是让它在企业生产环境里真正跑起来",
-      "keywords": [
-        "token",
-        "贵只因你喂给模型的垃圾太多了丨",
-        "亚马逊王晓野",
-        "aigc",
-        "demo"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "OpenAI重返机器人赛道！四大核心岗位开招",
-      "link": "https://www.qbitai.com/2026/06/427238.html",
-      "summary": "年薪超200万",
-      "source": "量子位",
-      "pub_date": "Mon, 01 Jun 2026 06:11:12 +0000",
-      "fetched_at": "2026-06-02T12:00:05.334076",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "年薪超200万",
-      "keywords": [
-        "openai",
-        "重返机器人赛道",
-        "四大核心岗位开招",
-        "年薪超"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "今天起，无限期免费！全球首个全模态API开放，Top 10 AI Lab出手",
-      "link": "https://www.qbitai.com/2026/06/427332.html",
-      "summary": "文本图像视频都能用",
-      "source": "量子位",
-      "pub_date": "Mon, 01 Jun 2026 07:57:16 +0000",
-      "fetched_at": "2026-06-02T12:00:05.334007",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "文本图像视频都能用",
-      "keywords": [
-        "今天起",
-        "无限期免费",
-        "全球首个全模态",
-        "api",
-        "开放"
+        "adafruit",
+        "receives",
+        "demand",
+        "letter",
+        "from"
       ],
       "importance": 0
     },
@@ -430,7 +388,7 @@
       "summary": "已经投资了数个世界领先的AI科技公司",
       "source": "量子位",
       "pub_date": "Mon, 01 Jun 2026 10:34:31 +0000",
-      "fetched_at": "2026-06-02T12:00:05.333843",
+      "fetched_at": "2026-06-02T20:00:20.576146",
       "categories": [
         "ai"
       ],
@@ -450,7 +408,7 @@
       "summary": "从仿真到多形态真机，具身模型如何落地复杂家庭柔性物体操作？",
       "source": "量子位",
       "pub_date": "Tue, 02 Jun 2026 01:33:13 +0000",
-      "fetched_at": "2026-06-02T12:00:05.333663",
+      "fetched_at": "2026-06-02T20:00:20.576010",
       "categories": [
         "ai",
         "robotics"
@@ -466,188 +424,208 @@
       "importance": 0
     },
     {
-      "title": "腾讯控股短线拉升，现涨超3%",
-      "link": "https://36kr.com/newsflashes/3835395233920131?f=rss",
-      "summary": "36氪获悉，腾讯控股短线拉升，现涨超3%。消息面上，据报道，腾讯更加接近推出微信AI助手。",
-      "source": "36氪",
-      "pub_date": "2026-06-02 10:05:47  +0800",
-      "fetched_at": "2026-06-02T12:00:05.183330",
+      "title": "Qwen3.7-Plus上线！多模态智能体新基座，一键复刻桌面端专业软件",
+      "link": "https://www.qbitai.com/2026/06/427730.html",
+      "summary": "Qwen3.7-Plus已上线阿里云百炼",
+      "source": "量子位",
+      "pub_date": "Tue, 02 Jun 2026 03:15:52 +0000",
+      "fetched_at": "2026-06-02T20:00:20.575933",
       "categories": [
         "ai"
       ],
-      "ai_summary": "36氪获悉，腾讯控股短线拉升，现涨超3%。消息面上，据报道，腾讯更加接近推出微信AI助手。",
+      "ai_summary": "Qwen3.7-Plus已上线阿里云百炼",
       "keywords": [
-        "腾讯控股短线拉升",
-        "现涨超",
-        "氪获悉",
-        "消息面上",
-        "据报道"
+        "qwen",
+        "plus",
+        "上线",
+        "多模态智能体新基座",
+        "一键复刻桌面端专业软件"
       ],
       "importance": 0
     },
     {
-      "title": "氪星晚报｜中国国新等在杭州成立创业投资基金，出资额10.01亿；天津人工智能传感器产业园正式开园，首批10家企业集中签约；浙江：拟实施“星火计划”培育未来产业行动，加速量子技术产品规模化应用",
-      "link": "https://36kr.com/p/3834354415347337?f=rss",
-      "summary": "大公司： 中通快递在广州成立新物流公司，注册资本5亿 36氪获悉，天眼查App显示，近日，广州中竞物流有限公司成立，法定代表人为范嘉玮，注册资本5亿人民币，经营范围包括国内货物运输代理、机械设备租赁、计算机系统服务等。股东信息显示，该公司由中通快递股份有限公司全资持股。 OpenAI官宣进军机器人赛道，短期内专注研发协助型机器人 OpenAI CEO山姆·奥特曼在社交平台发布OpenAI Robotics招聘信息，称公司正在寻找杰出的全栈硬件、运营、系统及机器学习工程师，共同编程并制造对社会真正有用的机器人。奥特曼表示，人工智能应当能够在现实世界中帮助人类。短期内，OpenAI专注于研发能够协...",
-      "source": "36氪",
-      "pub_date": "2026-06-01 18:56:21  +0800",
-      "fetched_at": "2026-06-02T12:00:05.178898",
+      "title": "机器人运控训练步入分钟级时代！清华AIR开源UniLab：3分钟训好人形，速度暴涨10倍，Mac上也能跑",
+      "link": "https://www.qbitai.com/2026/06/427729.html",
+      "summary": "全新的机器人强化学习训练架构",
+      "source": "量子位",
+      "pub_date": "Tue, 02 Jun 2026 03:57:21 +0000",
+      "fetched_at": "2026-06-02T20:00:20.575864",
       "categories": [
         "ai",
         "robotics"
       ],
-      "ai_summary": "大公司： 中通快递在广州成立新物流公司，注册资本5亿 36氪获悉，天眼查App显示，近日，广州中竞物流有限公司成立，法定代表人为范嘉玮，注册资本5亿人民币，经营范围包括国内货物运输代理、机械设备租赁、计算机系统服务等。股东信息显示，该公司由中通快递股份有限公司全资持股。 OpenAI官宣进军机器人赛...",
+      "ai_summary": "全新的机器人强化学习训练架构",
       "keywords": [
+        "机器人运控训练步入分钟级时代",
+        "清华",
+        "air",
+        "开源",
+        "unilab"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手",
+      "link": "https://www.qbitai.com/2026/06/427810.html",
+      "summary": "AI视频编辑先理解再动手",
+      "source": "量子位",
+      "pub_date": "Tue, 02 Jun 2026 09:28:00 +0000",
+      "fetched_at": "2026-06-02T20:00:20.575622",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "AI视频编辑先理解再动手",
+      "keywords": [
+        "ai",
+        "视频编辑先理解再动手",
+        "字节开源统一框架",
+        "bernini",
+        "dit"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "16 岁男孩命名蓝牙设备为 BOMB，客机被迫返航",
+      "link": "https://www.solidot.org/story?sid=84446",
+      "summary": "2026年 5 月 30 日下午 5:58，美联航 UA236 航班波音 767-400ER 客机从纽瓦克自由国际机场起飞，飞往西班牙马略卡岛帕尔玛机场（Palma de Mallorca Airport）。在跨大西洋飞行约一个半小时后，原本平静的飞行却让机上乘客陷入了混乱。据乘客在社媒上分享的经历，乘务员突然通过广播发出紧急指令：所有乘客必须立即关闭蓝牙连接。机组人员多次发出语气越来越紧张的广播，声称该指令直接来自美联航位于芝加哥的总部。机组人员警告说，如果蓝牙信号不被关闭，飞机将被迫返航。尽管收到了警告，至少还有两台蓝牙设备处于开启状态。飞行员最终决定中止飞行。根据社媒上的消息，原因是一名...",
+      "source": "Solidot",
+      "pub_date": "Mon, 01 Jun 2026 14:00:06 +0800",
+      "fetched_at": "2026-06-02T20:00:05.313351",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "2026年 5 月 30 日下午 5:58，美联航 UA236 航班波音 767-400ER 客机从纽瓦克自由国际机场起飞，飞往西班牙马略卡岛帕尔玛机场（Palma de Mallorca Airport）。在跨大西洋飞行约一个半小时后，原本平静的飞行却让机上乘客陷入了混乱。据乘客在社媒上分享的经历...",
+      "keywords": [
+        "岁男孩命名蓝牙设备为",
+        "bomb",
+        "客机被迫返航",
+        "日下午",
+        "美联航"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Paint.net 项目通过诉讼拿回 Paint.net 域名",
+      "link": "https://www.solidot.org/story?sid=84448",
+      "summary": "流行图像编辑软件 Paint.net 的官方域名是 www.getpaint.net，因为域名 Paint.net 掌握在第三方手中。现在你可以直接通过 Paint.net 域名获取该软件了。过去 22 年 Paint.net 域名原所有者一直拒绝出售域名，除非项目开发者 Rick Brewster 支付巨额费用。但域名所有者犯下了一个严重错误，他们创建了一个模仿 Paint.net 项目下载页的网站，通过恶意链接和广告获利。Brewster 提起了诉讼，主张利用他人作品牟利构成了侵犯版权和域名抢注。他赢得了诉讼，没有花钱就拿回了 Paint.net 域名。Paint.net 未来将成为主站，...",
+      "source": "Solidot",
+      "pub_date": "Mon, 01 Jun 2026 14:55:51 +0800",
+      "fetched_at": "2026-06-02T20:00:05.313087",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "流行图像编辑软件 Paint.net 的官方域名是 www.getpaint.net，因为域名 Paint.net 掌握在第三方手中。现在你可以直接通过 Paint.net 域名获取该软件了。过去 22 年 Paint.net 域名原所有者一直拒绝出售域名，除非项目开发者 Rick Brewster...",
+      "keywords": [
+        "net",
+        "paint",
+        "域名",
+        "brewster",
+        "项目通过诉讼拿回"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "地球熔心在 2010 年突然逆转方向",
+      "link": "https://www.solidot.org/story?sid=84449",
+      "summary": "根据卫星对地磁场的测量，太平洋一区域下的地球熔融核心在 2010 年突然逆转了流动方向，从西向流动转为东向流动。爱丁堡大学地球科学家 Frederik Dahl Madsen 说，“科学家现在想了解，这种逆转究竟代表着短暂的波动、周期性振荡的一部分，还是地核环流的一种新的稳定平衡。持续监测对确定未来几年这一流动如何演变至关重要。”Madsen 团队分析了 1997-2025 年间 27 年的卫星数据，拼凑出可能发生的变化。外地核大部分运动都受被称为偏心行星环流（eccentric planetary gyre）的环流模式支配。2010 年太平洋下方的区域，部分外核突然偏离了这种模式，从 201...",
+      "source": "Solidot",
+      "pub_date": "Mon, 01 Jun 2026 15:55:06 +0800",
+      "fetched_at": "2026-06-02T20:00:05.312959",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "根据卫星对地磁场的测量，太平洋一区域下的地球熔融核心在 2010 年突然逆转了流动方向，从西向流动转为东向流动。爱丁堡大学地球科学家 Frederik Dahl Madsen 说，“科学家现在想了解，这种逆转究竟代表着短暂的波动、周期性振荡的一部分，还是地核环流的一种新的稳定平衡。持续监测对确定未来...",
+      "keywords": [
+        "madsen",
+        "地球熔心在",
+        "年突然逆转方向",
+        "根据卫星对地磁场的测量",
+        "太平洋一区域下的地球熔融核心在"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "三种埃博拉疫苗在研发中",
+      "link": "https://www.solidot.org/story?sid=84456",
+      "summary": "The International Aids Vaccine Initiative(IAVI)、牛津大学以及 Moderna 公司正在研发针对埃博拉病毒的疫苗。IAVI 表示正在刚果民主共和国爆发的埃博拉疫情可能是至今最严重的。疫情发生在冲突地区，已经报告了逾千例疑似病例，邻国乌干达已确诊 9 例。目前已知有六种埃博拉病毒株，只有三种会引发疫情。最常见的 Zaire 毒株已有针对性的疫苗，但此次爆发的是比较罕见的 Bundibugyo 毒株，目前还没有针对它的疫苗。Moderna 公司宣布将利用 mRNA 技术研发针对 Bundibugyo 毒株的疫苗。",
+      "source": "Solidot",
+      "pub_date": "Tue, 02 Jun 2026 00:27:06 +0800",
+      "fetched_at": "2026-06-02T20:00:05.312030",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "The International Aids Vaccine Initiative(IAVI)、牛津大学以及 Moderna 公司正在研发针对埃博拉病毒的疫苗。IAVI 表示正在刚果民主共和国爆发的埃博拉疫情可能是至今最严重的。疫情发生在冲突地区，已经报告了逾千例疑似病例，邻国乌干达已确诊 9 例。...",
+      "keywords": [
+        "iavi",
+        "moderna",
+        "bundibugyo",
+        "三种埃博拉疫苗在研发中",
+        "the"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "黑客利用 Meta AI 机器人接管 Instagram 名人账号",
+      "link": "https://www.solidot.org/story?sid=84457",
+      "summary": "亲伊朗黑客诱骗 Meta AI 机器人短时间内接管了多个 Instagram 名人账号，其中包括奥巴马和美国太空军总军士长（Chief Master Sergeant），之后在账号上发表了亲伊朗的图片和信息。攻击方法非常简单：首先使用 VPN 连接到目标用户常住地附近，然后请求重置账号密码，要求与 Meta AI 客服对话，指示 AI 将目标账户关联到一个新邮箱地址，AI 按指示向该邮箱地址发送一次性验证码后，攻击者就可以重置密码接管账号。目前 Telegram 上已经出现了大量交易被接管账号的频道。Meta 的 Andy Stone 声称该公司已经采取行动解决了问题。",
+      "source": "Solidot",
+      "pub_date": "Tue, 02 Jun 2026 12:19:07 +0800",
+      "fetched_at": "2026-06-02T20:00:05.311893",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "亲伊朗黑客诱骗 Meta AI 机器人短时间内接管了多个 Instagram 名人账号，其中包括奥巴马和美国太空军总军士长（Chief Master Sergeant），之后在账号上发表了亲伊朗的图片和信息。攻击方法非常简单：首先使用 VPN 连接到目标用户常住地附近，然后请求重置账号密码，要求与 ...",
+      "keywords": [
+        "ai",
+        "meta",
+        "instagram",
+        "名人账号",
+        "黑客利用"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Anthropic 申请 IPO",
+      "link": "https://www.solidot.org/story?sid=84458",
+      "summary": "Anthropic 已向美国证券交易委员会（SEC）秘密提交了 IPO 招股说明书。该公司表示在 SEC 完成审查之后，将根据市场状况等因素选择上市。Anthropic 的估值今年以来出现了爆炸式增长，在上周的最新一轮融资中估值达到了 9650 亿美元，超过了 OpenAI 在 3 月下旬的 8520 亿美元估值。美国股市即将迎来三家万亿市值公司的上市，SpaceX 预计本月上市，Anthropic 竞争对手 OpenAI 预计会很快递交上市申请，三家公司的市值预计将达到 4 万亿美元。",
+      "source": "Solidot",
+      "pub_date": "Tue, 02 Jun 2026 13:57:08 +0800",
+      "fetched_at": "2026-06-02T20:00:05.311755",
+      "categories": [
+        "ai",
+        "space"
+      ],
+      "ai_summary": "Anthropic 已向美国证券交易委员会（SEC）秘密提交了 IPO 招股说明书。该公司表示在 SEC 完成审查之后，将根据市场状况等因素选择上市。Anthropic 的估值今年以来出现了爆炸式增长，在上周的最新一轮融资中估值达到了 9650 亿美元，超过了 OpenAI 在 3 月下旬的 852...",
+      "keywords": [
+        "anthropic",
+        "ipo",
+        "sec",
         "openai",
-        "注册资本",
-        "氪星晚报",
-        "中国国新等在杭州成立创业投资基金",
-        "出资额"
+        "申请"
       ],
-      "importance": 1.5
+      "importance": 3.0
     },
     {
-      "title": "量坤科技获数亿元天使轮融资，AI4S急需量子级精度数据 | 36氪独家",
-      "link": "https://36kr.com/p/3826034537223043?f=rss",
-      "summary": "「暗涌Waves」独家获悉，量子计算公司「量坤科技」近日完成数亿元人民币天使轮、天使+轮融资。本轮系列融资由英诺天使基金领投，国汽投资、北工投资、BV百度风投、水木清华校友基金、明势创投等多家机构参与投资。光源资本担任独家财务顾问。 这笔融资背后，是一个逐渐清晰的判断：AI for Science需要量子计算。 AI可以学习规律，但模型能力上限，受制于它所见过世界的“分辨率”。在化学、材料与医药等研发场景中，如果底层数据的精度不够，模型预测结果也会显著受限。 量子计算，天然适合模拟分子结构、化学键等体系。作为一种高精度求解器，它有可能输出更接近物理世界规律的计算结果；计算产出的量子级高精度数据...",
-      "source": "36氪",
-      "pub_date": "2026-06-01 19:06:39  +0800",
-      "fetched_at": "2026-06-02T12:00:05.176001",
+      "title": "中国将数据和算法纳入商业秘密保护",
+      "link": "https://www.solidot.org/story?sid=84462",
+      "summary": "中国扩大商业秘密保护范围，将数据和算法纳入其中，以加强防范技术外流。中国国家市场监督管理总局修订的《商业秘密保护规定》在星期一（6月1日）正式施行。这是中国法律首次明确将数据、算法等数字资产纳入商业秘密保护范围。新规也对远程办公和跨境企业合作提出更严格的安全要求。企业必须采取保护措施，包括按照员工职级限制文件访问权限、隐藏敏感信息，以及记录用户操作行为等。规定还将境外实施的侵犯商业秘密行为纳入规制范围，但未明确具体执法机制。配合新规实施，中国国家市场监管总局星期一启动为期一个月的专项执法行动，重点针对生物医药、半导体和人工智能等关键领域，严厉打击“恶意挖角”以及员工跳槽时携带商业秘密等行为。",
+      "source": "Solidot",
+      "pub_date": "Tue, 02 Jun 2026 16:37:19 +0800",
+      "fetched_at": "2026-06-02T20:00:05.311139",
       "categories": [
         "ai"
       ],
-      "ai_summary": "「暗涌Waves」独家获悉，量子计算公司「量坤科技」近日完成数亿元人民币天使轮、天使+轮融资。本轮系列融资由英诺天使基金领投，国汽投资、北工投资、BV百度风投、水木清华校友基金、明势创投等多家机构参与投资。光源资本担任独家财务顾问。...",
+      "ai_summary": "中国扩大商业秘密保护范围，将数据和算法纳入其中，以加强防范技术外流。中国国家市场监督管理总局修订的《商业秘密保护规定》在星期一（6月1日）正式施行。这是中国法律首次明确将数据、算法等数字资产纳入商业秘密保护范围。新规也对远程办公和跨境企业合作提出更严格的安全要求。企业必须采取保护措施，包括按照员工职...",
       "keywords": [
-        "ai",
-        "量坤科技获数亿元天使轮融资",
-        "急需量子级精度数据",
-        "氪独家",
-        "暗涌"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "首轮融资数千万美元、估值2.5亿美元，「Aippy」正在打造下一代AI游戏社区 | 36氪首发",
-      "link": "https://36kr.com/p/3834400181741440?f=rss",
-      "summary": "36氪获悉，NADA AI团队开发的AI游戏社区「Aippy」，已于近日完成数千万美元首轮融资，本轮由歌未资本（Glowill Capital）投资，投后估值2.5亿美元。本轮资金将主要用于顶尖人才引进和欧美核心市场用户规模化增长。 Aippy成立于2025年，由港股上市公司赤子城科技孵化，其创始人、CEO Evan (叶椿建）是赤子城联合创始人，并长期担任赤子城CTO，在海外社交、游戏领域有十余年深耕经验。目前团队规模接近30人，核心成员来自清华大学、美国西北大学、慕尼黑工业大学等国内外顶尖高校，覆盖算法、产品、运营等关键岗位。 Aippy产品界面图 作为AI驱动的游戏创作与互动社区，Aip...",
-      "source": "36氪",
-      "pub_date": "2026-06-02 08:00:06  +0800",
-      "fetched_at": "2026-06-02T12:00:05.166681",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "36氪获悉，NADA AI团队开发的AI游戏社区「Aippy」，已于近日完成数千万美元首轮融资，本轮由歌未资本（Glowill Capital）投资，投后估值2.5亿美元。本轮资金将主要用于顶尖人才引进和欧美核心市场用户规模化增长。...",
-      "keywords": [
-        "aippy",
-        "ai",
-        "亿美元",
-        "游戏社区",
-        "首轮融资数千万美元"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "8点1氪丨豆包将在6月下旬正式付费 ；韩国SK海力士工厂发生火灾；宇树科技IPO过会，王兴兴身家或超140亿",
-      "link": "https://36kr.com/p/3835278829008257?f=rss",
-      "summary": "今日热点导览 闲鱼回应读取用户手机内文物照片上架售卖 赛力斯字节合作新品牌细节曝光：将推纯电、增程双动力 英伟达推出NVIDIA DSX平台 OpenAI官宣进军机器人赛道，短期内专注研发协助型机器人 4月中国产汽车在韩国注册登记进口榜排第三，史上首超日本车 TOP 3大新闻 豆包预计6月下旬正式付费，并加速打通抖音电商 5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增值内容，以满足不同用户的差异化需求。” 据36氪独家了解，以上只是豆包商业化的预热动作。在接下来的季度中，豆包将持续推进商业化的落地。知情...",
-      "source": "36氪",
-      "pub_date": "2026-06-02 08:12:57  +0800",
-      "fetched_at": "2026-06-02T12:00:05.164004",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "今日热点导览 闲鱼回应读取用户手机内文物照片上架售卖 赛力斯字节合作新品牌细节曝光：将推纯电、增程双动力 英伟达推出NVIDIA DSX平台 OpenAI官宣进军机器人赛道，短期内专注研发协助型机器人 4月中国产汽车在韩国注册登记进口榜排第三，史上首超日本车 TOP 3大新闻 豆包预计6月下旬正式付...",
-      "keywords": [
-        "月下旬正式付费",
-        "氪丨豆包将在",
-        "韩国",
-        "sk",
-        "海力士工厂发生火灾"
-      ],
-      "importance": 2.0
-    },
-    {
-      "title": "前美团外卖技术负责人创业，做具身智能时代的“餐饮世界模型”",
-      "link": "https://36kr.com/p/3834292242130825?f=rss",
-      "summary": "具身智能的落地，正在从实验室走向最真实、最繁忙的物理世界。 而元节智能（AtomBite.AI）选择了一个看起来并不性感、但足够真实的场景：餐饮后厨。 36氪获悉，具身智能公司元节智能近日完成千万级种子轮融资，由英诺科创基金领投，水木清华校友种子基金、知名投资人个人跟投。资金将主要用于餐饮场景具身世界模型研发及核心产品落地。 元节核心团队在成立公司前有过较长时期的探索和孵化，此次融资标志着项目初步验证可行性，并已拿到国内外多家头部公司的产品合作部署意向。 元节智能的创始团队带有鲜明的“美团基因”。 创始人兼CEO王栋博士曾任美团外卖事业部技术负责人，管理千人产研团队，主导构建支撑日均数千万订单...",
-      "source": "36氪",
-      "pub_date": "2026-06-02 09:57:17  +0800",
-      "fetched_at": "2026-06-02T12:00:05.157219",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "36氪获悉，具身智能公司元节智能近日完成千万级种子轮融资，由英诺科创基金领投，水木清华校友种子基金、知名投资人个人跟投。资金将主要用于餐饮场景具身世界模型研发及核心产品落地。 创始人兼CEO王栋博士曾任美团外卖事业部技术负责人，管理千人产研团队，主导构建支撑日均数千万订单...",
-      "keywords": [
-        "前美团外卖技术负责人创业",
-        "做具身智能时代的",
-        "餐饮世界模型",
-        "具身智能的落地",
-        "正在从实验室走向最真实"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "商业共生・文明致远——2026虎啸盛典启幕上海",
-      "link": "https://36kr.com/p/3835447060329865?f=rss",
-      "summary": "商业的终极价值，不止于增长的刻度，更在于文明的高度。 文明的高度，决定着产业的厚度，也定义了行业周期的长度。5月28日于上海启幕的2026虎啸盛典，以“建设商业文明共同体”为主题，深度解构并完整印证了这一产业底层逻辑。 开幕论坛上，星展银行董事总经理兼首席中国经济学家纪沫，北京大学新闻与传播学院教授、北京信息社会研究所学术委员会主席胡泳，知名数字经济学者、上海财经大学特聘教授胡延平和知名传播学者、复旦大学新闻学院教授邓建国四位重磅嘉宾，对时代的关键变量做重要阐释与预测，前瞻国际经济形势，思考AI在当下社会中的展开与冲击，为行业精准把握时代机遇、从容应对周期变化，输出了独到而深刻的视角。 下午，...",
-      "source": "36氪",
-      "pub_date": "2026-06-02 11:38:18  +0800",
-      "fetched_at": "2026-06-02T12:00:05.151254",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "文明的高度，决定着产业的厚度，也定义了行业周期的长度。5月28日于上海启幕的2026虎啸盛典，以“建设商业文明共同体”为主题，深度解构并完整印证了这一产业底层逻辑。...",
-      "keywords": [
-        "商业共生",
-        "文明致远",
-        "虎啸盛典启幕上海",
-        "商业的终极价值",
-        "不止于增长的刻度"
+        "中国将数据和算法纳入商业秘密保护",
+        "中国扩大商业秘密保护范围",
+        "将数据和算法纳入其中",
+        "以加强防范技术外流",
+        "中国国家市场监督管理总局修订的"
       ],
       "importance": 0
-    },
-    {
-      "title": "英伟达税",
-      "link": "https://www.solidot.org/story?sid=84438",
-      "summary": "生活在美国数据中心周围的居民都有电费大幅上涨的经历。他们可能并不知道，部分电费账单其实是支付给英伟达的税。英伟达控制着 81% 的数据中心 AI 芯片市场，上个财年其数据中心业务收入 1937 亿美元，毛利率为 75%。对英伟达顶尖 GPU 芯片的拆解报告显示，其制造成本约 3300 美元，但售价高达 2.8 万美元，利润率高达 88%。如此高的利润其实是一种税，总要有人来承担。数据中心周围的居民就处于这条支付链条的末端。为了少给英伟达缴税，科技巨头都在竞相开发更便宜的 AI 加速芯片，如 Google 的 TPU、亚马逊的 Trainium、微软的 Maia 以及 Meta 的 MTIA，O...",
-      "source": "Solidot",
-      "pub_date": "Sat, 30 May 2026 00:23:13 +0800",
-      "fetched_at": "2026-06-02T12:00:04.691209",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "生活在美国数据中心周围的居民都有电费大幅上涨的经历。他们可能并不知道，部分电费账单其实是支付给英伟达的税。英伟达控制着 81% 的数据中心 AI 芯片市场，上个财年其数据中心业务收入 1937 亿美元，毛利率为 75%。对英伟达顶尖 GPU 芯片的拆解报告显示，其制造成本约 3300 美元，但售价高...",
-      "keywords": [
-        "ai",
-        "英伟达税",
-        "生活在美国数据中心周围的居民都有电费大幅上涨的经历",
-        "他们可能并不知道",
-        "部分电费账单其实是支付给英伟达的税"
-      ],
-      "importance": 2.5
-    },
-    {
-      "title": "Krafton 同意向《Subnautica 2》开发商支付 2.5 亿美元奖金",
-      "link": "https://www.solidot.org/story?sid=84440",
-      "summary": "水下生存游戏《Subnautica》的开发商 Unknown Worlds Entertainment 因一笔 2.5 亿美元的奖金而与母公司、韩国发行商 Krafton 闹上法庭。在这起备受瞩目的案件中，Krafton CEO Changhan Kim 不想支付奖金，他在咨询了 ChatGPT 之后以莫须有理由突然解雇了 Unknown Worlds 的主要高管。今年三月法庭裁决 Unknown Worlds 前 CEO Ted Gill 恢复原职。Unknown Worlds 也在本月释出了《Subnautica 2》的抢先体验版本（early access）。虽然还在开发之中，但《Sub...",
-      "source": "Solidot",
-      "pub_date": "Sat, 30 May 2026 22:07:47 +0800",
-      "fetched_at": "2026-06-02T12:00:04.690936",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "水下生存游戏《Subnautica》的开发商 Unknown Worlds Entertainment 因一笔 2.5 亿美元的奖金而与母公司、韩国发行商 Krafton 闹上法庭。在这起备受瞩目的案件中，Krafton CEO Changhan Kim 不想支付奖金，他在咨询了 ChatGPT 之...",
-      "keywords": [
-        "unknown",
-        "worlds",
-        "krafton",
-        "subnautica",
-        "ceo"
-      ],
-      "importance": 0.5
     }
   ],
-  "updated_at": "2026-06-02T12:00:35.061723"
+  "updated_at": "2026-06-02T20:00:53.396417"
 }

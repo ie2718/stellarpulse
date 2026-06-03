@@ -5,38 +5,38 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-06-02T20:00:53.396417",
-    "total_items": 19
+    "last_update": "2026-06-03T12:00:45.935976",
+    "total_items": 18
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 18
+      "count": 15
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 3
+      "count": 2
     },
     "space": {
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 3
+      "count": 4
     }
   },
   "stats": {
-    "total_items": 19,
-    "today_items": 19,
+    "total_items": 18,
+    "today_items": 18,
     "sources": {
-      "Solidot": 7,
-      "HackerNews": 7,
-      "量子位": 5
+      "Solidot": 8,
+      "量子位": 5,
+      "HackerNews": 5
     },
-    "last_update": "2026-06-02T20:00:53.396417"
+    "last_update": "2026-06-03T12:00:45.935976"
   },
   "trending": [
     {
@@ -45,7 +45,7 @@
       "summary": "Anthropic 已向美国证券交易委员会（SEC）秘密提交了 IPO 招股说明书。该公司表示在 SEC 完成审查之后，将根据市场状况等因素选择上市。Anthropic 的估值今年以来出现了爆炸式增长，在上周的最新一轮融资中估值达到了 9650 亿美元，超过了 OpenAI 在 3 月下旬的 8520 亿美元估值。美国股市即将迎来三家万亿市值公司的上市，SpaceX 预计本月上市，Anthropic 竞争对手 OpenAI 预计会很快递交上市申请，三家公司的市值预计将达到 4 万亿美元。",
       "source": "Solidot",
       "pub_date": "Tue, 02 Jun 2026 13:57:08 +0800",
-      "fetched_at": "2026-06-02T20:00:05.311755",
+      "fetched_at": "2026-06-03T12:00:04.808632",
       "categories": [
         "ai",
         "space"
@@ -61,25 +61,24 @@
       "importance": 3.0
     },
     {
-      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "link": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "summary": "👍 425 | 💬 738",
-      "source": "HackerNews",
-      "pub_date": "2026-06-02T07:45:46",
-      "fetched_at": "2026-06-02T20:00:27.884951",
+      "title": "NASA 低音爆超音速飞机 X-59 将首次尝试突破音速",
+      "link": "https://www.solidot.org/story?sid=84464",
+      "summary": "NASA 宣布，由洛克希德马丁臭鼬工厂设计的 X-59 Quess 低音爆超音速飞机将在本月首次尝试突破音速。X-59 设计能突破音速但同时不会有超音速飞机通常会产生的音爆，它会产生更安静的“砰砰声”，类似室内听到关车门的声音。它没有前向窗户，而是通过摄像头和显示屏为飞行员提供飞机前方的增强现实的外部视觉系统。如果 X-59 成功它有望对超音速飞行和航空业产生革命性影响，解除目前对超音速飞行的限制。X-59 于 2025 年 10 月完成首飞，2026 年 3 月以来进行了 14 次试飞，本月的超音速飞行计划在 16.7 公里高度实现 1.4 马赫。",
+      "source": "Solidot",
+      "pub_date": "Tue, 02 Jun 2026 22:06:47 +0800",
+      "fetched_at": "2026-06-03T12:00:04.807808",
       "categories": [
-        "ai",
         "space"
       ],
-      "ai_summary": "👍 425 | 💬 738",
+      "ai_summary": "NASA 宣布，由洛克希德马丁臭鼬工厂设计的 X-59 Quess 低音爆超音速飞机将在本月首次尝试突破音速。X-59 设计能突破音速但同时不会有超音速飞机通常会产生的音爆，它会产生更安静的“砰砰声”，类似室内听到关车门的声音。它没有前向窗户，而是通过摄像头和显示屏为飞行员提供飞机前方的增强现实的外...",
       "keywords": [
-        "can",
-        "the",
-        "stockmarket",
-        "swallow",
-        "anthropic"
+        "nasa",
+        "低音爆超音速飞机",
+        "将首次尝试突破音速",
+        "宣布",
+        "由洛克希德马丁臭鼬工厂设计的"
       ],
-      "importance": 2.0
+      "importance": 0.5
     },
     {
       "title": "黑客利用 Meta AI 机器人接管 Instagram 名人账号",
@@ -87,7 +86,7 @@
       "summary": "亲伊朗黑客诱骗 Meta AI 机器人短时间内接管了多个 Instagram 名人账号，其中包括奥巴马和美国太空军总军士长（Chief Master Sergeant），之后在账号上发表了亲伊朗的图片和信息。攻击方法非常简单：首先使用 VPN 连接到目标用户常住地附近，然后请求重置账号密码，要求与 Meta AI 客服对话，指示 AI 将目标账户关联到一个新邮箱地址，AI 按指示向该邮箱地址发送一次性验证码后，攻击者就可以重置密码接管账号。目前 Telegram 上已经出现了大量交易被接管账号的频道。Meta 的 Andy Stone 声称该公司已经采取行动解决了问题。",
       "source": "Solidot",
       "pub_date": "Tue, 02 Jun 2026 12:19:07 +0800",
-      "fetched_at": "2026-06-02T20:00:05.311893",
+      "fetched_at": "2026-06-03T12:00:04.808768",
       "categories": [
         "ai",
         "robotics"
@@ -103,24 +102,64 @@
       "importance": 0.5
     },
     {
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-      "summary": "👍 290 | 💬 101",
-      "source": "HackerNews",
-      "pub_date": "2026-06-02T05:50:02",
-      "fetched_at": "2026-06-02T20:00:34.902064",
+      "title": "OpenAI挖走中科大少年班校友！12岁上大学，哈佛史上最年轻正教授",
+      "link": "https://www.qbitai.com/2026/06/428003.html",
+      "summary": "还挖走了苏炜杰",
+      "source": "量子位",
+      "pub_date": "Tue, 02 Jun 2026 14:54:29 +0000",
+      "fetched_at": "2026-06-03T12:00:20.053795",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 290 | 💬 101",
+      "ai_summary": "还挖走了苏炜杰",
       "keywords": [
         "openai",
-        "frontier",
-        "models",
-        "and",
-        "codex"
+        "挖走中科大少年班校友",
+        "岁上大学",
+        "哈佛史上最年轻正教授",
+        "还挖走了苏炜杰"
       ],
       "importance": 0.5
+    },
+    {
+      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+      "link": "https://github.com/c0dejedi/nbd-vram",
+      "summary": "👍 183 | 💬 50",
+      "source": "HackerNews",
+      "pub_date": "2026-06-03T06:55:33",
+      "fetched_at": "2026-06-03T12:00:23.769890",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "👍 183 | 💬 50",
+      "keywords": [
+        "use",
+        "your",
+        "nvidia",
+        "gpu",
+        "vram"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "拒绝停止呼吸的土壤",
+      "link": "https://www.solidot.org/story?sid=84467",
+      "summary": "法国生化学家 Sébastien Fontaine 15 年来一直试图杀死土壤，他想要了解没有任何生命的土壤能释放多少碳。 他的团队将土壤密封在罐子内，用伽马射线进行灭菌照射。然后等待土壤释放的二氧化碳——这是微生物呼吸持续进行的标志——下降。他们等待了几周，几个月。在显微镜下，经辐射处理的土壤没有显示任何生命迹象，但它仍在继续释放二氧化碳。土壤拒绝停止呼吸。Fontaine 的实验室重复了实验得到了相同的结果。研究人员开始寻找无生命土壤中的呼吸来源。Fontaine 的团队如今报告，他们的土壤样本在六年内持续消耗氧气并释放二氧化碳。他们提出，为生命提供能量的代谢过程也可能发生在活细胞之外。他...",
+      "source": "Solidot",
+      "pub_date": "Wed, 03 Jun 2026 00:13:23 +0800",
+      "fetched_at": "2026-06-03T12:00:04.807282",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "法国生化学家 Sébastien Fontaine 15 年来一直试图杀死土壤，他想要了解没有任何生命的土壤能释放多少碳。 他的团队将土壤密封在罐子内，用伽马射线进行灭菌照射。然后等待土壤释放的二氧化碳——这是微生物呼吸持续进行的标志——下降。他们等待了几周，几个月。在显微镜下，经辐射处理的土壤没有...",
+      "keywords": [
+        "fontaine",
+        "拒绝停止呼吸的土壤",
+        "法国生化学家",
+        "bastien",
+        "年来一直试图杀死土壤"
+      ],
+      "importance": 0
     },
     {
       "title": "中国将数据和算法纳入商业秘密保护",
@@ -128,7 +167,7 @@
       "summary": "中国扩大商业秘密保护范围，将数据和算法纳入其中，以加强防范技术外流。中国国家市场监督管理总局修订的《商业秘密保护规定》在星期一（6月1日）正式施行。这是中国法律首次明确将数据、算法等数字资产纳入商业秘密保护范围。新规也对远程办公和跨境企业合作提出更严格的安全要求。企业必须采取保护措施，包括按照员工职级限制文件访问权限、隐藏敏感信息，以及记录用户操作行为等。规定还将境外实施的侵犯商业秘密行为纳入规制范围，但未明确具体执法机制。配合新规实施，中国国家市场监管总局星期一启动为期一个月的专项执法行动，重点针对生物医药、半导体和人工智能等关键领域，严厉打击“恶意挖角”以及员工跳槽时携带商业秘密等行为。",
       "source": "Solidot",
       "pub_date": "Tue, 02 Jun 2026 16:37:19 +0800",
-      "fetched_at": "2026-06-02T20:00:05.311139",
+      "fetched_at": "2026-06-03T12:00:04.808089",
       "categories": [
         "ai"
       ],
@@ -148,7 +187,7 @@
       "summary": "The International Aids Vaccine Initiative(IAVI)、牛津大学以及 Moderna 公司正在研发针对埃博拉病毒的疫苗。IAVI 表示正在刚果民主共和国爆发的埃博拉疫情可能是至今最严重的。疫情发生在冲突地区，已经报告了逾千例疑似病例，邻国乌干达已确诊 9 例。目前已知有六种埃博拉病毒株，只有三种会引发疫情。最常见的 Zaire 毒株已有针对性的疫苗，但此次爆发的是比较罕见的 Bundibugyo 毒株，目前还没有针对它的疫苗。Moderna 公司宣布将利用 mRNA 技术研发针对 Bundibugyo 毒株的疫苗。",
       "source": "Solidot",
       "pub_date": "Tue, 02 Jun 2026 00:27:06 +0800",
-      "fetched_at": "2026-06-02T20:00:05.312030",
+      "fetched_at": "2026-06-03T12:00:04.808898",
       "categories": [
         "ai"
       ],
@@ -168,7 +207,7 @@
       "summary": "根据卫星对地磁场的测量，太平洋一区域下的地球熔融核心在 2010 年突然逆转了流动方向，从西向流动转为东向流动。爱丁堡大学地球科学家 Frederik Dahl Madsen 说，“科学家现在想了解，这种逆转究竟代表着短暂的波动、周期性振荡的一部分，还是地核环流的一种新的稳定平衡。持续监测对确定未来几年这一流动如何演变至关重要。”Madsen 团队分析了 1997-2025 年间 27 年的卫星数据，拼凑出可能发生的变化。外地核大部分运动都受被称为偏心行星环流（eccentric planetary gyre）的环流模式支配。2010 年太平洋下方的区域，部分外核突然偏离了这种模式，从 201...",
       "source": "Solidot",
       "pub_date": "Mon, 01 Jun 2026 15:55:06 +0800",
-      "fetched_at": "2026-06-02T20:00:05.312959",
+      "fetched_at": "2026-06-03T12:00:04.809815",
       "categories": [
         "space"
       ],
@@ -188,7 +227,7 @@
       "summary": "流行图像编辑软件 Paint.net 的官方域名是 www.getpaint.net，因为域名 Paint.net 掌握在第三方手中。现在你可以直接通过 Paint.net 域名获取该软件了。过去 22 年 Paint.net 域名原所有者一直拒绝出售域名，除非项目开发者 Rick Brewster 支付巨额费用。但域名所有者犯下了一个严重错误，他们创建了一个模仿 Paint.net 项目下载页的网站，通过恶意链接和广告获利。Brewster 提起了诉讼，主张利用他人作品牟利构成了侵犯版权和域名抢注。他赢得了诉讼，没有花钱就拿回了 Paint.net 域名。Paint.net 未来将成为主站，...",
       "source": "Solidot",
       "pub_date": "Mon, 01 Jun 2026 14:55:51 +0800",
-      "fetched_at": "2026-06-02T20:00:05.313087",
+      "fetched_at": "2026-06-03T12:00:04.810049",
       "categories": [
         "ai"
       ],
@@ -201,227 +240,106 @@
         "项目通过诉讼拿回"
       ],
       "importance": 0
-    },
-    {
-      "title": "16 岁男孩命名蓝牙设备为 BOMB，客机被迫返航",
-      "link": "https://www.solidot.org/story?sid=84446",
-      "summary": "2026年 5 月 30 日下午 5:58，美联航 UA236 航班波音 767-400ER 客机从纽瓦克自由国际机场起飞，飞往西班牙马略卡岛帕尔玛机场（Palma de Mallorca Airport）。在跨大西洋飞行约一个半小时后，原本平静的飞行却让机上乘客陷入了混乱。据乘客在社媒上分享的经历，乘务员突然通过广播发出紧急指令：所有乘客必须立即关闭蓝牙连接。机组人员多次发出语气越来越紧张的广播，声称该指令直接来自美联航位于芝加哥的总部。机组人员警告说，如果蓝牙信号不被关闭，飞机将被迫返航。尽管收到了警告，至少还有两台蓝牙设备处于开启状态。飞行员最终决定中止飞行。根据社媒上的消息，原因是一名...",
-      "source": "Solidot",
-      "pub_date": "Mon, 01 Jun 2026 14:00:06 +0800",
-      "fetched_at": "2026-06-02T20:00:05.313351",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "2026年 5 月 30 日下午 5:58，美联航 UA236 航班波音 767-400ER 客机从纽瓦克自由国际机场起飞，飞往西班牙马略卡岛帕尔玛机场（Palma de Mallorca Airport）。在跨大西洋飞行约一个半小时后，原本平静的飞行却让机上乘客陷入了混乱。据乘客在社媒上分享的经历...",
-      "keywords": [
-        "岁男孩命名蓝牙设备为",
-        "bomb",
-        "客机被迫返航",
-        "日下午",
-        "美联航"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手",
-      "link": "https://www.qbitai.com/2026/06/427810.html",
-      "summary": "AI视频编辑先理解再动手",
-      "source": "量子位",
-      "pub_date": "Tue, 02 Jun 2026 09:28:00 +0000",
-      "fetched_at": "2026-06-02T20:00:20.575622",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "AI视频编辑先理解再动手",
-      "keywords": [
-        "ai",
-        "视频编辑先理解再动手",
-        "字节开源统一框架",
-        "bernini",
-        "dit"
-      ],
-      "importance": 0
     }
   ],
   "latest": [
     {
-      "title": "Strace-ui, Bonsai_term, and the TUI renaissance",
-      "link": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
-      "summary": "👍 65 | 💬 42",
+      "title": "Open Repair Data Standard – Open Repair Alliance",
+      "link": "https://openrepair.org/open-data/open-standard/",
+      "summary": "👍 107 | 💬 3",
       "source": "HackerNews",
-      "pub_date": "2026-06-02T12:05:23",
-      "fetched_at": "2026-06-02T20:00:45.378817",
+      "pub_date": "2026-06-03T03:37:10",
+      "fetched_at": "2026-06-03T12:00:40.247817",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 65 | 💬 42",
+      "ai_summary": "👍 107 | 💬 3",
       "keywords": [
-        "strace",
-        "ui",
-        "bonsai",
-        "term",
-        "and"
+        "open",
+        "repair",
+        "data",
+        "standard",
+        "alliance"
       ],
       "importance": 0
     },
     {
-      "title": "AI Agent Guidelines for CS336 at Stanford",
-      "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "summary": "👍 435 | 💬 140",
+      "title": "AI outperforms law professors in Stanford Law study",
+      "link": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+      "summary": "👍 129 | 💬 121",
       "source": "HackerNews",
-      "pub_date": "2026-06-02T00:41:49",
-      "fetched_at": "2026-06-02T20:00:39.648796",
+      "pub_date": "2026-06-03T07:43:12",
+      "fetched_at": "2026-06-03T12:00:37.401010",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 435 | 💬 140",
+      "ai_summary": "👍 129 | 💬 121",
       "keywords": [
+        "law",
         "ai",
-        "agent",
-        "guidelines",
-        "for",
-        "cs"
+        "outperforms",
+        "professors",
+        "in"
       ],
       "importance": 0
     },
     {
-      "title": "How is Groq raising more money?",
-      "link": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
-      "summary": "👍 119 | 💬 53",
+      "title": "Gmail thinks I'm stupid, so I left",
+      "link": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+      "summary": "👍 696 | 💬 419",
       "source": "HackerNews",
-      "pub_date": "2026-06-02T09:05:29",
-      "fetched_at": "2026-06-02T20:00:36.978540",
+      "pub_date": "2026-06-03T03:27:40",
+      "fetched_at": "2026-06-03T12:00:34.588476",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 119 | 💬 53",
+      "ai_summary": "👍 696 | 💬 419",
       "keywords": [
-        "how",
-        "is",
-        "groq",
-        "raising",
-        "more"
+        "gmail",
+        "thinks",
+        "stupid",
+        "so",
+        "left"
       ],
       "importance": 0
     },
     {
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-      "summary": "👍 290 | 💬 101",
+      "title": "MAI-Code-1-Flash",
+      "link": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+      "summary": "👍 418 | 💬 178",
       "source": "HackerNews",
-      "pub_date": "2026-06-02T05:50:02",
-      "fetched_at": "2026-06-02T20:00:34.902064",
+      "pub_date": "2026-06-03T02:47:07",
+      "fetched_at": "2026-06-03T12:00:26.175492",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 290 | 💬 101",
+      "ai_summary": "👍 418 | 💬 178",
       "keywords": [
-        "openai",
-        "frontier",
-        "models",
-        "and",
-        "codex"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "Chipotlai Max",
-      "link": "https://github.com/cyberpapiii/chipotlai-max",
-      "summary": "👍 257 | 💬 39",
-      "source": "HackerNews",
-      "pub_date": "2026-06-02T07:06:35",
-      "fetched_at": "2026-06-02T20:00:33.795209",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 257 | 💬 39",
-      "keywords": [
-        "chipotlai",
-        "max"
+        "mai",
+        "code",
+        "flash"
       ],
       "importance": 0
     },
     {
-      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "link": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "summary": "👍 425 | 💬 738",
+      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+      "link": "https://github.com/c0dejedi/nbd-vram",
+      "summary": "👍 183 | 💬 50",
       "source": "HackerNews",
-      "pub_date": "2026-06-02T07:45:46",
-      "fetched_at": "2026-06-02T20:00:27.884951",
+      "pub_date": "2026-06-03T06:55:33",
+      "fetched_at": "2026-06-03T12:00:23.769890",
       "categories": [
-        "ai",
         "space"
       ],
-      "ai_summary": "👍 425 | 💬 738",
+      "ai_summary": "👍 183 | 💬 50",
       "keywords": [
-        "can",
-        "the",
-        "stockmarket",
-        "swallow",
-        "anthropic"
+        "use",
+        "your",
+        "nvidia",
+        "gpu",
+        "vram"
       ],
-      "importance": 2.0
-    },
-    {
-      "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
-      "link": "https://blog.adafruit.com/",
-      "summary": "👍 118 | 💬 41",
-      "source": "HackerNews",
-      "pub_date": "2026-06-02T18:00:56",
-      "fetched_at": "2026-06-02T20:00:23.996287",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 118 | 💬 41",
-      "keywords": [
-        "adafruit",
-        "receives",
-        "demand",
-        "letter",
-        "from"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖",
-      "link": "https://www.qbitai.com/2026/06/427530.html",
-      "summary": "已经投资了数个世界领先的AI科技公司",
-      "source": "量子位",
-      "pub_date": "Mon, 01 Jun 2026 10:34:31 +0000",
-      "fetched_at": "2026-06-02T20:00:20.576146",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "已经投资了数个世界领先的AI科技公司",
-      "keywords": [
-        "清智系企业亮相",
-        "beyond",
-        "expo",
-        "并斩获多项大奖",
-        "已经投资了数个世界领先的"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "云端模型如何落地物理世界？招商局狮子山人工智能实验室用LiOS打通具身智能全链路",
-      "link": "https://www.qbitai.com/2026/06/427472.html",
-      "summary": "从仿真到多形态真机，具身模型如何落地复杂家庭柔性物体操作？",
-      "source": "量子位",
-      "pub_date": "Tue, 02 Jun 2026 01:33:13 +0000",
-      "fetched_at": "2026-06-02T20:00:20.576010",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "从仿真到多形态真机，具身模型如何落地复杂家庭柔性物体操作？",
-      "keywords": [
-        "云端模型如何落地物理世界",
-        "招商局狮子山人工智能实验室用",
-        "lios",
-        "打通具身智能全链路",
-        "从仿真到多形态真机"
-      ],
-      "importance": 0
+      "importance": 0.5
     },
     {
       "title": "Qwen3.7-Plus上线！多模态智能体新基座，一键复刻桌面端专业软件",
@@ -429,7 +347,7 @@
       "summary": "Qwen3.7-Plus已上线阿里云百炼",
       "source": "量子位",
       "pub_date": "Tue, 02 Jun 2026 03:15:52 +0000",
-      "fetched_at": "2026-06-02T20:00:20.575933",
+      "fetched_at": "2026-06-03T12:00:20.054293",
       "categories": [
         "ai"
       ],
@@ -449,7 +367,7 @@
       "summary": "全新的机器人强化学习训练架构",
       "source": "量子位",
       "pub_date": "Tue, 02 Jun 2026 03:57:21 +0000",
-      "fetched_at": "2026-06-02T20:00:20.575864",
+      "fetched_at": "2026-06-03T12:00:20.054222",
       "categories": [
         "ai",
         "robotics"
@@ -470,7 +388,7 @@
       "summary": "AI视频编辑先理解再动手",
       "source": "量子位",
       "pub_date": "Tue, 02 Jun 2026 09:28:00 +0000",
-      "fetched_at": "2026-06-02T20:00:20.575622",
+      "fetched_at": "2026-06-03T12:00:20.054004",
       "categories": [
         "ai"
       ],
@@ -485,24 +403,44 @@
       "importance": 0
     },
     {
-      "title": "16 岁男孩命名蓝牙设备为 BOMB，客机被迫返航",
-      "link": "https://www.solidot.org/story?sid=84446",
-      "summary": "2026年 5 月 30 日下午 5:58，美联航 UA236 航班波音 767-400ER 客机从纽瓦克自由国际机场起飞，飞往西班牙马略卡岛帕尔玛机场（Palma de Mallorca Airport）。在跨大西洋飞行约一个半小时后，原本平静的飞行却让机上乘客陷入了混乱。据乘客在社媒上分享的经历，乘务员突然通过广播发出紧急指令：所有乘客必须立即关闭蓝牙连接。机组人员多次发出语气越来越紧张的广播，声称该指令直接来自美联航位于芝加哥的总部。机组人员警告说，如果蓝牙信号不被关闭，飞机将被迫返航。尽管收到了警告，至少还有两台蓝牙设备处于开启状态。飞行员最终决定中止飞行。根据社媒上的消息，原因是一名...",
-      "source": "Solidot",
-      "pub_date": "Mon, 01 Jun 2026 14:00:06 +0800",
-      "fetched_at": "2026-06-02T20:00:05.313351",
+      "title": "头部厂商集体买单，全球AI原生达人营销头号平台正在诞生！",
+      "link": "https://www.qbitai.com/2026/06/427922.html",
+      "summary": "平台入驻全球达人已超10万",
+      "source": "量子位",
+      "pub_date": "Tue, 02 Jun 2026 14:52:01 +0000",
+      "fetched_at": "2026-06-03T12:00:20.053867",
       "categories": [
         "ai"
       ],
-      "ai_summary": "2026年 5 月 30 日下午 5:58，美联航 UA236 航班波音 767-400ER 客机从纽瓦克自由国际机场起飞，飞往西班牙马略卡岛帕尔玛机场（Palma de Mallorca Airport）。在跨大西洋飞行约一个半小时后，原本平静的飞行却让机上乘客陷入了混乱。据乘客在社媒上分享的经历...",
+      "ai_summary": "平台入驻全球达人已超10万",
       "keywords": [
-        "岁男孩命名蓝牙设备为",
-        "bomb",
-        "客机被迫返航",
-        "日下午",
-        "美联航"
+        "头部厂商集体买单",
+        "全球",
+        "ai",
+        "原生达人营销头号平台正在诞生",
+        "平台入驻全球达人已超"
       ],
       "importance": 0
+    },
+    {
+      "title": "OpenAI挖走中科大少年班校友！12岁上大学，哈佛史上最年轻正教授",
+      "link": "https://www.qbitai.com/2026/06/428003.html",
+      "summary": "还挖走了苏炜杰",
+      "source": "量子位",
+      "pub_date": "Tue, 02 Jun 2026 14:54:29 +0000",
+      "fetched_at": "2026-06-03T12:00:20.053795",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "还挖走了苏炜杰",
+      "keywords": [
+        "openai",
+        "挖走中科大少年班校友",
+        "岁上大学",
+        "哈佛史上最年轻正教授",
+        "还挖走了苏炜杰"
+      ],
+      "importance": 0.5
     },
     {
       "title": "Paint.net 项目通过诉讼拿回 Paint.net 域名",
@@ -510,7 +448,7 @@
       "summary": "流行图像编辑软件 Paint.net 的官方域名是 www.getpaint.net，因为域名 Paint.net 掌握在第三方手中。现在你可以直接通过 Paint.net 域名获取该软件了。过去 22 年 Paint.net 域名原所有者一直拒绝出售域名，除非项目开发者 Rick Brewster 支付巨额费用。但域名所有者犯下了一个严重错误，他们创建了一个模仿 Paint.net 项目下载页的网站，通过恶意链接和广告获利。Brewster 提起了诉讼，主张利用他人作品牟利构成了侵犯版权和域名抢注。他赢得了诉讼，没有花钱就拿回了 Paint.net 域名。Paint.net 未来将成为主站，...",
       "source": "Solidot",
       "pub_date": "Mon, 01 Jun 2026 14:55:51 +0800",
-      "fetched_at": "2026-06-02T20:00:05.313087",
+      "fetched_at": "2026-06-03T12:00:04.810049",
       "categories": [
         "ai"
       ],
@@ -530,7 +468,7 @@
       "summary": "根据卫星对地磁场的测量，太平洋一区域下的地球熔融核心在 2010 年突然逆转了流动方向，从西向流动转为东向流动。爱丁堡大学地球科学家 Frederik Dahl Madsen 说，“科学家现在想了解，这种逆转究竟代表着短暂的波动、周期性振荡的一部分，还是地核环流的一种新的稳定平衡。持续监测对确定未来几年这一流动如何演变至关重要。”Madsen 团队分析了 1997-2025 年间 27 年的卫星数据，拼凑出可能发生的变化。外地核大部分运动都受被称为偏心行星环流（eccentric planetary gyre）的环流模式支配。2010 年太平洋下方的区域，部分外核突然偏离了这种模式，从 201...",
       "source": "Solidot",
       "pub_date": "Mon, 01 Jun 2026 15:55:06 +0800",
-      "fetched_at": "2026-06-02T20:00:05.312959",
+      "fetched_at": "2026-06-03T12:00:04.809815",
       "categories": [
         "space"
       ],
@@ -550,7 +488,7 @@
       "summary": "The International Aids Vaccine Initiative(IAVI)、牛津大学以及 Moderna 公司正在研发针对埃博拉病毒的疫苗。IAVI 表示正在刚果民主共和国爆发的埃博拉疫情可能是至今最严重的。疫情发生在冲突地区，已经报告了逾千例疑似病例，邻国乌干达已确诊 9 例。目前已知有六种埃博拉病毒株，只有三种会引发疫情。最常见的 Zaire 毒株已有针对性的疫苗，但此次爆发的是比较罕见的 Bundibugyo 毒株，目前还没有针对它的疫苗。Moderna 公司宣布将利用 mRNA 技术研发针对 Bundibugyo 毒株的疫苗。",
       "source": "Solidot",
       "pub_date": "Tue, 02 Jun 2026 00:27:06 +0800",
-      "fetched_at": "2026-06-02T20:00:05.312030",
+      "fetched_at": "2026-06-03T12:00:04.808898",
       "categories": [
         "ai"
       ],
@@ -570,7 +508,7 @@
       "summary": "亲伊朗黑客诱骗 Meta AI 机器人短时间内接管了多个 Instagram 名人账号，其中包括奥巴马和美国太空军总军士长（Chief Master Sergeant），之后在账号上发表了亲伊朗的图片和信息。攻击方法非常简单：首先使用 VPN 连接到目标用户常住地附近，然后请求重置账号密码，要求与 Meta AI 客服对话，指示 AI 将目标账户关联到一个新邮箱地址，AI 按指示向该邮箱地址发送一次性验证码后，攻击者就可以重置密码接管账号。目前 Telegram 上已经出现了大量交易被接管账号的频道。Meta 的 Andy Stone 声称该公司已经采取行动解决了问题。",
       "source": "Solidot",
       "pub_date": "Tue, 02 Jun 2026 12:19:07 +0800",
-      "fetched_at": "2026-06-02T20:00:05.311893",
+      "fetched_at": "2026-06-03T12:00:04.808768",
       "categories": [
         "ai",
         "robotics"
@@ -591,7 +529,7 @@
       "summary": "Anthropic 已向美国证券交易委员会（SEC）秘密提交了 IPO 招股说明书。该公司表示在 SEC 完成审查之后，将根据市场状况等因素选择上市。Anthropic 的估值今年以来出现了爆炸式增长，在上周的最新一轮融资中估值达到了 9650 亿美元，超过了 OpenAI 在 3 月下旬的 8520 亿美元估值。美国股市即将迎来三家万亿市值公司的上市，SpaceX 预计本月上市，Anthropic 竞争对手 OpenAI 预计会很快递交上市申请，三家公司的市值预计将达到 4 万亿美元。",
       "source": "Solidot",
       "pub_date": "Tue, 02 Jun 2026 13:57:08 +0800",
-      "fetched_at": "2026-06-02T20:00:05.311755",
+      "fetched_at": "2026-06-03T12:00:04.808632",
       "categories": [
         "ai",
         "space"
@@ -612,7 +550,7 @@
       "summary": "中国扩大商业秘密保护范围，将数据和算法纳入其中，以加强防范技术外流。中国国家市场监督管理总局修订的《商业秘密保护规定》在星期一（6月1日）正式施行。这是中国法律首次明确将数据、算法等数字资产纳入商业秘密保护范围。新规也对远程办公和跨境企业合作提出更严格的安全要求。企业必须采取保护措施，包括按照员工职级限制文件访问权限、隐藏敏感信息，以及记录用户操作行为等。规定还将境外实施的侵犯商业秘密行为纳入规制范围，但未明确具体执法机制。配合新规实施，中国国家市场监管总局星期一启动为期一个月的专项执法行动，重点针对生物医药、半导体和人工智能等关键领域，严厉打击“恶意挖角”以及员工跳槽时携带商业秘密等行为。",
       "source": "Solidot",
       "pub_date": "Tue, 02 Jun 2026 16:37:19 +0800",
-      "fetched_at": "2026-06-02T20:00:05.311139",
+      "fetched_at": "2026-06-03T12:00:04.808089",
       "categories": [
         "ai"
       ],
@@ -625,7 +563,47 @@
         "中国国家市场监督管理总局修订的"
       ],
       "importance": 0
+    },
+    {
+      "title": "NASA 低音爆超音速飞机 X-59 将首次尝试突破音速",
+      "link": "https://www.solidot.org/story?sid=84464",
+      "summary": "NASA 宣布，由洛克希德马丁臭鼬工厂设计的 X-59 Quess 低音爆超音速飞机将在本月首次尝试突破音速。X-59 设计能突破音速但同时不会有超音速飞机通常会产生的音爆，它会产生更安静的“砰砰声”，类似室内听到关车门的声音。它没有前向窗户，而是通过摄像头和显示屏为飞行员提供飞机前方的增强现实的外部视觉系统。如果 X-59 成功它有望对超音速飞行和航空业产生革命性影响，解除目前对超音速飞行的限制。X-59 于 2025 年 10 月完成首飞，2026 年 3 月以来进行了 14 次试飞，本月的超音速飞行计划在 16.7 公里高度实现 1.4 马赫。",
+      "source": "Solidot",
+      "pub_date": "Tue, 02 Jun 2026 22:06:47 +0800",
+      "fetched_at": "2026-06-03T12:00:04.807808",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "NASA 宣布，由洛克希德马丁臭鼬工厂设计的 X-59 Quess 低音爆超音速飞机将在本月首次尝试突破音速。X-59 设计能突破音速但同时不会有超音速飞机通常会产生的音爆，它会产生更安静的“砰砰声”，类似室内听到关车门的声音。它没有前向窗户，而是通过摄像头和显示屏为飞行员提供飞机前方的增强现实的外...",
+      "keywords": [
+        "nasa",
+        "低音爆超音速飞机",
+        "将首次尝试突破音速",
+        "宣布",
+        "由洛克希德马丁臭鼬工厂设计的"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "拒绝停止呼吸的土壤",
+      "link": "https://www.solidot.org/story?sid=84467",
+      "summary": "法国生化学家 Sébastien Fontaine 15 年来一直试图杀死土壤，他想要了解没有任何生命的土壤能释放多少碳。 他的团队将土壤密封在罐子内，用伽马射线进行灭菌照射。然后等待土壤释放的二氧化碳——这是微生物呼吸持续进行的标志——下降。他们等待了几周，几个月。在显微镜下，经辐射处理的土壤没有显示任何生命迹象，但它仍在继续释放二氧化碳。土壤拒绝停止呼吸。Fontaine 的实验室重复了实验得到了相同的结果。研究人员开始寻找无生命土壤中的呼吸来源。Fontaine 的团队如今报告，他们的土壤样本在六年内持续消耗氧气并释放二氧化碳。他们提出，为生命提供能量的代谢过程也可能发生在活细胞之外。他...",
+      "source": "Solidot",
+      "pub_date": "Wed, 03 Jun 2026 00:13:23 +0800",
+      "fetched_at": "2026-06-03T12:00:04.807282",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "法国生化学家 Sébastien Fontaine 15 年来一直试图杀死土壤，他想要了解没有任何生命的土壤能释放多少碳。 他的团队将土壤密封在罐子内，用伽马射线进行灭菌照射。然后等待土壤释放的二氧化碳——这是微生物呼吸持续进行的标志——下降。他们等待了几周，几个月。在显微镜下，经辐射处理的土壤没有...",
+      "keywords": [
+        "fontaine",
+        "拒绝停止呼吸的土壤",
+        "法国生化学家",
+        "bastien",
+        "年来一直试图杀死土壤"
+      ],
+      "importance": 0
     }
   ],
-  "updated_at": "2026-06-02T20:00:53.396417"
+  "updated_at": "2026-06-03T12:00:45.935976"
 }

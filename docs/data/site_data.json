@@ -5,21 +5,21 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-06-06T12:00:56.823490",
-    "total_items": 33
+    "last_update": "2026-06-06T20:00:48.576081",
+    "total_items": 38
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 28
+      "count": 36
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 4
+      "count": 2
     },
     "space": {
       "name": "Space",
@@ -29,15 +29,15 @@
     }
   },
   "stats": {
-    "total_items": 33,
-    "today_items": 33,
+    "total_items": 38,
+    "today_items": 38,
     "sources": {
-      "36氪": 10,
+      "36氪": 11,
       "Solidot": 10,
-      "量子位": 8,
-      "HackerNews": 5
+      "HackerNews": 8,
+      "量子位": 9
     },
-    "last_update": "2026-06-06T12:00:56.823490"
+    "last_update": "2026-06-06T20:00:48.576081"
   },
   "trending": [
     {
@@ -46,7 +46,7 @@
       "summary": "今日热点导览 SpaceX据悉将其IPO的日本融资目标提高至25亿美元 二手房挂牌量回落新房库存下降，楼市供需关系向好 B站宣布启动AI创造公开赛 TOP3大新闻 数据显示，豆包推出付费后月活减少610万 据全球人工智能市场追踪机构Aicpb.com周三发布的数据显示，在豆包推出订阅选项后，该应用5月份的月活跃用户（MAU）减少了610万，这是自2023年推出以来该应用罕见的下滑。Aicpb.com创始人李邦竹表示：“中国的免费人工智能服务时代还远未结束，所以豆包的商业化可能确实为时过早。” 有分析人士认为，字节跳动过早地将盈利模式商业化，可能会使其在中国竞争激烈的消费人工智能市场中失去领先地...",
       "source": "36氪",
       "pub_date": "2026-06-06 09:07:19  +0800",
-      "fetched_at": "2026-06-06T12:00:19.438952",
+      "fetched_at": "2026-06-06T20:00:15.916665",
       "categories": [
         "ai",
         "space"
@@ -62,32 +62,12 @@
       "importance": 3.0
     },
     {
-      "title": "SpaceX与谷歌达成每月9.2亿美元的云服务协议",
-      "link": "https://36kr.com/newsflashes/3841028145236227?f=rss",
-      "summary": "6月6日，SpaceX和谷歌达成云服务协议。根据该协议，谷歌同意从2026年10月到2029年6月每月向SpaceX支付9.2亿美元。SpaceX提供的算力包括11万块英伟达GPU、CPU以及内存。（财联社）",
-      "source": "36氪",
-      "pub_date": "2026-06-06 09:35:53  +0800",
-      "fetched_at": "2026-06-06T12:00:19.463148",
-      "categories": [
-        "space"
-      ],
-      "ai_summary": "6月6日，SpaceX和谷歌达成云服务协议。根据该协议，谷歌同意从2026年10月到2029年6月每月向SpaceX支付9.2亿美元。SpaceX提供的算力包括11万块英伟达GPU、CPU以及内存。（财联社）",
-      "keywords": [
-        "spacex",
-        "与谷歌达成每月",
-        "亿美元的云服务协议",
-        "和谷歌达成云服务协议",
-        "根据该协议"
-      ],
-      "importance": 2.5
-    },
-    {
       "title": "美国资本主义转向末日论",
       "link": "https://www.solidot.org/story?sid=84486",
       "summary": "末日论是今天美国资本主义最强大的动力。马斯克（Elon Musk）旗下的火箭公司 SpaceX 公开宣称其使命是在火星上建立殖民地以免人类在地球上灭绝。马斯克之所以能成为美国首富，部分原因在于他是美国声音最大的末日论者。马斯克正抢在另外两位持相似千禧年主义世界观的先知前让 SpaceX 上市。Anthropic 的 Dario Amodei 和 OpenAI 的 Sam Altman、以及 Palantir CEO Alex Karp、Anduril 创始人 Palmer Luckey 都在叙述着某种末日故事。一个信奉千禧年主义的经济体必然是偏执的。Peter Thiel 说 AI 将以威权统...",
       "source": "Solidot",
       "pub_date": "Thu, 04 Jun 2026 18:10:10 +0800",
-      "fetched_at": "2026-06-06T12:00:05.643818",
+      "fetched_at": "2026-06-06T20:00:03.930495",
       "categories": [
         "ai",
         "space"
@@ -103,12 +83,33 @@
       "importance": 2.0
     },
     {
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "summary": "👍 619 | 💬 206",
+      "source": "HackerNews",
+      "pub_date": "2026-06-06T12:38:36",
+      "fetched_at": "2026-06-06T20:00:26.623043",
+      "categories": [
+        "ai",
+        "space"
+      ],
+      "ai_summary": "👍 619 | 💬 206",
+      "keywords": [
+        "rejects",
+        "spacex",
+        "also",
+        "blocking",
+        "entry"
+      ],
+      "importance": 2.0
+    },
+    {
       "title": "Google 发布能在笔记本上本地运行的开源模型 Gemma 4 12B",
       "link": "https://www.solidot.org/story?sid=84480",
       "summary": "Google 发布了能在笔记本电脑上本地运行的开源模型 Gemma 4 12B。Gemma 4 12B 有 120 亿参数，能在有 16GB 显存的笔记本电脑上本地运行——排除了绝大部分中低端笔记本电脑，只有高端的笔记本电脑才可能有 16GB 以上显存。Gemma 4 是多模态模型，能处理文本、图像和音频不同类型的信息，能理解视觉内容、处理音频输入并执行高级推理任务，因此具有更广泛应用场景。Gemma 4 12B 采用 Apache 2.0 许可证，限制较少。",
       "source": "Solidot",
       "pub_date": "Thu, 04 Jun 2026 13:48:36 +0800",
-      "fetched_at": "2026-06-06T12:00:05.644679",
+      "fetched_at": "2026-06-06T20:00:03.931104",
       "categories": [
         "ai"
       ],
@@ -123,24 +124,24 @@
       "importance": 1.5
     },
     {
-      "title": "SpaceX IPO已获得2倍认购资金",
-      "link": "https://36kr.com/newsflashes/3841030859081984?f=rss",
-      "summary": "据两名知情人士周五透露，SpaceX本次IPO获约1500亿美元投资者认购资金，认购额度达募资计划的两倍。作为史上规模最大IPO，该认购热度已十分亮眼。知情人士提示，项目目前仍处于前期推介阶段，大型机构资金往往在 IPO申购末期才递交订单，当前统计数据仅为意向申购，并非最终配售额度，实际获配数量将在定价环节敲定。（第一财经）",
-      "source": "36氪",
-      "pub_date": "2026-06-06 09:38:38  +0800",
-      "fetched_at": "2026-06-06T12:00:19.462984",
+      "title": "马斯克是SpaceX面子，她才是里子",
+      "link": "https://www.qbitai.com/2026/06/431371.html",
+      "summary": "造火箭的正在批量造巨富",
+      "source": "量子位",
+      "pub_date": "Sat, 06 Jun 2026 10:14:54 +0000",
+      "fetched_at": "2026-06-06T20:00:16.103206",
       "categories": [
         "space"
       ],
-      "ai_summary": "据两名知情人士周五透露，SpaceX本次IPO获约1500亿美元投资者认购资金，认购额度达募资计划的两倍。作为史上规模最大IPO，该认购热度已十分亮眼。知情人士提示，项目目前仍处于前期推介阶段，大型机构资金往往在 IPO申购末期才递交订单，当前统计数据仅为意向申购，并非最终配售额度，实际获配数量将在...",
+      "ai_summary": "造火箭的正在批量造巨富",
       "keywords": [
-        "ipo",
+        "马斯克是",
         "spacex",
-        "已获得",
-        "倍认购资金",
-        "据两名知情人士周五透露"
+        "面子",
+        "她才是里子",
+        "造火箭的正在批量造巨富"
       ],
-      "importance": 1.5
+      "importance": 1.0
     },
     {
       "title": "因空气泄露国际空间站宇航员被告知准备紧急撤离",
@@ -148,7 +149,7 @@
       "summary": "由于国际空间站俄罗斯舱段的漏气过去几天从每天一磅空气增加到两磅（0.9 公斤），NASA 命令国际空间站上的宇航员待在飞船内，做好紧急撤离的准备。NASA Crew-12 任务的四名宇航员——两名美国宇航员、一名法国宇航员和一名俄罗斯宇航员——于美国东部时间周五 9.04am 接到 NASA 任务控制中心的命令，进入与空间站对接的 Crew Dragon 飞船，穿上宇航服，以防漏气情况需要紧急撤离。漏气的舱段位于 Progress（进步号）气闸舱和 Zvezda（星辰号）服务舱之间的 PrK 模块，漏气原因是微小的结构裂缝。最近几个月 NASA 和俄罗斯航天局一直在讨论漏气的原因和可能的修复方...",
       "source": "Solidot",
       "pub_date": "Sat, 06 Jun 2026 00:20:20 +0800",
-      "fetched_at": "2026-06-06T12:00:05.641396",
+      "fetched_at": "2026-06-06T20:00:03.928296",
       "categories": [
         "space"
       ],
@@ -168,7 +169,7 @@
       "summary": "广泛使用的备份项目 rsync 最近释出的一个版本导致部分用户增量备份失败，用户在检查代码时发现 rsync 维护者 Andrew Tridgell 最近大量使用 AI 辅助编程，项目有数十个 commits 的作者是 tridge 和 claude——tridge 是 Andrew Tridgell，而 claude 就是 Anthropic 的 AI 助手 Claude。此事立即引发了 AI 生成代码的争议。Tridgell 随后通过个人博客回应了争议，承认近期大量使用 AI 编程，他反驳了批评，称批评者在不了解 AI 工具实际使用情况就妄下结论。他表示自己设计了框架，对 AI 生成的代码...",
       "source": "Solidot",
       "pub_date": "Fri, 05 Jun 2026 15:32:56 +0800",
-      "fetched_at": "2026-06-06T12:00:05.642817",
+      "fetched_at": "2026-06-06T20:00:03.929528",
       "categories": [
         "ai"
       ],
@@ -188,7 +189,7 @@
       "summary": "知名科幻作家姜峯楠（Ted Chiang）在《大西洋月刊》上发表文章认为 AI 没有意识，它只是在玩角色扮演游戏。Anthropic 被视为 AI 巨头，但它真正擅长的可能是拟人化。大模型能生成流畅的文本并不意味着它们有意识，虽然销售大模型的公司一直在助长这种误解。它输出的每个单词都以完全相同的方式生成。深度伪造通常指的是照片、音频和视频，但当讨论意识时，我们也需要将文本视为一种深度伪造媒介。深度伪造照片和大模型对话的主要区别在于前者是故意欺骗他人后者更多是自我欺骗。姜峯楠认为意识需要有主观体验，大模型缺乏主观体验这一事实与它能否成为有用工具或产生显著经济影响不相关。它们脱离现实的内在本质，以...",
       "source": "Solidot",
       "pub_date": "Fri, 05 Jun 2026 14:15:59 +0800",
-      "fetched_at": "2026-06-06T12:00:05.643103",
+      "fetched_at": "2026-06-06T20:00:03.929794",
       "categories": [
         "ai"
       ],
@@ -208,7 +209,7 @@
       "summary": "在经历了长达六个月的无线电静默后，MAVEN 正式宣告任务终结。这艘于 2013 年发射的探测器，在 2025 年 12 月底一次飞越火星背面的常规过程中神秘失联，根据最后传回的数据显示，探测器当时陷入了异常的快速自旋，导致轨道偏离并耗尽了机载电池。 NASA 召集的审查委员会于近日得出结论，判定其已无法复原。尽管它预计还会在轨道上徘徊 50 到 100 年才会坠毁于火星表面，但其科学寿命已画下句号。NASA 在火星轨道上有三艘探测器，包括了 2001 年发射的 Mars Odysse 探测器，2005 年发射的 Mars Reconnaissance Orbiter（MRO）探测器，以及 2...",
       "source": "Solidot",
       "pub_date": "Fri, 05 Jun 2026 00:13:42 +0800",
-      "fetched_at": "2026-06-06T12:00:05.643251",
+      "fetched_at": "2026-06-06T20:00:03.929946",
       "categories": [
         "ai",
         "space"
@@ -229,7 +230,7 @@
       "summary": "在本周举行的 Build 2026 大会上，微软宣布了 Coreutils for Windows 项目——软件巨人维护的 Rust Coreutils(uutils)的一个分支，该分支不是硬分支，而是下游版本。Coreutils for Windows 包含了 uutils/coreutils、findutils 和 grep 等工具，其目标是在 Windows、WSL、macOS 和 Linux 等不同平台之间的开发切换更无缝，因为有统一的命令、flags 和管线，以相同的方式工作，现有脚本无需转换即可直接使用。不知道鲍尔默（Steve Ballmer）是不是还记得他说过的话。",
       "source": "Solidot",
       "pub_date": "Thu, 04 Jun 2026 23:46:02 +0800",
-      "fetched_at": "2026-06-06T12:00:05.643542",
+      "fetched_at": "2026-06-06T20:00:03.930221",
       "categories": [
         "ai"
       ],
@@ -246,36 +247,36 @@
   ],
   "latest": [
     {
-      "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
-      "link": "https://news.ycombinator.com/item?id=48406174",
-      "summary": "👍 210 | 💬 443",
+      "title": "The back cover of C++: The Language raises questions not answered by front cover",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
+      "summary": "👍 108 | 💬 33",
       "source": "HackerNews",
-      "pub_date": "2026-06-05T07:42:20",
-      "fetched_at": "2026-06-06T12:00:38.605160",
+      "pub_date": "2026-06-06T11:23:47",
+      "fetched_at": "2026-06-06T20:00:48.500823",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 210 | 💬 443",
+      "ai_summary": "👍 108 | 💬 33",
       "keywords": [
-        "ask",
-        "hn",
-        "what",
-        "was",
-        "your"
+        "the",
+        "cover",
+        "back",
+        "of",
+        "language"
       ],
       "importance": 0
     },
     {
       "title": "Did Claude increase bugs in rsync?",
       "link": "https://alexispurslane.github.io/rsync-analysis/",
-      "summary": "👍 339 | 💬 350",
+      "summary": "👍 439 | 💬 448",
       "source": "HackerNews",
       "pub_date": "2026-06-05T20:43:33",
-      "fetched_at": "2026-06-06T12:00:37.653809",
+      "fetched_at": "2026-06-06T20:00:40.340185",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 339 | 💬 350",
+      "ai_summary": "👍 439 | 💬 448",
       "keywords": [
         "did",
         "claude",
@@ -286,16 +287,36 @@
       "importance": 0
     },
     {
-      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-      "link": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "summary": "👍 367 | 💬 241",
+      "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+      "link": "https://news.ycombinator.com/item?id=48406174",
+      "summary": "👍 369 | 💬 684",
       "source": "HackerNews",
-      "pub_date": "2026-06-05T23:00:31",
-      "fetched_at": "2026-06-06T12:00:31.084580",
+      "pub_date": "2026-06-05T07:42:20",
+      "fetched_at": "2026-06-06T20:00:34.186526",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 367 | 💬 241",
+      "ai_summary": "👍 369 | 💬 684",
+      "keywords": [
+        "ask",
+        "hn",
+        "what",
+        "was",
+        "your"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+      "link": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "summary": "👍 403 | 💬 252",
+      "source": "HackerNews",
+      "pub_date": "2026-06-05T23:00:31",
+      "fetched_at": "2026-06-06T20:00:32.369047",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 403 | 💬 252",
       "keywords": [
         "to",
         "astronauts",
@@ -306,34 +327,37 @@
       "importance": 0
     },
     {
-      "title": "How LLMs work",
-      "link": "https://www.0xkato.xyz/how-llms-actually-work/",
-      "summary": "👍 49 | 💬 6",
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "summary": "👍 619 | 💬 206",
       "source": "HackerNews",
-      "pub_date": "2026-06-04T04:15:13",
-      "fetched_at": "2026-06-06T12:00:27.426564",
+      "pub_date": "2026-06-06T12:38:36",
+      "fetched_at": "2026-06-06T20:00:26.623043",
       "categories": [
-        "ai"
+        "ai",
+        "space"
       ],
-      "ai_summary": "👍 49 | 💬 6",
+      "ai_summary": "👍 619 | 💬 206",
       "keywords": [
-        "how",
-        "llms",
-        "work"
+        "rejects",
+        "spacex",
+        "also",
+        "blocking",
+        "entry"
       ],
-      "importance": 0
+      "importance": 2.0
     },
     {
       "title": "The intracies of modern camera lens repair (2024)",
       "link": "https://salvagedcircuitry.com/sigma-45mm.html",
-      "summary": "👍 91 | 💬 26",
+      "summary": "👍 187 | 💬 63",
       "source": "HackerNews",
       "pub_date": "2026-06-06T08:33:26",
-      "fetched_at": "2026-06-06T12:00:23.945287",
+      "fetched_at": "2026-06-06T20:00:24.755915",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 91 | 💬 26",
+      "ai_summary": "👍 187 | 💬 63",
       "keywords": [
         "the",
         "intracies",
@@ -344,63 +368,42 @@
       "importance": 0
     },
     {
-      "title": "全球首个机器人训练楼盘开盘：30万套中国住宅，机器人拎包入住",
-      "link": "https://www.qbitai.com/2026/06/429349.html",
-      "summary": "具身智能的房地产开发商来了！",
-      "source": "量子位",
-      "pub_date": "Fri, 05 Jun 2026 06:33:37 +0000",
-      "fetched_at": "2026-06-06T12:00:19.579829",
+      "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
+      "link": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+      "summary": "👍 30 | 💬 5",
+      "source": "HackerNews",
+      "pub_date": "2026-06-06T17:17:49",
+      "fetched_at": "2026-06-06T20:00:22.241809",
       "categories": [
-        "robotics"
+        "ai"
       ],
-      "ai_summary": "具身智能的房地产开发商来了！",
+      "ai_summary": "👍 30 | 💬 5",
       "keywords": [
-        "全球首个机器人训练楼盘开盘",
-        "万套中国住宅",
-        "机器人拎包入住",
-        "具身智能的房地产开发商来了"
+        "the",
+        "in",
+        "smart",
+        "tv",
+        "your"
       ],
       "importance": 0
     },
     {
-      "title": "B站宣布启动AI创造公开赛 打造中国版Build in Public",
-      "link": "https://www.qbitai.com/2026/06/430752.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Fri, 05 Jun 2026 07:38:08 +0000",
-      "fetched_at": "2026-06-06T12:00:19.579593",
+      "title": "How LLMs work",
+      "link": "https://www.0xkato.xyz/how-llms-actually-work/",
+      "summary": "👍 427 | 💬 126",
+      "source": "HackerNews",
+      "pub_date": "2026-06-04T04:15:13",
+      "fetched_at": "2026-06-06T20:00:20.791924",
       "categories": [
         "ai"
       ],
-      "ai_summary": "",
+      "ai_summary": "👍 427 | 💬 126",
       "keywords": [
-        "站宣布启动",
-        "ai",
-        "创造公开赛",
-        "打造中国版",
-        "build"
+        "how",
+        "llms",
+        "work"
       ],
       "importance": 0
-    },
-    {
-      "title": "从超级个体到超级团队，腾讯云发布WorkBuddy企业版",
-      "link": "https://www.qbitai.com/2026/06/430758.html",
-      "summary": "打造企业AI效率工具新标配",
-      "source": "量子位",
-      "pub_date": "Fri, 05 Jun 2026 08:55:29 +0000",
-      "fetched_at": "2026-06-06T12:00:19.579583",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "打造企业AI效率工具新标配",
-      "keywords": [
-        "从超级个体到超级团队",
-        "腾讯云发布",
-        "workbuddy",
-        "企业版",
-        "打造企业"
-      ],
-      "importance": 0.5
     },
     {
       "title": "WPS笔记正式发布：AI贯穿记录、整理与复用全过程",
@@ -408,7 +411,7 @@
       "summary": "AI笔记不是聊天框，而是信息入口。",
       "source": "量子位",
       "pub_date": "Fri, 05 Jun 2026 09:16:04 +0000",
-      "fetched_at": "2026-06-06T12:00:19.579483",
+      "fetched_at": "2026-06-06T20:00:16.103746",
       "categories": [
         "ai"
       ],
@@ -428,7 +431,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Fri, 05 Jun 2026 09:40:44 +0000",
-      "fetched_at": "2026-06-06T12:00:19.579399",
+      "fetched_at": "2026-06-06T20:00:16.103678",
       "categories": [
         "ai"
       ],
@@ -448,7 +451,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Fri, 05 Jun 2026 10:46:59 +0000",
-      "fetched_at": "2026-06-06T12:00:19.579392",
+      "fetched_at": "2026-06-06T20:00:16.103672",
       "categories": [
         "ai"
       ],
@@ -468,7 +471,7 @@
       "summary": "研究表明，睡眠中的记忆重激活参与调控睡眠动态，为理解“记忆-睡眠”双向作用机制提供了新的实验证据。",
       "source": "量子位",
       "pub_date": "Fri, 05 Jun 2026 10:53:01 +0000",
-      "fetched_at": "2026-06-06T12:00:19.579380",
+      "fetched_at": "2026-06-06T20:00:16.103662",
       "categories": [
         "ai"
       ],
@@ -488,7 +491,7 @@
       "summary": "Agentic AI的算力焦虑，英特尔给来了一剂「猛药」",
       "source": "量子位",
       "pub_date": "Fri, 05 Jun 2026 13:16:53 +0000",
-      "fetched_at": "2026-06-06T12:00:19.579269",
+      "fetched_at": "2026-06-06T20:00:16.103594",
       "categories": [
         "ai"
       ],
@@ -503,146 +506,145 @@
       "importance": 0
     },
     {
-      "title": "SpaceX与谷歌达成每月9.2亿美元的云服务协议",
-      "link": "https://36kr.com/newsflashes/3841028145236227?f=rss",
-      "summary": "6月6日，SpaceX和谷歌达成云服务协议。根据该协议，谷歌同意从2026年10月到2029年6月每月向SpaceX支付9.2亿美元。SpaceX提供的算力包括11万块英伟达GPU、CPU以及内存。（财联社）",
-      "source": "36氪",
-      "pub_date": "2026-06-06 09:35:53  +0800",
-      "fetched_at": "2026-06-06T12:00:19.463148",
-      "categories": [
-        "space"
-      ],
-      "ai_summary": "6月6日，SpaceX和谷歌达成云服务协议。根据该协议，谷歌同意从2026年10月到2029年6月每月向SpaceX支付9.2亿美元。SpaceX提供的算力包括11万块英伟达GPU、CPU以及内存。（财联社）",
-      "keywords": [
-        "spacex",
-        "与谷歌达成每月",
-        "亿美元的云服务协议",
-        "和谷歌达成云服务协议",
-        "根据该协议"
-      ],
-      "importance": 2.5
-    },
-    {
-      "title": "SpaceX IPO已获得2倍认购资金",
-      "link": "https://36kr.com/newsflashes/3841030859081984?f=rss",
-      "summary": "据两名知情人士周五透露，SpaceX本次IPO获约1500亿美元投资者认购资金，认购额度达募资计划的两倍。作为史上规模最大IPO，该认购热度已十分亮眼。知情人士提示，项目目前仍处于前期推介阶段，大型机构资金往往在 IPO申购末期才递交订单，当前统计数据仅为意向申购，并非最终配售额度，实际获配数量将在定价环节敲定。（第一财经）",
-      "source": "36氪",
-      "pub_date": "2026-06-06 09:38:38  +0800",
-      "fetched_at": "2026-06-06T12:00:19.462984",
-      "categories": [
-        "space"
-      ],
-      "ai_summary": "据两名知情人士周五透露，SpaceX本次IPO获约1500亿美元投资者认购资金，认购额度达募资计划的两倍。作为史上规模最大IPO，该认购热度已十分亮眼。知情人士提示，项目目前仍处于前期推介阶段，大型机构资金往往在 IPO申购末期才递交订单，当前统计数据仅为意向申购，并非最终配售额度，实际获配数量将在...",
-      "keywords": [
-        "ipo",
-        "spacex",
-        "已获得",
-        "倍认购资金",
-        "据两名知情人士周五透露"
-      ],
-      "importance": 1.5
-    },
-    {
-      "title": "英伟达新品被指内存容量“缩水”海内外存储股应声重挫",
-      "link": "https://36kr.com/newsflashes/3841116245854468?f=rss",
-      "summary": "2026年以来，存储上市公司市值不断创新高，市场正在尝试将存储资产从传统“周期股”转变为“AI时代核心基础设施资产”。在此估值切换窗口，海外调研机构SemiAnalysis一则关于英伟达新一代Vera Rubin AI服务器平台的内存降配、成本下降的研报，引发海内外存储概念股集体回调。据业内分析，本次报告中所指降配仅限于CPU侧系统内存，与GPU算力核心并无关系，这是基于英伟达兼顾供应链、功耗、成本的多重战略选择。 (证券时报)",
-      "source": "36氪",
-      "pub_date": "2026-06-06 11:05:30  +0800",
-      "fetched_at": "2026-06-06T12:00:19.462537",
+      "title": "港股鞋王千百度，一夜完成AI数据公司转型",
+      "link": "https://www.qbitai.com/2026/06/431056.html",
+      "summary": "形成「鞋履+人工智能数据」双主业",
+      "source": "量子位",
+      "pub_date": "Sat, 06 Jun 2026 03:35:47 +0000",
+      "fetched_at": "2026-06-06T20:00:16.103515",
       "categories": [
         "ai"
       ],
-      "ai_summary": "2026年以来，存储上市公司市值不断创新高，市场正在尝试将存储资产从传统“周期股”转变为“AI时代核心基础设施资产”。在此估值切换窗口，海外调研机构SemiAnalysis一则关于英伟达新一代Vera Rubin AI服务器平台的内存降配、成本下降的研报，引发海内外存储概念股集体回调。据业内分析，本...",
+      "ai_summary": "形成「鞋履+人工智能数据」双主业",
       "keywords": [
+        "港股鞋王千百度",
+        "一夜完成",
         "ai",
-        "英伟达新品被指内存容量",
-        "缩水",
-        "海内外存储股应声重挫",
-        "年以来"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "网传比亚迪自研人形机器人代号“尧舜禹”、年内自用2万台 比亚迪否认",
-      "link": "https://36kr.com/newsflashes/3841124276423176?f=rss",
-      "summary": "日前，比亚迪自研人形机器人的消息引发广泛关注。网传其自研人形机器人代号“尧舜禹”，计划于2026年在内部部署2万台。对此，记者向比亚迪方面求证，对方表示：“‘比亚迪人形机器人代号尧舜禹’‘第七代原型机在深圳和长沙工厂实地测试’‘约150台上岗，目标年内自用2万台’等消息均不属实。” (每日经济新闻)",
-      "source": "36氪",
-      "pub_date": "2026-06-06 11:13:40  +0800",
-      "fetched_at": "2026-06-06T12:00:19.462441",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "日前，比亚迪自研人形机器人的消息引发广泛关注。网传其自研人形机器人代号“尧舜禹”，计划于2026年在内部部署2万台。对此，记者向比亚迪方面求证，对方表示：“‘比亚迪人形机器人代号尧舜禹’‘第七代原型机在深圳和长沙工厂实地测试’‘约150台上岗，目标年内自用2万台’等消息均不属实。” (每日经济新闻)",
-      "keywords": [
-        "万台",
-        "尧舜禹",
-        "网传比亚迪自研人形机器人代号",
-        "年内自用",
-        "比亚迪否认"
+        "数据公司转型",
+        "形成"
       ],
       "importance": 0
     },
     {
-      "title": "国家队下场做AI虚拟细胞，「百曜科技」完成数千万元新一轮融资｜36氪首发",
-      "link": "https://36kr.com/p/3835460873385348?f=rss",
-      "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，AI虚拟细胞（AIVC）平台公司「百曜科技」近期已完成数千万元新一轮融资。本轮融资由国家级国有资本运营平台中国国新旗下的国新创投基金领投，道彤资本和云启资本跟投，老股东峰瑞资本和百度风投追加投资。募集资金将主要用于全新一代虚拟细胞算法模型迭代、独家数据收集平台建设以及加速产业化落地。 百曜科技是36氪持续追踪报道的企业（附链接），公司创始团队依托中国科学院动物研究所、北京干细胞与再生医学研究院的科研资源，自2023年起开始构建AI虚拟细胞基础大模型，以实现细胞行为和状态变化的精准分析及预测，并持续推进AIVC模型升级和产业化落地实践。 2026年来，AI制...",
-      "source": "36氪",
-      "pub_date": "2026-06-05 08:30:00  +0800",
-      "fetched_at": "2026-06-06T12:00:19.462114",
+      "title": "Hinton吹哨了：AI已经有意识！",
+      "link": "https://www.qbitai.com/2026/06/431349.html",
+      "summary": "人类得接受自己不再是唯一智能生命体",
+      "source": "量子位",
+      "pub_date": "Sat, 06 Jun 2026 07:08:15 +0000",
+      "fetched_at": "2026-06-06T20:00:16.103369",
       "categories": [
         "ai"
       ],
-      "ai_summary": "文｜胡香赟 编辑｜海若镜...",
+      "ai_summary": "人类得接受自己不再是唯一智能生命体",
       "keywords": [
+        "hinton",
+        "吹哨了",
         "ai",
-        "虚拟细胞",
-        "百曜科技",
-        "aivc",
-        "国家队下场做"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
-      "link": "https://36kr.com/p/3838835333253385?f=rss",
-      "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪独家获悉，具身智能企业「原力灵机」近期完成新一轮融资，资方主要为数家大模型公司，包括智谱、阶跃星辰、商汤科技。此外，华勤、上汽恒旭等产业投资方持续加注。 「原力灵机」是一家通用具身大模型公司，2025年3月由旷视科技联合创始人兼CTO唐文斌创立，团队核心创始成员为旷视科技原班人马。 有意思的是，此次融资也是商汤、旷视这两家曾经的对手，在具身智能的热潮中罕见“会师”； 另外，算上A+轮独家领投的阿里，这也是具身智能赛道罕见同时聚齐国内四家大模型厂商——此前，智谱仅通过Z基金小范围投资具身智能领域，阶跃星辰则几乎未出手具身智能。 而这一集体动作也释放出一个信...",
-      "source": "36氪",
-      "pub_date": "2026-06-05 09:00:00  +0800",
-      "fetched_at": "2026-06-06T12:00:19.459258",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪独家获悉，具身智能企业「原力灵机」近期完成新一轮融资，资方主要为数家大模型公司，包括智谱、阶跃星辰、商汤科技。此外，华勤、上汽恒旭等产业投资方持续加注。...",
-      "keywords": [
-        "原力灵机",
-        "硬氪独家",
-        "唐文斌",
-        "并购物流机器人公司",
-        "并获智谱"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "微信AI对手机厂商打开一道窄门｜焦点分析",
-      "link": "https://36kr.com/p/3839575253993985?f=rss",
-      "summary": "文｜王毓婵 梁键强 编辑｜张雨忻 昨日，腾讯客服回应称，微信正在与华为、小米、荣耀、OPPO、vivo等手机厂商合作推出A2A助手能力，目前已有多家厂商完成接入。 “您可以通过对应手机系统的AI助手发起微信音视频通话或向指定好友发送消息。该功能基于A2A（Agent-to-Agent）协作机制，数据安全与隐私通过双重授权机制保障。合作旨在将微信高频沟通功能融入手机系统助手，为您提供更便捷的使用体验。”腾讯客服表示。 与之前字节跳动推出的豆包手机相比，腾讯的微信AI采取了完全不同的技术路径。 以豆包手机为代表的很多 OS 端 AI 助手，走的是 GUI agent（图形界面智能体） 路线——它们...",
-      "source": "36氪",
-      "pub_date": "2026-06-05 11:39:48  +0800",
-      "fetched_at": "2026-06-06T12:00:19.453847",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "文｜王毓婵 梁键强 编辑｜张雨忻 昨日，腾讯客服回应称，微信正在与华为、小米、荣耀、OPPO、vivo等手机厂商合作推出A2A助手能力，目前已有多家厂商完成接入。...",
-      "keywords": [
-        "ai",
-        "agent",
-        "微信",
-        "对手机厂商打开一道窄门",
-        "焦点分析"
+        "已经有意识",
+        "人类得接受自己不再是唯一智能生命体"
       ],
       "importance": 0
+    },
+    {
+      "title": "大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
+      "link": "https://www.qbitai.com/2026/06/431287.html",
+      "summary": "观众投币定前十！",
+      "source": "量子位",
+      "pub_date": "Sat, 06 Jun 2026 07:15:13 +0000",
+      "fetched_at": "2026-06-06T20:00:16.103294",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "观众投币定前十！",
+      "keywords": [
+        "大模型发展三年半",
+        "ai",
+        "圈终于等来了一场",
+        "不要大厂",
+        "只赌脑洞"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "马斯克是SpaceX面子，她才是里子",
+      "link": "https://www.qbitai.com/2026/06/431371.html",
+      "summary": "造火箭的正在批量造巨富",
+      "source": "量子位",
+      "pub_date": "Sat, 06 Jun 2026 10:14:54 +0000",
+      "fetched_at": "2026-06-06T20:00:16.103206",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "造火箭的正在批量造巨富",
+      "keywords": [
+        "马斯克是",
+        "spacex",
+        "面子",
+        "她才是里子",
+        "造火箭的正在批量造巨富"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "字节跳动：没有造车或推出汽车品牌的计划",
+      "link": "https://36kr.com/newsflashes/3841237523859972?f=rss",
+      "summary": "6月6日，字节跳动官微发布声明，我们注意到，近期有部分报道将“赛豆”解读为“豆包汽车品牌”或“字节跳动造车”：1.相关说法不准确，字节跳动没有造车或推出汽车品牌的计划。2.赛豆不是字节跳动或豆包推出的汽车品牌，字节和赛豆没有股权合作。3.豆包、火山引擎与汽车行业伙伴的合作，主要是给行业伙伴提供豆包大模型、智能座舱等技术服务，帮助合作伙伴提升车载智能交互体验。（每日经济新闻）",
+      "source": "36氪",
+      "pub_date": "2026-06-06 13:08:52  +0800",
+      "fetched_at": "2026-06-06T20:00:15.938591",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "6月6日，字节跳动官微发布声明，我们注意到，近期有部分报道将“赛豆”解读为“豆包汽车品牌”或“字节跳动造车”：1.相关说法不准确，字节跳动没有造车或推出汽车品牌的计划。2.赛豆不是字节跳动或豆包推出的汽车品牌，字节和赛豆没有股权合作。3.豆包、火山引擎与汽车行业伙伴的合作，主要是给行业伙伴提供豆包大...",
+      "keywords": [
+        "字节跳动",
+        "没有造车或推出汽车品牌的计划",
+        "字节跳动官微发布声明",
+        "我们注意到",
+        "近期有部分报道将"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "算得更快更准 全球海洋现象智能预报大模型“琅琊”2.0发布",
+      "link": "https://36kr.com/newsflashes/3841255177079303?f=rss",
+      "summary": "由中国科学院海洋研究所自主研发的全球海洋现象智能预报大模型——“琅琊”2.0今日发布。该海洋预报大模型将为海洋防灾减灾、航运安全保障等提供智能化科技支撑。“琅琊”2.0把多源观测、机理认知和人工智能推理连接起来，推动海洋预报向更快速、更精细、更可交互方向发展。它的发布标志着“琅琊”系列大模型在全球海洋状态变量预报基础上，进一步迈向复杂海洋现象智能预报新阶段，使海洋预报从专业变量走向可感知、可应用、可决策的关键场景，将为海洋防灾减灾、航运安全保障、极地航行安全、全球气候变化应对等提供智能化科技支撑。 (央视新闻)",
+      "source": "36氪",
+      "pub_date": "2026-06-06 13:26:49  +0800",
+      "fetched_at": "2026-06-06T20:00:15.938516",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "由中国科学院海洋研究所自主研发的全球海洋现象智能预报大模型——“琅琊”2.0今日发布。该海洋预报大模型将为海洋防灾减灾、航运安全保障等提供智能化科技支撑。“琅琊”2.0把多源观测、机理认知和人工智能推理连接起来，推动海洋预报向更快速、更精细、更可交互方向发展。它的发布标志着“琅琊”系列大模型在全球海...",
+      "keywords": [
+        "琅琊",
+        "算得更快更准",
+        "全球海洋现象智能预报大模型",
+        "发布",
+        "由中国科学院海洋研究所自主研发的全球海洋现象智能预报大模型"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "深圳科学家领衔发布亚洲首个合成细胞技术路线图",
+      "link": "https://36kr.com/newsflashes/3841269285128711?f=rss",
+      "summary": "据深圳发布6月6日消息，由中国科学院深圳先进技术研究院刘陈立研究员领衔，来自中国、日本、韩国、新加坡、马来西亚、泰国等六国的科学家近日联合在国际学术期刊《自然·生物技术》上发表文章，发布亚洲首个合成细胞10年技术路线图。文章聚焦“人工合成单细胞生命”这一科学前沿问题，规划了亚洲未来10年攻关合成细胞的发展方向，系统梳理了构建合成细胞面临的四大核心挑战，并提出分阶段目标。该技术路线图将推动合成细胞研究从模块化探索迈向系统化整合，促进定量合成生物学、人工智能与生物制造等领域的深度融合，为合成生物学与未来生物技术的发展开辟全新路径。（深圳发布）",
+      "source": "36氪",
+      "pub_date": "2026-06-06 13:41:11  +0800",
+      "fetched_at": "2026-06-06T20:00:15.938358",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "据深圳发布6月6日消息，由中国科学院深圳先进技术研究院刘陈立研究员领衔，来自中国、日本、韩国、新加坡、马来西亚、泰国等六国的科学家近日联合在国际学术期刊《自然·生物技术》上发表文章，发布亚洲首个合成细胞10年技术路线图。文章聚焦“人工合成单细胞生命”这一科学前沿问题，规划了亚洲未来10年攻关合成细胞...",
+      "keywords": [
+        "深圳科学家领衔发布亚洲首个合成细胞技术路线图",
+        "据深圳发布",
+        "日消息",
+        "由中国科学院深圳先进技术研究院刘陈立研究员领衔",
+        "来自中国"
+      ],
+      "importance": 0.5
     }
   ],
-  "updated_at": "2026-06-06T12:00:56.823490"
+  "updated_at": "2026-06-06T20:00:48.576081"
 }

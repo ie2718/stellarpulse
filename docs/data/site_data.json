@@ -5,69 +5,47 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-06-11T12:00:34.122818",
-    "total_items": 31
+    "last_update": "2026-06-11T20:00:52.366394",
+    "total_items": 20
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 26
+      "count": 17
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 4
+      "count": 0
     },
     "space": {
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 4
+      "count": 3
     }
   },
   "stats": {
-    "total_items": 31,
-    "today_items": 31,
+    "total_items": 20,
+    "today_items": 20,
     "sources": {
-      "36氪": 11,
-      "Solidot": 8,
+      "Solidot": 7,
       "量子位": 8,
-      "HackerNews": 4
+      "HackerNews": 5
     },
-    "last_update": "2026-06-11T12:00:34.122818"
+    "last_update": "2026-06-11T20:00:52.366394"
   },
   "trending": [
-    {
-      "title": "8点1氪丨世界杯门票遇冷，近18万张门票待转售；台积电释放涨价信号；但斌回应“被段永平拉黑”",
-      "link": "https://36kr.com/p/3848000003953926?f=rss",
-      "summary": "今日热点导览 花旗警告：金价或跌至3500美元 韩国股市再度熔断 何小鹏发内部信：本人亲自带队，最后200天冲刺机器人量产 伊朗宣布对所有船只关闭霍尔木兹海峡 SpaceX认购资金超2500亿美元 TOP 3 大新闻 2026世界杯门票遇冷，近18万张门票待转售 北京时间6月12日，2026年美加墨世界杯将举行揭幕战。目前，国际足联（FIFA）官方转售平台上挂牌出售的门票达17.6万张，主要集中在小组赛阶段。根据FIFA平台数据所做的价格与库存统计，不同球队之间的人气差异十分明显。例如，在伊朗队参加的3场小组赛中，仍有约1.6万张门票尚未售出，市场上最便宜的普通座位售价为138美元（约合934...",
-      "source": "36氪",
-      "pub_date": "2026-06-11 07:48:20  +0800",
-      "fetched_at": "2026-06-11T12:00:07.032846",
-      "categories": [
-        "robotics",
-        "space"
-      ],
-      "ai_summary": "今日热点导览 花旗警告：金价或跌至3500美元 韩国股市再度熔断 何小鹏发内部信：本人亲自带队，最后200天冲刺机器人量产 伊朗宣布对所有船只关闭霍尔木兹海峡 SpaceX认购资金超2500亿美元 TOP 3 大新闻 2026世界杯门票遇冷，近18万张门票待转售 北京时间6月12日，2026年美加墨...",
-      "keywords": [
-        "万张门票待转售",
-        "美元",
-        "fifa",
-        "氪丨世界杯门票遇冷",
-        "台积电释放涨价信号"
-      ],
-      "importance": 1.5
-    },
     {
       "title": "Falcon 9 火箭第一级 B 1067 执行了 35 次发射任务",
       "link": "https://www.solidot.org/story?sid=84532",
       "summary": "本周一编号为 B 1067 的 Falcon 9 火箭第一级完成了第 35 次发射任务，在将 29 颗 Starlink 卫星送入轨道之后成功着陆在无人驳船 A Shortfall of Gravitas 上。B 1067 是 SpaceX 重复使用次数最多的火箭第一级，服役了五年多时间，曾在一个月内执行了两次发射，SpaceX 的目标是火箭第一级能重复使用 40 次，B 1067 正接近这一目标。B 1067 发射次数比竞争对手联合发射联盟（ULA）过去五年的总发射次数还要多（ULA 完成了 29 次发射）。",
       "source": "Solidot",
       "pub_date": "Tue, 09 Jun 2026 22:13:58 +0800",
-      "fetched_at": "2026-06-11T12:00:06.524975",
+      "fetched_at": "2026-06-11T20:00:04.985512",
       "categories": [
         "space"
       ],
@@ -82,85 +60,24 @@
       "importance": 1.0
     },
     {
-      "title": "苹果宣布 Google Gemini 驱动的 Siri AI",
-      "link": "https://www.solidot.org/story?sid=84525",
-      "summary": "苹果在 2026 年 WWDC 开发者大会上宣布了 Google Gemini 驱动的新一代 Apple 智能和 Siri AI。驱动 AI 功能的运算运行在设备上或者私有云上。苹果称，“Siri 能够利用对个人情境的理解，搜索信息、邮件、照片等内容，并通过更加全系统化的 app 操作，完成跨 app 任务。Siri AI 能够回答与用户屏幕上的内容相关的问题，也可以利用广博的世界知识，上网获取最新信息，生成有用的答案。通过专门的 Siri app，用户可重新访问过往对话或发起新对话，并利用 iCloud 在用户的各种设备上私密同步对话历史记录。”由于欧盟的隐私和消费者保护监管规定，AI 智能...",
+      "title": "Visa 支付网络集成 ChatGPT",
+      "link": "https://www.solidot.org/story?sid=84547",
+      "summary": "Visa 正在其支付网络集成 ChatGPT，允许 AI 智能体代表用户购物并完成购买。此举意味着 AI 智能体不仅能推荐商品，还能代表用户在任何接受 Visa 的商家完成商品购买。OpenAI 将提供技术，让智能体能通过 ChatGPT 进行互动、做出决策和发起购买。Visa 和 OpenAI 没有透露双方合作的财务条款，也没有说明商家或顾客需要支付的费用详细信息。 Visa 表示，为保护消费者并最大限度减少欺诈，该功能将设置消费限额、需要批准的步骤以及仅限授权商家等安全措施。",
       "source": "Solidot",
-      "pub_date": "Tue, 09 Jun 2026 13:46:01 +0800",
-      "fetched_at": "2026-06-11T12:00:06.526210",
+      "pub_date": "Thu, 11 Jun 2026 15:11:37 +0800",
+      "fetched_at": "2026-06-11T20:00:04.983423",
       "categories": [
         "ai"
       ],
-      "ai_summary": "苹果在 2026 年 WWDC 开发者大会上宣布了 Google Gemini 驱动的新一代 Apple 智能和 Siri AI。驱动 AI 功能的运算运行在设备上或者私有云上。苹果称，“Siri 能够利用对个人情境的理解，搜索信息、邮件、照片等内容，并通过更加全系统化的 app 操作，完成跨 ap...",
+      "ai_summary": "Visa 正在其支付网络集成 ChatGPT，允许 AI 智能体代表用户购物并完成购买。此举意味着 AI 智能体不仅能推荐商品，还能代表用户在任何接受 Visa 的商家完成商品购买。OpenAI 将提供技术，让智能体能通过 ChatGPT 进行互动、做出决策和发起购买。Visa 和 OpenAI 没...",
       "keywords": [
-        "siri",
+        "visa",
+        "chatgpt",
         "ai",
-        "app",
-        "google",
-        "gemini"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市",
-      "link": "https://36kr.com/p/3847079661193733?f=rss",
-      "summary": "大公司： 瑞斯康达：董事长李月杰因个人原因辞职，选举韩猛为新任董事长 36氪获悉，瑞斯康达公告，董事长李月杰因个人原因辞职，自2026年6月9日起生效。公司第六届董事会第十二次会议选举韩猛为新任董事长，任期至第六届董事会届满。韩猛自2025年7月起代行董事长及法定代表人职责，公司法定代表人变更为韩猛，相关工商变更登记手续正在办理中。韩猛持有公司股份45000股，占总股本的0.01%。 Meta与安巴尼旗下的信实集团合作，在印度建设人工智能数据中心 Facebook母公司Meta 周三表示，已与印度亿万富翁穆克什·安巴尼旗下的信实工业集团 达成合作，将在印度共建一座人工智能数据中心。声明称，信实...",
-      "source": "36氪",
-      "pub_date": "2026-06-10 16:32:14  +0800",
-      "fetched_at": "2026-06-11T12:00:07.038208",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "大公司： 瑞斯康达：董事长李月杰因个人原因辞职，选举韩猛为新任董事长 36氪获悉，瑞斯康达公告，董事长李月杰因个人原因辞职，自2026年6月9日起生效。公司第六届董事会第十二次会议选举韩猛为新任董事长，任期至第六届董事会届满。韩猛自2025年7月起代行董事长及法定代表人职责，公司法定代表人变更为韩猛...",
-      "keywords": [
-        "董事长李月杰因个人原因辞职",
-        "meta",
-        "氪星晚报",
-        "it",
-        "巨头"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发",
-      "link": "https://36kr.com/p/3844720012151040?f=rss",
-      "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能世界模型公司「千诀科技」日前完成数亿元A轮融资，本轮由京铭资本领投，山东新动能、山东财金资本、元禾厚望、芯能创投、南创投、英诺天使基金、尚势资本、仁爱集团、玄素投资等机构共同投资，投资方阵容汇集了国家队、产业方、市场化基金及家族办公室。Maple Pledge枫承资本长期出任私募股权融资顾问。 资金将重点用于自研世界模型的架构搭建、算法迭代与场景落地，同步扩充核心研发与项目交付团队，完善商业化落地配套能力。 千诀科技创立于2023年6月，核心团队孵化自清华大学类脑研究中心，长期聚焦具身智能决策与规划大模型研发落地，突破传统设备任务局限，以帮助机器人实...",
-      "source": "36氪",
-      "pub_date": "2026-06-10 09:30:00  +0800",
-      "fetched_at": "2026-06-11T12:00:07.048153",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能世界模型公司「千诀科技」日前完成数亿元A轮融资，本轮由京铭资本领投，山东新动能、山东财金资本、元禾厚望、芯能创投、南创投、英诺天使基金、尚势资本、仁爱集团、玄素投资等机构共同投资，投资方阵容汇集了国家队、产业方、市场化基金及家族办公室。Maple...",
-      "keywords": [
-        "轮融资",
-        "清华系团队做分布式预测世界模型",
-        "获数亿元",
-        "落地终端设备达十万量级",
-        "硬氪首发"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "OpenAI考虑大幅降价，以期在与Anthropic的用户争夺战中占据有利地位",
-      "link": "https://36kr.com/newsflashes/3848106407040265?f=rss",
-      "summary": "据报道，OpenAI正考虑大幅下调其产品的token收费标准，此举旨在应对主要竞争对手Anthropic预期中的类似降价举措，以争夺用户。（财联社）",
-      "source": "36氪",
-      "pub_date": "2026-06-11 09:36:15  +0800",
-      "fetched_at": "2026-06-11T12:00:07.050079",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "据报道，OpenAI正考虑大幅下调其产品的token收费标准，此举旨在应对主要竞争对手Anthropic预期中的类似降价举措，以争夺用户。（财联社）",
-      "keywords": [
         "openai",
-        "anthropic",
-        "考虑大幅降价",
-        "以期在与",
-        "的用户争夺战中占据有利地位"
+        "支付网络集成"
       ],
-      "importance": 1.0
+      "importance": 0.5
     },
     {
       "title": "半导体月销售额首次突破 1100 亿美元",
@@ -168,7 +85,7 @@
       "summary": "美国半导体行业协会（SIA）公布的数据显示，4 月全球半导体销售额同比增长 93.9% 达到 1104.8 亿美元。半导体销售额已连续 30 个月实现同比增长，环比增幅为 11%。除销量增长外，价格也显著上升。8GB DDR4 内存价格一年内涨至约 9 倍。三大内存厂商三星电子、SK 海力士和美光科技优先生产 AI 用内存产品，导致通用内存产品的供求关系趋于紧张。按区域来看，拉动销售额增长的是美国和亚洲。",
       "source": "Solidot",
       "pub_date": "Wed, 10 Jun 2026 22:14:18 +0800",
-      "fetched_at": "2026-06-11T12:00:06.523539",
+      "fetched_at": "2026-06-11T20:00:04.984251",
       "categories": [
         "ai"
       ],
@@ -188,7 +105,7 @@
       "summary": "德国慕尼黑地区法庭裁决，Google 要对 AI Overviews 内容承担责任，因为 AI Overviews 是 Google 自己的内容，并非搜索结果列表。本案的原告是两家慕尼黑出版商，他们指控 Google 的 AI Overviews 错误将其与诈骗、订阅陷阱等不正当商业行为关联起来，他们向 Google 发去了禁止通知函(cease-and-desist letter)，但搜索巨人未正确回应。法院认为，Google 的 AI Overviews 与传统搜索结果不同，AI 会“用自己的语言按照自己的结构”重写和评判搜索结果，而它引用的链接与其内容有矛盾，因此该内容是 Google ...",
       "source": "Solidot",
       "pub_date": "Wed, 10 Jun 2026 18:53:49 +0800",
-      "fetched_at": "2026-06-11T12:00:06.523731",
+      "fetched_at": "2026-06-11T20:00:04.984406",
       "categories": [
         "ai"
       ],
@@ -208,7 +125,7 @@
       "summary": "NASA 公布了 Artemis III 任务的四名宇航员名单，他们都是男性且都有军事背景：NASA 宇航员 Randy Bresnik（担任指令长），Andre Douglas 和 Frank Rubio（任务专家），以及 ESA 宇航员 Luca Parmitano（飞行员）。Artemis 登月任务目前共执行了两次，第一次是无人绕月飞行，第二次是载人绕月飞行，第三次也就是 Artemis III 计划最早于 2027 年夏季执行，仍然是一次载人绕月飞行，第四次任务计划在 2028 年进行，这将是阿波罗登月任务以来的首次载人登月。",
       "source": "Solidot",
       "pub_date": "Wed, 10 Jun 2026 15:03:26 +0800",
-      "fetched_at": "2026-06-11T12:00:06.524422",
+      "fetched_at": "2026-06-11T20:00:04.984969",
       "categories": [
         "space"
       ],
@@ -223,22 +140,100 @@
       "importance": 0.5
     },
     {
-      "title": "独家｜字节 AI 制药开启拆分融资，AI4S 进入产业化阶段",
-      "link": "https://36kr.com/p/3846956646124036?f=rss",
-      "summary": "文｜周鑫雨 编辑｜张雨忻 《智能涌现》独家获悉，字节跳动 AI 制药业务线已启动拆分与独立融资进程。 据悉，拆分后字节仍将控股新公司，AI 制药核心团队、核心算法、技术平台和已有管线资产将整体进入新主体。同时，该业务也将继续从火山引擎获得算力支持。 新公司将由字节跳动 AI 制药团队主导负责。字节 AI 制药团队成立于 2021 年，由刘凯负责，据悉核心成员约50人，由 AI4S 算法人才和资深制药领域专家构成。该团队自成立起便承担着从基础模型研究到产业化的核心职能。 此前字节内部负责蛋白结构预测模型的相关团队，也已并入由刘凯负责的 AI 制药团队，相关算法模型团队已完成整合，将继续推进该领域...",
-      "source": "36氪",
-      "pub_date": "2026-06-10 14:11:37  +0800",
-      "fetched_at": "2026-06-11T12:00:07.039927",
+      "title": "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent",
+      "link": "https://www.qbitai.com/2026/06/434317.html",
+      "summary": "Meshy发布全球首个3D AI Agent",
+      "source": "量子位",
+      "pub_date": "Thu, 11 Jun 2026 04:18:34 +0000",
+      "fetched_at": "2026-06-11T20:00:20.258311",
       "categories": [
         "ai"
       ],
-      "ai_summary": "新公司将由字节跳动 AI 制药团队主导负责。字节 AI 制药团队成立于 2021 年，由刘凯负责，据悉核心成员约50人，由 AI4S 算法人才和资深制药领域专家构成。该团队自成立起便承担着从基础模型研究到产业化的核心职能。 此前字节内部负责蛋白结构预测模型的相关团队，也已并入由刘凯负责的 AI...",
+      "ai_summary": "Meshy发布全球首个3D AI Agent",
       "keywords": [
+        "meshy",
+        "发布全球首个",
         "ai",
-        "字节",
-        "独家",
-        "制药开启拆分融资",
-        "进入产业化阶段"
+        "agent",
+        "创作迎来"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Fable 5自带反蒸馏机制！检测到就降智，误触率高到离谱",
+      "link": "https://www.qbitai.com/2026/06/434326.html",
+      "summary": "Claude刚刚发布的新模型Fable 5，很多人可能压根就用不上！",
+      "source": "量子位",
+      "pub_date": "Thu, 11 Jun 2026 04:16:20 +0000",
+      "fetched_at": "2026-06-11T20:00:20.258456",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Claude刚刚发布的新模型Fable 5，很多人可能压根就用不上！",
+      "keywords": [
+        "fable",
+        "自带反蒸馏机制",
+        "检测到就降智",
+        "误触率高到离谱",
+        "claude"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "AI短剧工具赛道，年度最大单笔融资来了",
+      "link": "https://www.qbitai.com/2026/06/434298.html",
+      "summary": "年度最大单笔融资来了",
+      "source": "量子位",
+      "pub_date": "Thu, 11 Jun 2026 04:07:32 +0000",
+      "fetched_at": "2026-06-11T20:00:20.258524",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "年度最大单笔融资来了",
+      "keywords": [
+        "年度最大单笔融资来了",
+        "ai",
+        "短剧工具赛道"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "谷歌I/O最出圈的一幕，发生在抖音？？？",
+      "link": "https://www.qbitai.com/2026/06/434267.html",
+      "summary": "看12位抖音创作者如何”翻译“AI",
+      "source": "量子位",
+      "pub_date": "Thu, 11 Jun 2026 02:46:41 +0000",
+      "fetched_at": "2026-06-11T20:00:20.258604",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "看12位抖音创作者如何”翻译“AI",
+      "keywords": [
+        "谷歌",
+        "最出圈的一幕",
+        "发生在抖音",
+        "位抖音创作者如何",
+        "翻译"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "summary": "👍 479 | 💬 415",
+      "source": "HackerNews",
+      "pub_date": "2026-06-11T00:42:00",
+      "fetched_at": "2026-06-11T20:00:29.066413",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 479 | 💬 415",
+      "keywords": [
+        "cybersecurity",
+        "researchers",
+        "aren",
+        "happy",
+        "about"
       ],
       "importance": 0.5
     }
@@ -247,14 +242,14 @@
     {
       "title": "L'Affaire Siloxane",
       "link": "https://mceglowski.substack.com/p/laffaire-siloxane",
-      "summary": "👍 174 | 💬 27",
+      "summary": "👍 241 | 💬 41",
       "source": "HackerNews",
       "pub_date": "2026-06-09T13:21:39",
-      "fetched_at": "2026-06-11T12:00:23.035667",
+      "fetched_at": "2026-06-11T20:00:50.571944",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 174 | 💬 27",
+      "ai_summary": "👍 241 | 💬 41",
       "keywords": [
         "affaire",
         "siloxane"
@@ -262,36 +257,36 @@
       "importance": 0
     },
     {
-      "title": "Klondike Solitaire game for curses in 5k of C",
-      "link": "https://nanochess.org/klondike_in_c.html",
-      "summary": "👍 36 | 💬 0",
+      "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
+      "link": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
+      "summary": "👍 38 | 💬 7",
       "source": "HackerNews",
-      "pub_date": "2026-06-09T03:08:12",
-      "fetched_at": "2026-06-11T12:00:16.410796",
+      "pub_date": "2026-06-09T22:29:34",
+      "fetched_at": "2026-06-11T20:00:30.659451",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 36 | 💬 0",
+      "ai_summary": "👍 38 | 💬 7",
       "keywords": [
-        "klondike",
-        "solitaire",
-        "game",
-        "for",
-        "curses"
+        "build",
+        "basic",
+        "ai",
+        "agent",
+        "from"
       ],
       "importance": 0
     },
     {
       "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
       "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "summary": "👍 287 | 💬 260",
+      "summary": "👍 479 | 💬 415",
       "source": "HackerNews",
       "pub_date": "2026-06-11T00:42:00",
-      "fetched_at": "2026-06-11T12:00:10.005718",
+      "fetched_at": "2026-06-11T20:00:29.066413",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 287 | 💬 260",
+      "ai_summary": "👍 479 | 💬 415",
       "keywords": [
         "cybersecurity",
         "researchers",
@@ -304,14 +299,14 @@
     {
       "title": "AI agent runs amok in Fedora and elsewhere",
       "link": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-      "summary": "👍 192 | 💬 48",
+      "summary": "👍 443 | 💬 192",
       "source": "HackerNews",
       "pub_date": "2026-06-11T08:10:08",
-      "fetched_at": "2026-06-11T12:00:09.108031",
+      "fetched_at": "2026-06-11T20:00:24.158785",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 192 | 💬 48",
+      "ai_summary": "👍 443 | 💬 192",
       "keywords": [
         "ai",
         "agent",
@@ -322,102 +317,22 @@
       "importance": 0
     },
     {
-      "title": "Claude Fable 5首日实测，杀疯了…",
-      "link": "https://www.qbitai.com/2026/06/433682.html",
-      "summary": "听取哇声一片",
-      "source": "量子位",
-      "pub_date": "Wed, 10 Jun 2026 05:54:17 +0000",
-      "fetched_at": "2026-06-11T12:00:07.200749",
+      "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+      "link": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+      "summary": "👍 364 | 💬 155",
+      "source": "HackerNews",
+      "pub_date": "2026-06-11T14:42:06",
+      "fetched_at": "2026-06-11T20:00:23.111942",
       "categories": [
         "ai"
       ],
-      "ai_summary": "听取哇声一片",
+      "ai_summary": "👍 364 | 💬 155",
       "keywords": [
-        "claude",
-        "fable",
-        "首日实测",
-        "杀疯了",
-        "听取哇声一片"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "GPT-5.6首批实测来了！精准狙击Mythos",
-      "link": "https://www.qbitai.com/2026/06/433731.html",
-      "summary": "本月发布！",
-      "source": "量子位",
-      "pub_date": "Wed, 10 Jun 2026 06:45:09 +0000",
-      "fetched_at": "2026-06-11T12:00:07.200676",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "本月发布！",
-      "keywords": [
-        "gpt",
-        "首批实测来了",
-        "精准狙击",
-        "mythos",
-        "本月发布"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "英特尔锐炫™ Pro B70 GPU亮相MPTS2026，共探大视听时代AI创作新范式",
-      "link": "https://www.qbitai.com/2026/06/433798.html",
-      "summary": "AI创作新时代，英特尔锐炫™ Pro B70 GPU 释放专业算力潜能",
-      "source": "量子位",
-      "pub_date": "Wed, 10 Jun 2026 07:27:58 +0000",
-      "fetched_at": "2026-06-11T12:00:07.200510",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "AI创作新时代，英特尔锐炫™ Pro B70 GPU 释放专业算力潜能",
-      "keywords": [
-        "英特尔锐炫",
-        "pro",
-        "gpu",
-        "ai",
-        "亮相"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "抖音征召天下「AI视频英才」！创作者们，这次是真能吃上AI红利了…",
-      "link": "https://www.qbitai.com/2026/06/433832.html",
-      "summary": "踮起脚尖吧。",
-      "source": "量子位",
-      "pub_date": "Wed, 10 Jun 2026 10:25:41 +0000",
-      "fetched_at": "2026-06-11T12:00:07.200428",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "踮起脚尖吧。",
-      "keywords": [
-        "ai",
-        "抖音征召天下",
-        "视频英才",
-        "创作者们",
-        "这次是真能吃上"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "东风联手九识，商用无人车也有“HI模式”了",
-      "link": "https://www.qbitai.com/2026/06/433956.html",
-      "summary": "商用车AI基座已成型",
-      "source": "量子位",
-      "pub_date": "Wed, 10 Jun 2026 11:38:15 +0000",
-      "fetched_at": "2026-06-11T12:00:07.200347",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "商用车AI基座已成型",
-      "keywords": [
-        "东风联手九识",
-        "商用无人车也有",
-        "hi",
-        "模式",
-        "商用车"
+        "pok",
+        "mon",
+        "go",
+        "scans",
+        "trained"
       ],
       "importance": 0
     },
@@ -427,7 +342,7 @@
       "summary": "通用GPU就能实现",
       "source": "量子位",
       "pub_date": "Thu, 11 Jun 2026 01:18:16 +0000",
-      "fetched_at": "2026-06-11T12:00:07.200168",
+      "fetched_at": "2026-06-11T20:00:20.258752",
       "categories": [
         "ai"
       ],
@@ -447,7 +362,7 @@
       "summary": "全新的AI志愿报告",
       "source": "量子位",
       "pub_date": "Thu, 11 Jun 2026 02:08:25 +0000",
-      "fetched_at": "2026-06-11T12:00:07.200060",
+      "fetched_at": "2026-06-11T20:00:20.258678",
       "categories": [
         "ai"
       ],
@@ -467,7 +382,7 @@
       "summary": "看12位抖音创作者如何”翻译“AI",
       "source": "量子位",
       "pub_date": "Thu, 11 Jun 2026 02:46:41 +0000",
-      "fetched_at": "2026-06-11T12:00:07.199946",
+      "fetched_at": "2026-06-11T20:00:20.258604",
       "categories": [
         "ai"
       ],
@@ -482,167 +397,243 @@
       "importance": 0.5
     },
     {
-      "title": "OpenAI考虑大幅降价，以期在与Anthropic的用户争夺战中占据有利地位",
-      "link": "https://36kr.com/newsflashes/3848106407040265?f=rss",
-      "summary": "据报道，OpenAI正考虑大幅下调其产品的token收费标准，此举旨在应对主要竞争对手Anthropic预期中的类似降价举措，以争夺用户。（财联社）",
-      "source": "36氪",
-      "pub_date": "2026-06-11 09:36:15  +0800",
-      "fetched_at": "2026-06-11T12:00:07.050079",
+      "title": "AI短剧工具赛道，年度最大单笔融资来了",
+      "link": "https://www.qbitai.com/2026/06/434298.html",
+      "summary": "年度最大单笔融资来了",
+      "source": "量子位",
+      "pub_date": "Thu, 11 Jun 2026 04:07:32 +0000",
+      "fetched_at": "2026-06-11T20:00:20.258524",
       "categories": [
         "ai"
       ],
-      "ai_summary": "据报道，OpenAI正考虑大幅下调其产品的token收费标准，此举旨在应对主要竞争对手Anthropic预期中的类似降价举措，以争夺用户。（财联社）",
+      "ai_summary": "年度最大单笔融资来了",
       "keywords": [
+        "年度最大单笔融资来了",
+        "ai",
+        "短剧工具赛道"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Fable 5自带反蒸馏机制！检测到就降智，误触率高到离谱",
+      "link": "https://www.qbitai.com/2026/06/434326.html",
+      "summary": "Claude刚刚发布的新模型Fable 5，很多人可能压根就用不上！",
+      "source": "量子位",
+      "pub_date": "Thu, 11 Jun 2026 04:16:20 +0000",
+      "fetched_at": "2026-06-11T20:00:20.258456",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Claude刚刚发布的新模型Fable 5，很多人可能压根就用不上！",
+      "keywords": [
+        "fable",
+        "自带反蒸馏机制",
+        "检测到就降智",
+        "误触率高到离谱",
+        "claude"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent",
+      "link": "https://www.qbitai.com/2026/06/434317.html",
+      "summary": "Meshy发布全球首个3D AI Agent",
+      "source": "量子位",
+      "pub_date": "Thu, 11 Jun 2026 04:18:34 +0000",
+      "fetched_at": "2026-06-11T20:00:20.258311",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Meshy发布全球首个3D AI Agent",
+      "keywords": [
+        "meshy",
+        "发布全球首个",
+        "ai",
+        "agent",
+        "创作迎来"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "1290万高考生看过来！阿里出了个志愿填报Agent，免费的",
+      "link": "https://www.qbitai.com/2026/06/434558.html",
+      "summary": "前期做了40万AI考生压测",
+      "source": "量子位",
+      "pub_date": "Thu, 11 Jun 2026 07:25:55 +0000",
+      "fetched_at": "2026-06-11T20:00:20.258232",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "前期做了40万AI考生压测",
+      "keywords": [
+        "万高考生看过来",
+        "阿里出了个志愿填报",
+        "agent",
+        "免费的",
+        "前期做了"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜",
+      "link": "https://www.qbitai.com/2026/06/434571.html",
+      "summary": "聪明人总能花最少的钱办最好的事，AI也一样。",
+      "source": "量子位",
+      "pub_date": "Thu, 11 Jun 2026 08:23:31 +0000",
+      "fetched_at": "2026-06-11T20:00:20.258130",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "聪明人总能花最少的钱办最好的事，AI也一样。",
+      "keywords": [
+        "claude",
+        "fable",
+        "省钱秘诀来了",
+        "调成",
+        "low"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Falcon 9 火箭第一级 B 1067 执行了 35 次发射任务",
+      "link": "https://www.solidot.org/story?sid=84532",
+      "summary": "本周一编号为 B 1067 的 Falcon 9 火箭第一级完成了第 35 次发射任务，在将 29 颗 Starlink 卫星送入轨道之后成功着陆在无人驳船 A Shortfall of Gravitas 上。B 1067 是 SpaceX 重复使用次数最多的火箭第一级，服役了五年多时间，曾在一个月内执行了两次发射，SpaceX 的目标是火箭第一级能重复使用 40 次，B 1067 正接近这一目标。B 1067 发射次数比竞争对手联合发射联盟（ULA）过去五年的总发射次数还要多（ULA 完成了 29 次发射）。",
+      "source": "Solidot",
+      "pub_date": "Tue, 09 Jun 2026 22:13:58 +0800",
+      "fetched_at": "2026-06-11T20:00:04.985512",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "本周一编号为 B 1067 的 Falcon 9 火箭第一级完成了第 35 次发射任务，在将 29 颗 Starlink 卫星送入轨道之后成功着陆在无人驳船 A Shortfall of Gravitas 上。B 1067 是 SpaceX 重复使用次数最多的火箭第一级，服役了五年多时间，曾在一个月...",
+      "keywords": [
+        "falcon",
+        "次发射任务",
+        "spacex",
+        "ula",
+        "火箭第一级"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "NASA 公布了 Artemis III 任务宇航员名单",
+      "link": "https://www.solidot.org/story?sid=84535",
+      "summary": "NASA 公布了 Artemis III 任务的四名宇航员名单，他们都是男性且都有军事背景：NASA 宇航员 Randy Bresnik（担任指令长），Andre Douglas 和 Frank Rubio（任务专家），以及 ESA 宇航员 Luca Parmitano（飞行员）。Artemis 登月任务目前共执行了两次，第一次是无人绕月飞行，第二次是载人绕月飞行，第三次也就是 Artemis III 计划最早于 2027 年夏季执行，仍然是一次载人绕月飞行，第四次任务计划在 2028 年进行，这将是阿波罗登月任务以来的首次载人登月。",
+      "source": "Solidot",
+      "pub_date": "Wed, 10 Jun 2026 15:03:26 +0800",
+      "fetched_at": "2026-06-11T20:00:04.984969",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "NASA 公布了 Artemis III 任务的四名宇航员名单，他们都是男性且都有军事背景：NASA 宇航员 Randy Bresnik（担任指令长），Andre Douglas 和 Frank Rubio（任务专家），以及 ESA 宇航员 Luca Parmitano（飞行员）。Artemis 登...",
+      "keywords": [
+        "artemis",
+        "nasa",
+        "iii",
+        "公布了",
+        "宇航员"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Starlink 硬件从一次性付费转向月租",
+      "link": "https://www.solidot.org/story?sid=84537",
+      "summary": "Starlink 硬件从一次性付费转向 10 美元月租费。Starlink 硬件包括一个接收卫星信号的终端和一个放在家中的路由器。该费用不包含在网络服务费中。Starlink 的 100Mbps 套餐每月收费 55 美元，200Mbps 套餐每月收费 85 美元，400Mbps 的 Max 套餐每月收费 130 美元。Starlink 还提供专业安装服务，一次性收费 199 美元，Max 套餐用户免收安装费。",
+      "source": "Solidot",
+      "pub_date": "Wed, 10 Jun 2026 16:14:20 +0800",
+      "fetched_at": "2026-06-11T20:00:04.984678",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "Starlink 硬件从一次性付费转向 10 美元月租费。Starlink 硬件包括一个接收卫星信号的终端和一个放在家中的路由器。该费用不包含在网络服务费中。Starlink 的 100Mbps 套餐每月收费 55 美元，200Mbps 套餐每月收费 85 美元，400Mbps 的 Max 套餐每月...",
+      "keywords": [
+        "starlink",
+        "美元",
+        "mbps",
+        "套餐每月收费",
+        "max"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "比亚迪一年 200 次 OTA，次数远超竞争对手",
+      "link": "https://www.solidot.org/story?sid=84538",
+      "summary": "威尔森的数据显示，2025 年比亚迪针对自身“海洋”和“王朝”系列车型实际进行了 200 次软件更新（Over the Air 或 OTA），在汽车企业中次数最多。特斯拉在中国国内更新软件的次数为 16 次，丰田为 8 次，大众为 5 次。比亚迪之所以能够频繁更新软件，是因为 OTA 所需要的半导体、作为通信基础的操作系统、实际运行的硬件全部自主开发。相关负责人表示：“只要是自主设计，就可以迅速且准确地实现更新”。在价格竞争加剧导致中国国内销量下滑的背景下，比亚迪的目的是通过 OTA 来提升吸引力、扩大销售。",
+      "source": "Solidot",
+      "pub_date": "Wed, 10 Jun 2026 16:23:13 +0800",
+      "fetched_at": "2026-06-11T20:00:04.984537",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "威尔森的数据显示，2025 年比亚迪针对自身“海洋”和“王朝”系列车型实际进行了 200 次软件更新（Over the Air 或 OTA），在汽车企业中次数最多。特斯拉在中国国内更新软件的次数为 16 次，丰田为 8 次，大众为 5 次。比亚迪之所以能够频繁更新软件，是因为 OTA 所需要的半导体...",
+      "keywords": [
+        "ota",
+        "比亚迪一年",
+        "次数远超竞争对手",
+        "威尔森的数据显示",
+        "年比亚迪针对自身"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "德国法庭裁决 Google 要对 AI Overviews 内容承担责任",
+      "link": "https://www.solidot.org/story?sid=84540",
+      "summary": "德国慕尼黑地区法庭裁决，Google 要对 AI Overviews 内容承担责任，因为 AI Overviews 是 Google 自己的内容，并非搜索结果列表。本案的原告是两家慕尼黑出版商，他们指控 Google 的 AI Overviews 错误将其与诈骗、订阅陷阱等不正当商业行为关联起来，他们向 Google 发去了禁止通知函(cease-and-desist letter)，但搜索巨人未正确回应。法院认为，Google 的 AI Overviews 与传统搜索结果不同，AI 会“用自己的语言按照自己的结构”重写和评判搜索结果，而它引用的链接与其内容有矛盾，因此该内容是 Google ...",
+      "source": "Solidot",
+      "pub_date": "Wed, 10 Jun 2026 18:53:49 +0800",
+      "fetched_at": "2026-06-11T20:00:04.984406",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "德国慕尼黑地区法庭裁决，Google 要对 AI Overviews 内容承担责任，因为 AI Overviews 是 Google 自己的内容，并非搜索结果列表。本案的原告是两家慕尼黑出版商，他们指控 Google 的 AI Overviews 错误将其与诈骗、订阅陷阱等不正当商业行为关联起来，他...",
+      "keywords": [
+        "google",
+        "ai",
+        "overviews",
+        "要对",
+        "内容承担责任"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "半导体月销售额首次突破 1100 亿美元",
+      "link": "https://www.solidot.org/story?sid=84541",
+      "summary": "美国半导体行业协会（SIA）公布的数据显示，4 月全球半导体销售额同比增长 93.9% 达到 1104.8 亿美元。半导体销售额已连续 30 个月实现同比增长，环比增幅为 11%。除销量增长外，价格也显著上升。8GB DDR4 内存价格一年内涨至约 9 倍。三大内存厂商三星电子、SK 海力士和美光科技优先生产 AI 用内存产品，导致通用内存产品的供求关系趋于紧张。按区域来看，拉动销售额增长的是美国和亚洲。",
+      "source": "Solidot",
+      "pub_date": "Wed, 10 Jun 2026 22:14:18 +0800",
+      "fetched_at": "2026-06-11T20:00:04.984251",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "美国半导体行业协会（SIA）公布的数据显示，4 月全球半导体销售额同比增长 93.9% 达到 1104.8 亿美元。半导体销售额已连续 30 个月实现同比增长，环比增幅为 11%。除销量增长外，价格也显著上升。8GB DDR4 内存价格一年内涨至约 9 倍。三大内存厂商三星电子、SK 海力士和美光科...",
+      "keywords": [
+        "亿美元",
+        "半导体月销售额首次突破",
+        "美国半导体行业协会",
+        "sia",
+        "公布的数据显示"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Visa 支付网络集成 ChatGPT",
+      "link": "https://www.solidot.org/story?sid=84547",
+      "summary": "Visa 正在其支付网络集成 ChatGPT，允许 AI 智能体代表用户购物并完成购买。此举意味着 AI 智能体不仅能推荐商品，还能代表用户在任何接受 Visa 的商家完成商品购买。OpenAI 将提供技术，让智能体能通过 ChatGPT 进行互动、做出决策和发起购买。Visa 和 OpenAI 没有透露双方合作的财务条款，也没有说明商家或顾客需要支付的费用详细信息。 Visa 表示，为保护消费者并最大限度减少欺诈，该功能将设置消费限额、需要批准的步骤以及仅限授权商家等安全措施。",
+      "source": "Solidot",
+      "pub_date": "Thu, 11 Jun 2026 15:11:37 +0800",
+      "fetched_at": "2026-06-11T20:00:04.983423",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Visa 正在其支付网络集成 ChatGPT，允许 AI 智能体代表用户购物并完成购买。此举意味着 AI 智能体不仅能推荐商品，还能代表用户在任何接受 Visa 的商家完成商品购买。OpenAI 将提供技术，让智能体能通过 ChatGPT 进行互动、做出决策和发起购买。Visa 和 OpenAI 没...",
+      "keywords": [
+        "visa",
+        "chatgpt",
+        "ai",
         "openai",
-        "anthropic",
-        "考虑大幅降价",
-        "以期在与",
-        "的用户争夺战中占据有利地位"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "小米推出AI 编程助手MiMo Code",
-      "link": "https://36kr.com/newsflashes/3848111404274945?f=rss",
-      "summary": "36氪获悉，6月11日，小米MiMo技术团队正式发布探索性AI编程助手——MiMo Code。这是小米MiMo首次进入Coding Agent领域，开始构建“模型+Agent”的生态闭环。",
-      "source": "36氪",
-      "pub_date": "2026-06-11 09:41:20  +0800",
-      "fetched_at": "2026-06-11T12:00:07.049946",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "36氪获悉，6月11日，小米MiMo技术团队正式发布探索性AI编程助手——MiMo Code。这是小米MiMo首次进入Coding Agent领域，开始构建“模型+Agent”的生态闭环。",
-      "keywords": [
-        "mimo",
-        "ai",
-        "编程助手",
-        "code",
-        "agent"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "智元推出灵犀X2 EDU（人人造）版本，面向科教实训等丰富场景",
-      "link": "https://36kr.com/newsflashes/3848126301541636?f=rss",
-      "summary": "36氪获悉，6月10日，智元推出灵犀X2 EDU（人人造）版本，面向科研教育、工程实训、机器人赛事开发等多元场景，聚焦设备拆装实训与软件二次开发。据介绍，灵犀X2 EDU（人人造）版本在硬件设计上强调可拆装、可扩展与可二次开发。",
-      "source": "36氪",
-      "pub_date": "2026-06-11 09:56:30  +0800",
-      "fetched_at": "2026-06-11T12:00:07.049676",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "36氪获悉，6月10日，智元推出灵犀X2 EDU（人人造）版本，面向科研教育、工程实训、机器人赛事开发等多元场景，聚焦设备拆装实训与软件二次开发。据介绍，灵犀X2 EDU（人人造）版本在硬件设计上强调可拆装、可扩展与可二次开发。",
-      "keywords": [
-        "edu",
-        "人人造",
-        "智元推出灵犀",
-        "版本",
-        "面向科教实训等丰富场景"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "泰国央行排除举行非例行会议调整利率的可能性",
-      "link": "https://36kr.com/newsflashes/3848208217691401?f=rss",
-      "summary": "泰国央行表示，泰铢稳定及对外收支状况强劲，意味着没有必要召开紧急利率会议。此前，印尼为支撑本币举行非常规政策会议加息。“鉴于泰铢的稳定性以及泰国强劲的对外收支情况，货币政策委员会无需像印尼那样召开特别会议，”泰国央行助理行长兼发言人Chayawadee Chai-Anant周三晚间在一份声明中表示。（新浪财经）",
-      "source": "36氪",
-      "pub_date": "2026-06-11 11:19:49  +0800",
-      "fetched_at": "2026-06-11T12:00:07.048743",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "泰国央行表示，泰铢稳定及对外收支状况强劲，意味着没有必要召开紧急利率会议。此前，印尼为支撑本币举行非常规政策会议加息。“鉴于泰铢的稳定性以及泰国强劲的对外收支情况，货币政策委员会无需像印尼那样召开特别会议，”泰国央行助理行长兼发言人Chayawadee Chai-Anant周三晚间在一份声明中表示。...",
-      "keywords": [
-        "泰国央行排除举行非例行会议调整利率的可能性",
-        "泰国央行表示",
-        "泰铢稳定及对外收支状况强劲",
-        "意味着没有必要召开紧急利率会议",
-        "此前"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发",
-      "link": "https://36kr.com/p/3844720012151040?f=rss",
-      "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能世界模型公司「千诀科技」日前完成数亿元A轮融资，本轮由京铭资本领投，山东新动能、山东财金资本、元禾厚望、芯能创投、南创投、英诺天使基金、尚势资本、仁爱集团、玄素投资等机构共同投资，投资方阵容汇集了国家队、产业方、市场化基金及家族办公室。Maple Pledge枫承资本长期出任私募股权融资顾问。 资金将重点用于自研世界模型的架构搭建、算法迭代与场景落地，同步扩充核心研发与项目交付团队，完善商业化落地配套能力。 千诀科技创立于2023年6月，核心团队孵化自清华大学类脑研究中心，长期聚焦具身智能决策与规划大模型研发落地，突破传统设备任务局限，以帮助机器人实...",
-      "source": "36氪",
-      "pub_date": "2026-06-10 09:30:00  +0800",
-      "fetched_at": "2026-06-11T12:00:07.048153",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能世界模型公司「千诀科技」日前完成数亿元A轮融资，本轮由京铭资本领投，山东新动能、山东财金资本、元禾厚望、芯能创投、南创投、英诺天使基金、尚势资本、仁爱集团、玄素投资等机构共同投资，投资方阵容汇集了国家队、产业方、市场化基金及家族办公室。Maple...",
-      "keywords": [
-        "轮融资",
-        "清华系团队做分布式预测世界模型",
-        "获数亿元",
-        "落地终端设备达十万量级",
-        "硬氪首发"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "36氪首发 | 清华团队做出全球首个实时理解生理与情绪的基座模型，进一步布局硬件",
-      "link": "https://36kr.com/p/3846789531404549?f=rss",
-      "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，北京微面科技有限公司（以下简称“微面科技”）近日完成数百万美元融资，由顺为资本投资。 微面科技聚焦自研人类感知理解基座模型，打造新一代人机交互范式，创始团队主要来自清华大学，具备大模型、人机交互、软件工程与医学复合背景。 当前，AI交互存在一个隐形天花板：极度依赖用户显性输入，缺乏对隐性非语言信息的感知。研究表明，人类表达中非语言信息高达55%，但现有的机器视觉只看见动作，却无法穿透皮肤洞察情绪波动或生理疲劳。 无论是物理世界的具身机器人还是数字世界的语言大模型，由于缺乏高精度多模态人类状态数据的输入，都只能做机械的被动响应，缺乏主动共情的闭环能力...",
-      "source": "36氪",
-      "pub_date": "2026-06-10 11:18:51  +0800",
-      "fetched_at": "2026-06-11T12:00:07.043245",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，北京微面科技有限公司（以下简称“微面科技”）近日完成数百万美元融资，由顺为资本投资。...",
-      "keywords": [
-        "氪首发",
-        "清华团队做出全球首个实时理解生理与情绪的基座模型",
-        "进一步布局硬件",
-        "作者",
-        "乔钰杰"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "最前线｜AI跨境电商工具混战，StoreClaw想用“一个大脑”接管卖家的店",
-      "link": "https://36kr.com/p/3846793046133257?f=rss",
-      "summary": "文｜张子怡 编辑｜袁斯来 在竞争常年格外激烈的跨境电商行业，精细化运营已成为决定商家利润的关键，多渠道布局则是规避风险的普遍运营选择。当前，“Shopify独立站+亚马逊+TikTok Shop”的多渠道三位一体布局，已成为中大型出海卖家的标配。 不过，多渠道运作伴随着极高的人力成本与管理成本。有数据显示，一个典型的跨境商家在日常运营中，平均需要配置超过3.5个功能各异的点状工具；对于独立站卖家而言，这一数字往往会上升到5个甚至更多。 因此，跨境电商圈对于AI工具的降本增效功能格外渴望。在过去两年的大模型热潮中，跨境卖家们用ChatGPT写描述、Midjourney生图、翻译客服等工具塞满工作...",
-      "source": "36氪",
-      "pub_date": "2026-06-10 11:20:39  +0800",
-      "fetched_at": "2026-06-11T12:00:07.041066",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "不过，多渠道运作伴随着极高的人力成本与管理成本。有数据显示，一个典型的跨境商家在日常运营中，平均需要配置超过3.5个功能各异的点状工具；对于独立站卖家而言，这一数字往往会上升到5个甚至更多。...",
-      "keywords": [
-        "ai",
-        "最前线",
-        "跨境电商工具混战",
-        "storeclaw",
-        "想用"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "独家｜字节 AI 制药开启拆分融资，AI4S 进入产业化阶段",
-      "link": "https://36kr.com/p/3846956646124036?f=rss",
-      "summary": "文｜周鑫雨 编辑｜张雨忻 《智能涌现》独家获悉，字节跳动 AI 制药业务线已启动拆分与独立融资进程。 据悉，拆分后字节仍将控股新公司，AI 制药核心团队、核心算法、技术平台和已有管线资产将整体进入新主体。同时，该业务也将继续从火山引擎获得算力支持。 新公司将由字节跳动 AI 制药团队主导负责。字节 AI 制药团队成立于 2021 年，由刘凯负责，据悉核心成员约50人，由 AI4S 算法人才和资深制药领域专家构成。该团队自成立起便承担着从基础模型研究到产业化的核心职能。 此前字节内部负责蛋白结构预测模型的相关团队，也已并入由刘凯负责的 AI 制药团队，相关算法模型团队已完成整合，将继续推进该领域...",
-      "source": "36氪",
-      "pub_date": "2026-06-10 14:11:37  +0800",
-      "fetched_at": "2026-06-11T12:00:07.039927",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "新公司将由字节跳动 AI 制药团队主导负责。字节 AI 制药团队成立于 2021 年，由刘凯负责，据悉核心成员约50人，由 AI4S 算法人才和资深制药领域专家构成。该团队自成立起便承担着从基础模型研究到产业化的核心职能。 此前字节内部负责蛋白结构预测模型的相关团队，也已并入由刘凯负责的 AI...",
-      "keywords": [
-        "ai",
-        "字节",
-        "独家",
-        "制药开启拆分融资",
-        "进入产业化阶段"
+        "支付网络集成"
       ],
       "importance": 0.5
     }
   ],
-  "updated_at": "2026-06-11T12:00:34.122818"
+  "updated_at": "2026-06-11T20:00:52.366394"
 }

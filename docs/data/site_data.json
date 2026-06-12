@@ -5,15 +5,15 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-06-11T20:00:52.366394",
-    "total_items": 20
+    "last_update": "2026-06-12T12:00:46.719419",
+    "total_items": 23
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 17
+      "count": 20
     },
     "robotics": {
       "name": "Robotics",
@@ -29,33 +29,73 @@
     }
   },
   "stats": {
-    "total_items": 20,
-    "today_items": 20,
+    "total_items": 23,
+    "today_items": 23,
     "sources": {
-      "Solidot": 7,
-      "量子位": 8,
+      "Solidot": 9,
+      "量子位": 9,
       "HackerNews": 5
     },
-    "last_update": "2026-06-11T20:00:52.366394"
+    "last_update": "2026-06-12T12:00:46.719419"
   },
   "trending": [
     {
-      "title": "Falcon 9 火箭第一级 B 1067 执行了 35 次发射任务",
-      "link": "https://www.solidot.org/story?sid=84532",
-      "summary": "本周一编号为 B 1067 的 Falcon 9 火箭第一级完成了第 35 次发射任务，在将 29 颗 Starlink 卫星送入轨道之后成功着陆在无人驳船 A Shortfall of Gravitas 上。B 1067 是 SpaceX 重复使用次数最多的火箭第一级，服役了五年多时间，曾在一个月内执行了两次发射，SpaceX 的目标是火箭第一级能重复使用 40 次，B 1067 正接近这一目标。B 1067 发射次数比竞争对手联合发射联盟（ULA）过去五年的总发射次数还要多（ULA 完成了 29 次发射）。",
+      "title": "科技巨头大举借债",
+      "link": "https://www.solidot.org/story?sid=84553",
+      "summary": "为了投资建设 AI 基础设施，科技巨头们正大举借债，规模达到了千亿美元。Google 母公司 Alphabet 一周前表示，计划过股票销售筹集 800 亿美元；Meta 宣布计划通过销售债券筹集 300 亿美元；亚马逊计划在加拿大发行债筹集 140 亿美元，紧跟着又与花旗、摩根大通、富国、汇丰和美银证券等达成协议借款约 175 亿美元总融资 315 亿美元。为了资助 AI 基础设施如芯片和数据中心，主要科技公司的支出都创下了历史新高。如此高的投资引发了回报相关的疑问。",
       "source": "Solidot",
-      "pub_date": "Tue, 09 Jun 2026 22:13:58 +0800",
-      "fetched_at": "2026-06-11T20:00:04.985512",
+      "pub_date": "Thu, 11 Jun 2026 23:52:37 +0800",
+      "fetched_at": "2026-06-12T12:00:05.599984",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "为了投资建设 AI 基础设施，科技巨头们正大举借债，规模达到了千亿美元。Google 母公司 Alphabet 一周前表示，计划过股票销售筹集 800 亿美元；Meta 宣布计划通过销售债券筹集 300 亿美元；亚马逊计划在加拿大发行债筹集 140 亿美元，紧跟着又与花旗、摩根大通、富国、汇丰和美银...",
+      "keywords": [
+        "亿美元",
+        "ai",
+        "科技巨头大举借债",
+        "为了投资建设",
+        "基础设施"
+      ],
+      "importance": 2.0
+    },
+    {
+      "title": "SpaceX一上市，连食堂阿姨都要成百万富翁了。。。",
+      "link": "https://www.qbitai.com/2026/06/434733.html",
+      "summary": "光散户就给马斯克冲了700亿刀",
+      "source": "量子位",
+      "pub_date": "Fri, 12 Jun 2026 00:26:58 +0000",
+      "fetched_at": "2026-06-12T12:00:20.852490",
       "categories": [
         "space"
       ],
-      "ai_summary": "本周一编号为 B 1067 的 Falcon 9 火箭第一级完成了第 35 次发射任务，在将 29 颗 Starlink 卫星送入轨道之后成功着陆在无人驳船 A Shortfall of Gravitas 上。B 1067 是 SpaceX 重复使用次数最多的火箭第一级，服役了五年多时间，曾在一个月...",
+      "ai_summary": "光散户就给马斯克冲了700亿刀",
       "keywords": [
-        "falcon",
-        "次发射任务",
         "spacex",
-        "ula",
-        "火箭第一级"
+        "一上市",
+        "连食堂阿姨都要成百万富翁了",
+        "光散户就给马斯克冲了",
+        "亿刀"
+      ],
+      "importance": 1.5
+    },
+    {
+      "title": "OpenAI 称中国关联账户试图煽动美国反数据中心情绪",
+      "link": "https://www.solidot.org/story?sid=84551",
+      "summary": "OpenAI 周三发布报告称，公司发现一些源自中国的账户利用 AI 生成英文社交媒体帖子，称数据中心推高了美国居民的电费。OpenAI 称，这些账户可能与一家未具名的中国私营科技公司有关。OpenAI 表示，这些帖子传播范围有限，但应引起外界对外国势力试图削弱美国战略性产业的关注。该公司补充称，美国对 AI 和数据中心存在“合理的讨论”，但这些账户通过伪装成普通美国民众，通过发布有争议的 AI 生成内容来试图操纵讨论。",
+      "source": "Solidot",
+      "pub_date": "Thu, 11 Jun 2026 17:05:29 +0800",
+      "fetched_at": "2026-06-12T12:00:05.600286",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "OpenAI 周三发布报告称，公司发现一些源自中国的账户利用 AI 生成英文社交媒体帖子，称数据中心推高了美国居民的电费。OpenAI 称，这些账户可能与一家未具名的中国私营科技公司有关。OpenAI 表示，这些帖子传播范围有限，但应引起外界对外国势力试图削弱美国战略性产业的关注。该公司补充称，美国...",
+      "keywords": [
+        "openai",
+        "ai",
+        "称中国关联账户试图煽动美国反数据中心情绪",
+        "周三发布报告称",
+        "公司发现一些源自中国的账户利用"
       ],
       "importance": 1.0
     },
@@ -65,7 +105,7 @@
       "summary": "Visa 正在其支付网络集成 ChatGPT，允许 AI 智能体代表用户购物并完成购买。此举意味着 AI 智能体不仅能推荐商品，还能代表用户在任何接受 Visa 的商家完成商品购买。OpenAI 将提供技术，让智能体能通过 ChatGPT 进行互动、做出决策和发起购买。Visa 和 OpenAI 没有透露双方合作的财务条款，也没有说明商家或顾客需要支付的费用详细信息。 Visa 表示，为保护消费者并最大限度减少欺诈，该功能将设置消费限额、需要批准的步骤以及仅限授权商家等安全措施。",
       "source": "Solidot",
       "pub_date": "Thu, 11 Jun 2026 15:11:37 +0800",
-      "fetched_at": "2026-06-11T20:00:04.983423",
+      "fetched_at": "2026-06-12T12:00:05.600863",
       "categories": [
         "ai"
       ],
@@ -85,7 +125,7 @@
       "summary": "美国半导体行业协会（SIA）公布的数据显示，4 月全球半导体销售额同比增长 93.9% 达到 1104.8 亿美元。半导体销售额已连续 30 个月实现同比增长，环比增幅为 11%。除销量增长外，价格也显著上升。8GB DDR4 内存价格一年内涨至约 9 倍。三大内存厂商三星电子、SK 海力士和美光科技优先生产 AI 用内存产品，导致通用内存产品的供求关系趋于紧张。按区域来看，拉动销售额增长的是美国和亚洲。",
       "source": "Solidot",
       "pub_date": "Wed, 10 Jun 2026 22:14:18 +0800",
-      "fetched_at": "2026-06-11T20:00:04.984251",
+      "fetched_at": "2026-06-12T12:00:05.601637",
       "categories": [
         "ai"
       ],
@@ -105,7 +145,7 @@
       "summary": "德国慕尼黑地区法庭裁决，Google 要对 AI Overviews 内容承担责任，因为 AI Overviews 是 Google 自己的内容，并非搜索结果列表。本案的原告是两家慕尼黑出版商，他们指控 Google 的 AI Overviews 错误将其与诈骗、订阅陷阱等不正当商业行为关联起来，他们向 Google 发去了禁止通知函(cease-and-desist letter)，但搜索巨人未正确回应。法院认为，Google 的 AI Overviews 与传统搜索结果不同，AI 会“用自己的语言按照自己的结构”重写和评判搜索结果，而它引用的链接与其内容有矛盾，因此该内容是 Google ...",
       "source": "Solidot",
       "pub_date": "Wed, 10 Jun 2026 18:53:49 +0800",
-      "fetched_at": "2026-06-11T20:00:04.984406",
+      "fetched_at": "2026-06-12T12:00:05.601783",
       "categories": [
         "ai"
       ],
@@ -125,7 +165,7 @@
       "summary": "NASA 公布了 Artemis III 任务的四名宇航员名单，他们都是男性且都有军事背景：NASA 宇航员 Randy Bresnik（担任指令长），Andre Douglas 和 Frank Rubio（任务专家），以及 ESA 宇航员 Luca Parmitano（飞行员）。Artemis 登月任务目前共执行了两次，第一次是无人绕月飞行，第二次是载人绕月飞行，第三次也就是 Artemis III 计划最早于 2027 年夏季执行，仍然是一次载人绕月飞行，第四次任务计划在 2028 年进行，这将是阿波罗登月任务以来的首次载人登月。",
       "source": "Solidot",
       "pub_date": "Wed, 10 Jun 2026 15:03:26 +0800",
-      "fetched_at": "2026-06-11T20:00:04.984969",
+      "fetched_at": "2026-06-12T12:00:05.602301",
       "categories": [
         "space"
       ],
@@ -145,7 +185,7 @@
       "summary": "Meshy发布全球首个3D AI Agent",
       "source": "量子位",
       "pub_date": "Thu, 11 Jun 2026 04:18:34 +0000",
-      "fetched_at": "2026-06-11T20:00:20.258311",
+      "fetched_at": "2026-06-12T12:00:20.852845",
       "categories": [
         "ai"
       ],
@@ -165,7 +205,7 @@
       "summary": "Claude刚刚发布的新模型Fable 5，很多人可能压根就用不上！",
       "source": "量子位",
       "pub_date": "Thu, 11 Jun 2026 04:16:20 +0000",
-      "fetched_at": "2026-06-11T20:00:20.258456",
+      "fetched_at": "2026-06-12T12:00:20.853055",
       "categories": [
         "ai"
       ],
@@ -185,7 +225,7 @@
       "summary": "年度最大单笔融资来了",
       "source": "量子位",
       "pub_date": "Thu, 11 Jun 2026 04:07:32 +0000",
-      "fetched_at": "2026-06-11T20:00:20.258524",
+      "fetched_at": "2026-06-12T12:00:20.853153",
       "categories": [
         "ai"
       ],
@@ -196,143 +236,104 @@
         "短剧工具赛道"
       ],
       "importance": 0.5
-    },
-    {
-      "title": "谷歌I/O最出圈的一幕，发生在抖音？？？",
-      "link": "https://www.qbitai.com/2026/06/434267.html",
-      "summary": "看12位抖音创作者如何”翻译“AI",
-      "source": "量子位",
-      "pub_date": "Thu, 11 Jun 2026 02:46:41 +0000",
-      "fetched_at": "2026-06-11T20:00:20.258604",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "看12位抖音创作者如何”翻译“AI",
-      "keywords": [
-        "谷歌",
-        "最出圈的一幕",
-        "发生在抖音",
-        "位抖音创作者如何",
-        "翻译"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-      "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "summary": "👍 479 | 💬 415",
-      "source": "HackerNews",
-      "pub_date": "2026-06-11T00:42:00",
-      "fetched_at": "2026-06-11T20:00:29.066413",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 479 | 💬 415",
-      "keywords": [
-        "cybersecurity",
-        "researchers",
-        "aren",
-        "happy",
-        "about"
-      ],
-      "importance": 0.5
     }
   ],
   "latest": [
     {
-      "title": "L'Affaire Siloxane",
-      "link": "https://mceglowski.substack.com/p/laffaire-siloxane",
-      "summary": "👍 241 | 💬 41",
+      "title": "Claude Fable 5: mid-tier results on coding tasks",
+      "link": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+      "summary": "👍 258 | 💬 116",
       "source": "HackerNews",
-      "pub_date": "2026-06-09T13:21:39",
-      "fetched_at": "2026-06-11T20:00:50.571944",
+      "pub_date": "2026-06-12T00:03:21",
+      "fetched_at": "2026-06-12T12:00:43.338739",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 241 | 💬 41",
+      "ai_summary": "👍 258 | 💬 116",
       "keywords": [
-        "affaire",
-        "siloxane"
+        "claude",
+        "fable",
+        "mid",
+        "tier",
+        "results"
       ],
       "importance": 0
     },
     {
-      "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
-      "link": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
-      "summary": "👍 38 | 💬 7",
+      "title": "Ear Training Practice",
+      "link": "https://tonedear.com/",
+      "summary": "👍 179 | 💬 90",
       "source": "HackerNews",
-      "pub_date": "2026-06-09T22:29:34",
-      "fetched_at": "2026-06-11T20:00:30.659451",
+      "pub_date": "2026-06-09T00:38:07",
+      "fetched_at": "2026-06-12T12:00:32.739011",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 38 | 💬 7",
+      "ai_summary": "👍 179 | 💬 90",
       "keywords": [
-        "build",
-        "basic",
-        "ai",
-        "agent",
-        "from"
+        "ear",
+        "training",
+        "practice"
       ],
       "importance": 0
     },
     {
-      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-      "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "summary": "👍 479 | 💬 415",
+      "title": "A jacket that harvests drinking water from the air",
+      "link": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+      "summary": "👍 62 | 💬 38",
       "source": "HackerNews",
-      "pub_date": "2026-06-11T00:42:00",
-      "fetched_at": "2026-06-11T20:00:29.066413",
+      "pub_date": "2026-06-12T06:59:22",
+      "fetched_at": "2026-06-12T12:00:31.717540",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 479 | 💬 415",
+      "ai_summary": "👍 62 | 💬 38",
       "keywords": [
-        "cybersecurity",
-        "researchers",
-        "aren",
-        "happy",
-        "about"
+        "jacket",
+        "that",
+        "harvests",
+        "drinking",
+        "water"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "summary": "👍 342 | 💬 341",
+      "source": "HackerNews",
+      "pub_date": "2026-06-11T20:05:02",
+      "fetched_at": "2026-06-12T12:00:28.840482",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 342 | 💬 341",
+      "keywords": [
+        "anthropic",
+        "apologizes",
+        "for",
+        "invisible",
+        "claude"
       ],
       "importance": 0.5
     },
     {
-      "title": "AI agent runs amok in Fedora and elsewhere",
-      "link": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-      "summary": "👍 443 | 💬 192",
+      "title": "Claude Fable is relentlessly proactive",
+      "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+      "summary": "👍 182 | 💬 146",
       "source": "HackerNews",
-      "pub_date": "2026-06-11T08:10:08",
-      "fetched_at": "2026-06-11T20:00:24.158785",
+      "pub_date": "2026-06-12T09:06:51",
+      "fetched_at": "2026-06-12T12:00:24.251703",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 443 | 💬 192",
+      "ai_summary": "👍 182 | 💬 146",
       "keywords": [
-        "ai",
-        "agent",
-        "runs",
-        "amok",
-        "in"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
-      "link": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
-      "summary": "👍 364 | 💬 155",
-      "source": "HackerNews",
-      "pub_date": "2026-06-11T14:42:06",
-      "fetched_at": "2026-06-11T20:00:23.111942",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 364 | 💬 155",
-      "keywords": [
-        "pok",
-        "mon",
-        "go",
-        "scans",
-        "trained"
+        "claude",
+        "fable",
+        "is",
+        "relentlessly",
+        "proactive"
       ],
       "importance": 0
     },
@@ -342,7 +343,7 @@
       "summary": "通用GPU就能实现",
       "source": "量子位",
       "pub_date": "Thu, 11 Jun 2026 01:18:16 +0000",
-      "fetched_at": "2026-06-11T20:00:20.258752",
+      "fetched_at": "2026-06-12T12:00:20.853395",
       "categories": [
         "ai"
       ],
@@ -362,7 +363,7 @@
       "summary": "全新的AI志愿报告",
       "source": "量子位",
       "pub_date": "Thu, 11 Jun 2026 02:08:25 +0000",
-      "fetched_at": "2026-06-11T20:00:20.258678",
+      "fetched_at": "2026-06-12T12:00:20.853315",
       "categories": [
         "ai"
       ],
@@ -382,7 +383,7 @@
       "summary": "看12位抖音创作者如何”翻译“AI",
       "source": "量子位",
       "pub_date": "Thu, 11 Jun 2026 02:46:41 +0000",
-      "fetched_at": "2026-06-11T20:00:20.258604",
+      "fetched_at": "2026-06-12T12:00:20.853239",
       "categories": [
         "ai"
       ],
@@ -402,7 +403,7 @@
       "summary": "年度最大单笔融资来了",
       "source": "量子位",
       "pub_date": "Thu, 11 Jun 2026 04:07:32 +0000",
-      "fetched_at": "2026-06-11T20:00:20.258524",
+      "fetched_at": "2026-06-12T12:00:20.853153",
       "categories": [
         "ai"
       ],
@@ -420,7 +421,7 @@
       "summary": "Claude刚刚发布的新模型Fable 5，很多人可能压根就用不上！",
       "source": "量子位",
       "pub_date": "Thu, 11 Jun 2026 04:16:20 +0000",
-      "fetched_at": "2026-06-11T20:00:20.258456",
+      "fetched_at": "2026-06-12T12:00:20.853055",
       "categories": [
         "ai"
       ],
@@ -440,7 +441,7 @@
       "summary": "Meshy发布全球首个3D AI Agent",
       "source": "量子位",
       "pub_date": "Thu, 11 Jun 2026 04:18:34 +0000",
-      "fetched_at": "2026-06-11T20:00:20.258311",
+      "fetched_at": "2026-06-12T12:00:20.852845",
       "categories": [
         "ai"
       ],
@@ -460,7 +461,7 @@
       "summary": "前期做了40万AI考生压测",
       "source": "量子位",
       "pub_date": "Thu, 11 Jun 2026 07:25:55 +0000",
-      "fetched_at": "2026-06-11T20:00:20.258232",
+      "fetched_at": "2026-06-12T12:00:20.852678",
       "categories": [
         "ai"
       ],
@@ -480,7 +481,7 @@
       "summary": "聪明人总能花最少的钱办最好的事，AI也一样。",
       "source": "量子位",
       "pub_date": "Thu, 11 Jun 2026 08:23:31 +0000",
-      "fetched_at": "2026-06-11T20:00:20.258130",
+      "fetched_at": "2026-06-12T12:00:20.852597",
       "categories": [
         "ai"
       ],
@@ -495,24 +496,24 @@
       "importance": 0
     },
     {
-      "title": "Falcon 9 火箭第一级 B 1067 执行了 35 次发射任务",
-      "link": "https://www.solidot.org/story?sid=84532",
-      "summary": "本周一编号为 B 1067 的 Falcon 9 火箭第一级完成了第 35 次发射任务，在将 29 颗 Starlink 卫星送入轨道之后成功着陆在无人驳船 A Shortfall of Gravitas 上。B 1067 是 SpaceX 重复使用次数最多的火箭第一级，服役了五年多时间，曾在一个月内执行了两次发射，SpaceX 的目标是火箭第一级能重复使用 40 次，B 1067 正接近这一目标。B 1067 发射次数比竞争对手联合发射联盟（ULA）过去五年的总发射次数还要多（ULA 完成了 29 次发射）。",
-      "source": "Solidot",
-      "pub_date": "Tue, 09 Jun 2026 22:13:58 +0800",
-      "fetched_at": "2026-06-11T20:00:04.985512",
+      "title": "SpaceX一上市，连食堂阿姨都要成百万富翁了。。。",
+      "link": "https://www.qbitai.com/2026/06/434733.html",
+      "summary": "光散户就给马斯克冲了700亿刀",
+      "source": "量子位",
+      "pub_date": "Fri, 12 Jun 2026 00:26:58 +0000",
+      "fetched_at": "2026-06-12T12:00:20.852490",
       "categories": [
         "space"
       ],
-      "ai_summary": "本周一编号为 B 1067 的 Falcon 9 火箭第一级完成了第 35 次发射任务，在将 29 颗 Starlink 卫星送入轨道之后成功着陆在无人驳船 A Shortfall of Gravitas 上。B 1067 是 SpaceX 重复使用次数最多的火箭第一级，服役了五年多时间，曾在一个月...",
+      "ai_summary": "光散户就给马斯克冲了700亿刀",
       "keywords": [
-        "falcon",
-        "次发射任务",
         "spacex",
-        "ula",
-        "火箭第一级"
+        "一上市",
+        "连食堂阿姨都要成百万富翁了",
+        "光散户就给马斯克冲了",
+        "亿刀"
       ],
-      "importance": 1.0
+      "importance": 1.5
     },
     {
       "title": "NASA 公布了 Artemis III 任务宇航员名单",
@@ -520,7 +521,7 @@
       "summary": "NASA 公布了 Artemis III 任务的四名宇航员名单，他们都是男性且都有军事背景：NASA 宇航员 Randy Bresnik（担任指令长），Andre Douglas 和 Frank Rubio（任务专家），以及 ESA 宇航员 Luca Parmitano（飞行员）。Artemis 登月任务目前共执行了两次，第一次是无人绕月飞行，第二次是载人绕月飞行，第三次也就是 Artemis III 计划最早于 2027 年夏季执行，仍然是一次载人绕月飞行，第四次任务计划在 2028 年进行，这将是阿波罗登月任务以来的首次载人登月。",
       "source": "Solidot",
       "pub_date": "Wed, 10 Jun 2026 15:03:26 +0800",
-      "fetched_at": "2026-06-11T20:00:04.984969",
+      "fetched_at": "2026-06-12T12:00:05.602301",
       "categories": [
         "space"
       ],
@@ -540,7 +541,7 @@
       "summary": "Starlink 硬件从一次性付费转向 10 美元月租费。Starlink 硬件包括一个接收卫星信号的终端和一个放在家中的路由器。该费用不包含在网络服务费中。Starlink 的 100Mbps 套餐每月收费 55 美元，200Mbps 套餐每月收费 85 美元，400Mbps 的 Max 套餐每月收费 130 美元。Starlink 还提供专业安装服务，一次性收费 199 美元，Max 套餐用户免收安装费。",
       "source": "Solidot",
       "pub_date": "Wed, 10 Jun 2026 16:14:20 +0800",
-      "fetched_at": "2026-06-11T20:00:04.984678",
+      "fetched_at": "2026-06-12T12:00:05.602025",
       "categories": [
         "space"
       ],
@@ -560,7 +561,7 @@
       "summary": "威尔森的数据显示，2025 年比亚迪针对自身“海洋”和“王朝”系列车型实际进行了 200 次软件更新（Over the Air 或 OTA），在汽车企业中次数最多。特斯拉在中国国内更新软件的次数为 16 次，丰田为 8 次，大众为 5 次。比亚迪之所以能够频繁更新软件，是因为 OTA 所需要的半导体、作为通信基础的操作系统、实际运行的硬件全部自主开发。相关负责人表示：“只要是自主设计，就可以迅速且准确地实现更新”。在价格竞争加剧导致中国国内销量下滑的背景下，比亚迪的目的是通过 OTA 来提升吸引力、扩大销售。",
       "source": "Solidot",
       "pub_date": "Wed, 10 Jun 2026 16:23:13 +0800",
-      "fetched_at": "2026-06-11T20:00:04.984537",
+      "fetched_at": "2026-06-12T12:00:05.601907",
       "categories": [
         "ai"
       ],
@@ -580,7 +581,7 @@
       "summary": "德国慕尼黑地区法庭裁决，Google 要对 AI Overviews 内容承担责任，因为 AI Overviews 是 Google 自己的内容，并非搜索结果列表。本案的原告是两家慕尼黑出版商，他们指控 Google 的 AI Overviews 错误将其与诈骗、订阅陷阱等不正当商业行为关联起来，他们向 Google 发去了禁止通知函(cease-and-desist letter)，但搜索巨人未正确回应。法院认为，Google 的 AI Overviews 与传统搜索结果不同，AI 会“用自己的语言按照自己的结构”重写和评判搜索结果，而它引用的链接与其内容有矛盾，因此该内容是 Google ...",
       "source": "Solidot",
       "pub_date": "Wed, 10 Jun 2026 18:53:49 +0800",
-      "fetched_at": "2026-06-11T20:00:04.984406",
+      "fetched_at": "2026-06-12T12:00:05.601783",
       "categories": [
         "ai"
       ],
@@ -600,7 +601,7 @@
       "summary": "美国半导体行业协会（SIA）公布的数据显示，4 月全球半导体销售额同比增长 93.9% 达到 1104.8 亿美元。半导体销售额已连续 30 个月实现同比增长，环比增幅为 11%。除销量增长外，价格也显著上升。8GB DDR4 内存价格一年内涨至约 9 倍。三大内存厂商三星电子、SK 海力士和美光科技优先生产 AI 用内存产品，导致通用内存产品的供求关系趋于紧张。按区域来看，拉动销售额增长的是美国和亚洲。",
       "source": "Solidot",
       "pub_date": "Wed, 10 Jun 2026 22:14:18 +0800",
-      "fetched_at": "2026-06-11T20:00:04.984251",
+      "fetched_at": "2026-06-12T12:00:05.601637",
       "categories": [
         "ai"
       ],
@@ -620,7 +621,7 @@
       "summary": "Visa 正在其支付网络集成 ChatGPT，允许 AI 智能体代表用户购物并完成购买。此举意味着 AI 智能体不仅能推荐商品，还能代表用户在任何接受 Visa 的商家完成商品购买。OpenAI 将提供技术，让智能体能通过 ChatGPT 进行互动、做出决策和发起购买。Visa 和 OpenAI 没有透露双方合作的财务条款，也没有说明商家或顾客需要支付的费用详细信息。 Visa 表示，为保护消费者并最大限度减少欺诈，该功能将设置消费限额、需要批准的步骤以及仅限授权商家等安全措施。",
       "source": "Solidot",
       "pub_date": "Thu, 11 Jun 2026 15:11:37 +0800",
-      "fetched_at": "2026-06-11T20:00:04.983423",
+      "fetched_at": "2026-06-12T12:00:05.600863",
       "categories": [
         "ai"
       ],
@@ -635,5 +636,5 @@
       "importance": 0.5
     }
   ],
-  "updated_at": "2026-06-11T20:00:52.366394"
+  "updated_at": "2026-06-12T12:00:46.719419"
 }

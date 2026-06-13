@@ -5,47 +5,89 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-06-12T20:00:52.131921",
-    "total_items": 22
+    "last_update": "2026-06-13T12:00:43.863700",
+    "total_items": 34
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 19
+      "count": 28
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 1
+      "count": 3
     },
     "space": {
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 2
+      "count": 7
     }
   },
   "stats": {
-    "total_items": 22,
-    "today_items": 22,
+    "total_items": 34,
+    "today_items": 34,
     "sources": {
-      "Solidot": 6,
-      "量子位": 8,
-      "HackerNews": 8
+      "36氪": 12,
+      "Solidot": 8,
+      "量子位": 7,
+      "HackerNews": 7
     },
-    "last_update": "2026-06-12T20:00:52.131921"
+    "last_update": "2026-06-13T12:00:43.863700"
   },
   "trending": [
+    {
+      "title": "美股三大指数收盘集体上涨，SpaceX上市首日涨超19%",
+      "link": "https://36kr.com/newsflashes/3850879366943750?f=rss",
+      "summary": "36氪获悉，6月12日收盘，美股三大指数集体上涨，道指涨0.7%，纳指涨0.31%，标普500指数涨0.50%。SpaceX上市首日涨超19%，总市值报2.1万亿美元，总市值跃居至全球第六；大型科技股涨跌不一，特斯拉涨超1%，英伟达、谷歌、微软小幅上涨，苹果、亚马逊跌超1%，Meta小幅下跌。热门中概股多数上涨，理想汽车涨超3%，京东涨超1%，阿里巴巴、拼多多、网易、拼多多小幅上涨，百度、蔚来小幅下跌。",
+      "source": "36氪",
+      "pub_date": "2026-06-13 09:00:58  +0800",
+      "fetched_at": "2026-06-13T12:00:17.741909",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "36氪获悉，6月12日收盘，美股三大指数集体上涨，道指涨0.7%，纳指涨0.31%，标普500指数涨0.50%。SpaceX上市首日涨超19%，总市值报2.1万亿美元，总市值跃居至全球第六；大型科技股涨跌不一，特斯拉涨超1%，英伟达、谷歌、微软小幅上涨，苹果、亚马逊跌超1%，Meta小幅下跌。热门中...",
+      "keywords": [
+        "spacex",
+        "上市首日涨超",
+        "美股三大指数收盘集体上涨",
+        "氪获悉",
+        "日收盘"
+      ],
+      "importance": 4.0
+    },
+    {
+      "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
+      "link": "https://36kr.com/p/3849431503869187?f=rss",
+      "summary": "今日热点导览 OpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争 全球两大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录 SK海力士设备供应商要求涨价 端午前机票价格跳水 SpaceX上市前夕，美股太空股提前狂欢 TOP 3 大新闻 SpaceX上市在即，马斯克或成全球首位万亿富翁 据报道，SpaceX将于美东时间6月12日在纳斯达克挂牌交易，股票代码SPCX。根据SpaceX 6月11日在官网发布的声明，公司此次IPO发行5.556亿股，发行价为每股135美元，募资总额达750亿美元。SpaceX此次IPO募资规模是沙特阿美2019年创下的294亿美元上市...",
+      "source": "36氪",
+      "pub_date": "2026-06-12 08:04:29  +0800",
+      "fetched_at": "2026-06-13T12:00:17.740225",
+      "categories": [
+        "ai",
+        "space"
+      ],
+      "ai_summary": "今日热点导览 OpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争 全球两大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录 SK海力士设备供应商要求涨价 端午前机票价格跳水 SpaceX上市前夕，美股太空股提前狂欢 TOP 3 大新闻 SpaceX上市在即，马斯克或...",
+      "keywords": [
+        "spacex",
+        "上市在即",
+        "马斯克或成全球首位万亿富翁",
+        "亿美元",
+        "ipo"
+      ],
+      "importance": 3.0
+    },
     {
       "title": "科技巨头大举借债",
       "link": "https://www.solidot.org/story?sid=84553",
       "summary": "为了投资建设 AI 基础设施，科技巨头们正大举借债，规模达到了千亿美元。Google 母公司 Alphabet 一周前表示，计划过股票销售筹集 800 亿美元；Meta 宣布计划通过销售债券筹集 300 亿美元；亚马逊计划在加拿大发行债筹集 140 亿美元，紧跟着又与花旗、摩根大通、富国、汇丰和美银证券等达成协议借款约 175 亿美元总融资 315 亿美元。为了资助 AI 基础设施如芯片和数据中心，主要科技公司的支出都创下了历史新高。如此高的投资引发了回报相关的疑问。",
       "source": "Solidot",
       "pub_date": "Thu, 11 Jun 2026 23:52:37 +0800",
-      "fetched_at": "2026-06-12T20:00:04.697408",
+      "fetched_at": "2026-06-13T12:00:04.973033",
       "categories": [
         "ai"
       ],
@@ -60,12 +102,74 @@
       "importance": 2.0
     },
     {
+      "title": "SpaceX 2万亿美元市值这一夜，回望中国商业航天十年冷暖",
+      "link": "https://36kr.com/p/3850902095336449?f=rss",
+      "summary": "6月12日晚，SpaceX以史上最大估值完成IPO，股价冲高至176美元，截至目前市值已经突破2万亿美元。 马斯克成为历史上第一位万亿美元身价的富豪。 马斯克在得克萨斯“星际基地”（Starbase）敲��� 其实在SpaceX敲钟之前，大洋彼岸的行业水��早已接近沸腾。 过去半年，商业航天成为国内一级市场最热的赛道之一。投资人排队约见创始人，地方政府争抢项目落地，一些过去很少关注航天的基金，也开始研究火箭、卫星和星座。“头部项目现在整个市场有几百家机构在跟，根本聊不上。”一位长期关注商业航天的投资人告诉硬氪。 资本涌入的速度和规模都在刷新纪录，头部公司融资金额动辄20亿元以上。最大的一笔是2...",
+      "source": "36氪",
+      "pub_date": "2026-06-13 09:02:18  +0800",
+      "fetched_at": "2026-06-13T12:00:17.707798",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "6月12日晚，SpaceX以史上最大估值完成IPO，股价冲高至176美元，截至目前市值已经突破2万亿美元。...",
+      "keywords": [
+        "spacex",
+        "万亿美元市值这一夜",
+        "回望中国商业航天十年冷暖",
+        "日晚",
+        "以史上最大估值完成"
+      ],
+      "importance": 2.0
+    },
+    {
+      "title": "氪星晚报｜SpaceX确定发行价，募资750亿美元创史上最大IPO；OpenAI CEO奥特曼推迟访韩计划；中央网信办举报中心开设“涉AI应用乱象举报专区”",
+      "link": "https://36kr.com/p/3849942472512769?f=rss",
+      "summary": "大公司： OpenAI CEO奥特曼推迟访韩计划 据报道，OpenAI首席执行官山姆·奥特曼因个人原因推迟访韩计划。奥特曼原定于14日至15日访韩，会见三星电子、Kakao、NAVER等企业负责人。 Alphabet旗下自动驾驶公司Waymo将推出30美元月费会员计划 当地时间6月11日，Alphabet旗下自动驾驶公司Waymo宣布，将推出仅限受邀用户参与的Waymo Premier30美元月费会员计划，会员可享受优先接送、每次行程10%的乘车返现（以乘车积分形式返还）、在新城市优先体验Waymo服务以及每月最多五次免费取消行程等权益。Waymo表示，最初将通过应用程序和电子邮件向美国旧金山...",
+      "source": "36氪",
+      "pub_date": "2026-06-12 21:15:02  +0800",
+      "fetched_at": "2026-06-13T12:00:17.715367",
+      "categories": [
+        "ai",
+        "space"
+      ],
+      "ai_summary": "大公司： OpenAI CEO奥特曼推迟访韩计划 据报道，OpenAI首席执行官山姆·奥特曼因个人原因推迟访韩计划。奥特曼原定于14日至15日访韩，会见三星电子、Kakao、NAVER等企业负责人。 Alphabet旗下自动驾驶公司Waymo将推出30美元月费会员计划 当地时间6月11日，Alpha...",
+      "keywords": [
+        "waymo",
+        "openai",
+        "ceo",
+        "奥特曼推迟访韩计划",
+        "alphabet"
+      ],
+      "importance": 2.0
+    },
+    {
+      "title": "9点1氪｜SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应“员工不值这么多钱”等言论；FIFA联名款labubu世界杯销量暴涨30倍",
+      "link": "https://36kr.com/p/3850898430989577?f=rss",
+      "summary": "今日热点导览 Kimi与一国有银行合作，全球首张AI原生信用卡开放预约 韩美半导体将使用500亿韩元投资于SpaceX SK海力士回应本月发生第二起火灾 杭州小龙虾降价超50% 金价连跌，批发商集中补货 TOP3大新闻 SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍 当地时间6月12日，万众瞩目的太空探索公司SpaceX于在纳斯达克交易所完成了上市。SpaceX是有史以来规模最大的IPO，发行价定为135美元，对应市值达1.77万亿美元。该股开盘价150美元，午盘涨幅一度突破30%触及176.53美元，随后股价震荡回落收盘报160.99美元，涨幅19.22%，跻身美国市值第六大企业，...",
+      "source": "36氪",
+      "pub_date": "2026-06-13 09:01:24  +0800",
+      "fetched_at": "2026-06-13T12:00:17.712526",
+      "categories": [
+        "ai",
+        "space"
+      ],
+      "ai_summary": "今日热点导览 Kimi与一国有银行合作，全球首张AI原生信用卡开放预约 韩美半导体将使用500亿韩元投资于SpaceX SK海力士回应本月发生第二起火灾 杭州小龙虾降价超50% 金价连跌，批发商集中补货 TOP3大新闻 SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍 当地时间6月12日，万...",
+      "keywords": [
+        "spacex",
+        "美元",
+        "万亿美元",
+        "市值破",
+        "马斯克身家达巴菲特"
+      ],
+      "importance": 1.5
+    },
+    {
       "title": "SpaceX一上市，连食堂阿姨都要成百万富翁了。。。",
       "link": "https://www.qbitai.com/2026/06/434733.html",
       "summary": "光散户就给马斯克冲了700亿刀",
       "source": "量子位",
       "pub_date": "Fri, 12 Jun 2026 00:26:58 +0000",
-      "fetched_at": "2026-06-12T20:00:20.022400",
+      "fetched_at": "2026-06-13T12:00:17.874998",
       "categories": [
         "space"
       ],
@@ -85,7 +189,7 @@
       "summary": "拜 AI 热所赐，6 月 12 日日本铠侠控股(Kioxia Holdings)的总市值超过丰田，在日本国内上市企业中首次跃居榜首。铠侠的总市值达到 44 万亿日元，超过丰田约 43 万亿日元的市值。支撑股价上涨的是盈利能力扩大。以美国科技巨头对 AI 数据中心的投资为背景，NAND 闪存的销售大幅增长。软银集团（SBG）股价同样受 AI 投资相关预期推动走高，曾在 6 月 1 日市值一度超越丰田登顶榜首。作为投资公司的软银集团的收益主要来源于两大板块，一是对美国 OpenAI 的大额投资估值上涨，二是旗下英国半导体设计公司 ARM 控股的价值提升。",
       "source": "Solidot",
       "pub_date": "Fri, 12 Jun 2026 15:59:45 +0800",
-      "fetched_at": "2026-06-12T20:00:04.696320",
+      "fetched_at": "2026-06-13T12:00:04.972004",
       "categories": [
         "ai"
       ],
@@ -105,7 +209,7 @@
       "summary": "OpenAI 周三发布报告称，公司发现一些源自中国的账户利用 AI 生成英文社交媒体帖子，称数据中心推高了美国居民的电费。OpenAI 称，这些账户可能与一家未具名的中国私营科技公司有关。OpenAI 表示，这些帖子传播范围有限，但应引起外界对外国势力试图削弱美国战略性产业的关注。该公司补充称，美国对 AI 和数据中心存在“合理的讨论”，但这些账户通过伪装成普通美国民众，通过发布有争议的 AI 生成内容来试图操纵讨论。",
       "source": "Solidot",
       "pub_date": "Thu, 11 Jun 2026 17:05:29 +0800",
-      "fetched_at": "2026-06-12T20:00:04.697685",
+      "fetched_at": "2026-06-13T12:00:04.973294",
       "categories": [
         "ai"
       ],
@@ -120,305 +224,166 @@
       "importance": 1.0
     },
     {
-      "title": "Anthropic老大的唯一 -1，就是AI股神的未婚妻",
-      "link": "https://www.qbitai.com/2026/06/433717.html",
-      "summary": "那位被OpenAI开除的股神",
-      "source": "量子位",
-      "pub_date": "Fri, 12 Jun 2026 07:29:59 +0000",
-      "fetched_at": "2026-06-12T20:00:20.022164",
+      "title": "具身智能行业5月融资额环比降近六成",
+      "link": "https://36kr.com/newsflashes/3850887488443392?f=rss",
+      "summary": "一路高歌猛进的具身智能行业，在一级市场的融资上出现了降温迹象。据行业机构高工人形机器人不完全统计，2026年5月，具身智能行业共发生51起融资事件，累计金额达86亿元人民币，同比增长145.50%，环比下滑58.65%。这一变化，也说明具身智能产业正在经历从概念追逐转向理性审视的必然阶段。（上证报）",
+      "source": "36氪",
+      "pub_date": "2026-06-13 09:24:15  +0800",
+      "fetched_at": "2026-06-13T12:00:17.741564",
       "categories": [
-        "ai"
+        "robotics"
       ],
-      "ai_summary": "那位被OpenAI开除的股神",
+      "ai_summary": "一路高歌猛进的具身智能行业，在一级市场的融资上出现了降温迹象。据行业机构高工人形机器人不完全统计，2026年5月，具身智能行业共发生51起融资事件，累计金额达86亿元人民币，同比增长145.50%，环比下滑58.65%。这一变化，也说明具身智能产业正在经历从概念追逐转向理性审视的必然阶段。（上证报）",
       "keywords": [
-        "anthropic",
-        "老大的唯一",
-        "就是",
-        "ai",
-        "股神的未婚妻"
+        "具身智能行业",
+        "月融资额环比降近六成",
+        "一路高歌猛进的具身智能行业",
+        "在一级市场的融资上出现了降温迹象",
+        "据行业机构高工人形机器人不完全统计"
       ],
       "importance": 1.0
-    },
-    {
-      "title": "Visa 支付网络集成 ChatGPT",
-      "link": "https://www.solidot.org/story?sid=84547",
-      "summary": "Visa 正在其支付网络集成 ChatGPT，允许 AI 智能体代表用户购物并完成购买。此举意味着 AI 智能体不仅能推荐商品，还能代表用户在任何接受 Visa 的商家完成商品购买。OpenAI 将提供技术，让智能体能通过 ChatGPT 进行互动、做出决策和发起购买。Visa 和 OpenAI 没有透露双方合作的财务条款，也没有说明商家或顾客需要支付的费用详细信息。 Visa 表示，为保护消费者并最大限度减少欺诈，该功能将设置消费限额、需要批准的步骤以及仅限授权商家等安全措施。",
-      "source": "Solidot",
-      "pub_date": "Thu, 11 Jun 2026 15:11:37 +0800",
-      "fetched_at": "2026-06-12T20:00:04.698205",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Visa 正在其支付网络集成 ChatGPT，允许 AI 智能体代表用户购物并完成购买。此举意味着 AI 智能体不仅能推荐商品，还能代表用户在任何接受 Visa 的商家完成商品购买。OpenAI 将提供技术，让智能体能通过 ChatGPT 进行互动、做出决策和发起购买。Visa 和 OpenAI 没...",
-      "keywords": [
-        "visa",
-        "chatgpt",
-        "ai",
-        "openai",
-        "支付网络集成"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent",
-      "link": "https://www.qbitai.com/2026/06/434317.html",
-      "summary": "Meshy发布全球首个3D AI Agent",
-      "source": "量子位",
-      "pub_date": "Thu, 11 Jun 2026 04:18:34 +0000",
-      "fetched_at": "2026-06-12T20:00:20.022631",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Meshy发布全球首个3D AI Agent",
-      "keywords": [
-        "meshy",
-        "发布全球首个",
-        "ai",
-        "agent",
-        "创作迎来"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "summary": "👍 441 | 💬 395",
-      "source": "HackerNews",
-      "pub_date": "2026-06-11T20:05:02",
-      "fetched_at": "2026-06-12T20:00:39.261215",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 441 | 💬 395",
-      "keywords": [
-        "anthropic",
-        "apologizes",
-        "for",
-        "invisible",
-        "claude"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "小米开源了其 AI 编程助手 MiMo Code",
-      "link": "https://www.solidot.org/story?sid=84561",
-      "summary": "小米开源了其 AI 编程助手 MiMo Code，源代码采用 MIT License 托管在 GitHub 上。小米博客称，“MiMo Code 是小米 MiMo 团队基于 OpenCode 构建的终端编程 Agent，MIT 协议开源。它针对长程自动化编程任务设计，核心关注点是：如何在几十甚至上百步的持续执行中保持决策质量和状态连续性。”",
-      "source": "Solidot",
-      "pub_date": "Fri, 12 Jun 2026 15:49:42 +0800",
-      "fetched_at": "2026-06-12T20:00:04.696464",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "小米开源了其 AI 编程助手 MiMo Code，源代码采用 MIT License 托管在 GitHub 上。小米博客称，“MiMo Code 是小米 MiMo 团队基于 OpenCode 构建的终端编程 Agent，MIT 协议开源。它针对长程自动化编程任务设计，核心关注点是：如何在几十甚至上百...",
-      "keywords": [
-        "mimo",
-        "code",
-        "小米开源了其",
-        "ai",
-        "编程助手"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "游荡在 Fedora 项目的可疑 AI 智能体",
-      "link": "https://www.solidot.org/story?sid=84552",
-      "summary": "5 月 27 日 Fedora 开发者 Adam Williamson 写邮件给 Nathan Giovannini，对由其账号控制的一个 AI 智能体提出疑问。该智能体过去几个月做了一系列令人感到可疑的事情：无缘无故修改 bug 的严重级别和优先级，伪造对 Bug 的回复，说服维护者将可疑代码合并到 Anaconda 安装程序，向上游项目递交了一系列 pull requests (PRs)，其中一部分已被接受。Giovannini 回应称他的账号被盗了，他不是该智能体的控制者。此事令社区联想到了曾引发广泛关注的 XZ 后门事件。在 XZ 后门事件中，化名为 JiaT75(Jia Tan)的攻...",
-      "source": "Solidot",
-      "pub_date": "Thu, 11 Jun 2026 23:30:34 +0800",
-      "fetched_at": "2026-06-12T20:00:04.697563",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "5 月 27 日 Fedora 开发者 Adam Williamson 写邮件给 Nathan Giovannini，对由其账号控制的一个 AI 智能体提出疑问。该智能体过去几个月做了一系列令人感到可疑的事情：无缘无故修改 bug 的严重级别和优先级，伪造对 Bug 的回复，说服维护者将可疑代码合并...",
-      "keywords": [
-        "fedora",
-        "ai",
-        "giovannini",
-        "bug",
-        "xz"
-      ],
-      "importance": 0
     }
   ],
   "latest": [
     {
-      "title": "Claude Fable 5: mid-tier results on coding tasks",
-      "link": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-      "summary": "👍 338 | 💬 172",
+      "title": "\"Don't You Just Upload It to ChatGPT?\"",
+      "link": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
+      "summary": "👍 348 | 💬 282",
       "source": "HackerNews",
-      "pub_date": "2026-06-12T00:03:21",
-      "fetched_at": "2026-06-12T20:00:52.072031",
+      "pub_date": "2026-06-13T01:52:46",
+      "fetched_at": "2026-06-13T12:00:41.897034",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 338 | 💬 172",
+      "ai_summary": "👍 348 | 💬 282",
       "keywords": [
-        "claude",
-        "fable",
-        "mid",
-        "tier",
-        "results"
+        "don",
+        "you",
+        "just",
+        "upload",
+        "it"
       ],
       "importance": 0
     },
     {
-      "title": "Making a vintage LLM from scratch",
-      "link": "https://crlf.link/log/entries/260525-1/",
-      "summary": "👍 41 | 💬 8",
+      "title": "Palantir loses legal challenge against Swiss investigative magazine",
+      "link": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
+      "summary": "👍 232 | 💬 50",
       "source": "HackerNews",
-      "pub_date": "2026-06-11T16:38:00",
-      "fetched_at": "2026-06-12T20:00:50.285202",
+      "pub_date": "2026-06-13T04:39:36",
+      "fetched_at": "2026-06-13T12:00:37.793669",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 41 | 💬 8",
+      "ai_summary": "👍 232 | 💬 50",
       "keywords": [
-        "making",
-        "vintage",
-        "llm",
-        "from",
-        "scratch"
+        "palantir",
+        "loses",
+        "legal",
+        "challenge",
+        "against"
       ],
       "importance": 0
     },
     {
-      "title": "Report on an Unidentified Space Station",
-      "link": "https://sseh.uchicago.edu/doc/roauss.htm",
-      "summary": "👍 66 | 💬 35",
+      "title": "Slightly reducing the sloppiness of AI generated front end",
+      "link": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+      "summary": "👍 170 | 💬 112",
       "source": "HackerNews",
-      "pub_date": "2026-06-12T15:35:46",
-      "fetched_at": "2026-06-12T20:00:47.180877",
-      "categories": [
-        "space"
-      ],
-      "ai_summary": "👍 66 | 💬 35",
-      "keywords": [
-        "report",
-        "on",
-        "an",
-        "unidentified",
-        "space"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "summary": "👍 441 | 💬 395",
-      "source": "HackerNews",
-      "pub_date": "2026-06-11T20:05:02",
-      "fetched_at": "2026-06-12T20:00:39.261215",
+      "pub_date": "2026-06-12T22:48:38",
+      "fetched_at": "2026-06-13T12:00:36.729917",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 441 | 💬 395",
+      "ai_summary": "👍 170 | 💬 112",
       "keywords": [
-        "anthropic",
-        "apologizes",
-        "for",
-        "invisible",
-        "claude"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "Claude Fable is relentlessly proactive",
-      "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-      "summary": "👍 510 | 💬 405",
-      "source": "HackerNews",
-      "pub_date": "2026-06-12T09:06:51",
-      "fetched_at": "2026-06-12T20:00:38.279023",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 510 | 💬 405",
-      "keywords": [
-        "claude",
-        "fable",
-        "is",
-        "relentlessly",
-        "proactive"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "The Future of Email",
-      "link": "https://www.fastmail.com/blog/the-future-of-email/",
-      "summary": "👍 51 | 💬 53",
-      "source": "HackerNews",
-      "pub_date": "2026-06-12T18:38:31",
-      "fetched_at": "2026-06-12T20:00:35.781026",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 51 | 💬 53",
-      "keywords": [
+        "slightly",
+        "reducing",
         "the",
-        "future",
-        "of",
-        "email"
+        "sloppiness",
+        "of"
       ],
       "importance": 0
     },
     {
-      "title": "Ryanair dark UX patterns summer 2026 refresher",
-      "link": "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/",
-      "summary": "👍 24 | 💬 9",
+      "title": "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
+      "link": "https://tectonic-typesetting.github.io/en-US/",
+      "summary": "👍 20 | 💬 2",
       "source": "HackerNews",
-      "pub_date": "2026-06-12T19:11:42",
-      "fetched_at": "2026-06-12T20:00:26.879458",
+      "pub_date": "2026-06-10T05:00:39",
+      "fetched_at": "2026-06-13T12:00:34.318415",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 24 | 💬 9",
+      "ai_summary": "👍 20 | 💬 2",
       "keywords": [
-        "ryanair",
-        "dark",
-        "ux",
-        "patterns",
-        "summer"
+        "tectonic",
+        "modernized",
+        "complete",
+        "self",
+        "contained"
       ],
       "importance": 0
     },
     {
-      "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-      "summary": "👍 751 | 💬 293",
+      "title": "Show HN: Putt.day a daily mini golf game",
+      "link": "https://putt.day/",
+      "summary": "👍 97 | 💬 58",
       "source": "HackerNews",
-      "pub_date": "2026-06-12T12:42:53",
-      "fetched_at": "2026-06-12T20:00:24.324587",
+      "pub_date": "2026-06-13T06:56:06",
+      "fetched_at": "2026-06-13T12:00:26.258293",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 751 | 💬 293",
+      "ai_summary": "👍 97 | 💬 58",
       "keywords": [
-        "ai",
-        "agent",
-        "bankrupted",
-        "their",
-        "operator"
+        "show",
+        "hn",
+        "putt",
+        "day",
+        "daily"
       ],
       "importance": 0
     },
     {
-      "title": "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent",
-      "link": "https://www.qbitai.com/2026/06/434317.html",
-      "summary": "Meshy发布全球首个3D AI Agent",
-      "source": "量子位",
-      "pub_date": "Thu, 11 Jun 2026 04:18:34 +0000",
-      "fetched_at": "2026-06-12T20:00:20.022631",
+      "title": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
+      "link": "https://status.claude.com/incidents/s9w82lp9dcn9",
+      "summary": "👍 156 | 💬 53",
+      "source": "HackerNews",
+      "pub_date": "2026-06-13T08:58:06",
+      "fetched_at": "2026-06-13T12:00:21.963816",
       "categories": [
         "ai"
       ],
-      "ai_summary": "Meshy发布全球首个3D AI Agent",
+      "ai_summary": "👍 156 | 💬 53",
       "keywords": [
-        "meshy",
-        "发布全球首个",
-        "ai",
-        "agent",
-        "创作迎来"
+        "claude",
+        "we",
+        "ve",
+        "suspended",
+        "access"
       ],
-      "importance": 0.5
+      "importance": 0
+    },
+    {
+      "title": "Open source AI must win",
+      "link": "https://opensourceaimustwin.com/?share=v2",
+      "summary": "👍 332 | 💬 85",
+      "source": "HackerNews",
+      "pub_date": "2026-06-13T10:14:24",
+      "fetched_at": "2026-06-13T12:00:20.481876",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 332 | 💬 85",
+      "keywords": [
+        "open",
+        "source",
+        "ai",
+        "must",
+        "win"
+      ],
+      "importance": 0
     },
     {
       "title": "1290万高考生看过来！阿里出了个志愿填报Agent，免费的",
@@ -426,7 +391,7 @@
       "summary": "前期做了40万AI考生压测",
       "source": "量子位",
       "pub_date": "Thu, 11 Jun 2026 07:25:55 +0000",
-      "fetched_at": "2026-06-12T20:00:20.022559",
+      "fetched_at": "2026-06-13T12:00:17.875142",
       "categories": [
         "ai"
       ],
@@ -446,7 +411,7 @@
       "summary": "聪明人总能花最少的钱办最好的事，AI也一样。",
       "source": "量子位",
       "pub_date": "Thu, 11 Jun 2026 08:23:31 +0000",
-      "fetched_at": "2026-06-12T20:00:20.022488",
+      "fetched_at": "2026-06-13T12:00:17.875066",
       "categories": [
         "ai"
       ],
@@ -466,7 +431,7 @@
       "summary": "光散户就给马斯克冲了700亿刀",
       "source": "量子位",
       "pub_date": "Fri, 12 Jun 2026 00:26:58 +0000",
-      "fetched_at": "2026-06-12T20:00:20.022400",
+      "fetched_at": "2026-06-13T12:00:17.874998",
       "categories": [
         "space"
       ],
@@ -486,7 +451,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Fri, 12 Jun 2026 04:11:02 +0000",
-      "fetched_at": "2026-06-12T20:00:20.022330",
+      "fetched_at": "2026-06-13T12:00:17.874933",
       "categories": [
         "robotics"
       ],
@@ -506,7 +471,7 @@
       "summary": "最难档通通零蛋",
       "source": "量子位",
       "pub_date": "Fri, 12 Jun 2026 04:13:23 +0000",
-      "fetched_at": "2026-06-12T20:00:20.022320",
+      "fetched_at": "2026-06-13T12:00:17.874924",
       "categories": [
         "ai"
       ],
@@ -526,7 +491,7 @@
       "summary": "7 月 17-18 日",
       "source": "量子位",
       "pub_date": "Fri, 12 Jun 2026 07:27:14 +0000",
-      "fetched_at": "2026-06-12T20:00:20.022245",
+      "fetched_at": "2026-06-13T12:00:17.874857",
       "categories": [
         "ai"
       ],
@@ -545,7 +510,7 @@
       "summary": "那位被OpenAI开除的股神",
       "source": "量子位",
       "pub_date": "Fri, 12 Jun 2026 07:29:59 +0000",
-      "fetched_at": "2026-06-12T20:00:20.022164",
+      "fetched_at": "2026-06-13T12:00:17.874785",
       "categories": [
         "ai"
       ],
@@ -560,85 +525,126 @@
       "importance": 1.0
     },
     {
-      "title": "Visa 支付网络集成 ChatGPT",
-      "link": "https://www.solidot.org/story?sid=84547",
-      "summary": "Visa 正在其支付网络集成 ChatGPT，允许 AI 智能体代表用户购物并完成购买。此举意味着 AI 智能体不仅能推荐商品，还能代表用户在任何接受 Visa 的商家完成商品购买。OpenAI 将提供技术，让智能体能通过 ChatGPT 进行互动、做出决策和发起购买。Visa 和 OpenAI 没有透露双方合作的财务条款，也没有说明商家或顾客需要支付的费用详细信息。 Visa 表示，为保护消费者并最大限度减少欺诈，该功能将设置消费限额、需要批准的步骤以及仅限授权商家等安全措施。",
-      "source": "Solidot",
-      "pub_date": "Thu, 11 Jun 2026 15:11:37 +0800",
-      "fetched_at": "2026-06-12T20:00:04.698205",
+      "title": "美股三大指数收盘集体上涨，SpaceX上市首日涨超19%",
+      "link": "https://36kr.com/newsflashes/3850879366943750?f=rss",
+      "summary": "36氪获悉，6月12日收盘，美股三大指数集体上涨，道指涨0.7%，纳指涨0.31%，标普500指数涨0.50%。SpaceX上市首日涨超19%，总市值报2.1万亿美元，总市值跃居至全球第六；大型科技股涨跌不一，特斯拉涨超1%，英伟达、谷歌、微软小幅上涨，苹果、亚马逊跌超1%，Meta小幅下跌。热门中概股多数上涨，理想汽车涨超3%，京东涨超1%，阿里巴巴、拼多多、网易、拼多多小幅上涨，百度、蔚来小幅下跌。",
+      "source": "36氪",
+      "pub_date": "2026-06-13 09:00:58  +0800",
+      "fetched_at": "2026-06-13T12:00:17.741909",
       "categories": [
-        "ai"
+        "space"
       ],
-      "ai_summary": "Visa 正在其支付网络集成 ChatGPT，允许 AI 智能体代表用户购物并完成购买。此举意味着 AI 智能体不仅能推荐商品，还能代表用户在任何接受 Visa 的商家完成商品购买。OpenAI 将提供技术，让智能体能通过 ChatGPT 进行互动、做出决策和发起购买。Visa 和 OpenAI 没...",
+      "ai_summary": "36氪获悉，6月12日收盘，美股三大指数集体上涨，道指涨0.7%，纳指涨0.31%，标普500指数涨0.50%。SpaceX上市首日涨超19%，总市值报2.1万亿美元，总市值跃居至全球第六；大型科技股涨跌不一，特斯拉涨超1%，英伟达、谷歌、微软小幅上涨，苹果、亚马逊跌超1%，Meta小幅下跌。热门中...",
       "keywords": [
-        "visa",
-        "chatgpt",
+        "spacex",
+        "上市首日涨超",
+        "美股三大指数收盘集体上涨",
+        "氪获悉",
+        "日收盘"
+      ],
+      "importance": 4.0
+    },
+    {
+      "title": "美多州总检察长联合调查OpenAI",
+      "link": "https://36kr.com/newsflashes/3850885678306561?f=rss",
+      "summary": "据美国《华尔街日报》当地时间6月12日援引知情人士消息报道称，美国多个州的总检察长已对美国开放人工智能研究中心（OpenAI）展开联合调查。报道称，这家人工智能公司于当天收到传票，要求提供与其多项业务活动及其对用户影响相关的文件。OpenAI目前已面临多起诉讼，涉及其聊天机器人ChatGPT的设计问题导致用户自杀或对用户造成不良影响。部分起诉书中指出，ChatGPT的设计“优先考虑用户参与度而非安全性”。（CCTV国际时讯）",
+      "source": "36氪",
+      "pub_date": "2026-06-13 09:11:23  +0800",
+      "fetched_at": "2026-06-13T12:00:17.741741",
+      "categories": [
         "ai",
+        "robotics"
+      ],
+      "ai_summary": "据美国《华尔街日报》当地时间6月12日援引知情人士消息报道称，美国多个州的总检察长已对美国开放人工智能研究中心（OpenAI）展开联合调查。报道称，这家人工智能公司于当天收到传票，要求提供与其多项业务活动及其对用户影响相关的文件。OpenAI目前已面临多起诉讼，涉及其聊天机器人ChatGPT的设计问...",
+      "keywords": [
         "openai",
-        "支付网络集成"
+        "chatgpt",
+        "美多州总检察长联合调查",
+        "据美国",
+        "华尔街日报"
       ],
       "importance": 0.5
     },
     {
-      "title": "OpenAI 称中国关联账户试图煽动美国反数据中心情绪",
-      "link": "https://www.solidot.org/story?sid=84551",
-      "summary": "OpenAI 周三发布报告称，公司发现一些源自中国的账户利用 AI 生成英文社交媒体帖子，称数据中心推高了美国居民的电费。OpenAI 称，这些账户可能与一家未具名的中国私营科技公司有关。OpenAI 表示，这些帖子传播范围有限，但应引起外界对外国势力试图削弱美国战略性产业的关注。该公司补充称，美国对 AI 和数据中心存在“合理的讨论”，但这些账户通过伪装成普通美国民众，通过发布有争议的 AI 生成内容来试图操纵讨论。",
-      "source": "Solidot",
-      "pub_date": "Thu, 11 Jun 2026 17:05:29 +0800",
-      "fetched_at": "2026-06-12T20:00:04.697685",
+      "title": "特朗普政府禁止境外主体获取Anthropic旗下最强人工智能模型",
+      "link": "https://36kr.com/newsflashes/3850886715446274?f=rss",
+      "summary": "特朗普政府禁止境外政府、企业及个人使用Anthropic旗下最先进的人工智能模型。此举意味着美国进一步将尖端人工智能系统视作国家安全核心资产，相关管控再度升级。（新浪财经）",
+      "source": "36氪",
+      "pub_date": "2026-06-13 09:17:22  +0800",
+      "fetched_at": "2026-06-13T12:00:17.741638",
       "categories": [
         "ai"
       ],
-      "ai_summary": "OpenAI 周三发布报告称，公司发现一些源自中国的账户利用 AI 生成英文社交媒体帖子，称数据中心推高了美国居民的电费。OpenAI 称，这些账户可能与一家未具名的中国私营科技公司有关。OpenAI 表示，这些帖子传播范围有限，但应引起外界对外国势力试图削弱美国战略性产业的关注。该公司补充称，美国...",
+      "ai_summary": "特朗普政府禁止境外政府、企业及个人使用Anthropic旗下最先进的人工智能模型。此举意味着美国进一步将尖端人工智能系统视作国家安全核心资产，相关管控再度升级。（新浪财经）",
       "keywords": [
-        "openai",
-        "ai",
-        "称中国关联账户试图煽动美国反数据中心情绪",
-        "周三发布报告称",
-        "公司发现一些源自中国的账户利用"
+        "anthropic",
+        "特朗普政府禁止境外主体获取",
+        "旗下最强人工智能模型",
+        "特朗普政府禁止境外政府",
+        "企业及个人使用"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "具身智能行业5月融资额环比降近六成",
+      "link": "https://36kr.com/newsflashes/3850887488443392?f=rss",
+      "summary": "一路高歌猛进的具身智能行业，在一级市场的融资上出现了降温迹象。据行业机构高工人形机器人不完全统计，2026年5月，具身智能行业共发生51起融资事件，累计金额达86亿元人民币，同比增长145.50%，环比下滑58.65%。这一变化，也说明具身智能产业正在经历从概念追逐转向理性审视的必然阶段。（上证报）",
+      "source": "36氪",
+      "pub_date": "2026-06-13 09:24:15  +0800",
+      "fetched_at": "2026-06-13T12:00:17.741564",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "一路高歌猛进的具身智能行业，在一级市场的融资上出现了降温迹象。据行业机构高工人形机器人不完全统计，2026年5月，具身智能行业共发生51起融资事件，累计金额达86亿元人民币，同比增长145.50%，环比下滑58.65%。这一变化，也说明具身智能产业正在经历从概念追逐转向理性审视的必然阶段。（上证报）",
+      "keywords": [
+        "具身智能行业",
+        "月融资额环比降近六成",
+        "一路高歌猛进的具身智能行业",
+        "在一级市场的融资上出现了降温迹象",
+        "据行业机构高工人形机器人不完全统计"
       ],
       "importance": 1.0
     },
     {
-      "title": "游荡在 Fedora 项目的可疑 AI 智能体",
-      "link": "https://www.solidot.org/story?sid=84552",
-      "summary": "5 月 27 日 Fedora 开发者 Adam Williamson 写邮件给 Nathan Giovannini，对由其账号控制的一个 AI 智能体提出疑问。该智能体过去几个月做了一系列令人感到可疑的事情：无缘无故修改 bug 的严重级别和优先级，伪造对 Bug 的回复，说服维护者将可疑代码合并到 Anaconda 安装程序，向上游项目递交了一系列 pull requests (PRs)，其中一部分已被接受。Giovannini 回应称他的账号被盗了，他不是该智能体的控制者。此事令社区联想到了曾引发广泛关注的 XZ 后门事件。在 XZ 后门事件中，化名为 JiaT75(Jia Tan)的攻...",
-      "source": "Solidot",
-      "pub_date": "Thu, 11 Jun 2026 23:30:34 +0800",
-      "fetched_at": "2026-06-12T20:00:04.697563",
+      "title": "一季度全球前十大晶圆代工商营收季增3.7%",
+      "link": "https://36kr.com/newsflashes/3850890624849156?f=rss",
+      "summary": "据机构统计，今年一季度全球前十大晶圆代工商产值季增3.7%至479.5亿美元，再创新高，预计全球前十大晶圆代工商第二季产值将再创高峰。从排名来看，第一季度晶合集成排名从第九名提升至第八名。 根据TrendForce集邦咨询最新报告，晶圆代工厂商受益于AI HPC（高性能计算）与相关周边订单出货，第一季电视、电脑、笔记本电脑等供应链提前生产出货，提高周边IC库存，厂商陆续接获客户提前生产或加单订单。第一季全球前十大晶圆代工商产值季增3.7%至479.5亿美元，再创新高。（证券时报）",
+      "source": "36氪",
+      "pub_date": "2026-06-13 09:53:27  +0800",
+      "fetched_at": "2026-06-13T12:00:17.741251",
       "categories": [
         "ai"
       ],
-      "ai_summary": "5 月 27 日 Fedora 开发者 Adam Williamson 写邮件给 Nathan Giovannini，对由其账号控制的一个 AI 智能体提出疑问。该智能体过去几个月做了一系列令人感到可疑的事情：无缘无故修改 bug 的严重级别和优先级，伪造对 Bug 的回复，说服维护者将可疑代码合并...",
-      "keywords": [
-        "fedora",
-        "ai",
-        "giovannini",
-        "bug",
-        "xz"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "科技巨头大举借债",
-      "link": "https://www.solidot.org/story?sid=84553",
-      "summary": "为了投资建设 AI 基础设施，科技巨头们正大举借债，规模达到了千亿美元。Google 母公司 Alphabet 一周前表示，计划过股票销售筹集 800 亿美元；Meta 宣布计划通过销售债券筹集 300 亿美元；亚马逊计划在加拿大发行债筹集 140 亿美元，紧跟着又与花旗、摩根大通、富国、汇丰和美银证券等达成协议借款约 175 亿美元总融资 315 亿美元。为了资助 AI 基础设施如芯片和数据中心，主要科技公司的支出都创下了历史新高。如此高的投资引发了回报相关的疑问。",
-      "source": "Solidot",
-      "pub_date": "Thu, 11 Jun 2026 23:52:37 +0800",
-      "fetched_at": "2026-06-12T20:00:04.697408",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "为了投资建设 AI 基础设施，科技巨头们正大举借债，规模达到了千亿美元。Google 母公司 Alphabet 一周前表示，计划过股票销售筹集 800 亿美元；Meta 宣布计划通过销售债券筹集 300 亿美元；亚马逊计划在加拿大发行债筹集 140 亿美元，紧跟着又与花旗、摩根大通、富国、汇丰和美银...",
+      "ai_summary": "据机构统计，今年一季度全球前十大晶圆代工商产值季增3.7%至479.5亿美元，再创新高，预计全球前十大晶圆代工商第二季产值将再创高峰。从排名来看，第一季度晶合集成排名从第九名提升至第八名。 根据TrendForce集邦咨询最新报告，晶圆代工厂商受益于AI HPC（高性能计算）与相关周边订单出货，第一...",
       "keywords": [
         "亿美元",
-        "ai",
-        "科技巨头大举借债",
-        "为了投资建设",
-        "基础设施"
+        "再创新高",
+        "一季度全球前十大晶圆代工商营收季增",
+        "据机构统计",
+        "今年一季度全球前十大晶圆代工商产值季增"
       ],
-      "importance": 2.0
+      "importance": 0.5
+    },
+    {
+      "title": "网传阿里合伙人周靖人拟离职，刚出任阿里首席科学家6天",
+      "link": "https://36kr.com/newsflashes/3851006669427716?f=rss",
+      "summary": "据报道，阿里合伙人周靖人近日已提交离职申请。对于前述消息，截至发稿阿里方面并未回应媒体问询。值得注意的是，6月8日，阿里刚宣布周靖人出任阿里巴巴首席科学家，牵头成立阿里巴巴AI未来研究院，专注前沿AI科技的探索与突破。与此同时，阿里也宣布合并通义大模型事业部和未来生活实验室，成立Token Foundry事业部，由集团 CEO吴泳铭直接负责。刚出任阿里巴巴首席科学家6天便传出离职消息，此举被业内解读为明升暗降，不再有任何实权和具体业务。（新浪科技）",
+      "source": "36氪",
+      "pub_date": "2026-06-13 10:46:33  +0800",
+      "fetched_at": "2026-06-13T12:00:17.740772",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "据报道，阿里合伙人周靖人近日已提交离职申请。对于前述消息，截至发稿阿里方面并未回应媒体问询。值得注意的是，6月8日，阿里刚宣布周靖人出任阿里巴巴首席科学家，牵头成立阿里巴巴AI未来研究院，专注前沿AI科技的探索与突破。与此同时，阿里也宣布合并通义大模型事业部和未来生活实验室，成立Token Foun...",
+      "keywords": [
+        "ai",
+        "网传阿里合伙人周靖人拟离职",
+        "刚出任阿里首席科学家",
+        "据报道",
+        "阿里合伙人周靖人近日已提交离职申请"
+      ],
+      "importance": 0
     }
   ],
-  "updated_at": "2026-06-12T20:00:52.131921"
+  "updated_at": "2026-06-13T12:00:43.863700"
 }

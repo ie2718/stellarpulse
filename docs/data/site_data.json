@@ -5,76 +5,221 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-06-16T12:00:53.259424",
-    "total_items": 21
+    "last_update": "2026-06-16T20:00:30.915812",
+    "total_items": 29
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 16
+      "count": 23
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 5
+      "count": 7
     },
     "space": {
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 2
+      "count": 6
     }
   },
   "stats": {
-    "total_items": 21,
-    "today_items": 21,
+    "total_items": 29,
+    "today_items": 29,
     "sources": {
-      "Solidot": 7,
-      "量子位": 9,
-      "HackerNews": 5
+      "36氪": 9,
+      "Solidot": 6,
+      "量子位": 10,
+      "HackerNews": 4
     },
-    "last_update": "2026-06-16T12:00:53.259424"
+    "last_update": "2026-06-16T20:00:30.915812"
   },
   "trending": [
     {
-      "title": "为什么轨道数据中心比硅谷认为的更困难？",
-      "link": "https://www.solidot.org/story?sid=84571",
-      "summary": "黄仁勋在英伟达 GTC 大会上宣布，“太空计算，最后的疆界，已经到来。”轨道数据中心正从科幻走向现实：SpaceX、Google 以及初创公司 Starcloud 都宣布要建轨道数据中心星座，这些星座由数以千计的卫星构成，卫星搭载了 AI GPU，使用光链路互联，通过微波链路与地面通信。支持者宣传的太空计算优势包括：丰富的太阳能、免费的冷却系统，以及免受地震、洪水和抗议等地面干扰。但如果你仔细审视背后的物理原理，会发现轨道数据中心比硅谷认为的困难得多。免费冷却可能是最大的误解，太空虽然极其寒冷，但它没有大气，散热机制如传导和对流无法发挥作用。太空唯一的散热机制是通过辐射将热发射出去，而为防止芯...",
-      "source": "Solidot",
-      "pub_date": "Sat, 13 Jun 2026 23:22:20 +0800",
-      "fetched_at": "2026-06-16T12:00:04.610578",
+      "title": "SpaceX将通过合并收购美国AI软件公司Anysphere",
+      "link": "https://36kr.com/newsflashes/3855740363560198?f=rss",
+      "summary": "美国证交会备案文件显示，SpaceX与其全资子公司X67 Inc.与Anysphere, Inc.（“Cursor”）签署了一份合并协议与计划。根据该协议，合并子公司将与Cursor合并，Cursor在合并后存续，成为SpaceX的全资子公司。SpaceX提交的文件显示，在合并生效时，Cursor在合并生效时间之前已发行的每股普通股和每股优先股将自动转换为获得本公司A类普通股的权利，该权利基于Cursor 600亿美元的隐含股权价值，以及公司A类普通股在合并交割日前连续七个交易日的成交量加权平均收盘价作为股价。SpaceX目前预计合并将于2026年第三季度完成。（界面）",
+      "source": "36氪",
+      "pub_date": "2026-06-16 19:01:55  +0800",
+      "fetched_at": "2026-06-16T20:00:03.267907",
       "categories": [
         "ai",
         "space"
       ],
-      "ai_summary": "黄仁勋在英伟达 GTC 大会上宣布，“太空计算，最后的疆界，已经到来。”轨道数据中心正从科幻走向现实：SpaceX、Google 以及初创公司 Starcloud 都宣布要建轨道数据中心星座，这些星座由数以千计的卫星构成，卫星搭载了 AI GPU，使用光链路互联，通过微波链路与地面通信。支持者宣传的...",
+      "ai_summary": "美国证交会备案文件显示，SpaceX与其全资子公司X67 Inc.与Anysphere, Inc.（“Cursor”）签署了一份合并协议与计划。根据该协议，合并子公司将与Cursor合并，Cursor在合并后存续，成为SpaceX的全资子公司。SpaceX提交的文件显示，在合并生效时，Cursor在...",
       "keywords": [
-        "为什么轨道数据中心比硅谷认为的更困难",
-        "黄仁勋在英伟达",
-        "gtc",
-        "大会上宣布",
-        "太空计算"
+        "spacex",
+        "cursor",
+        "anysphere",
+        "inc",
+        "将通过合并收购美国"
       ],
       "importance": 2.0
     },
     {
-      "title": "89年哈工程校友，拿下全球海洋机器人领域最大单轮融资",
-      "link": "https://www.qbitai.com/2026/06/435804.html",
-      "summary": "上半年订单金额已超10亿",
-      "source": "量子位",
-      "pub_date": "Mon, 15 Jun 2026 06:54:14 +0000",
-      "fetched_at": "2026-06-16T12:00:19.884424",
+      "title": "开源模型能否战胜 OpenAI？",
+      "link": "https://www.solidot.org/story?sid=84595",
+      "summary": "中美两国的 AI 公司采取了不同的发布策略：中国侧重于开源权重模型，美国公司如 OpenAI 和 Anthropic 则采用闭源策略。Hugging Face 前亚太生态系统高管 Tiezhen Wang 表示，OpenAI 和 Anthropic 指责中国 AI 公司蒸馏其模型，他认为蒸馏是中性的，美国 AI 公司是通过抓取互联网上的信息训练模型，它们并非知识的创造者，却试图阻止其他人重复利用知识，有点讽刺。所有 AI 生成的内容都应该没有版权，否则拥有算力的人能滥用权力，生成各种组合内容然后对所有内容都申请版权。他发现中国公司和美国公司在最大化使用 token 上有明显差异，因为中国有很多...",
+      "source": "Solidot",
+      "pub_date": "Tue, 16 Jun 2026 17:47:07 +0800",
+      "fetched_at": "2026-06-16T20:00:02.348678",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "中美两国的 AI 公司采取了不同的发布策略：中国侧重于开源权重模型，美国公司如 OpenAI 和 Anthropic 则采用闭源策略。Hugging Face 前亚太生态系统高管 Tiezhen Wang 表示，OpenAI 和 Anthropic 指责中国 AI 公司蒸馏其模型，他认为蒸馏是中性的...",
+      "keywords": [
+        "ai",
+        "openai",
+        "anthropic",
+        "开源模型能否战胜",
+        "中美两国的"
+      ],
+      "importance": 1.5
+    },
+    {
+      "title": "朱雀二号火箭解体产生上百碎片",
+      "link": "https://www.solidot.org/story?sid=84593",
+      "summary": "蓝箭航天于 6 月 9 日在东风发射场发射了朱雀二号改进型遥六运载火箭（ZQ-2E Y6），将搭载的千帆 DTC 01 星和中国移动 02 星送入预定轨道。但火箭上面级随后在太空发生解体事件，碎片散落在近地轨道，其中部分与国际空间站和 SpaceX Starlink 宽带网络的轨道重叠。LeoLabs 的高级技术研究员 Darren McKnight 表示此次事件可能产生了 100-150 块碎片。其中一块碎片是火箭的第二级，长约 8 米直径约 3.35 米。火箭上面级的主体在距离地球 335-424 公里的轨道上运行，轨道倾角 54.5 度。好消息是轨道高度足够低，空气阻力将使大部分火箭碎片...",
+      "source": "Solidot",
+      "pub_date": "Tue, 16 Jun 2026 15:32:51 +0800",
+      "fetched_at": "2026-06-16T20:00:02.349062",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "蓝箭航天于 6 月 9 日在东风发射场发射了朱雀二号改进型遥六运载火箭（ZQ-2E Y6），将搭载的千帆 DTC 01 星和中国移动 02 星送入预定轨道。但火箭上面级随后在太空发生解体事件，碎片散落在近地轨道，其中部分与国际空间站和 SpaceX Starlink 宽带网络的轨道重叠。LeoLab...",
+      "keywords": [
+        "朱雀二号火箭解体产生上百碎片",
+        "蓝箭航天于",
+        "日在东风发射场发射了朱雀二号改进型遥六运载火箭",
+        "zq",
+        "将搭载的千帆"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "微软求助于 AWS 以满足 GitHub 上 AI 驱动的负载增长需求",
+      "link": "https://www.solidot.org/story?sid=84590",
+      "summary": "微软旗下的代码托管平台 GitHub 最近一段时间宕机事件频发，它正将服务迁移到微软的云计算平台 Azure，但仍然无法满足不断增长的需求，因此它正求助于最大的竞争对手亚马逊 AWS，以确保平台能正常运行。亚马逊表示不会对个别客户发表评论。对微软而言，GitHub 宕机的风险已经超过了向 AWS 付费所带来的负面影响。GitHub 首席运营官 Kyle Daigle 此前表示，该平台用户的提交(Commits)数将从 2025 年的 10 亿飙升到 2026 年 140 亿次。GitHub 在 2025 年 10 月计划将平台容量提高 10 倍，但到了 2026 年 2 月它发现需要提高 30...",
+      "source": "Solidot",
+      "pub_date": "Tue, 16 Jun 2026 13:35:09 +0800",
+      "fetched_at": "2026-06-16T20:00:02.349568",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "微软旗下的代码托管平台 GitHub 最近一段时间宕机事件频发，它正将服务迁移到微软的云计算平台 Azure，但仍然无法满足不断增长的需求，因此它正求助于最大的竞争对手亚马逊 AWS，以确保平台能正常运行。亚马逊表示不会对个别客户发表评论。对微软而言，GitHub 宕机的风险已经超过了向 AWS 付...",
+      "keywords": [
+        "github",
+        "aws",
+        "微软求助于",
+        "以满足",
+        "ai"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "融了数亿美金的「大晓机器人」，其创始人揭开了具身行业的割裂一面",
+      "link": "https://36kr.com/p/3855262364488969?f=rss",
+      "summary": "文｜周鑫雨 编辑｜张雨忻 梳理近半年的成果，大晓机器人董事长、商汤科技联合创始人王晓刚，滔滔不绝聊了10多分钟。 成立于2025年7月，大晓机器人（ACE ROBOTICS）是具身领域姗姗来迟的入局者。但一年来，这位新玩家成了赛道的“卷王”： 在模型侧，大晓新发布的具身大脑——世界模型“开悟（Kairos）3.0”，在4项全球具身智能基准测试中取得SOTA；开源的Kairos 3.0-4B，则率先实现在端侧直接驱动具身智能本体的能力。 △Kairos3.0在4个世界模型生成预测具身智能榜单中取得SOTA。图源：大晓机器人 在数据侧，大晓提出的“以人为中心”环境式采集方案，通过大规模采集人类与真...",
+      "source": "36氪",
+      "pub_date": "2026-06-16 16:31:50  +0800",
+      "fetched_at": "2026-06-16T20:00:03.233566",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "成立于2025年7月，大晓机器人（ACE ROBOTICS）是具身领域姗姗来迟的入局者。但一年来，这位新玩家成了赛道的“卷王”： 在模型侧，大晓新发布的具身大脑——世界模型“开悟（Kairos）3.0”，在4项全球具身智能基准测试中取得SOTA；开源的Kairos...",
+      "keywords": [
+        "大晓机器人",
+        "kairos",
+        "sota",
+        "融了数亿美金的",
+        "其创始人揭开了具身行业的割裂一面"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "硬氪首发 | 海洋具身智能公司「世航智能」拿下创纪录10亿融资，朱啸虎押注",
+      "link": "https://36kr.com/p/3853011900142848?f=rss",
+      "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，海洋具身智能公司「世航智能」完成A轮融资，融资金额超过10亿元，这也是目前全球海洋机器人领域规模最大的单轮融资。本轮融资由两家芯片公司「摩尔线程」和「昆仑芯」的产业投资方上河动量基金、新加坡国有投资平台Vertex Growth 、上市公司大洋电机等资方出资。 另外，金沙江创投也在本轮追加投资，这已是其创始人朱啸虎第五轮投资「世航智能」，祥峰中国、华映资本、长石资本等老股东亦全部超额跟投。 「世航智能」创始人兼CEO陈晓博为1989年出生的哈尔滨工程大学校友，长期深耕水下机器人领域，在28岁时获得国防科技进步一等奖，是该奖项最年轻获奖者，并主导研发...",
+      "source": "36氪",
+      "pub_date": "2026-06-15 09:50:00  +0800",
+      "fetched_at": "2026-06-16T20:00:03.265581",
       "categories": [
         "robotics"
       ],
-      "ai_summary": "上半年订单金额已超10亿",
+      "ai_summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，海洋具身智能公司「世航智能」完成A轮融资，融资金额超过10亿元，这也是目前全球海洋机器人领域规模最大的单轮融资。本轮融资由两家芯片公司「摩尔线程」和「昆仑芯」的产业投资方上河动量基金、新加坡国有投资平台Vertex Growth...",
       "keywords": [
-        "年哈工程校友",
-        "拿下全球海洋机器人领域最大单轮融资",
-        "上半年订单金额已超"
+        "世航智能",
+        "海洋具身智能公司",
+        "硬氪首发",
+        "拿下创纪录",
+        "亿融资"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "Deepseek首轮融资规模约75亿美元，创始人梁文锋为最大单一出资方",
+      "link": "https://36kr.com/newsflashes/3855729974367233?f=rss",
+      "summary": "36氪从投资机构获悉，Deepseek本轮融资的投资方包括创始人梁文锋、国智投、腾讯、网易、京东、宁德时代体系、正心谷投资、拾象科技、Monolith砺思资本以及 IDG 资本等，整体融资规模约510亿元，折合约75亿美元，投后估值接近4000亿元。具体来看：创始人梁文锋或出资约200亿元，为本轮融资中最大单一出资方。腾讯出资约100亿元；宁德时代体系出资约50亿元，其中包括宁德时代及溥泉资本；网易、京东、Monolith砺思资本、IDG资本分别出资约30亿元；正心谷投资、拾象科技分别出资约15亿元，国家人工智能产业投资基金出资约9.8亿元。",
+      "source": "36氪",
+      "pub_date": "2026-06-16 18:51:21  +0800",
+      "fetched_at": "2026-06-16T20:00:03.268067",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "36氪从投资机构获悉，Deepseek本轮融资的投资方包括创始人梁文锋、国智投、腾讯、网易、京东、宁德时代体系、正心谷投资、拾象科技、Monolith砺思资本以及 IDG 资本等，整体融资规模约510亿元，折合约75亿美元，投后估值接近4000亿元。具体来看：创始人梁文锋或出资约200亿元，为本轮融...",
+      "keywords": [
+        "亿元",
+        "deepseek",
+        "亿美元",
+        "网易",
+        "京东"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "SpaceX华人女孩刷屏！没有硕博学位，6年从火箭小白到「猛禽」飞行操作员",
+      "link": "https://www.qbitai.com/2026/06/435882.html",
+      "summary": "她并不是一位被神话出来的「星舰女王」",
+      "source": "量子位",
+      "pub_date": "Tue, 16 Jun 2026 06:40:17 +0000",
+      "fetched_at": "2026-06-16T20:00:03.385056",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "她并不是一位被神话出来的「星舰女王」",
+      "keywords": [
+        "spacex",
+        "华人女孩刷屏",
+        "没有硕博学位",
+        "年从火箭小白到",
+        "猛禽"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "SpaceX to buy Cursor AI coding agent operator Anysphere for $60B",
+      "link": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+      "summary": "👍 58 | 💬 24",
+      "source": "HackerNews",
+      "pub_date": "2026-06-16T18:44:24",
+      "fetched_at": "2026-06-16T20:00:25.826083",
+      "categories": [
+        "ai",
+        "space"
+      ],
+      "ai_summary": "👍 58 | 💬 24",
+      "keywords": [
+        "spacex",
+        "to",
+        "buy",
+        "cursor",
+        "ai"
       ],
       "importance": 1.0
     },
@@ -84,7 +229,7 @@
       "summary": "位于 Progress（进步号）气闸舱和 Zvezda（星辰号）服务舱之间的 PrK 模块因结构裂缝导致的漏气过去几年一直困扰着国际空间站，今年初漏气问题一度被认为已经修复，但本月早些时候报告漏气再次加剧，该模块的裂缝总数达到 16 处。10 天前俄罗斯宇航员试图用锯子拆除该模块的一个承重支架，此举招致了 NASA 的强烈反对，认为可能会产生严重后果，下令宇航员进入与空间站对接的 Crew Dragon 飞船，穿上宇航服，准备必要时紧急撤离。俄罗斯航天局最终放弃了拆支架的计划。双方在幕后反复的拉锯之后，最终俄罗斯通知 NASA 将退役 PrK 模块。这意味着宇航员将不再进入 PrK 模块，或再...",
       "source": "Solidot",
       "pub_date": "Mon, 15 Jun 2026 23:35:55 +0800",
-      "fetched_at": "2026-06-16T12:00:04.608481",
+      "fetched_at": "2026-06-16T20:00:02.349838",
       "categories": [
         "space"
       ],
@@ -97,220 +242,61 @@
         "位于"
       ],
       "importance": 0.5
-    },
-    {
-      "title": "印度工人训练将会替代他们的 AI 机器人",
-      "link": "https://www.solidot.org/story?sid=84574",
-      "summary": "家庭主妇 Nagireddy Sriramyachandra 头上绑着智能手机，拍摄自己切芒果的视频，以训练 AI 机器人在未来能做家务。她每录制一小时视频能赚到 250 卢比。看似普普通通的视频对科技巨头而言却弥足珍贵，能帮助机器学习如何在现实世界里像人一样行动。这位 25 岁的年轻女性是印度越来越多的 AI 训练大军成员之一。她说只是做家务谁会每小时给你 250 卢比？她表示自己未来也许会拥有一台机器人。她通过专门的应用将拍摄的视频发送给一家 AI 数据公司，该公司在印度和美国设有办事处，其客户包括多家财富 500 强跨国公司。据估计到 2050 年全球将有逾 10 亿台人形机器人投入使用...",
-      "source": "Solidot",
-      "pub_date": "Sun, 14 Jun 2026 22:53:11 +0800",
-      "fetched_at": "2026-06-16T12:00:04.610210",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "家庭主妇 Nagireddy Sriramyachandra 头上绑着智能手机，拍摄自己切芒果的视频，以训练 AI 机器人在未来能做家务。她每录制一小时视频能赚到 250 卢比。看似普普通通的视频对科技巨头而言却弥足珍贵，能帮助机器学习如何在现实世界里像人一样行动。这位 25 岁的年轻女性是印度越来...",
-      "keywords": [
-        "ai",
-        "卢比",
-        "印度工人训练将会替代他们的",
-        "机器人",
-        "家庭主妇"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "Google 起诉涉嫌 AI 诈骗的中国组织",
-      "link": "https://www.solidot.org/story?sid=84569",
-      "summary": "Google 起诉了一家提供“诈骗即服务”的中国组织 Outsider Enterprise。该组织在 Telegram 上运营，向想要搞诈骗活动的人提供一整套模板，如使用 Google Gemini 创建模仿 Google、YouTube，以及纽约 E-ZPass 等政府机构网站的教程。Android 用户收到的逾 250 万条诈骗短信与 Outsider Enterprise 相关，其中约 5.5 万条短信发送在上月的两周内。Google 追踪到 9000 个虚假网站和 100 万网址与该诈骗网络相关。目前没人知道 Outsider Enterprise 幕后运营者的身份，Google 此...",
-      "source": "Solidot",
-      "pub_date": "Sat, 13 Jun 2026 21:38:36 +0800",
-      "fetched_at": "2026-06-16T12:00:04.610867",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Google 起诉了一家提供“诈骗即服务”的中国组织 Outsider Enterprise。该组织在 Telegram 上运营，向想要搞诈骗活动的人提供一整套模板，如使用 Google Gemini 创建模仿 Google、YouTube，以及纽约 E-ZPass 等政府机构网站的教程。Andro...",
-      "keywords": [
-        "google",
-        "outsider",
-        "enterprise",
-        "起诉涉嫌",
-        "ai"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
-      "link": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch",
-      "summary": "👍 84 | 💬 24",
-      "source": "HackerNews",
-      "pub_date": "2026-06-16T10:47:57",
-      "fetched_at": "2026-06-16T12:00:22.131548",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 84 | 💬 24",
-      "keywords": [
-        "microsoft",
-        "turns",
-        "to",
-        "aws",
-        "as"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "测试显示 AI 的数学解题能力仍然不如人类专家",
-      "link": "https://www.solidot.org/story?sid=84583",
-      "summary": "AI 模型的解题水平仍不及顶尖数学家。这项测试隶属 First Proof 项目，旨在评估 AI 解决复杂数学难题的能力。研究人员向 4 款 AI 系统提出 10 道科研级数学难题，再由相关数学领域的匿名专家评审团对作答结果进行打分。这次测试首次同时满足三大核心标准：题目均为前沿科研级数学问题、所有题目从未出现在模型训练数据中、由专业数学家评阅。10 名来自不同数学细分领域的研究人员，各自拿出一道本人研究过程中已解答但尚未公开发表的原创题目。这次测试中，各大推理模型依然频繁出现幻觉问题，这也是大语言模型的通病。而且所有 AI 作答在文献引用方面都“严重缺失”，全程没有标注来源。",
-      "source": "Solidot",
-      "pub_date": "Mon, 15 Jun 2026 17:50:51 +0800",
-      "fetched_at": "2026-06-16T12:00:04.609088",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "AI 模型的解题水平仍不及顶尖数学家。这项测试隶属 First Proof 项目，旨在评估 AI 解决复杂数学难题的能力。研究人员向 4 款 AI 系统提出 10 道科研级数学难题，再由相关数学领域的匿名专家评审团对作答结果进行打分。这次测试首次同时满足三大核心标准：题目均为前沿科研级数学问题、所有...",
-      "keywords": [
-        "ai",
-        "测试显示",
-        "的数学解题能力仍然不如人类专家",
-        "模型的解题水平仍不及顶尖数学家",
-        "这项测试隶属"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "本田思域容易遭到“邪恶女佣攻击”",
-      "link": "https://www.solidot.org/story?sid=84576",
-      "summary": "邪恶女佣攻击（Evil maid attack）是对无人值守设备的一种攻击方式，具有物理访问权限的攻击者，用某种无法检测的手段对设备进行更改，以便后续访问该设备或设备中的数据。本田思域也很容易面临类似的攻击，比如邪恶的酒店代客泊车员。研究人员发现，本田汽车使用的 Android 软件包使用了公开的 AOSP 测试密钥进行签名，只要能物理访问汽车的 USB 接口，就可以刷入任意软件包，执行任意代码。",
-      "source": "Solidot",
-      "pub_date": "Mon, 15 Jun 2026 00:15:49 +0800",
-      "fetched_at": "2026-06-16T12:00:04.609949",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "邪恶女佣攻击（Evil maid attack）是对无人值守设备的一种攻击方式，具有物理访问权限的攻击者，用某种无法检测的手段对设备进行更改，以便后续访问该设备或设备中的数据。本田思域也很容易面临类似的攻击，比如邪恶的酒店代客泊车员。研究人员发现，本田汽车使用的 Android 软件包使用了公开的 ...",
-      "keywords": [
-        "邪恶女佣攻击",
-        "本田思域容易遭到",
-        "evil",
-        "maid",
-        "attack"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "英国警官被控使用 AI 伪造证据",
-      "link": "https://www.solidot.org/story?sid=84572",
-      "summary": "英国警方对一名涉嫌在多个案件使用 AI 伪造证据的警官展开刑事调查。由于调查正在进行之中，警方没有披露更多信息。德比郡警方表示，这名警官已被调离一线岗位，等待调查结果。该警官被指控妨碍司法公正，尚未被逮捕。这是英国首例警官在刑事案件中被控滥用 AI 技术。",
-      "source": "Solidot",
-      "pub_date": "Sun, 14 Jun 2026 21:51:18 +0800",
-      "fetched_at": "2026-06-16T12:00:04.610441",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "英国警方对一名涉嫌在多个案件使用 AI 伪造证据的警官展开刑事调查。由于调查正在进行之中，警方没有披露更多信息。德比郡警方表示，这名警官已被调离一线岗位，等待调查结果。该警官被指控妨碍司法公正，尚未被逮捕。这是英国首例警官在刑事案件中被控滥用 AI 技术。",
-      "keywords": [
-        "ai",
-        "英国警官被控使用",
-        "伪造证据",
-        "英国警方对一名涉嫌在多个案件使用",
-        "伪造证据的警官展开刑事调查"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "沙利文权威认证：范式 Rise vGPU 获评 Tier 1 领先平台",
-      "link": "https://www.qbitai.com/2026/06/435853.html",
-      "summary": "成为全球领先的通用人工智能科技公司",
-      "source": "量子位",
-      "pub_date": "Tue, 16 Jun 2026 02:47:51 +0000",
-      "fetched_at": "2026-06-16T12:00:19.884234",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "成为全球领先的通用人工智能科技公司",
-      "keywords": [
-        "沙利文权威认证",
-        "范式",
-        "rise",
-        "vgpu",
-        "获评"
-      ],
-      "importance": 0
     }
   ],
   "latest": [
     {
-      "title": "My Homelab AI Dev Platform",
-      "link": "https://rsgm.dev/post/ai-dev-platform/",
-      "summary": "👍 262 | 💬 51",
+      "title": "SpaceX to buy Cursor AI coding agent operator Anysphere for $60B",
+      "link": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+      "summary": "👍 58 | 💬 24",
       "source": "HackerNews",
-      "pub_date": "2026-06-15T23:09:40",
-      "fetched_at": "2026-06-16T12:00:39.491903",
+      "pub_date": "2026-06-16T18:44:24",
+      "fetched_at": "2026-06-16T20:00:25.826083",
       "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 262 | 💬 51",
-      "keywords": [
-        "my",
-        "homelab",
         "ai",
-        "dev",
-        "platform"
+        "space"
       ],
-      "importance": 0
+      "ai_summary": "👍 58 | 💬 24",
+      "keywords": [
+        "spacex",
+        "to",
+        "buy",
+        "cursor",
+        "ai"
+      ],
+      "importance": 1.0
     },
     {
-      "title": "Why I email complete strangers",
-      "link": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
-      "summary": "👍 98 | 💬 47",
+      "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
+      "link": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+      "summary": "👍 83 | 💬 46",
       "source": "HackerNews",
-      "pub_date": "2026-06-16T05:57:10",
-      "fetched_at": "2026-06-16T12:00:34.869510",
+      "pub_date": "2026-06-16T17:26:09",
+      "fetched_at": "2026-06-16T20:00:19.946928",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 98 | 💬 47",
+      "ai_summary": "👍 83 | 💬 46",
       "keywords": [
-        "why",
-        "email",
-        "complete",
-        "strangers"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-      "link": "https://news.ycombinator.com/item?id=48542100",
-      "summary": "👍 759 | 💬 363",
-      "source": "HackerNews",
-      "pub_date": "2026-06-15T22:46:53",
-      "fetched_at": "2026-06-16T12:00:32.405744",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 759 | 💬 363",
-      "keywords": [
-        "ask",
-        "hn",
-        "has",
-        "anyone",
-        "replaced"
+        "feds",
+        "freaked",
+        "over",
+        "fable",
+        "after"
       ],
       "importance": 0
     },
     {
       "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
       "link": "https://tinywind.io",
-      "summary": "👍 654 | 💬 136",
+      "summary": "👍 880 | 💬 161",
       "source": "HackerNews",
       "pub_date": "2026-06-16T00:15:53",
-      "fetched_at": "2026-06-16T12:00:31.605384",
+      "fetched_at": "2026-06-16T20:00:19.131692",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 654 | 💬 136",
+      "ai_summary": "👍 880 | 💬 161",
       "keywords": [
         "tinywind",
         "pixel",
@@ -321,122 +307,24 @@
       "importance": 0
     },
     {
-      "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
-      "link": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch",
-      "summary": "👍 84 | 💬 24",
+      "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+      "link": "https://news.ycombinator.com/item?id=48542100",
+      "summary": "👍 1071 | 💬 462",
       "source": "HackerNews",
-      "pub_date": "2026-06-16T10:47:57",
-      "fetched_at": "2026-06-16T12:00:22.131548",
+      "pub_date": "2026-06-15T22:46:53",
+      "fetched_at": "2026-06-16T20:00:18.352475",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 84 | 💬 24",
+      "ai_summary": "👍 1071 | 💬 462",
       "keywords": [
-        "microsoft",
-        "turns",
-        "to",
-        "aws",
-        "as"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "智源大会 | 天工AI重新定义世界模型，公布Matrix-Game 3.5 最新技术突破",
-      "link": "https://www.qbitai.com/2026/06/435520.html",
-      "summary": "昆仑万维将持续深耕，步履不停",
-      "source": "量子位",
-      "pub_date": "Mon, 15 Jun 2026 03:24:30 +0000",
-      "fetched_at": "2026-06-16T12:00:19.884779",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "昆仑万维将持续深耕，步履不停",
-      "keywords": [
-        "智源大会",
-        "天工",
-        "ai",
-        "重新定义世界模型",
-        "公布"
+        "ask",
+        "hn",
+        "has",
+        "anyone",
+        "replaced"
       ],
       "importance": 0
-    },
-    {
-      "title": "低成本复刻Fable 5的路子找到了：OrcaRouter多模型组队，性能反超",
-      "link": "https://www.qbitai.com/2026/06/435558.html",
-      "summary": "原来最强AI不是一个AI",
-      "source": "量子位",
-      "pub_date": "Mon, 15 Jun 2026 05:43:15 +0000",
-      "fetched_at": "2026-06-16T12:00:19.884638",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "原来最强AI不是一个AI",
-      "keywords": [
-        "ai",
-        "低成本复刻",
-        "fable",
-        "的路子找到了",
-        "orcarouter"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "刚成立一年就拿下车厂订单，这家清华系公司把具身智能送进真实产线",
-      "link": "https://www.qbitai.com/2026/06/435574.html",
-      "summary": "过去两年，具身智能行业最热的关键词是人形机器人。但未来几年，更重要的关键词或许会变成另一件事：智能生产力。",
-      "source": "量子位",
-      "pub_date": "Mon, 15 Jun 2026 06:08:58 +0000",
-      "fetched_at": "2026-06-16T12:00:19.884563",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "过去两年，具身智能行业最热的关键词是人形机器人。但未来几年，更重要的关键词或许会变成另一件事：智能生产力。",
-      "keywords": [
-        "刚成立一年就拿下车厂订单",
-        "这家清华系公司把具身智能送进真实产线",
-        "过去两年",
-        "具身智能行业最热的关键词是人形机器人",
-        "但未来几年"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "4步出声，单卡0.24秒！Noiz AI联合港科大清华，开源音频生成大模型",
-      "link": "https://www.qbitai.com/2026/06/435802.html",
-      "summary": "还能听懂时间戳",
-      "source": "量子位",
-      "pub_date": "Mon, 15 Jun 2026 06:52:30 +0000",
-      "fetched_at": "2026-06-16T12:00:19.884493",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "还能听懂时间戳",
-      "keywords": [
-        "步出声",
-        "单卡",
-        "noiz",
-        "ai",
-        "联合港科大清华"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "89年哈工程校友，拿下全球海洋机器人领域最大单轮融资",
-      "link": "https://www.qbitai.com/2026/06/435804.html",
-      "summary": "上半年订单金额已超10亿",
-      "source": "量子位",
-      "pub_date": "Mon, 15 Jun 2026 06:54:14 +0000",
-      "fetched_at": "2026-06-16T12:00:19.884424",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "上半年订单金额已超10亿",
-      "keywords": [
-        "年哈工程校友",
-        "拿下全球海洋机器人领域最大单轮融资",
-        "上半年订单金额已超"
-      ],
-      "importance": 1.0
     },
     {
       "title": "宇树机器人要登珠峰了！",
@@ -444,7 +332,7 @@
       "summary": "已登顶钦博拉索",
       "source": "量子位",
       "pub_date": "Mon, 15 Jun 2026 09:17:30 +0000",
-      "fetched_at": "2026-06-16T12:00:19.884347",
+      "fetched_at": "2026-06-16T20:00:03.385365",
       "categories": [
         "robotics"
       ],
@@ -461,7 +349,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Mon, 15 Jun 2026 09:37:40 +0000",
-      "fetched_at": "2026-06-16T12:00:19.884256",
+      "fetched_at": "2026-06-16T20:00:03.385300",
       "categories": [
         "robotics"
       ],
@@ -481,7 +369,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Mon, 15 Jun 2026 12:57:10 +0000",
-      "fetched_at": "2026-06-16T12:00:19.884250",
+      "fetched_at": "2026-06-16T20:00:03.385294",
       "categories": [
         "ai"
       ],
@@ -494,12 +382,32 @@
       "importance": 0
     },
     {
+      "title": "上线首月吸引 10 万开发者，AnySearch 为 Agent 解锁网页之外的世界",
+      "link": "https://www.qbitai.com/2026/06/435861.html",
+      "summary": "专为 Agent 设计的 AI 搜索层服务",
+      "source": "量子位",
+      "pub_date": "Tue, 16 Jun 2026 01:32:25 +0000",
+      "fetched_at": "2026-06-16T20:00:03.385284",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "专为 Agent 设计的 AI 搜索层服务",
+      "keywords": [
+        "agent",
+        "上线首月吸引",
+        "万开发者",
+        "anysearch",
+        "解锁网页之外的世界"
+      ],
+      "importance": 0
+    },
+    {
       "title": "沙利文权威认证：范式 Rise vGPU 获评 Tier 1 领先平台",
       "link": "https://www.qbitai.com/2026/06/435853.html",
       "summary": "成为全球领先的通用人工智能科技公司",
       "source": "量子位",
       "pub_date": "Tue, 16 Jun 2026 02:47:51 +0000",
-      "fetched_at": "2026-06-16T12:00:19.884234",
+      "fetched_at": "2026-06-16T20:00:03.385213",
       "categories": [
         "ai"
       ],
@@ -514,127 +422,228 @@
       "importance": 0
     },
     {
-      "title": "Google 起诉涉嫌 AI 诈骗的中国组织",
-      "link": "https://www.solidot.org/story?sid=84569",
-      "summary": "Google 起诉了一家提供“诈骗即服务”的中国组织 Outsider Enterprise。该组织在 Telegram 上运营，向想要搞诈骗活动的人提供一整套模板，如使用 Google Gemini 创建模仿 Google、YouTube，以及纽约 E-ZPass 等政府机构网站的教程。Android 用户收到的逾 250 万条诈骗短信与 Outsider Enterprise 相关，其中约 5.5 万条短信发送在上月的两周内。Google 追踪到 9000 个虚假网站和 100 万网址与该诈骗网络相关。目前没人知道 Outsider Enterprise 幕后运营者的身份，Google 此...",
-      "source": "Solidot",
-      "pub_date": "Sat, 13 Jun 2026 21:38:36 +0800",
-      "fetched_at": "2026-06-16T12:00:04.610867",
+      "title": "从技术向运营生产力“质变”：神州数码以AI for Process构建AI落地产业的“飞轮”",
+      "link": "https://www.qbitai.com/2026/06/435859.html",
+      "summary": "",
+      "source": "量子位",
+      "pub_date": "Tue, 16 Jun 2026 04:10:43 +0000",
+      "fetched_at": "2026-06-16T20:00:03.385145",
       "categories": [
         "ai"
       ],
-      "ai_summary": "Google 起诉了一家提供“诈骗即服务”的中国组织 Outsider Enterprise。该组织在 Telegram 上运营，向想要搞诈骗活动的人提供一整套模板，如使用 Google Gemini 创建模仿 Google、YouTube，以及纽约 E-ZPass 等政府机构网站的教程。Andro...",
-      "keywords": [
-        "google",
-        "outsider",
-        "enterprise",
-        "起诉涉嫌",
-        "ai"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "为什么轨道数据中心比硅谷认为的更困难？",
-      "link": "https://www.solidot.org/story?sid=84571",
-      "summary": "黄仁勋在英伟达 GTC 大会上宣布，“太空计算，最后的疆界，已经到来。”轨道数据中心正从科幻走向现实：SpaceX、Google 以及初创公司 Starcloud 都宣布要建轨道数据中心星座，这些星座由数以千计的卫星构成，卫星搭载了 AI GPU，使用光链路互联，通过微波链路与地面通信。支持者宣传的太空计算优势包括：丰富的太阳能、免费的冷却系统，以及免受地震、洪水和抗议等地面干扰。但如果你仔细审视背后的物理原理，会发现轨道数据中心比硅谷认为的困难得多。免费冷却可能是最大的误解，太空虽然极其寒冷，但它没有大气，散热机制如传导和对流无法发挥作用。太空唯一的散热机制是通过辐射将热发射出去，而为防止芯...",
-      "source": "Solidot",
-      "pub_date": "Sat, 13 Jun 2026 23:22:20 +0800",
-      "fetched_at": "2026-06-16T12:00:04.610578",
-      "categories": [
-        "ai",
-        "space"
-      ],
-      "ai_summary": "黄仁勋在英伟达 GTC 大会上宣布，“太空计算，最后的疆界，已经到来。”轨道数据中心正从科幻走向现实：SpaceX、Google 以及初创公司 Starcloud 都宣布要建轨道数据中心星座，这些星座由数以千计的卫星构成，卫星搭载了 AI GPU，使用光链路互联，通过微波链路与地面通信。支持者宣传的...",
-      "keywords": [
-        "为什么轨道数据中心比硅谷认为的更困难",
-        "黄仁勋在英伟达",
-        "gtc",
-        "大会上宣布",
-        "太空计算"
-      ],
-      "importance": 2.0
-    },
-    {
-      "title": "英国警官被控使用 AI 伪造证据",
-      "link": "https://www.solidot.org/story?sid=84572",
-      "summary": "英国警方对一名涉嫌在多个案件使用 AI 伪造证据的警官展开刑事调查。由于调查正在进行之中，警方没有披露更多信息。德比郡警方表示，这名警官已被调离一线岗位，等待调查结果。该警官被指控妨碍司法公正，尚未被逮捕。这是英国首例警官在刑事案件中被控滥用 AI 技术。",
-      "source": "Solidot",
-      "pub_date": "Sun, 14 Jun 2026 21:51:18 +0800",
-      "fetched_at": "2026-06-16T12:00:04.610441",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "英国警方对一名涉嫌在多个案件使用 AI 伪造证据的警官展开刑事调查。由于调查正在进行之中，警方没有披露更多信息。德比郡警方表示，这名警官已被调离一线岗位，等待调查结果。该警官被指控妨碍司法公正，尚未被逮捕。这是英国首例警官在刑事案件中被控滥用 AI 技术。",
+      "ai_summary": "",
       "keywords": [
         "ai",
-        "英国警官被控使用",
-        "伪造证据",
-        "英国警方对一名涉嫌在多个案件使用",
-        "伪造证据的警官展开刑事调查"
+        "从技术向运营生产力",
+        "质变",
+        "神州数码以",
+        "for"
       ],
       "importance": 0
     },
     {
-      "title": "印度工人训练将会替代他们的 AI 机器人",
-      "link": "https://www.solidot.org/story?sid=84574",
-      "summary": "家庭主妇 Nagireddy Sriramyachandra 头上绑着智能手机，拍摄自己切芒果的视频，以训练 AI 机器人在未来能做家务。她每录制一小时视频能赚到 250 卢比。看似普普通通的视频对科技巨头而言却弥足珍贵，能帮助机器学习如何在现实世界里像人一样行动。这位 25 岁的年轻女性是印度越来越多的 AI 训练大军成员之一。她说只是做家务谁会每小时给你 250 卢比？她表示自己未来也许会拥有一台机器人。她通过专门的应用将拍摄的视频发送给一家 AI 数据公司，该公司在印度和美国设有办事处，其客户包括多家财富 500 强跨国公司。据估计到 2050 年全球将有逾 10 亿台人形机器人投入使用...",
-      "source": "Solidot",
-      "pub_date": "Sun, 14 Jun 2026 22:53:11 +0800",
-      "fetched_at": "2026-06-16T12:00:04.610210",
+      "title": "三连发！阿里发布首个具身大模型Qwen-Robot系列",
+      "link": "https://www.qbitai.com/2026/06/435873.html",
+      "summary": "边走、边看、边思考",
+      "source": "量子位",
+      "pub_date": "Tue, 16 Jun 2026 04:39:39 +0000",
+      "fetched_at": "2026-06-16T20:00:03.385135",
       "categories": [
         "ai",
         "robotics"
       ],
-      "ai_summary": "家庭主妇 Nagireddy Sriramyachandra 头上绑着智能手机，拍摄自己切芒果的视频，以训练 AI 机器人在未来能做家务。她每录制一小时视频能赚到 250 卢比。看似普普通通的视频对科技巨头而言却弥足珍贵，能帮助机器学习如何在现实世界里像人一样行动。这位 25 岁的年轻女性是印度越来...",
+      "ai_summary": "边走、边看、边思考",
       "keywords": [
-        "ai",
-        "卢比",
-        "印度工人训练将会替代他们的",
-        "机器人",
-        "家庭主妇"
+        "三连发",
+        "阿里发布首个具身大模型",
+        "qwen",
+        "robot",
+        "系列"
       ],
       "importance": 0.5
     },
     {
-      "title": "本田思域容易遭到“邪恶女佣攻击”",
-      "link": "https://www.solidot.org/story?sid=84576",
-      "summary": "邪恶女佣攻击（Evil maid attack）是对无人值守设备的一种攻击方式，具有物理访问权限的攻击者，用某种无法检测的手段对设备进行更改，以便后续访问该设备或设备中的数据。本田思域也很容易面临类似的攻击，比如邪恶的酒店代客泊车员。研究人员发现，本田汽车使用的 Android 软件包使用了公开的 AOSP 测试密钥进行签名，只要能物理访问汽车的 USB 接口，就可以刷入任意软件包，执行任意代码。",
-      "source": "Solidot",
-      "pub_date": "Mon, 15 Jun 2026 00:15:49 +0800",
-      "fetched_at": "2026-06-16T12:00:04.609949",
+      "title": "SpaceX华人女孩刷屏！没有硕博学位，6年从火箭小白到「猛禽」飞行操作员",
+      "link": "https://www.qbitai.com/2026/06/435882.html",
+      "summary": "她并不是一位被神话出来的「星舰女王」",
+      "source": "量子位",
+      "pub_date": "Tue, 16 Jun 2026 06:40:17 +0000",
+      "fetched_at": "2026-06-16T20:00:03.385056",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "她并不是一位被神话出来的「星舰女王」",
+      "keywords": [
+        "spacex",
+        "华人女孩刷屏",
+        "没有硕博学位",
+        "年从火箭小白到",
+        "猛禽"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "不儿，罗永浩、胡彦斌都来参加这场AI大赛了啊",
+      "link": "https://www.qbitai.com/2026/06/435931.html",
+      "summary": "100万奖金，0门槛参赛",
+      "source": "量子位",
+      "pub_date": "Tue, 16 Jun 2026 09:31:02 +0000",
+      "fetched_at": "2026-06-16T20:00:03.384979",
       "categories": [
         "ai"
       ],
-      "ai_summary": "邪恶女佣攻击（Evil maid attack）是对无人值守设备的一种攻击方式，具有物理访问权限的攻击者，用某种无法检测的手段对设备进行更改，以便后续访问该设备或设备中的数据。本田思域也很容易面临类似的攻击，比如邪恶的酒店代客泊车员。研究人员发现，本田汽车使用的 Android 软件包使用了公开的 ...",
+      "ai_summary": "100万奖金，0门槛参赛",
       "keywords": [
-        "邪恶女佣攻击",
-        "本田思域容易遭到",
-        "evil",
-        "maid",
-        "attack"
+        "不儿",
+        "罗永浩",
+        "胡彦斌都来参加这场",
+        "ai",
+        "大赛了啊"
       ],
       "importance": 0
     },
     {
-      "title": "测试显示 AI 的数学解题能力仍然不如人类专家",
-      "link": "https://www.solidot.org/story?sid=84583",
-      "summary": "AI 模型的解题水平仍不及顶尖数学家。这项测试隶属 First Proof 项目，旨在评估 AI 解决复杂数学难题的能力。研究人员向 4 款 AI 系统提出 10 道科研级数学难题，再由相关数学领域的匿名专家评审团对作答结果进行打分。这次测试首次同时满足三大核心标准：题目均为前沿科研级数学问题、所有题目从未出现在模型训练数据中、由专业数学家评阅。10 名来自不同数学细分领域的研究人员，各自拿出一道本人研究过程中已解答但尚未公开发表的原创题目。这次测试中，各大推理模型依然频繁出现幻觉问题，这也是大语言模型的通病。而且所有 AI 作答在文献引用方面都“严重缺失”，全程没有标注来源。",
-      "source": "Solidot",
-      "pub_date": "Mon, 15 Jun 2026 17:50:51 +0800",
-      "fetched_at": "2026-06-16T12:00:04.609088",
+      "title": "网易有道首席科学家段亦涛：让AI技术扎根业务场景",
+      "link": "https://www.qbitai.com/2026/06/435950.html",
+      "summary": "转载来源：网易有道 本文为量子位获授权转载，观点仅为原作者所有。",
+      "source": "量子位",
+      "pub_date": "Tue, 16 Jun 2026 10:36:35 +0000",
+      "fetched_at": "2026-06-16T20:00:03.384886",
       "categories": [
         "ai"
       ],
-      "ai_summary": "AI 模型的解题水平仍不及顶尖数学家。这项测试隶属 First Proof 项目，旨在评估 AI 解决复杂数学难题的能力。研究人员向 4 款 AI 系统提出 10 道科研级数学难题，再由相关数学领域的匿名专家评审团对作答结果进行打分。这次测试首次同时满足三大核心标准：题目均为前沿科研级数学问题、所有...",
+      "ai_summary": "转载来源：网易有道 本文为量子位获授权转载，观点仅为原作者所有。",
+      "keywords": [
+        "网易有道首席科学家段亦涛",
+        "ai",
+        "技术扎根业务场景",
+        "转载来源",
+        "网易有道"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Deepseek首轮融资规模约75亿美元，创始人梁文锋为最大单一出资方",
+      "link": "https://36kr.com/newsflashes/3855729974367233?f=rss",
+      "summary": "36氪从投资机构获悉，Deepseek本轮融资的投资方包括创始人梁文锋、国智投、腾讯、网易、京东、宁德时代体系、正心谷投资、拾象科技、Monolith砺思资本以及 IDG 资本等，整体融资规模约510亿元，折合约75亿美元，投后估值接近4000亿元。具体来看：创始人梁文锋或出资约200亿元，为本轮融资中最大单一出资方。腾讯出资约100亿元；宁德时代体系出资约50亿元，其中包括宁德时代及溥泉资本；网易、京东、Monolith砺思资本、IDG资本分别出资约30亿元；正心谷投资、拾象科技分别出资约15亿元，国家人工智能产业投资基金出资约9.8亿元。",
+      "source": "36氪",
+      "pub_date": "2026-06-16 18:51:21  +0800",
+      "fetched_at": "2026-06-16T20:00:03.268067",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "36氪从投资机构获悉，Deepseek本轮融资的投资方包括创始人梁文锋、国智投、腾讯、网易、京东、宁德时代体系、正心谷投资、拾象科技、Monolith砺思资本以及 IDG 资本等，整体融资规模约510亿元，折合约75亿美元，投后估值接近4000亿元。具体来看：创始人梁文锋或出资约200亿元，为本轮融...",
+      "keywords": [
+        "亿元",
+        "deepseek",
+        "亿美元",
+        "网易",
+        "京东"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "SpaceX将通过合并收购美国AI软件公司Anysphere",
+      "link": "https://36kr.com/newsflashes/3855740363560198?f=rss",
+      "summary": "美国证交会备案文件显示，SpaceX与其全资子公司X67 Inc.与Anysphere, Inc.（“Cursor”）签署了一份合并协议与计划。根据该协议，合并子公司将与Cursor合并，Cursor在合并后存续，成为SpaceX的全资子公司。SpaceX提交的文件显示，在合并生效时，Cursor在合并生效时间之前已发行的每股普通股和每股优先股将自动转换为获得本公司A类普通股的权利，该权利基于Cursor 600亿美元的隐含股权价值，以及公司A类普通股在合并交割日前连续七个交易日的成交量加权平均收盘价作为股价。SpaceX目前预计合并将于2026年第三季度完成。（界面）",
+      "source": "36氪",
+      "pub_date": "2026-06-16 19:01:55  +0800",
+      "fetched_at": "2026-06-16T20:00:03.267907",
+      "categories": [
+        "ai",
+        "space"
+      ],
+      "ai_summary": "美国证交会备案文件显示，SpaceX与其全资子公司X67 Inc.与Anysphere, Inc.（“Cursor”）签署了一份合并协议与计划。根据该协议，合并子公司将与Cursor合并，Cursor在合并后存续，成为SpaceX的全资子公司。SpaceX提交的文件显示，在合并生效时，Cursor在...",
+      "keywords": [
+        "spacex",
+        "cursor",
+        "anysphere",
+        "inc",
+        "将通过合并收购美国"
+      ],
+      "importance": 2.0
+    },
+    {
+      "title": "东山精密：拟投资12亿美元实施光芯片及光模块扩建项目",
+      "link": "https://36kr.com/newsflashes/3855759472120839?f=rss",
+      "summary": "36氪获悉，东山精密公告，公司董事会召开会议，同意公司子公司索尔思光电及其子公司在常州等地实施光芯片及光模块扩建项目，项目总投资额12亿美元，以提升索尔思光电整体产能规模，项目投资资金来源为公司自筹资金。此次投资扩建可以提升公司高端光芯片、光模块产能，充分满足客户在AI算力服务器相关核心产品上的中长期采购需求，进一步增强公司核心竞争力。",
+      "source": "36氪",
+      "pub_date": "2026-06-16 19:21:21  +0800",
+      "fetched_at": "2026-06-16T20:00:03.267516",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "36氪获悉，东山精密公告，公司董事会召开会议，同意公司子公司索尔思光电及其子公司在常州等地实施光芯片及光模块扩建项目，项目总投资额12亿美元，以提升索尔思光电整体产能规模，项目投资资金来源为公司自筹资金。此次投资扩建可以提升公司高端光芯片、光模块产能，充分满足客户在AI算力服务器相关核心产品上的中长...",
+      "keywords": [
+        "东山精密",
+        "拟投资",
+        "亿美元实施光芯片及光模块扩建项目",
+        "氪获悉",
+        "东山精密公告"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "微信支付“AI专属卡”最快本周内上线",
+      "link": "https://36kr.com/newsflashes/3855774821929991?f=rss",
+      "summary": "记者获悉，微信支付正联合腾讯智能体产品WorkBuddy测试AI支付功能，计划在微信钱包中上线“AI专属卡”。该功能最快将于本周内上线。记者今日就上述信息向微信支付方面求证，至发稿未获回应。（财联社）",
+      "source": "36氪",
+      "pub_date": "2026-06-16 19:36:58  +0800",
+      "fetched_at": "2026-06-16T20:00:03.267284",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "记者获悉，微信支付正联合腾讯智能体产品WorkBuddy测试AI支付功能，计划在微信钱包中上线“AI专属卡”。该功能最快将于本周内上线。记者今日就上述信息向微信支付方面求证，至发稿未获回应。（财联社）",
       "keywords": [
         "ai",
-        "测试显示",
-        "的数学解题能力仍然不如人类专家",
-        "模型的解题水平仍不及顶尖数学家",
-        "这项测试隶属"
+        "专属卡",
+        "微信支付",
+        "最快本周内上线",
+        "记者获悉"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "硬氪首发 | 海洋具身智能公司「世航智能」拿下创纪录10亿融资，朱啸虎押注",
+      "link": "https://36kr.com/p/3853011900142848?f=rss",
+      "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，海洋具身智能公司「世航智能」完成A轮融资，融资金额超过10亿元，这也是目前全球海洋机器人领域规模最大的单轮融资。本轮融资由两家芯片公司「摩尔线程」和「昆仑芯」的产业投资方上河动量基金、新加坡国有投资平台Vertex Growth 、上市公司大洋电机等资方出资。 另外，金沙江创投也在本轮追加投资，这已是其创始人朱啸虎第五轮投资「世航智能」，祥峰中国、华映资本、长石资本等老股东亦全部超额跟投。 「世航智能」创始人兼CEO陈晓博为1989年出生的哈尔滨工程大学校友，长期深耕水下机器人领域，在28岁时获得国防科技进步一等奖，是该奖项最年轻获奖者，并主导研发...",
+      "source": "36氪",
+      "pub_date": "2026-06-15 09:50:00  +0800",
+      "fetched_at": "2026-06-16T20:00:03.265581",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，海洋具身智能公司「世航智能」完成A轮融资，融资金额超过10亿元，这也是目前全球海洋机器人领域规模最大的单轮融资。本轮融资由两家芯片公司「摩尔线程」和「昆仑芯」的产业投资方上河动量基金、新加坡国有投资平台Vertex Growth...",
+      "keywords": [
+        "世航智能",
+        "海洋具身智能公司",
+        "硬氪首发",
+        "拿下创纪录",
+        "亿融资"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
+      "link": "https://36kr.com/p/3853016586359817?f=rss",
+      "summary": "作者 | 邱晓芬 编辑 | 袁斯来 过去几个月，“世界模型”（World Model）从学术黑话迅速膨胀成AI和机器人行业里的关键词。 行业的目光转向背后是切实的焦虑。 一方面，经过了过去两年的野蛮生长，具身智能暴露了当前AI在物理世界中的短板——机器人能识别物体，却不懂“推杯子会掉”；能听懂指令，却无法预判“拧瓶盖需要多大的力”。世界模型正是试图补上这个短板，让机器人学会物理世界的规律、因果。 也就是说，世界模型与具身智能的关系，本质上是“大脑”与“身体”的关系。 另一面，大模型在经历了大语言、视觉模型、多模态的探索之后，需要从虚拟走向真实世界的下一阶段。 只是，当资本、技术专家、产业资源都...",
+      "source": "36氪",
+      "pub_date": "2026-06-15 09:50:00  +0800",
+      "fetched_at": "2026-06-16T20:00:03.263376",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "作者 | 邱晓芬 编辑 | 袁斯来 过去几个月，“世界模型”（World Model）从学术黑话迅速膨胀成AI和机器人行业里的关键词。...",
+      "keywords": [
+        "ai",
+        "硬氪专访",
+        "智源研究院院长王仲远",
+        "vla",
+        "不会死"
       ],
       "importance": 0
     }
   ],
-  "updated_at": "2026-06-16T12:00:53.259424"
+  "updated_at": "2026-06-16T20:00:30.915812"
 }

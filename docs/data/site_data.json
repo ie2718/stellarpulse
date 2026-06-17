@@ -5,48 +5,67 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-06-17T08:00:24.528152",
-    "total_items": 34
+    "last_update": "2026-06-17T12:00:40.648887",
+    "total_items": 23
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 27
+      "count": 18
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 6
+      "count": 2
     },
     "space": {
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 6
+      "count": 4
     }
   },
   "stats": {
-    "total_items": 34,
-    "today_items": 34,
+    "total_items": 23,
+    "today_items": 23,
     "sources": {
-      "Solidot": 6,
-      "36氪": 12,
-      "量子位": 10,
-      "HackerNews": 6
+      "Solidot": 7,
+      "量子位": 9,
+      "HackerNews": 7
     },
-    "last_update": "2026-06-17T08:00:24.528152"
+    "last_update": "2026-06-17T12:00:40.648887"
   },
   "trending": [
+    {
+      "title": "微软考虑使用 DeepSeek 的开源模型降低成本",
+      "link": "https://www.solidot.org/story?sid=84602",
+      "summary": "最大化词元使用（tokenmaxxing）对微软的 AI 工具 Copilot 产生了不利影响，软件巨人正在考虑使用 DeepSeek 的开源模型以降低成本。微软考虑使用的是 DeepSeek-V4 自托管版本的修改版，它将作为一种低成本选项用于驱动微软的 Copilot Cowork。Copilot Cowork 目前运行在 Anthropic 和 OpenAI 的模型上，两家公司不断涨价，Copilot 也从无限量使用切换到了基于使用量的定价模式，此举招致了用户的强烈不满。更便宜的型号有助于降低成本让用户满意，但可能会让特朗普政府不满意。",
+      "source": "Solidot",
+      "pub_date": "Wed, 17 Jun 2026 10:25:26 +0800",
+      "fetched_at": "2026-06-17T12:00:03.732037",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "最大化词元使用（tokenmaxxing）对微软的 AI 工具 Copilot 产生了不利影响，软件巨人正在考虑使用 DeepSeek 的开源模型以降低成本。微软考虑使用的是 DeepSeek-V4 自托管版本的修改版，它将作为一种低成本选项用于驱动微软的 Copilot Cowork。Copilo...",
+      "keywords": [
+        "copilot",
+        "deepseek",
+        "cowork",
+        "微软考虑使用",
+        "的开源模型降低成本"
+      ],
+      "importance": 1.5
+    },
     {
       "title": "开源模型能否战胜 OpenAI？",
       "link": "https://www.solidot.org/story?sid=84595",
       "summary": "中美两国的 AI 公司采取了不同的发布策略：中国侧重于开源权重模型，美国公司如 OpenAI 和 Anthropic 则采用闭源策略。Hugging Face 前亚太生态系统高管 Tiezhen Wang 表示，OpenAI 和 Anthropic 指责中国 AI 公司蒸馏其模型，他认为蒸馏是中性的，美国 AI 公司是通过抓取互联网上的信息训练模型，它们并非知识的创造者，却试图阻止其他人重复利用知识，有点讽刺。所有 AI 生成的内容都应该没有版权，否则拥有算力的人能滥用权力，生成各种组合内容然后对所有内容都申请版权。他发现中国公司和美国公司在最大化使用 token 上有明显差异，因为中国有很多...",
       "source": "Solidot",
       "pub_date": "Tue, 16 Jun 2026 17:47:07 +0800",
-      "fetched_at": "2026-06-17T08:00:04.642374",
+      "fetched_at": "2026-06-17T12:00:03.733138",
       "categories": [
         "ai"
       ],
@@ -61,32 +80,12 @@
       "importance": 1.5
     },
     {
-      "title": "OpenAI2026年前三个月烧钱37亿美元",
-      "link": "https://36kr.com/newsflashes/3856482732823555?f=rss",
-      "summary": "OpenAI向股东披露的文件显示，公司一季度现金消耗达37亿美元，超过其57亿美元营收的半数。现金消耗与营收规模均同比增长两倍，这表明即便人工智能市场需求旺盛，依靠AI业务实现盈利依旧困难重重。当季度末，公司持有现金及有价证券超730亿美元，去年12月末该数值仅为400亿美元，这一变化源于公司三月底完成的巨额融资。若后续现金消耗规模维持一季度水平，OpenAI短期内无需新一轮融资，或将缓解其仓促推进上市的压力。不过，现金消耗金额可能每季度出现波动。据报道，该公司此前预测今年现金消耗250亿美元，明年消耗570亿美元。（新浪财经）",
-      "source": "36氪",
-      "pub_date": "2026-06-17 07:43:58  +0800",
-      "fetched_at": "2026-06-17T08:00:06.001934",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "OpenAI向股东披露的文件显示，公司一季度现金消耗达37亿美元，超过其57亿美元营收的半数。现金消耗与营收规模均同比增长两倍，这表明即便人工智能市场需求旺盛，依靠AI业务实现盈利依旧困难重重。当季度末，公司持有现金及有价证券超730亿美元，去年12月末该数值仅为400亿美元，这一变化源于公司三月底...",
-      "keywords": [
-        "亿美元",
-        "openai",
-        "年前三个月烧钱",
-        "向股东披露的文件显示",
-        "公司一季度现金消耗达"
-      ],
-      "importance": 1.5
-    },
-    {
       "title": "朱雀二号火箭解体产生上百碎片",
       "link": "https://www.solidot.org/story?sid=84593",
       "summary": "蓝箭航天于 6 月 9 日在东风发射场发射了朱雀二号改进型遥六运载火箭（ZQ-2E Y6），将搭载的千帆 DTC 01 星和中国移动 02 星送入预定轨道。但火箭上面级随后在太空发生解体事件，碎片散落在近地轨道，其中部分与国际空间站和 SpaceX Starlink 宽带网络的轨道重叠。LeoLabs 的高级技术研究员 Darren McKnight 表示此次事件可能产生了 100-150 块碎片。其中一块碎片是火箭的第二级，长约 8 米直径约 3.35 米。火箭上面级的主体在距离地球 335-424 公里的轨道上运行，轨道倾角 54.5 度。好消息是轨道高度足够低，空气阻力将使大部分火箭碎片...",
       "source": "Solidot",
       "pub_date": "Tue, 16 Jun 2026 15:32:51 +0800",
-      "fetched_at": "2026-06-17T08:00:04.642928",
+      "fetched_at": "2026-06-17T12:00:03.733403",
       "categories": [
         "space"
       ],
@@ -106,7 +105,7 @@
       "summary": "微软旗下的代码托管平台 GitHub 最近一段时间宕机事件频发，它正将服务迁移到微软的云计算平台 Azure，但仍然无法满足不断增长的需求，因此它正求助于最大的竞争对手亚马逊 AWS，以确保平台能正常运行。亚马逊表示不会对个别客户发表评论。对微软而言，GitHub 宕机的风险已经超过了向 AWS 付费所带来的负面影响。GitHub 首席运营官 Kyle Daigle 此前表示，该平台用户的提交(Commits)数将从 2025 年的 10 亿飙升到 2026 年 140 亿次。GitHub 在 2025 年 10 月计划将平台容量提高 10 倍，但到了 2026 年 2 月它发现需要提高 30...",
       "source": "Solidot",
       "pub_date": "Tue, 16 Jun 2026 13:35:09 +0800",
-      "fetched_at": "2026-06-17T08:00:04.643393",
+      "fetched_at": "2026-06-17T12:00:03.733824",
       "categories": [
         "ai"
       ],
@@ -121,83 +120,22 @@
       "importance": 1.0
     },
     {
-      "title": "融了数亿美金的「大晓机器人」，其创始人揭开了具身行业的割裂一面",
-      "link": "https://36kr.com/p/3855262364488969?f=rss",
-      "summary": "文｜周鑫雨 编辑｜张雨忻 梳理近半年的成果，大晓机器人董事长、商汤科技联合创始人王晓刚，滔滔不绝聊了10多分钟。 成立于2025年7月，大晓机器人（ACE ROBOTICS）是具身领域姗姗来迟的入局者。但一年来，这位新玩家成了赛道的“卷王”： 在模型侧，大晓新发布的具身大脑——世界模型“开悟（Kairos）3.0”，在4项全球具身智能基准测试中取得SOTA；开源的Kairos 3.0-4B，则率先实现在端侧直接驱动具身智能本体的能力。 △Kairos3.0在4个世界模型生成预测具身智能榜单中取得SOTA。图源：大晓机器人 在数据侧，大晓提出的“以人为中心”环境式采集方案，通过大规模采集人类与真...",
-      "source": "36氪",
-      "pub_date": "2026-06-16 16:31:50  +0800",
-      "fetched_at": "2026-06-17T08:00:05.966897",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "成立于2025年7月，大晓机器人（ACE ROBOTICS）是具身领域姗姗来迟的入局者。但一年来，这位新玩家成了赛道的“卷王”： 在模型侧，大晓新发布的具身大脑——世界模型“开悟（Kairos）3.0”，在4项全球具身智能基准测试中取得SOTA；开源的Kairos...",
-      "keywords": [
-        "大晓机器人",
-        "kairos",
-        "sota",
-        "融了数亿美金的",
-        "其创始人揭开了具身行业的割裂一面"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "硬氪首发 | 海洋具身智能公司「世航智能」拿下创纪录10亿融资，朱啸虎押注",
-      "link": "https://36kr.com/p/3853011900142848?f=rss",
-      "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，海洋具身智能公司「世航智能」完成A轮融资，融资金额超过10亿元，这也是目前全球海洋机器人领域规模最大的单轮融资。本轮融资由两家芯片公司「摩尔线程」和「昆仑芯」的产业投资方上河动量基金、新加坡国有投资平台Vertex Growth 、上市公司大洋电机等资方出资。 另外，金沙江创投也在本轮追加投资，这已是其创始人朱啸虎第五轮投资「世航智能」，祥峰中国、华映资本、长石资本等老股东亦全部超额跟投。 「世航智能」创始人兼CEO陈晓博为1989年出生的哈尔滨工程大学校友，长期深耕水下机器人领域，在28岁时获得国防科技进步一等奖，是该奖项最年轻获奖者，并主导研发...",
-      "source": "36氪",
-      "pub_date": "2026-06-15 09:50:00  +0800",
-      "fetched_at": "2026-06-17T08:00:06.001142",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，海洋具身智能公司「世航智能」完成A轮融资，融资金额超过10亿元，这也是目前全球海洋机器人领域规模最大的单轮融资。本轮融资由两家芯片公司「摩尔线程」和「昆仑芯」的产业投资方上河动量基金、新加坡国有投资平台Vertex Growth...",
-      "keywords": [
-        "世航智能",
-        "海洋具身智能公司",
-        "硬氪首发",
-        "拿下创纪录",
-        "亿融资"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "苹果拟明年推出带摄像头的AirPods和新一代折叠屏iPhone",
-      "link": "https://36kr.com/newsflashes/3856478001091593?f=rss",
-      "summary": "据报道，苹果公司计划明年年底推出配备摄像头的耳机AirPods，在此之前将发布下一代折叠屏手机以及一款纪念iPhone问世20周年的新机型。知情人士称，这将是苹果迄今力度最大的新品发布。过去数月，这三款产品均已进入开发后期阶段。（界面）",
-      "source": "36氪",
-      "pub_date": "2026-06-17 07:41:10  +0800",
-      "fetched_at": "2026-06-17T08:00:06.002049",
+      "title": "许锦波率分子之心完成逾亿美元融资，定义全球AI蛋白质产业新基建",
+      "link": "https://www.qbitai.com/2026/06/436077.html",
+      "summary": "世界级科学家领跑AI蛋白第二次范式革命",
+      "source": "量子位",
+      "pub_date": "Wed, 17 Jun 2026 02:23:50 +0000",
+      "fetched_at": "2026-06-17T12:00:18.984364",
       "categories": [
         "ai"
       ],
-      "ai_summary": "据报道，苹果公司计划明年年底推出配备摄像头的耳机AirPods，在此之前将发布下一代折叠屏手机以及一款纪念iPhone问世20周年的新机型。知情人士称，这将是苹果迄今力度最大的新品发布。过去数月，这三款产品均已进入开发后期阶段。（界面）",
-      "keywords": [
-        "airpods",
-        "iphone",
-        "苹果拟明年推出带摄像头的",
-        "和新一代折叠屏",
-        "据报道"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "摩根大通：与AI相关的债券发行预计未来数年将保持火热",
-      "link": "https://36kr.com/newsflashes/3856008609354760?f=rss",
-      "summary": "摩根大通分析师写道，为AI和数据中心融资的债券发行可能会保持火热。摩根大通表示，贷款平均占项目成本的85%，这一高比例可能会推动到2030年底的总AI支出达到5.5万亿美元，其中4.1万亿美元由债务融资。预计发债人将利用各国“每一个资本市场“来支持其增长需求。顶级企业或超大规模云服务提供商的盈利能力足以在发行量不断增加的情况下让投资者保持冷静。摩根大通怀疑，他们现在大举借款是为了保留大量现金，以防经济恶化和借贷成本飙升。（财联社）",
-      "source": "36氪",
-      "pub_date": "2026-06-17 07:32:37  +0800",
-      "fetched_at": "2026-06-17T08:00:06.002468",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "摩根大通分析师写道，为AI和数据中心融资的债券发行可能会保持火热。摩根大通表示，贷款平均占项目成本的85%，这一高比例可能会推动到2030年底的总AI支出达到5.5万亿美元，其中4.1万亿美元由债务融资。预计发债人将利用各国“每一个资本市场“来支持其增长需求。顶级企业或超大规模云服务提供商的盈利能力...",
+      "ai_summary": "世界级科学家领跑AI蛋白第二次范式革命",
       "keywords": [
         "ai",
-        "摩根大通",
-        "相关的债券发行预计未来数年将保持火热",
-        "摩根大通分析师写道",
-        "和数据中心融资的债券发行可能会保持火热"
+        "许锦波率分子之心完成逾亿美元融资",
+        "定义全球",
+        "蛋白质产业新基建",
+        "世界级科学家领跑"
       ],
       "importance": 1.0
     },
@@ -207,7 +145,7 @@
       "summary": "她并不是一位被神话出来的「星舰女王」",
       "source": "量子位",
       "pub_date": "Tue, 16 Jun 2026 06:40:17 +0000",
-      "fetched_at": "2026-06-17T08:00:06.115516",
+      "fetched_at": "2026-06-17T12:00:18.984794",
       "categories": [
         "space"
       ],
@@ -224,14 +162,14 @@
     {
       "title": "SpaceX to buy Cursor for $60B",
       "link": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
-      "summary": "👍 823 | 💬 1268",
+      "summary": "👍 932 | 💬 1414",
       "source": "HackerNews",
       "pub_date": "2026-06-16T18:44:24",
-      "fetched_at": "2026-06-17T08:00:10.278874",
+      "fetched_at": "2026-06-17T12:00:23.817697",
       "categories": [
         "space"
       ],
-      "ai_summary": "👍 823 | 💬 1268",
+      "ai_summary": "👍 932 | 💬 1414",
       "keywords": [
         "spacex",
         "to",
@@ -240,40 +178,121 @@
         "for"
       ],
       "importance": 1.0
+    },
+    {
+      "title": "俄罗斯计划退役漏气的国际空间站 PrK 模块",
+      "link": "https://www.solidot.org/story?sid=84588",
+      "summary": "位于 Progress（进步号）气闸舱和 Zvezda（星辰号）服务舱之间的 PrK 模块因结构裂缝导致的漏气过去几年一直困扰着国际空间站，今年初漏气问题一度被认为已经修复，但本月早些时候报告漏气再次加剧，该模块的裂缝总数达到 16 处。10 天前俄罗斯宇航员试图用锯子拆除该模块的一个承重支架，此举招致了 NASA 的强烈反对，认为可能会产生严重后果，下令宇航员进入与空间站对接的 Crew Dragon 飞船，穿上宇航服，准备必要时紧急撤离。俄罗斯航天局最终放弃了拆支架的计划。双方在幕后反复的拉锯之后，最终俄罗斯通知 NASA 将退役 PrK 模块。这意味着宇航员将不再进入 PrK 模块，或再...",
+      "source": "Solidot",
+      "pub_date": "Mon, 15 Jun 2026 23:35:55 +0800",
+      "fetched_at": "2026-06-17T12:00:03.734096",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "位于 Progress（进步号）气闸舱和 Zvezda（星辰号）服务舱之间的 PrK 模块因结构裂缝导致的漏气过去几年一直困扰着国际空间站，今年初漏气问题一度被认为已经修复，但本月早些时候报告漏气再次加剧，该模块的裂缝总数达到 16 处。10 天前俄罗斯宇航员试图用锯子拆除该模块的一个承重支架，此举...",
+      "keywords": [
+        "prk",
+        "模块",
+        "nasa",
+        "俄罗斯计划退役漏气的国际空间站",
+        "位于"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "三连发！阿里发布首个具身大模型Qwen-Robot系列",
+      "link": "https://www.qbitai.com/2026/06/435873.html",
+      "summary": "边走、边看、边思考",
+      "source": "量子位",
+      "pub_date": "Tue, 16 Jun 2026 04:39:39 +0000",
+      "fetched_at": "2026-06-17T12:00:18.984865",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "边走、边看、边思考",
+      "keywords": [
+        "三连发",
+        "阿里发布首个具身大模型",
+        "qwen",
+        "robot",
+        "系列"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Commodore 宣布反社交网络的翻盖手机",
+      "link": "https://www.solidot.org/story?sid=84597",
+      "summary": "曾经的家用 PC 巨人 Commodore 又回来了，它宣布了一款翻盖手机 Callback 8020，运行基于 Linux 的 Sailfish OS 操作系统，不支持任何社交媒体、浏览器或工作应用如电子邮件，但支持地图、播客、拼车、以及流行的消息应用如 WhatsApp、Signal、Telegram 和微信（WeChat）——因为对很多人而言没有这些应用手机什么也不是。这款手机是 Commodore 公司推出的，当然也有 Commodore 模拟器。选择翻盖手机是因为它是作为一种多用途工具，你打开翻盖就是为了用它。这款手机不便宜，6 月 30 日开放预购，售价 499 美元，主要配置是 ...",
+      "source": "Solidot",
+      "pub_date": "Tue, 16 Jun 2026 21:58:25 +0800",
+      "fetched_at": "2026-06-17T12:00:03.732861",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "曾经的家用 PC 巨人 Commodore 又回来了，它宣布了一款翻盖手机 Callback 8020，运行基于 Linux 的 Sailfish OS 操作系统，不支持任何社交媒体、浏览器或工作应用如电子邮件，但支持地图、播客、拼车、以及流行的消息应用如 WhatsApp、Signal、Teleg...",
+      "keywords": [
+        "commodore",
+        "宣布反社交网络的翻盖手机",
+        "曾经的家用",
+        "pc",
+        "巨人"
+      ],
+      "importance": 0
     }
   ],
   "latest": [
     {
-      "title": "Apple is about to make Hide My Email useless",
-      "link": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
-      "summary": "👍 354 | 💬 217",
+      "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
+      "link": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
+      "summary": "👍 48 | 💬 10",
       "source": "HackerNews",
-      "pub_date": "2026-06-17T02:37:21",
-      "fetched_at": "2026-06-17T08:00:22.760028",
+      "pub_date": "2026-06-17T09:40:22",
+      "fetched_at": "2026-06-17T12:00:37.804075",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 354 | 💬 217",
+      "ai_summary": "👍 48 | 💬 10",
       "keywords": [
-        "apple",
-        "is",
-        "about",
-        "to",
-        "make"
+        "stop",
+        "killing",
+        "games",
+        "fails",
+        "to"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "The Magic Roundabout of Seattle Area",
+      "link": "https://kirklandroundabouts.com",
+      "summary": "👍 46 | 💬 38",
+      "source": "HackerNews",
+      "pub_date": "2026-06-15T05:41:56",
+      "fetched_at": "2026-06-17T12:00:33.640428",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 46 | 💬 38",
+      "keywords": [
+        "the",
+        "magic",
+        "roundabout",
+        "of",
+        "seattle"
       ],
       "importance": 0
     },
     {
       "title": "Has AI already killed self-help nonfiction books?",
       "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-      "summary": "👍 128 | 💬 129",
+      "summary": "👍 196 | 💬 206",
       "source": "HackerNews",
       "pub_date": "2026-06-17T01:11:05",
-      "fetched_at": "2026-06-17T08:00:16.928440",
+      "fetched_at": "2026-06-17T12:00:31.900511",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 128 | 💬 129",
+      "ai_summary": "👍 196 | 💬 206",
       "keywords": [
         "has",
         "ai",
@@ -284,36 +303,16 @@
       "importance": 0
     },
     {
-      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
-      "link": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
-      "summary": "👍 8 | 💬 1",
-      "source": "HackerNews",
-      "pub_date": "2026-06-17T07:15:44",
-      "fetched_at": "2026-06-17T08:00:16.025026",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 8 | 💬 1",
-      "keywords": [
-        "wolfram",
-        "language",
-        "and",
-        "mathematica",
-        "version"
-      ],
-      "importance": 0
-    },
-    {
       "title": "GPT‑NL: a sovereign language model for the Netherlands",
       "link": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-      "summary": "👍 125 | 💬 129",
+      "summary": "👍 154 | 💬 142",
       "source": "HackerNews",
       "pub_date": "2026-06-17T01:54:02",
-      "fetched_at": "2026-06-17T08:00:14.252098",
+      "fetched_at": "2026-06-17T12:00:30.036663",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 125 | 💬 129",
+      "ai_summary": "👍 154 | 💬 142",
       "keywords": [
         "gpt",
         "nl",
@@ -324,36 +323,36 @@
       "importance": 0
     },
     {
-      "title": "SpaceX to buy Cursor for $60B",
-      "link": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
-      "summary": "👍 823 | 💬 1268",
+      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+      "link": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+      "summary": "👍 110 | 💬 29",
       "source": "HackerNews",
-      "pub_date": "2026-06-16T18:44:24",
-      "fetched_at": "2026-06-17T08:00:10.278874",
+      "pub_date": "2026-06-17T07:15:44",
+      "fetched_at": "2026-06-17T12:00:26.475387",
       "categories": [
-        "space"
+        "ai"
       ],
-      "ai_summary": "👍 823 | 💬 1268",
+      "ai_summary": "👍 110 | 💬 29",
       "keywords": [
-        "spacex",
-        "to",
-        "buy",
-        "cursor",
-        "for"
+        "wolfram",
+        "language",
+        "and",
+        "mathematica",
+        "version"
       ],
-      "importance": 1.0
+      "importance": 0
     },
     {
       "title": "Humiliating IIS servers for fun and jail time",
       "link": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
-      "summary": "👍 22 | 💬 1",
+      "summary": "👍 134 | 💬 27",
       "source": "HackerNews",
       "pub_date": "2026-06-17T06:53:34",
-      "fetched_at": "2026-06-17T08:00:09.481015",
+      "fetched_at": "2026-06-17T12:00:25.603666",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 22 | 💬 1",
+      "ai_summary": "👍 134 | 💬 27",
       "keywords": [
         "humiliating",
         "iis",
@@ -364,62 +363,24 @@
       "importance": 0
     },
     {
-      "title": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
-      "link": "https://www.qbitai.com/2026/06/435848.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Mon, 15 Jun 2026 12:57:10 +0000",
-      "fetched_at": "2026-06-17T08:00:06.115751",
+      "title": "SpaceX to buy Cursor for $60B",
+      "link": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+      "summary": "👍 932 | 💬 1414",
+      "source": "HackerNews",
+      "pub_date": "2026-06-16T18:44:24",
+      "fetched_at": "2026-06-17T12:00:23.817697",
       "categories": [
-        "ai"
+        "space"
       ],
-      "ai_summary": "",
+      "ai_summary": "👍 932 | 💬 1414",
       "keywords": [
-        "校企共推",
-        "ai",
-        "上海交通大学与太初元碁签署合作协议"
+        "spacex",
+        "to",
+        "buy",
+        "cursor",
+        "for"
       ],
-      "importance": 0
-    },
-    {
-      "title": "上线首月吸引 10 万开发者，AnySearch 为 Agent 解锁网页之外的世界",
-      "link": "https://www.qbitai.com/2026/06/435861.html",
-      "summary": "专为 Agent 设计的 AI 搜索层服务",
-      "source": "量子位",
-      "pub_date": "Tue, 16 Jun 2026 01:32:25 +0000",
-      "fetched_at": "2026-06-17T08:00:06.115742",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "专为 Agent 设计的 AI 搜索层服务",
-      "keywords": [
-        "agent",
-        "上线首月吸引",
-        "万开发者",
-        "anysearch",
-        "解锁网页之外的世界"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "沙利文权威认证：范式 Rise vGPU 获评 Tier 1 领先平台",
-      "link": "https://www.qbitai.com/2026/06/435853.html",
-      "summary": "成为全球领先的通用人工智能科技公司",
-      "source": "量子位",
-      "pub_date": "Tue, 16 Jun 2026 02:47:51 +0000",
-      "fetched_at": "2026-06-17T08:00:06.115664",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "成为全球领先的通用人工智能科技公司",
-      "keywords": [
-        "沙利文权威认证",
-        "范式",
-        "rise",
-        "vgpu",
-        "获评"
-      ],
-      "importance": 0
+      "importance": 1.0
     },
     {
       "title": "从技术向运营生产力“质变”：神州数码以AI for Process构建AI落地产业的“飞轮”",
@@ -427,7 +388,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Tue, 16 Jun 2026 04:10:43 +0000",
-      "fetched_at": "2026-06-17T08:00:06.115596",
+      "fetched_at": "2026-06-17T12:00:18.984875",
       "categories": [
         "ai"
       ],
@@ -447,7 +408,7 @@
       "summary": "边走、边看、边思考",
       "source": "量子位",
       "pub_date": "Tue, 16 Jun 2026 04:39:39 +0000",
-      "fetched_at": "2026-06-17T08:00:06.115587",
+      "fetched_at": "2026-06-17T12:00:18.984865",
       "categories": [
         "ai",
         "robotics"
@@ -468,7 +429,7 @@
       "summary": "她并不是一位被神话出来的「星舰女王」",
       "source": "量子位",
       "pub_date": "Tue, 16 Jun 2026 06:40:17 +0000",
-      "fetched_at": "2026-06-17T08:00:06.115516",
+      "fetched_at": "2026-06-17T12:00:18.984794",
       "categories": [
         "space"
       ],
@@ -488,7 +449,7 @@
       "summary": "100万奖金，0门槛参赛",
       "source": "量子位",
       "pub_date": "Tue, 16 Jun 2026 09:31:02 +0000",
-      "fetched_at": "2026-06-17T08:00:06.115441",
+      "fetched_at": "2026-06-17T12:00:18.984715",
       "categories": [
         "ai"
       ],
@@ -508,7 +469,7 @@
       "summary": "转载来源：网易有道 本文为量子位获授权转载，观点仅为原作者所有。",
       "source": "量子位",
       "pub_date": "Tue, 16 Jun 2026 10:36:35 +0000",
-      "fetched_at": "2026-06-17T08:00:06.115358",
+      "fetched_at": "2026-06-17T12:00:18.984643",
       "categories": [
         "ai"
       ],
@@ -528,7 +489,7 @@
       "summary": "会思考、能调度、还会自进化",
       "source": "量子位",
       "pub_date": "Tue, 16 Jun 2026 13:02:10 +0000",
-      "fetched_at": "2026-06-17T08:00:06.115274",
+      "fetched_at": "2026-06-17T12:00:18.984576",
       "categories": [
         "ai"
       ],
@@ -548,7 +509,7 @@
       "summary": "手的问题，其实不在手",
       "source": "量子位",
       "pub_date": "Tue, 16 Jun 2026 13:23:06 +0000",
-      "fetched_at": "2026-06-17T08:00:06.115179",
+      "fetched_at": "2026-06-17T12:00:18.984489",
       "categories": [
         "robotics"
       ],
@@ -562,85 +523,125 @@
       "importance": 0
     },
     {
-      "title": "创远信科：与吉利控股旗下商业航天企业时空道宇签订战略意向合作协议",
-      "link": "https://36kr.com/newsflashes/3856013978981638?f=rss",
-      "summary": "36氪获悉，创远信科公告，公司近期与吉利控股旗下商业航天企业时空道宇签署《战略意向合作协议》，双方将依托时空道宇卫星星座建设运营、产业落地优势以及创远信科在通信测试研发、全域验证技术优势，深耕卫星物联网领域，联合共建“NTN技术协同创新实验室”，合力开展测试体系搭建、品质标准优化、前沿技术研发及海内外市场协同拓展等各项合作。",
-      "source": "36氪",
-      "pub_date": "2026-06-17 07:25:06  +0800",
-      "fetched_at": "2026-06-17T08:00:06.002945",
+      "title": "许锦波率分子之心完成逾亿美元融资，定义全球AI蛋白质产业新基建",
+      "link": "https://www.qbitai.com/2026/06/436077.html",
+      "summary": "世界级科学家领跑AI蛋白第二次范式革命",
+      "source": "量子位",
+      "pub_date": "Wed, 17 Jun 2026 02:23:50 +0000",
+      "fetched_at": "2026-06-17T12:00:18.984364",
       "categories": [
-        "space"
+        "ai"
       ],
-      "ai_summary": "36氪获悉，创远信科公告，公司近期与吉利控股旗下商业航天企业时空道宇签署《战略意向合作协议》，双方将依托时空道宇卫星星座建设运营、产业落地优势以及创远信科在通信测试研发、全域验证技术优势，深耕卫星物联网领域，联合共建“NTN技术协同创新实验室”，合力开展测试体系搭建、品质标准优化、前沿技术研发及海内...",
+      "ai_summary": "世界级科学家领跑AI蛋白第二次范式革命",
       "keywords": [
-        "创远信科",
-        "与吉利控股旗下商业航天企业时空道宇签订战略意向合作协议",
-        "氪获悉",
-        "创远信科公告",
-        "公司近期与吉利控股旗下商业航天企业时空道宇签署"
+        "ai",
+        "许锦波率分子之心完成逾亿美元融资",
+        "定义全球",
+        "蛋白质产业新基建",
+        "世界级科学家领跑"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "刚刚，Fable-5之下，智谱开源的GLM-5.2拿下AI编程第一！",
+      "link": "https://www.qbitai.com/2026/06/436085.html",
+      "summary": "1M上下文",
+      "source": "量子位",
+      "pub_date": "Wed, 17 Jun 2026 02:42:10 +0000",
+      "fetched_at": "2026-06-17T12:00:18.984186",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "1M上下文",
+      "keywords": [
+        "刚刚",
+        "fable",
+        "之下",
+        "智谱开源的",
+        "glm"
       ],
       "importance": 0
     },
     {
-      "title": "摩根大通：与AI相关的债券发行预计未来数年将保持火热",
-      "link": "https://36kr.com/newsflashes/3856008609354760?f=rss",
-      "summary": "摩根大通分析师写道，为AI和数据中心融资的债券发行可能会保持火热。摩根大通表示，贷款平均占项目成本的85%，这一高比例可能会推动到2030年底的总AI支出达到5.5万亿美元，其中4.1万亿美元由债务融资。预计发债人将利用各国“每一个资本市场“来支持其增长需求。顶级企业或超大规模云服务提供商的盈利能力足以在发行量不断增加的情况下让投资者保持冷静。摩根大通怀疑，他们现在大举借款是为了保留大量现金，以防经济恶化和借贷成本飙升。（财联社）",
-      "source": "36氪",
-      "pub_date": "2026-06-17 07:32:37  +0800",
-      "fetched_at": "2026-06-17T08:00:06.002468",
+      "title": "测试显示 AI 的数学解题能力仍然不如人类专家",
+      "link": "https://www.solidot.org/story?sid=84583",
+      "summary": "AI 模型的解题水平仍不及顶尖数学家。这项测试隶属 First Proof 项目，旨在评估 AI 解决复杂数学难题的能力。研究人员向 4 款 AI 系统提出 10 道科研级数学难题，再由相关数学领域的匿名专家评审团对作答结果进行打分。这次测试首次同时满足三大核心标准：题目均为前沿科研级数学问题、所有题目从未出现在模型训练数据中、由专业数学家评阅。10 名来自不同数学细分领域的研究人员，各自拿出一道本人研究过程中已解答但尚未公开发表的原创题目。这次测试中，各大推理模型依然频繁出现幻觉问题，这也是大语言模型的通病。而且所有 AI 作答在文献引用方面都“严重缺失”，全程没有标注来源。",
+      "source": "Solidot",
+      "pub_date": "Mon, 15 Jun 2026 17:50:51 +0800",
+      "fetched_at": "2026-06-17T12:00:03.734732",
       "categories": [
         "ai"
       ],
-      "ai_summary": "摩根大通分析师写道，为AI和数据中心融资的债券发行可能会保持火热。摩根大通表示，贷款平均占项目成本的85%，这一高比例可能会推动到2030年底的总AI支出达到5.5万亿美元，其中4.1万亿美元由债务融资。预计发债人将利用各国“每一个资本市场“来支持其增长需求。顶级企业或超大规模云服务提供商的盈利能力...",
+      "ai_summary": "AI 模型的解题水平仍不及顶尖数学家。这项测试隶属 First Proof 项目，旨在评估 AI 解决复杂数学难题的能力。研究人员向 4 款 AI 系统提出 10 道科研级数学难题，再由相关数学领域的匿名专家评审团对作答结果进行打分。这次测试首次同时满足三大核心标准：题目均为前沿科研级数学问题、所有...",
       "keywords": [
         "ai",
-        "摩根大通",
-        "相关的债券发行预计未来数年将保持火热",
-        "摩根大通分析师写道",
-        "和数据中心融资的债券发行可能会保持火热"
+        "测试显示",
+        "的数学解题能力仍然不如人类专家",
+        "模型的解题水平仍不及顶尖数学家",
+        "这项测试隶属"
       ],
-      "importance": 1.0
+      "importance": 0
     },
     {
-      "title": "中国进出口银行前5个月投放外贸领域贷款4900亿元",
-      "link": "https://36kr.com/newsflashes/3856456435176704?f=rss",
-      "summary": "今年1至5月，中国进出口银行新发放外贸领域贷款4900亿元，其中近40%投向稳外贸主体和稳外贸产业链领域。全力支持中间品贸易、数字贸易、海外仓等，推动人工智能、绿电装备等产品技术革新、扩大出口。（央视新闻）",
-      "source": "36氪",
-      "pub_date": "2026-06-17 07:34:14  +0800",
-      "fetched_at": "2026-06-17T08:00:06.002369",
+      "title": "俄罗斯计划退役漏气的国际空间站 PrK 模块",
+      "link": "https://www.solidot.org/story?sid=84588",
+      "summary": "位于 Progress（进步号）气闸舱和 Zvezda（星辰号）服务舱之间的 PrK 模块因结构裂缝导致的漏气过去几年一直困扰着国际空间站，今年初漏气问题一度被认为已经修复，但本月早些时候报告漏气再次加剧，该模块的裂缝总数达到 16 处。10 天前俄罗斯宇航员试图用锯子拆除该模块的一个承重支架，此举招致了 NASA 的强烈反对，认为可能会产生严重后果，下令宇航员进入与空间站对接的 Crew Dragon 飞船，穿上宇航服，准备必要时紧急撤离。俄罗斯航天局最终放弃了拆支架的计划。双方在幕后反复的拉锯之后，最终俄罗斯通知 NASA 将退役 PrK 模块。这意味着宇航员将不再进入 PrK 模块，或再...",
+      "source": "Solidot",
+      "pub_date": "Mon, 15 Jun 2026 23:35:55 +0800",
+      "fetched_at": "2026-06-17T12:00:03.734096",
       "categories": [
-        "ai"
+        "space"
       ],
-      "ai_summary": "今年1至5月，中国进出口银行新发放外贸领域贷款4900亿元，其中近40%投向稳外贸主体和稳外贸产业链领域。全力支持中间品贸易、数字贸易、海外仓等，推动人工智能、绿电装备等产品技术革新、扩大出口。（央视新闻）",
+      "ai_summary": "位于 Progress（进步号）气闸舱和 Zvezda（星辰号）服务舱之间的 PrK 模块因结构裂缝导致的漏气过去几年一直困扰着国际空间站，今年初漏气问题一度被认为已经修复，但本月早些时候报告漏气再次加剧，该模块的裂缝总数达到 16 处。10 天前俄罗斯宇航员试图用锯子拆除该模块的一个承重支架，此举...",
       "keywords": [
-        "亿元",
-        "中国进出口银行前",
-        "个月投放外贸领域贷款",
-        "今年",
-        "中国进出口银行新发放外贸领域贷款"
+        "prk",
+        "模块",
+        "nasa",
+        "俄罗斯计划退役漏气的国际空间站",
+        "位于"
       ],
       "importance": 0.5
     },
     {
-      "title": "苹果拟明年推出带摄像头的AirPods和新一代折叠屏iPhone",
-      "link": "https://36kr.com/newsflashes/3856478001091593?f=rss",
-      "summary": "据报道，苹果公司计划明年年底推出配备摄像头的耳机AirPods，在此之前将发布下一代折叠屏手机以及一款纪念iPhone问世20周年的新机型。知情人士称，这将是苹果迄今力度最大的新品发布。过去数月，这三款产品均已进入开发后期阶段。（界面）",
-      "source": "36氪",
-      "pub_date": "2026-06-17 07:41:10  +0800",
-      "fetched_at": "2026-06-17T08:00:06.002049",
+      "title": "微软求助于 AWS 以满足 GitHub 上 AI 驱动的负载增长需求",
+      "link": "https://www.solidot.org/story?sid=84590",
+      "summary": "微软旗下的代码托管平台 GitHub 最近一段时间宕机事件频发，它正将服务迁移到微软的云计算平台 Azure，但仍然无法满足不断增长的需求，因此它正求助于最大的竞争对手亚马逊 AWS，以确保平台能正常运行。亚马逊表示不会对个别客户发表评论。对微软而言，GitHub 宕机的风险已经超过了向 AWS 付费所带来的负面影响。GitHub 首席运营官 Kyle Daigle 此前表示，该平台用户的提交(Commits)数将从 2025 年的 10 亿飙升到 2026 年 140 亿次。GitHub 在 2025 年 10 月计划将平台容量提高 10 倍，但到了 2026 年 2 月它发现需要提高 30...",
+      "source": "Solidot",
+      "pub_date": "Tue, 16 Jun 2026 13:35:09 +0800",
+      "fetched_at": "2026-06-17T12:00:03.733824",
       "categories": [
         "ai"
       ],
-      "ai_summary": "据报道，苹果公司计划明年年底推出配备摄像头的耳机AirPods，在此之前将发布下一代折叠屏手机以及一款纪念iPhone问世20周年的新机型。知情人士称，这将是苹果迄今力度最大的新品发布。过去数月，这三款产品均已进入开发后期阶段。（界面）",
+      "ai_summary": "微软旗下的代码托管平台 GitHub 最近一段时间宕机事件频发，它正将服务迁移到微软的云计算平台 Azure，但仍然无法满足不断增长的需求，因此它正求助于最大的竞争对手亚马逊 AWS，以确保平台能正常运行。亚马逊表示不会对个别客户发表评论。对微软而言，GitHub 宕机的风险已经超过了向 AWS 付...",
       "keywords": [
-        "airpods",
-        "iphone",
-        "苹果拟明年推出带摄像头的",
-        "和新一代折叠屏",
-        "据报道"
+        "github",
+        "aws",
+        "微软求助于",
+        "以满足",
+        "ai"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "朱雀二号火箭解体产生上百碎片",
+      "link": "https://www.solidot.org/story?sid=84593",
+      "summary": "蓝箭航天于 6 月 9 日在东风发射场发射了朱雀二号改进型遥六运载火箭（ZQ-2E Y6），将搭载的千帆 DTC 01 星和中国移动 02 星送入预定轨道。但火箭上面级随后在太空发生解体事件，碎片散落在近地轨道，其中部分与国际空间站和 SpaceX Starlink 宽带网络的轨道重叠。LeoLabs 的高级技术研究员 Darren McKnight 表示此次事件可能产生了 100-150 块碎片。其中一块碎片是火箭的第二级，长约 8 米直径约 3.35 米。火箭上面级的主体在距离地球 335-424 公里的轨道上运行，轨道倾角 54.5 度。好消息是轨道高度足够低，空气阻力将使大部分火箭碎片...",
+      "source": "Solidot",
+      "pub_date": "Tue, 16 Jun 2026 15:32:51 +0800",
+      "fetched_at": "2026-06-17T12:00:03.733403",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "蓝箭航天于 6 月 9 日在东风发射场发射了朱雀二号改进型遥六运载火箭（ZQ-2E Y6），将搭载的千帆 DTC 01 星和中国移动 02 星送入预定轨道。但火箭上面级随后在太空发生解体事件，碎片散落在近地轨道，其中部分与国际空间站和 SpaceX Starlink 宽带网络的轨道重叠。LeoLab...",
+      "keywords": [
+        "朱雀二号火箭解体产生上百碎片",
+        "蓝箭航天于",
+        "日在东风发射场发射了朱雀二号改进型遥六运载火箭",
+        "zq",
+        "将搭载的千帆"
       ],
       "importance": 1.0
     }
   ],
-  "updated_at": "2026-06-17T08:00:24.528152"
+  "updated_at": "2026-06-17T12:00:40.648887"
 }

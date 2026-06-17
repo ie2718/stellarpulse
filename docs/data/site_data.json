@@ -5,21 +5,21 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-06-16T20:00:30.915812",
-    "total_items": 29
+    "last_update": "2026-06-17T08:00:24.528152",
+    "total_items": 34
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 23
+      "count": 27
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 7
+      "count": 6
     },
     "space": {
       "name": "Space",
@@ -29,45 +29,24 @@
     }
   },
   "stats": {
-    "total_items": 29,
-    "today_items": 29,
+    "total_items": 34,
+    "today_items": 34,
     "sources": {
-      "36氪": 9,
       "Solidot": 6,
+      "36氪": 12,
       "量子位": 10,
-      "HackerNews": 4
+      "HackerNews": 6
     },
-    "last_update": "2026-06-16T20:00:30.915812"
+    "last_update": "2026-06-17T08:00:24.528152"
   },
   "trending": [
-    {
-      "title": "SpaceX将通过合并收购美国AI软件公司Anysphere",
-      "link": "https://36kr.com/newsflashes/3855740363560198?f=rss",
-      "summary": "美国证交会备案文件显示，SpaceX与其全资子公司X67 Inc.与Anysphere, Inc.（“Cursor”）签署了一份合并协议与计划。根据该协议，合并子公司将与Cursor合并，Cursor在合并后存续，成为SpaceX的全资子公司。SpaceX提交的文件显示，在合并生效时，Cursor在合并生效时间之前已发行的每股普通股和每股优先股将自动转换为获得本公司A类普通股的权利，该权利基于Cursor 600亿美元的隐含股权价值，以及公司A类普通股在合并交割日前连续七个交易日的成交量加权平均收盘价作为股价。SpaceX目前预计合并将于2026年第三季度完成。（界面）",
-      "source": "36氪",
-      "pub_date": "2026-06-16 19:01:55  +0800",
-      "fetched_at": "2026-06-16T20:00:03.267907",
-      "categories": [
-        "ai",
-        "space"
-      ],
-      "ai_summary": "美国证交会备案文件显示，SpaceX与其全资子公司X67 Inc.与Anysphere, Inc.（“Cursor”）签署了一份合并协议与计划。根据该协议，合并子公司将与Cursor合并，Cursor在合并后存续，成为SpaceX的全资子公司。SpaceX提交的文件显示，在合并生效时，Cursor在...",
-      "keywords": [
-        "spacex",
-        "cursor",
-        "anysphere",
-        "inc",
-        "将通过合并收购美国"
-      ],
-      "importance": 2.0
-    },
     {
       "title": "开源模型能否战胜 OpenAI？",
       "link": "https://www.solidot.org/story?sid=84595",
       "summary": "中美两国的 AI 公司采取了不同的发布策略：中国侧重于开源权重模型，美国公司如 OpenAI 和 Anthropic 则采用闭源策略。Hugging Face 前亚太生态系统高管 Tiezhen Wang 表示，OpenAI 和 Anthropic 指责中国 AI 公司蒸馏其模型，他认为蒸馏是中性的，美国 AI 公司是通过抓取互联网上的信息训练模型，它们并非知识的创造者，却试图阻止其他人重复利用知识，有点讽刺。所有 AI 生成的内容都应该没有版权，否则拥有算力的人能滥用权力，生成各种组合内容然后对所有内容都申请版权。他发现中国公司和美国公司在最大化使用 token 上有明显差异，因为中国有很多...",
       "source": "Solidot",
       "pub_date": "Tue, 16 Jun 2026 17:47:07 +0800",
-      "fetched_at": "2026-06-16T20:00:02.348678",
+      "fetched_at": "2026-06-17T08:00:04.642374",
       "categories": [
         "ai"
       ],
@@ -82,12 +61,32 @@
       "importance": 1.5
     },
     {
+      "title": "OpenAI2026年前三个月烧钱37亿美元",
+      "link": "https://36kr.com/newsflashes/3856482732823555?f=rss",
+      "summary": "OpenAI向股东披露的文件显示，公司一季度现金消耗达37亿美元，超过其57亿美元营收的半数。现金消耗与营收规模均同比增长两倍，这表明即便人工智能市场需求旺盛，依靠AI业务实现盈利依旧困难重重。当季度末，公司持有现金及有价证券超730亿美元，去年12月末该数值仅为400亿美元，这一变化源于公司三月底完成的巨额融资。若后续现金消耗规模维持一季度水平，OpenAI短期内无需新一轮融资，或将缓解其仓促推进上市的压力。不过，现金消耗金额可能每季度出现波动。据报道，该公司此前预测今年现金消耗250亿美元，明年消耗570亿美元。（新浪财经）",
+      "source": "36氪",
+      "pub_date": "2026-06-17 07:43:58  +0800",
+      "fetched_at": "2026-06-17T08:00:06.001934",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "OpenAI向股东披露的文件显示，公司一季度现金消耗达37亿美元，超过其57亿美元营收的半数。现金消耗与营收规模均同比增长两倍，这表明即便人工智能市场需求旺盛，依靠AI业务实现盈利依旧困难重重。当季度末，公司持有现金及有价证券超730亿美元，去年12月末该数值仅为400亿美元，这一变化源于公司三月底...",
+      "keywords": [
+        "亿美元",
+        "openai",
+        "年前三个月烧钱",
+        "向股东披露的文件显示",
+        "公司一季度现金消耗达"
+      ],
+      "importance": 1.5
+    },
+    {
       "title": "朱雀二号火箭解体产生上百碎片",
       "link": "https://www.solidot.org/story?sid=84593",
       "summary": "蓝箭航天于 6 月 9 日在东风发射场发射了朱雀二号改进型遥六运载火箭（ZQ-2E Y6），将搭载的千帆 DTC 01 星和中国移动 02 星送入预定轨道。但火箭上面级随后在太空发生解体事件，碎片散落在近地轨道，其中部分与国际空间站和 SpaceX Starlink 宽带网络的轨道重叠。LeoLabs 的高级技术研究员 Darren McKnight 表示此次事件可能产生了 100-150 块碎片。其中一块碎片是火箭的第二级，长约 8 米直径约 3.35 米。火箭上面级的主体在距离地球 335-424 公里的轨道上运行，轨道倾角 54.5 度。好消息是轨道高度足够低，空气阻力将使大部分火箭碎片...",
       "source": "Solidot",
       "pub_date": "Tue, 16 Jun 2026 15:32:51 +0800",
-      "fetched_at": "2026-06-16T20:00:02.349062",
+      "fetched_at": "2026-06-17T08:00:04.642928",
       "categories": [
         "space"
       ],
@@ -107,7 +106,7 @@
       "summary": "微软旗下的代码托管平台 GitHub 最近一段时间宕机事件频发，它正将服务迁移到微软的云计算平台 Azure，但仍然无法满足不断增长的需求，因此它正求助于最大的竞争对手亚马逊 AWS，以确保平台能正常运行。亚马逊表示不会对个别客户发表评论。对微软而言，GitHub 宕机的风险已经超过了向 AWS 付费所带来的负面影响。GitHub 首席运营官 Kyle Daigle 此前表示，该平台用户的提交(Commits)数将从 2025 年的 10 亿飙升到 2026 年 140 亿次。GitHub 在 2025 年 10 月计划将平台容量提高 10 倍，但到了 2026 年 2 月它发现需要提高 30...",
       "source": "Solidot",
       "pub_date": "Tue, 16 Jun 2026 13:35:09 +0800",
-      "fetched_at": "2026-06-16T20:00:02.349568",
+      "fetched_at": "2026-06-17T08:00:04.643393",
       "categories": [
         "ai"
       ],
@@ -127,7 +126,7 @@
       "summary": "文｜周鑫雨 编辑｜张雨忻 梳理近半年的成果，大晓机器人董事长、商汤科技联合创始人王晓刚，滔滔不绝聊了10多分钟。 成立于2025年7月，大晓机器人（ACE ROBOTICS）是具身领域姗姗来迟的入局者。但一年来，这位新玩家成了赛道的“卷王”： 在模型侧，大晓新发布的具身大脑——世界模型“开悟（Kairos）3.0”，在4项全球具身智能基准测试中取得SOTA；开源的Kairos 3.0-4B，则率先实现在端侧直接驱动具身智能本体的能力。 △Kairos3.0在4个世界模型生成预测具身智能榜单中取得SOTA。图源：大晓机器人 在数据侧，大晓提出的“以人为中心”环境式采集方案，通过大规模采集人类与真...",
       "source": "36氪",
       "pub_date": "2026-06-16 16:31:50  +0800",
-      "fetched_at": "2026-06-16T20:00:03.233566",
+      "fetched_at": "2026-06-17T08:00:05.966897",
       "categories": [
         "ai",
         "robotics"
@@ -148,7 +147,7 @@
       "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，海洋具身智能公司「世航智能」完成A轮融资，融资金额超过10亿元，这也是目前全球海洋机器人领域规模最大的单轮融资。本轮融资由两家芯片公司「摩尔线程」和「昆仑芯」的产业投资方上河动量基金、新加坡国有投资平台Vertex Growth 、上市公司大洋电机等资方出资。 另外，金沙江创投也在本轮追加投资，这已是其创始人朱啸虎第五轮投资「世航智能」，祥峰中国、华映资本、长石资本等老股东亦全部超额跟投。 「世航智能」创始人兼CEO陈晓博为1989年出生的哈尔滨工程大学校友，长期深耕水下机器人领域，在28岁时获得国防科技进步一等奖，是该奖项最年轻获奖者，并主导研发...",
       "source": "36氪",
       "pub_date": "2026-06-15 09:50:00  +0800",
-      "fetched_at": "2026-06-16T20:00:03.265581",
+      "fetched_at": "2026-06-17T08:00:06.001142",
       "categories": [
         "robotics"
       ],
@@ -163,22 +162,42 @@
       "importance": 1.0
     },
     {
-      "title": "Deepseek首轮融资规模约75亿美元，创始人梁文锋为最大单一出资方",
-      "link": "https://36kr.com/newsflashes/3855729974367233?f=rss",
-      "summary": "36氪从投资机构获悉，Deepseek本轮融资的投资方包括创始人梁文锋、国智投、腾讯、网易、京东、宁德时代体系、正心谷投资、拾象科技、Monolith砺思资本以及 IDG 资本等，整体融资规模约510亿元，折合约75亿美元，投后估值接近4000亿元。具体来看：创始人梁文锋或出资约200亿元，为本轮融资中最大单一出资方。腾讯出资约100亿元；宁德时代体系出资约50亿元，其中包括宁德时代及溥泉资本；网易、京东、Monolith砺思资本、IDG资本分别出资约30亿元；正心谷投资、拾象科技分别出资约15亿元，国家人工智能产业投资基金出资约9.8亿元。",
+      "title": "苹果拟明年推出带摄像头的AirPods和新一代折叠屏iPhone",
+      "link": "https://36kr.com/newsflashes/3856478001091593?f=rss",
+      "summary": "据报道，苹果公司计划明年年底推出配备摄像头的耳机AirPods，在此之前将发布下一代折叠屏手机以及一款纪念iPhone问世20周年的新机型。知情人士称，这将是苹果迄今力度最大的新品发布。过去数月，这三款产品均已进入开发后期阶段。（界面）",
       "source": "36氪",
-      "pub_date": "2026-06-16 18:51:21  +0800",
-      "fetched_at": "2026-06-16T20:00:03.268067",
+      "pub_date": "2026-06-17 07:41:10  +0800",
+      "fetched_at": "2026-06-17T08:00:06.002049",
       "categories": [
         "ai"
       ],
-      "ai_summary": "36氪从投资机构获悉，Deepseek本轮融资的投资方包括创始人梁文锋、国智投、腾讯、网易、京东、宁德时代体系、正心谷投资、拾象科技、Monolith砺思资本以及 IDG 资本等，整体融资规模约510亿元，折合约75亿美元，投后估值接近4000亿元。具体来看：创始人梁文锋或出资约200亿元，为本轮融...",
+      "ai_summary": "据报道，苹果公司计划明年年底推出配备摄像头的耳机AirPods，在此之前将发布下一代折叠屏手机以及一款纪念iPhone问世20周年的新机型。知情人士称，这将是苹果迄今力度最大的新品发布。过去数月，这三款产品均已进入开发后期阶段。（界面）",
       "keywords": [
-        "亿元",
-        "deepseek",
-        "亿美元",
-        "网易",
-        "京东"
+        "airpods",
+        "iphone",
+        "苹果拟明年推出带摄像头的",
+        "和新一代折叠屏",
+        "据报道"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "摩根大通：与AI相关的债券发行预计未来数年将保持火热",
+      "link": "https://36kr.com/newsflashes/3856008609354760?f=rss",
+      "summary": "摩根大通分析师写道，为AI和数据中心融资的债券发行可能会保持火热。摩根大通表示，贷款平均占项目成本的85%，这一高比例可能会推动到2030年底的总AI支出达到5.5万亿美元，其中4.1万亿美元由债务融资。预计发债人将利用各国“每一个资本市场“来支持其增长需求。顶级企业或超大规模云服务提供商的盈利能力足以在发行量不断增加的情况下让投资者保持冷静。摩根大通怀疑，他们现在大举借款是为了保留大量现金，以防经济恶化和借贷成本飙升。（财联社）",
+      "source": "36氪",
+      "pub_date": "2026-06-17 07:32:37  +0800",
+      "fetched_at": "2026-06-17T08:00:06.002468",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "摩根大通分析师写道，为AI和数据中心融资的债券发行可能会保持火热。摩根大通表示，贷款平均占项目成本的85%，这一高比例可能会推动到2030年底的总AI支出达到5.5万亿美元，其中4.1万亿美元由债务融资。预计发债人将利用各国“每一个资本市场“来支持其增长需求。顶级企业或超大规模云服务提供商的盈利能力...",
+      "keywords": [
+        "ai",
+        "摩根大通",
+        "相关的债券发行预计未来数年将保持火热",
+        "摩根大通分析师写道",
+        "和数据中心融资的债券发行可能会保持火热"
       ],
       "importance": 1.0
     },
@@ -188,7 +207,7 @@
       "summary": "她并不是一位被神话出来的「星舰女王」",
       "source": "量子位",
       "pub_date": "Tue, 16 Jun 2026 06:40:17 +0000",
-      "fetched_at": "2026-06-16T20:00:03.385056",
+      "fetched_at": "2026-06-17T08:00:06.115516",
       "categories": [
         "space"
       ],
@@ -203,163 +222,144 @@
       "importance": 1.0
     },
     {
-      "title": "SpaceX to buy Cursor AI coding agent operator Anysphere for $60B",
+      "title": "SpaceX to buy Cursor for $60B",
       "link": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
-      "summary": "👍 58 | 💬 24",
+      "summary": "👍 823 | 💬 1268",
       "source": "HackerNews",
       "pub_date": "2026-06-16T18:44:24",
-      "fetched_at": "2026-06-16T20:00:25.826083",
+      "fetched_at": "2026-06-17T08:00:10.278874",
       "categories": [
-        "ai",
         "space"
       ],
-      "ai_summary": "👍 58 | 💬 24",
+      "ai_summary": "👍 823 | 💬 1268",
       "keywords": [
         "spacex",
         "to",
         "buy",
         "cursor",
-        "ai"
+        "for"
       ],
       "importance": 1.0
-    },
-    {
-      "title": "俄罗斯计划退役漏气的国际空间站 PrK 模块",
-      "link": "https://www.solidot.org/story?sid=84588",
-      "summary": "位于 Progress（进步号）气闸舱和 Zvezda（星辰号）服务舱之间的 PrK 模块因结构裂缝导致的漏气过去几年一直困扰着国际空间站，今年初漏气问题一度被认为已经修复，但本月早些时候报告漏气再次加剧，该模块的裂缝总数达到 16 处。10 天前俄罗斯宇航员试图用锯子拆除该模块的一个承重支架，此举招致了 NASA 的强烈反对，认为可能会产生严重后果，下令宇航员进入与空间站对接的 Crew Dragon 飞船，穿上宇航服，准备必要时紧急撤离。俄罗斯航天局最终放弃了拆支架的计划。双方在幕后反复的拉锯之后，最终俄罗斯通知 NASA 将退役 PrK 模块。这意味着宇航员将不再进入 PrK 模块，或再...",
-      "source": "Solidot",
-      "pub_date": "Mon, 15 Jun 2026 23:35:55 +0800",
-      "fetched_at": "2026-06-16T20:00:02.349838",
-      "categories": [
-        "space"
-      ],
-      "ai_summary": "位于 Progress（进步号）气闸舱和 Zvezda（星辰号）服务舱之间的 PrK 模块因结构裂缝导致的漏气过去几年一直困扰着国际空间站，今年初漏气问题一度被认为已经修复，但本月早些时候报告漏气再次加剧，该模块的裂缝总数达到 16 处。10 天前俄罗斯宇航员试图用锯子拆除该模块的一个承重支架，此举...",
-      "keywords": [
-        "prk",
-        "模块",
-        "nasa",
-        "俄罗斯计划退役漏气的国际空间站",
-        "位于"
-      ],
-      "importance": 0.5
     }
   ],
   "latest": [
     {
-      "title": "SpaceX to buy Cursor AI coding agent operator Anysphere for $60B",
+      "title": "Apple is about to make Hide My Email useless",
+      "link": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+      "summary": "👍 354 | 💬 217",
+      "source": "HackerNews",
+      "pub_date": "2026-06-17T02:37:21",
+      "fetched_at": "2026-06-17T08:00:22.760028",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 354 | 💬 217",
+      "keywords": [
+        "apple",
+        "is",
+        "about",
+        "to",
+        "make"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Has AI already killed self-help nonfiction books?",
+      "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+      "summary": "👍 128 | 💬 129",
+      "source": "HackerNews",
+      "pub_date": "2026-06-17T01:11:05",
+      "fetched_at": "2026-06-17T08:00:16.928440",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 128 | 💬 129",
+      "keywords": [
+        "has",
+        "ai",
+        "already",
+        "killed",
+        "self"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+      "link": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+      "summary": "👍 8 | 💬 1",
+      "source": "HackerNews",
+      "pub_date": "2026-06-17T07:15:44",
+      "fetched_at": "2026-06-17T08:00:16.025026",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 8 | 💬 1",
+      "keywords": [
+        "wolfram",
+        "language",
+        "and",
+        "mathematica",
+        "version"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "GPT‑NL: a sovereign language model for the Netherlands",
+      "link": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "summary": "👍 125 | 💬 129",
+      "source": "HackerNews",
+      "pub_date": "2026-06-17T01:54:02",
+      "fetched_at": "2026-06-17T08:00:14.252098",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 125 | 💬 129",
+      "keywords": [
+        "gpt",
+        "nl",
+        "sovereign",
+        "language",
+        "model"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "SpaceX to buy Cursor for $60B",
       "link": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
-      "summary": "👍 58 | 💬 24",
+      "summary": "👍 823 | 💬 1268",
       "source": "HackerNews",
       "pub_date": "2026-06-16T18:44:24",
-      "fetched_at": "2026-06-16T20:00:25.826083",
+      "fetched_at": "2026-06-17T08:00:10.278874",
       "categories": [
-        "ai",
         "space"
       ],
-      "ai_summary": "👍 58 | 💬 24",
+      "ai_summary": "👍 823 | 💬 1268",
       "keywords": [
         "spacex",
         "to",
         "buy",
         "cursor",
-        "ai"
+        "for"
       ],
       "importance": 1.0
     },
     {
-      "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
-      "link": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
-      "summary": "👍 83 | 💬 46",
+      "title": "Humiliating IIS servers for fun and jail time",
+      "link": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+      "summary": "👍 22 | 💬 1",
       "source": "HackerNews",
-      "pub_date": "2026-06-16T17:26:09",
-      "fetched_at": "2026-06-16T20:00:19.946928",
+      "pub_date": "2026-06-17T06:53:34",
+      "fetched_at": "2026-06-17T08:00:09.481015",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 83 | 💬 46",
+      "ai_summary": "👍 22 | 💬 1",
       "keywords": [
-        "feds",
-        "freaked",
-        "over",
-        "fable",
-        "after"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-      "link": "https://tinywind.io",
-      "summary": "👍 880 | 💬 161",
-      "source": "HackerNews",
-      "pub_date": "2026-06-16T00:15:53",
-      "fetched_at": "2026-06-16T20:00:19.131692",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 880 | 💬 161",
-      "keywords": [
-        "tinywind",
-        "pixel",
-        "pirate",
-        "sailing",
-        "game"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-      "link": "https://news.ycombinator.com/item?id=48542100",
-      "summary": "👍 1071 | 💬 462",
-      "source": "HackerNews",
-      "pub_date": "2026-06-15T22:46:53",
-      "fetched_at": "2026-06-16T20:00:18.352475",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 1071 | 💬 462",
-      "keywords": [
-        "ask",
-        "hn",
-        "has",
-        "anyone",
-        "replaced"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "宇树机器人要登珠峰了！",
-      "link": "https://www.qbitai.com/2026/06/435817.html",
-      "summary": "已登顶钦博拉索",
-      "source": "量子位",
-      "pub_date": "Mon, 15 Jun 2026 09:17:30 +0000",
-      "fetched_at": "2026-06-16T20:00:03.385365",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "已登顶钦博拉索",
-      "keywords": [
-        "宇树机器人要登珠峰了",
-        "已登顶钦博拉索"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "从ICRA到CVPR，机器人圈最近到底在聊什么？｜北京·周三晚",
-      "link": "https://www.qbitai.com/2026/06/435841.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Mon, 15 Jun 2026 09:37:40 +0000",
-      "fetched_at": "2026-06-16T20:00:03.385300",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "icra",
-        "cvpr",
-        "机器人圈最近到底在聊什么",
-        "北京",
-        "周三晚"
+        "humiliating",
+        "iis",
+        "servers",
+        "for",
+        "fun"
       ],
       "importance": 0
     },
@@ -369,7 +369,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Mon, 15 Jun 2026 12:57:10 +0000",
-      "fetched_at": "2026-06-16T20:00:03.385294",
+      "fetched_at": "2026-06-17T08:00:06.115751",
       "categories": [
         "ai"
       ],
@@ -387,7 +387,7 @@
       "summary": "专为 Agent 设计的 AI 搜索层服务",
       "source": "量子位",
       "pub_date": "Tue, 16 Jun 2026 01:32:25 +0000",
-      "fetched_at": "2026-06-16T20:00:03.385284",
+      "fetched_at": "2026-06-17T08:00:06.115742",
       "categories": [
         "ai"
       ],
@@ -407,7 +407,7 @@
       "summary": "成为全球领先的通用人工智能科技公司",
       "source": "量子位",
       "pub_date": "Tue, 16 Jun 2026 02:47:51 +0000",
-      "fetched_at": "2026-06-16T20:00:03.385213",
+      "fetched_at": "2026-06-17T08:00:06.115664",
       "categories": [
         "ai"
       ],
@@ -427,7 +427,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Tue, 16 Jun 2026 04:10:43 +0000",
-      "fetched_at": "2026-06-16T20:00:03.385145",
+      "fetched_at": "2026-06-17T08:00:06.115596",
       "categories": [
         "ai"
       ],
@@ -447,7 +447,7 @@
       "summary": "边走、边看、边思考",
       "source": "量子位",
       "pub_date": "Tue, 16 Jun 2026 04:39:39 +0000",
-      "fetched_at": "2026-06-16T20:00:03.385135",
+      "fetched_at": "2026-06-17T08:00:06.115587",
       "categories": [
         "ai",
         "robotics"
@@ -468,7 +468,7 @@
       "summary": "她并不是一位被神话出来的「星舰女王」",
       "source": "量子位",
       "pub_date": "Tue, 16 Jun 2026 06:40:17 +0000",
-      "fetched_at": "2026-06-16T20:00:03.385056",
+      "fetched_at": "2026-06-17T08:00:06.115516",
       "categories": [
         "space"
       ],
@@ -488,7 +488,7 @@
       "summary": "100万奖金，0门槛参赛",
       "source": "量子位",
       "pub_date": "Tue, 16 Jun 2026 09:31:02 +0000",
-      "fetched_at": "2026-06-16T20:00:03.384979",
+      "fetched_at": "2026-06-17T08:00:06.115441",
       "categories": [
         "ai"
       ],
@@ -508,7 +508,7 @@
       "summary": "转载来源：网易有道 本文为量子位获授权转载，观点仅为原作者所有。",
       "source": "量子位",
       "pub_date": "Tue, 16 Jun 2026 10:36:35 +0000",
-      "fetched_at": "2026-06-16T20:00:03.384886",
+      "fetched_at": "2026-06-17T08:00:06.115358",
       "categories": [
         "ai"
       ],
@@ -523,127 +523,124 @@
       "importance": 0
     },
     {
-      "title": "Deepseek首轮融资规模约75亿美元，创始人梁文锋为最大单一出资方",
-      "link": "https://36kr.com/newsflashes/3855729974367233?f=rss",
-      "summary": "36氪从投资机构获悉，Deepseek本轮融资的投资方包括创始人梁文锋、国智投、腾讯、网易、京东、宁德时代体系、正心谷投资、拾象科技、Monolith砺思资本以及 IDG 资本等，整体融资规模约510亿元，折合约75亿美元，投后估值接近4000亿元。具体来看：创始人梁文锋或出资约200亿元，为本轮融资中最大单一出资方。腾讯出资约100亿元；宁德时代体系出资约50亿元，其中包括宁德时代及溥泉资本；网易、京东、Monolith砺思资本、IDG资本分别出资约30亿元；正心谷投资、拾象科技分别出资约15亿元，国家人工智能产业投资基金出资约9.8亿元。",
-      "source": "36氪",
-      "pub_date": "2026-06-16 18:51:21  +0800",
-      "fetched_at": "2026-06-16T20:00:03.268067",
+      "title": "和朱广权同台讲脱口秀，鸿蒙小艺这次把AI助手卷到新阶段了？！",
+      "link": "https://www.qbitai.com/2026/06/435953.html",
+      "summary": "会思考、能调度、还会自进化",
+      "source": "量子位",
+      "pub_date": "Tue, 16 Jun 2026 13:02:10 +0000",
+      "fetched_at": "2026-06-17T08:00:06.115274",
       "categories": [
         "ai"
       ],
-      "ai_summary": "36氪从投资机构获悉，Deepseek本轮融资的投资方包括创始人梁文锋、国智投、腾讯、网易、京东、宁德时代体系、正心谷投资、拾象科技、Monolith砺思资本以及 IDG 资本等，整体融资规模约510亿元，折合约75亿美元，投后估值接近4000亿元。具体来看：创始人梁文锋或出资约200亿元，为本轮融...",
+      "ai_summary": "会思考、能调度、还会自进化",
       "keywords": [
-        "亿元",
-        "deepseek",
-        "亿美元",
-        "网易",
-        "京东"
+        "和朱广权同台讲脱口秀",
+        "鸿蒙小艺这次把",
+        "ai",
+        "助手卷到新阶段了",
+        "会思考"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "一个模型控制手脚腰身！机器人终于学会全身协同干精细活了",
+      "link": "https://www.qbitai.com/2026/06/436073.html",
+      "summary": "手的问题，其实不在手",
+      "source": "量子位",
+      "pub_date": "Tue, 16 Jun 2026 13:23:06 +0000",
+      "fetched_at": "2026-06-17T08:00:06.115179",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "手的问题，其实不在手",
+      "keywords": [
+        "一个模型控制手脚腰身",
+        "机器人终于学会全身协同干精细活了",
+        "手的问题",
+        "其实不在手"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "创远信科：与吉利控股旗下商业航天企业时空道宇签订战略意向合作协议",
+      "link": "https://36kr.com/newsflashes/3856013978981638?f=rss",
+      "summary": "36氪获悉，创远信科公告，公司近期与吉利控股旗下商业航天企业时空道宇签署《战略意向合作协议》，双方将依托时空道宇卫星星座建设运营、产业落地优势以及创远信科在通信测试研发、全域验证技术优势，深耕卫星物联网领域，联合共建“NTN技术协同创新实验室”，合力开展测试体系搭建、品质标准优化、前沿技术研发及海内外市场协同拓展等各项合作。",
+      "source": "36氪",
+      "pub_date": "2026-06-17 07:25:06  +0800",
+      "fetched_at": "2026-06-17T08:00:06.002945",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "36氪获悉，创远信科公告，公司近期与吉利控股旗下商业航天企业时空道宇签署《战略意向合作协议》，双方将依托时空道宇卫星星座建设运营、产业落地优势以及创远信科在通信测试研发、全域验证技术优势，深耕卫星物联网领域，联合共建“NTN技术协同创新实验室”，合力开展测试体系搭建、品质标准优化、前沿技术研发及海内...",
+      "keywords": [
+        "创远信科",
+        "与吉利控股旗下商业航天企业时空道宇签订战略意向合作协议",
+        "氪获悉",
+        "创远信科公告",
+        "公司近期与吉利控股旗下商业航天企业时空道宇签署"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "摩根大通：与AI相关的债券发行预计未来数年将保持火热",
+      "link": "https://36kr.com/newsflashes/3856008609354760?f=rss",
+      "summary": "摩根大通分析师写道，为AI和数据中心融资的债券发行可能会保持火热。摩根大通表示，贷款平均占项目成本的85%，这一高比例可能会推动到2030年底的总AI支出达到5.5万亿美元，其中4.1万亿美元由债务融资。预计发债人将利用各国“每一个资本市场“来支持其增长需求。顶级企业或超大规模云服务提供商的盈利能力足以在发行量不断增加的情况下让投资者保持冷静。摩根大通怀疑，他们现在大举借款是为了保留大量现金，以防经济恶化和借贷成本飙升。（财联社）",
+      "source": "36氪",
+      "pub_date": "2026-06-17 07:32:37  +0800",
+      "fetched_at": "2026-06-17T08:00:06.002468",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "摩根大通分析师写道，为AI和数据中心融资的债券发行可能会保持火热。摩根大通表示，贷款平均占项目成本的85%，这一高比例可能会推动到2030年底的总AI支出达到5.5万亿美元，其中4.1万亿美元由债务融资。预计发债人将利用各国“每一个资本市场“来支持其增长需求。顶级企业或超大规模云服务提供商的盈利能力...",
+      "keywords": [
+        "ai",
+        "摩根大通",
+        "相关的债券发行预计未来数年将保持火热",
+        "摩根大通分析师写道",
+        "和数据中心融资的债券发行可能会保持火热"
       ],
       "importance": 1.0
     },
     {
-      "title": "SpaceX将通过合并收购美国AI软件公司Anysphere",
-      "link": "https://36kr.com/newsflashes/3855740363560198?f=rss",
-      "summary": "美国证交会备案文件显示，SpaceX与其全资子公司X67 Inc.与Anysphere, Inc.（“Cursor”）签署了一份合并协议与计划。根据该协议，合并子公司将与Cursor合并，Cursor在合并后存续，成为SpaceX的全资子公司。SpaceX提交的文件显示，在合并生效时，Cursor在合并生效时间之前已发行的每股普通股和每股优先股将自动转换为获得本公司A类普通股的权利，该权利基于Cursor 600亿美元的隐含股权价值，以及公司A类普通股在合并交割日前连续七个交易日的成交量加权平均收盘价作为股价。SpaceX目前预计合并将于2026年第三季度完成。（界面）",
+      "title": "中国进出口银行前5个月投放外贸领域贷款4900亿元",
+      "link": "https://36kr.com/newsflashes/3856456435176704?f=rss",
+      "summary": "今年1至5月，中国进出口银行新发放外贸领域贷款4900亿元，其中近40%投向稳外贸主体和稳外贸产业链领域。全力支持中间品贸易、数字贸易、海外仓等，推动人工智能、绿电装备等产品技术革新、扩大出口。（央视新闻）",
       "source": "36氪",
-      "pub_date": "2026-06-16 19:01:55  +0800",
-      "fetched_at": "2026-06-16T20:00:03.267907",
-      "categories": [
-        "ai",
-        "space"
-      ],
-      "ai_summary": "美国证交会备案文件显示，SpaceX与其全资子公司X67 Inc.与Anysphere, Inc.（“Cursor”）签署了一份合并协议与计划。根据该协议，合并子公司将与Cursor合并，Cursor在合并后存续，成为SpaceX的全资子公司。SpaceX提交的文件显示，在合并生效时，Cursor在...",
-      "keywords": [
-        "spacex",
-        "cursor",
-        "anysphere",
-        "inc",
-        "将通过合并收购美国"
-      ],
-      "importance": 2.0
-    },
-    {
-      "title": "东山精密：拟投资12亿美元实施光芯片及光模块扩建项目",
-      "link": "https://36kr.com/newsflashes/3855759472120839?f=rss",
-      "summary": "36氪获悉，东山精密公告，公司董事会召开会议，同意公司子公司索尔思光电及其子公司在常州等地实施光芯片及光模块扩建项目，项目总投资额12亿美元，以提升索尔思光电整体产能规模，项目投资资金来源为公司自筹资金。此次投资扩建可以提升公司高端光芯片、光模块产能，充分满足客户在AI算力服务器相关核心产品上的中长期采购需求，进一步增强公司核心竞争力。",
-      "source": "36氪",
-      "pub_date": "2026-06-16 19:21:21  +0800",
-      "fetched_at": "2026-06-16T20:00:03.267516",
+      "pub_date": "2026-06-17 07:34:14  +0800",
+      "fetched_at": "2026-06-17T08:00:06.002369",
       "categories": [
         "ai"
       ],
-      "ai_summary": "36氪获悉，东山精密公告，公司董事会召开会议，同意公司子公司索尔思光电及其子公司在常州等地实施光芯片及光模块扩建项目，项目总投资额12亿美元，以提升索尔思光电整体产能规模，项目投资资金来源为公司自筹资金。此次投资扩建可以提升公司高端光芯片、光模块产能，充分满足客户在AI算力服务器相关核心产品上的中长...",
+      "ai_summary": "今年1至5月，中国进出口银行新发放外贸领域贷款4900亿元，其中近40%投向稳外贸主体和稳外贸产业链领域。全力支持中间品贸易、数字贸易、海外仓等，推动人工智能、绿电装备等产品技术革新、扩大出口。（央视新闻）",
       "keywords": [
-        "东山精密",
-        "拟投资",
-        "亿美元实施光芯片及光模块扩建项目",
-        "氪获悉",
-        "东山精密公告"
+        "亿元",
+        "中国进出口银行前",
+        "个月投放外贸领域贷款",
+        "今年",
+        "中国进出口银行新发放外贸领域贷款"
       ],
       "importance": 0.5
     },
     {
-      "title": "微信支付“AI专属卡”最快本周内上线",
-      "link": "https://36kr.com/newsflashes/3855774821929991?f=rss",
-      "summary": "记者获悉，微信支付正联合腾讯智能体产品WorkBuddy测试AI支付功能，计划在微信钱包中上线“AI专属卡”。该功能最快将于本周内上线。记者今日就上述信息向微信支付方面求证，至发稿未获回应。（财联社）",
+      "title": "苹果拟明年推出带摄像头的AirPods和新一代折叠屏iPhone",
+      "link": "https://36kr.com/newsflashes/3856478001091593?f=rss",
+      "summary": "据报道，苹果公司计划明年年底推出配备摄像头的耳机AirPods，在此之前将发布下一代折叠屏手机以及一款纪念iPhone问世20周年的新机型。知情人士称，这将是苹果迄今力度最大的新品发布。过去数月，这三款产品均已进入开发后期阶段。（界面）",
       "source": "36氪",
-      "pub_date": "2026-06-16 19:36:58  +0800",
-      "fetched_at": "2026-06-16T20:00:03.267284",
+      "pub_date": "2026-06-17 07:41:10  +0800",
+      "fetched_at": "2026-06-17T08:00:06.002049",
       "categories": [
         "ai"
       ],
-      "ai_summary": "记者获悉，微信支付正联合腾讯智能体产品WorkBuddy测试AI支付功能，计划在微信钱包中上线“AI专属卡”。该功能最快将于本周内上线。记者今日就上述信息向微信支付方面求证，至发稿未获回应。（财联社）",
+      "ai_summary": "据报道，苹果公司计划明年年底推出配备摄像头的耳机AirPods，在此之前将发布下一代折叠屏手机以及一款纪念iPhone问世20周年的新机型。知情人士称，这将是苹果迄今力度最大的新品发布。过去数月，这三款产品均已进入开发后期阶段。（界面）",
       "keywords": [
-        "ai",
-        "专属卡",
-        "微信支付",
-        "最快本周内上线",
-        "记者获悉"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "硬氪首发 | 海洋具身智能公司「世航智能」拿下创纪录10亿融资，朱啸虎押注",
-      "link": "https://36kr.com/p/3853011900142848?f=rss",
-      "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，海洋具身智能公司「世航智能」完成A轮融资，融资金额超过10亿元，这也是目前全球海洋机器人领域规模最大的单轮融资。本轮融资由两家芯片公司「摩尔线程」和「昆仑芯」的产业投资方上河动量基金、新加坡国有投资平台Vertex Growth 、上市公司大洋电机等资方出资。 另外，金沙江创投也在本轮追加投资，这已是其创始人朱啸虎第五轮投资「世航智能」，祥峰中国、华映资本、长石资本等老股东亦全部超额跟投。 「世航智能」创始人兼CEO陈晓博为1989年出生的哈尔滨工程大学校友，长期深耕水下机器人领域，在28岁时获得国防科技进步一等奖，是该奖项最年轻获奖者，并主导研发...",
-      "source": "36氪",
-      "pub_date": "2026-06-15 09:50:00  +0800",
-      "fetched_at": "2026-06-16T20:00:03.265581",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，海洋具身智能公司「世航智能」完成A轮融资，融资金额超过10亿元，这也是目前全球海洋机器人领域规模最大的单轮融资。本轮融资由两家芯片公司「摩尔线程」和「昆仑芯」的产业投资方上河动量基金、新加坡国有投资平台Vertex Growth...",
-      "keywords": [
-        "世航智能",
-        "海洋具身智能公司",
-        "硬氪首发",
-        "拿下创纪录",
-        "亿融资"
+        "airpods",
+        "iphone",
+        "苹果拟明年推出带摄像头的",
+        "和新一代折叠屏",
+        "据报道"
       ],
       "importance": 1.0
-    },
-    {
-      "title": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
-      "link": "https://36kr.com/p/3853016586359817?f=rss",
-      "summary": "作者 | 邱晓芬 编辑 | 袁斯来 过去几个月，“世界模型”（World Model）从学术黑话迅速膨胀成AI和机器人行业里的关键词。 行业的目光转向背后是切实的焦虑。 一方面，经过了过去两年的野蛮生长，具身智能暴露了当前AI在物理世界中的短板——机器人能识别物体，却不懂“推杯子会掉”；能听懂指令，却无法预判“拧瓶盖需要多大的力”。世界模型正是试图补上这个短板，让机器人学会物理世界的规律、因果。 也就是说，世界模型与具身智能的关系，本质上是“大脑”与“身体”的关系。 另一面，大模型在经历了大语言、视觉模型、多模态的探索之后，需要从虚拟走向真实世界的下一阶段。 只是，当资本、技术专家、产业资源都...",
-      "source": "36氪",
-      "pub_date": "2026-06-15 09:50:00  +0800",
-      "fetched_at": "2026-06-16T20:00:03.263376",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "作者 | 邱晓芬 编辑 | 袁斯来 过去几个月，“世界模型”（World Model）从学术黑话迅速膨胀成AI和机器人行业里的关键词。...",
-      "keywords": [
-        "ai",
-        "硬氪专访",
-        "智源研究院院长王仲远",
-        "vla",
-        "不会死"
-      ],
-      "importance": 0
     }
   ],
-  "updated_at": "2026-06-16T20:00:30.915812"
+  "updated_at": "2026-06-17T08:00:24.528152"
 }

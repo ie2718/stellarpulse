@@ -5,15 +5,15 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-06-20T12:00:41.694862",
-    "total_items": 19
+    "last_update": "2026-06-20T20:00:47.268306",
+    "total_items": 22
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 18
+      "count": 21
     },
     "robotics": {
       "name": "Robotics",
@@ -29,14 +29,14 @@
     }
   },
   "stats": {
-    "total_items": 19,
-    "today_items": 19,
+    "total_items": 22,
+    "today_items": 22,
     "sources": {
       "Solidot": 8,
-      "量子位": 6,
-      "HackerNews": 5
+      "量子位": 7,
+      "HackerNews": 7
     },
-    "last_update": "2026-06-20T12:00:41.694862"
+    "last_update": "2026-06-20T20:00:47.268306"
   },
   "trending": [
     {
@@ -45,7 +45,7 @@
       "summary": "加州亿万富翁税提案获得足够签名达到在 11 月公投的资格。亿万富翁税（California Billionaire Tax Act）将对任何身价逾 10 亿美元的加州居民一次性征收 5% 的税，该税将用于医保和教育等项目。加州是全美亿万富翁人数最多的州，总数超过 200 人，很多人在 AI 热下积累了巨额财富。该税遭到了加州亿万富翁们的强烈反对，Google 联合创始人 Sergey Brin 一人至少投入了 8200 万美元反对该税，并搬到了靠近加州的内华达州居住。Palantir 联合创始人 Peter Thiel、Google 前 CEO Eric Sc​​hmidt、加密货币亿万富翁 ...",
       "source": "Solidot",
       "pub_date": "Fri, 19 Jun 2026 23:58:57 +0800",
-      "fetched_at": "2026-06-20T12:00:03.228852",
+      "fetched_at": "2026-06-20T20:00:05.120068",
       "categories": [
         "ai"
       ],
@@ -65,7 +65,7 @@
       "summary": "美国投行摩根大通已禁止香港员工访问 Anthropic 的模型，显示这一技术在美国境外的应用正面临极其严格的审查。由于 Anthropic 与摩根大通的许可协议中有关“使用条款”的特定措辞，摩根大通已将 Claude 模型从其驻港员工获批使用的大型语言模型（LLM）内部名单中移除。在此之前，高盛也做出了类似决定，于 4 月将 Claude 从其香港员工的获准使用工具名单中剔除。今年 4 月 Anthropic 首次向少数企业和机构开放 Mythos 模型测试，并警告该模型具备发现网络安全漏洞的能力，不宜广泛推广。6 月初 Anthropic 发布了 Mythos 级模型的首个公开版本 Fabl...",
       "source": "Solidot",
       "pub_date": "Thu, 18 Jun 2026 18:36:55 +0800",
-      "fetched_at": "2026-06-20T12:00:03.230147",
+      "fetched_at": "2026-06-20T20:00:05.121501",
       "categories": [
         "ai"
       ],
@@ -85,7 +85,7 @@
       "summary": "苹果成为 AI 热导致内存短缺而涨价的最新一家公司。即将卸任的苹果 CEO 库克（Tim Cook）表示，内存供应状况“难以为继”，涨价“不可避免”。他没有透露何时涨价，也没有说明哪些产品会涨价，以及即将于 9 月发布的下一代 iPhone 18 是否会受到影响 。库克说，“在消费者急需设备时内存供应在减少，而内存厂商却选择大幅涨价。我们迫切需要内存价格和供应恢复到消费产品的合理水平。这是最为重要的。”内存价格自 2025 年 10 月以来翻了一番多。",
       "source": "Solidot",
       "pub_date": "Thu, 18 Jun 2026 14:17:13 +0800",
-      "fetched_at": "2026-06-20T12:00:03.230953",
+      "fetched_at": "2026-06-20T20:00:05.122326",
       "categories": [
         "ai"
       ],
@@ -105,7 +105,7 @@
       "summary": "在美国国会参议院周三通过一项法案阻止政府拆除 3.68 亿美元的海洋观测计划（Ocean Observatories Initiative）之后，特朗普政府表示将撤销拆除决定。海洋观测计划由逾 900 台深海仪器构成，用于监测洋流、海洋生态系统、碳吸收、热浪、渔业、沿海洪水和气候变化。每个观测站由多个锚定装置组成。这些设备测量从水面到数千英尺深处的洋流以及化学生物状况。仪器经过加固能承受深海的压力、腐蚀性海水以及可能损坏电子设备的海洋动植物。锚定装置周围的遥控机器人和滑翔机负责收集数据并将其传输到研究实验室。它于 2016 年投入运作，原计划运行 25 年，每年的运行成本为 4800 万美元。...",
       "source": "Solidot",
       "pub_date": "Fri, 19 Jun 2026 22:44:04 +0800",
-      "fetched_at": "2026-06-20T12:00:03.229071",
+      "fetched_at": "2026-06-20T20:00:05.120407",
       "categories": [
         "robotics"
       ],
@@ -125,7 +125,7 @@
       "summary": "三个微软在 2011 年颁发的安全启动 (Secure Boot) 证书将于 6 月 24 日过期。安全启动检查系统启动期间加载的所有固件的数字签名，确保其来自可信提供商。安全启动旨在设计阻止会纂改 UEFI 的恶意程序 UEFI bootkits，一旦安装此类恶意程序很难检测到，即使重装系统也没用。安全启动使用加密签名确保启动过程中加载的每个固件都受到计算机制造商的信任，它旨在建立信任链，防止攻击者用恶意固件替换预期的启动固件。但在 2023 年研究人员发现了存在于几乎所有 Windows 和 Linux 系统 UEFI 启动过程中的严重漏洞 LogoFail。该漏洞存在于启动时显示硬件制造...",
       "source": "Solidot",
       "pub_date": "Thu, 18 Jun 2026 19:30:23 +0800",
-      "fetched_at": "2026-06-20T12:00:03.230003",
+      "fetched_at": "2026-06-20T20:00:05.121354",
       "categories": [
         "ai"
       ],
@@ -140,12 +140,32 @@
       "importance": 0.5
     },
     {
+      "title": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
+      "link": "https://www.qbitai.com/2026/06/436966.html",
+      "summary": "抢人最猛的Meta，似乎先从内部裂开了",
+      "source": "量子位",
+      "pub_date": "Sat, 20 Jun 2026 09:36:31 +0000",
+      "fetched_at": "2026-06-20T20:00:20.421854",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "抢人最猛的Meta，似乎先从内部裂开了",
+      "keywords": [
+        "meta",
+        "员工士气跌至",
+        "年谷底",
+        "内部直播当众开骂",
+        "cto"
+      ],
+      "importance": 0.5
+    },
+    {
       "title": "PCB 价格因中东冲突一月内上涨四成",
       "link": "https://www.solidot.org/story?sid=84625",
       "summary": "在内存和 SSD 之后，又一个计算机核心元件面临价格快速上涨。这一次是因为中东冲突导致生产高纯度树脂的沙特工厂停产。树脂是制造电路板（PCB）的基本原材料，位于沙特阿拉伯 Jubail 的一家工厂为陶氏化学与沙特阿美的合资企业，它供应了全球七成的高纯度 PPE 树脂。该公司于三月下旬因中东冲突关闭，4 月 6 日和 7 日还遭到导弹袭击。陶氏化学 CEO Jim Fitterling 此前表示公司预计物流和供应链恢复正常至少需要 275 天。高盛报告称 3 月到 4 月间 PCB 价格上涨了 40%。全球最大 PCB 制造商之一的胜宏科技警告中东冲突可能会推高铜和树脂的价格。替代树脂需要重新设...",
       "source": "Solidot",
       "pub_date": "Fri, 19 Jun 2026 21:30:32 +0800",
-      "fetched_at": "2026-06-20T12:00:03.229390",
+      "fetched_at": "2026-06-20T20:00:05.120732",
       "categories": [
         "ai"
       ],
@@ -165,7 +185,7 @@
       "summary": "勒索组织 FulcrumSec 宣称入侵了制药巨头诺和诺德（Novo Nordisk）的网络，窃取了约 1.3 TB 的数据，包括源代码、药物研究、临床试验记录、员工和医生信息、生产系统信息以及内部 AI 模型数据。它向诺和诺德勒索 2500 万美元赎金，但未获成功，因此考虑出售部分数据。FulcrumSec 称诺和诺德的代表于 6 月 3 日联系了他们。FulcrumSec 表示考虑通过开源来遏制企业不想支付赎金的情况。诺和诺德发言人表示它正与相关机构保持联系。",
       "source": "Solidot",
       "pub_date": "Thu, 18 Jun 2026 17:54:03 +0800",
-      "fetched_at": "2026-06-20T12:00:03.230276",
+      "fetched_at": "2026-06-20T20:00:05.121639",
       "categories": [
         "ai"
       ],
@@ -185,7 +205,7 @@
       "summary": "根据 WordPress VIP 的报告《Future of the Web Report》，六成美国消费者对品牌信息中的 AI 表示反感。74% 的消费者认为今天的互联网没有 10 年前有人味；普通人冲浪 40 分钟就会产生在线互动缺乏真实感的感受——这被称为 Bot fatigue；16% 的消费者认为没有品牌真正有效利用了 AI，六成消费者认为品牌信息中的 AI 会让人倒胃口。",
       "source": "Solidot",
       "pub_date": "Wed, 17 Jun 2026 23:23:45 +0800",
-      "fetched_at": "2026-06-20T12:00:03.231323",
+      "fetched_at": "2026-06-20T20:00:05.122701",
       "categories": [
         "ai"
       ],
@@ -205,7 +225,7 @@
       "summary": "创作者的终极玩具来了",
       "source": "量子位",
       "pub_date": "Fri, 19 Jun 2026 08:42:04 +0000",
-      "fetched_at": "2026-06-20T12:00:18.485126",
+      "fetched_at": "2026-06-20T20:00:20.421933",
       "categories": [
         "ai"
       ],
@@ -217,60 +237,20 @@
         "创作者的终极玩具来了"
       ],
       "importance": 0
-    },
-    {
-      "title": "GPT发AI原创新成果了",
-      "link": "https://www.qbitai.com/2026/06/436842.html",
-      "summary": "AI实现药物全自动研发，还远吗？",
-      "source": "量子位",
-      "pub_date": "Fri, 19 Jun 2026 03:34:23 +0000",
-      "fetched_at": "2026-06-20T12:00:18.485220",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "AI实现药物全自动研发，还远吗？",
-      "keywords": [
-        "ai",
-        "gpt",
-        "原创新成果了",
-        "实现药物全自动研发",
-        "还远吗"
-      ],
-      "importance": 0
     }
   ],
   "latest": [
     {
-      "title": "Digital Printing of Arabic: explaining the problem",
-      "link": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
-      "summary": "👍 31 | 💬 6",
-      "source": "HackerNews",
-      "pub_date": "2026-06-17T06:23:04",
-      "fetched_at": "2026-06-20T12:00:34.615536",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 31 | 💬 6",
-      "keywords": [
-        "digital",
-        "printing",
-        "of",
-        "arabic",
-        "explaining"
-      ],
-      "importance": 0
-    },
-    {
       "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
       "link": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "summary": "👍 549 | 💬 341",
+      "summary": "👍 606 | 💬 379",
       "source": "HackerNews",
       "pub_date": "2026-06-19T14:35:57",
-      "fetched_at": "2026-06-20T12:00:31.115578",
+      "fetched_at": "2026-06-20T20:00:44.114349",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 549 | 💬 341",
+      "ai_summary": "👍 606 | 💬 379",
       "keywords": [
         "project",
         "valhalla",
@@ -281,35 +261,16 @@
       "importance": 0
     },
     {
-      "title": "Hyundai buys Boston Dynamics",
-      "link": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-      "summary": "👍 708 | 💬 325",
-      "source": "HackerNews",
-      "pub_date": "2026-06-20T00:28:20",
-      "fetched_at": "2026-06-20T12:00:28.071977",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 708 | 💬 325",
-      "keywords": [
-        "hyundai",
-        "buys",
-        "boston",
-        "dynamics"
-      ],
-      "importance": 0
-    },
-    {
       "title": "Norway imposes near ban on AI in elementary school",
       "link": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-      "summary": "👍 506 | 💬 348",
+      "summary": "👍 707 | 💬 493",
       "source": "HackerNews",
       "pub_date": "2026-06-20T00:03:15",
-      "fetched_at": "2026-06-20T12:00:27.061331",
+      "fetched_at": "2026-06-20T20:00:42.516643",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 506 | 💬 348",
+      "ai_summary": "👍 707 | 💬 493",
       "keywords": [
         "norway",
         "imposes",
@@ -320,16 +281,94 @@
       "importance": 0
     },
     {
-      "title": "Data Compression Explained",
-      "link": "https://mattmahoney.net/dc/dce.html",
-      "summary": "👍 19 | 💬 0",
+      "title": "LLMs Are Complicated Now",
+      "link": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
+      "summary": "👍 41 | 💬 8",
       "source": "HackerNews",
-      "pub_date": "2026-06-17T05:51:57",
-      "fetched_at": "2026-06-20T12:00:22.724535",
+      "pub_date": "2026-06-20T09:25:14",
+      "fetched_at": "2026-06-20T20:00:41.737928",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 19 | 💬 0",
+      "ai_summary": "👍 41 | 💬 8",
+      "keywords": [
+        "llms",
+        "are",
+        "complicated",
+        "now"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Hyundai buys Boston Dynamics",
+      "link": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+      "summary": "👍 855 | 💬 368",
+      "source": "HackerNews",
+      "pub_date": "2026-06-20T00:28:20",
+      "fetched_at": "2026-06-20T20:00:38.155554",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 855 | 💬 368",
+      "keywords": [
+        "hyundai",
+        "buys",
+        "boston",
+        "dynamics"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "A 1969 camera operators' strike created Upstairs Downstairs multiverse",
+      "link": "https://ironicsans.ghost.io/the-color-strike/",
+      "summary": "👍 40 | 💬 10",
+      "source": "HackerNews",
+      "pub_date": "2026-06-17T02:24:39",
+      "fetched_at": "2026-06-20T20:00:36.525216",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 40 | 💬 10",
+      "keywords": [
+        "camera",
+        "operators",
+        "strike",
+        "created",
+        "upstairs"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+      "link": "https://arrowtsx.dev/bigger-models/",
+      "summary": "👍 239 | 💬 84",
+      "source": "HackerNews",
+      "pub_date": "2026-06-20T00:11:25",
+      "fetched_at": "2026-06-20T20:00:33.146203",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 239 | 💬 84",
+      "keywords": [
+        "gpt",
+        "hallucinates",
+        "more",
+        "than",
+        "mit"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Data Compression Explained (2012)",
+      "link": "https://mattmahoney.net/dc/dce.html",
+      "summary": "👍 144 | 💬 19",
+      "source": "HackerNews",
+      "pub_date": "2026-06-17T05:51:57",
+      "fetched_at": "2026-06-20T20:00:27.575400",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 144 | 💬 19",
       "keywords": [
         "data",
         "compression",
@@ -343,7 +382,7 @@
       "summary": "已接入华为鸿蒙生态",
       "source": "量子位",
       "pub_date": "Thu, 18 Jun 2026 09:39:35 +0000",
-      "fetched_at": "2026-06-20T12:00:18.485517",
+      "fetched_at": "2026-06-20T20:00:20.422325",
       "categories": [
         "ai"
       ],
@@ -363,7 +402,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Thu, 18 Jun 2026 09:45:11 +0000",
-      "fetched_at": "2026-06-20T12:00:18.485453",
+      "fetched_at": "2026-06-20T20:00:20.422260",
       "categories": [
         "ai"
       ],
@@ -383,7 +422,7 @@
       "summary": "M4是大脑，百小医是身体",
       "source": "量子位",
       "pub_date": "Thu, 18 Jun 2026 13:46:04 +0000",
-      "fetched_at": "2026-06-20T12:00:18.485367",
+      "fetched_at": "2026-06-20T20:00:20.422174",
       "categories": [
         "ai"
       ],
@@ -403,7 +442,7 @@
       "summary": "人形机器人正式迈入“GPT时代”",
       "source": "量子位",
       "pub_date": "Fri, 19 Jun 2026 03:28:37 +0000",
-      "fetched_at": "2026-06-20T12:00:18.485297",
+      "fetched_at": "2026-06-20T20:00:20.422082",
       "categories": [
         "ai",
         "robotics"
@@ -424,7 +463,7 @@
       "summary": "AI实现药物全自动研发，还远吗？",
       "source": "量子位",
       "pub_date": "Fri, 19 Jun 2026 03:34:23 +0000",
-      "fetched_at": "2026-06-20T12:00:18.485220",
+      "fetched_at": "2026-06-20T20:00:20.422004",
       "categories": [
         "ai"
       ],
@@ -444,7 +483,7 @@
       "summary": "创作者的终极玩具来了",
       "source": "量子位",
       "pub_date": "Fri, 19 Jun 2026 08:42:04 +0000",
-      "fetched_at": "2026-06-20T12:00:18.485126",
+      "fetched_at": "2026-06-20T20:00:20.421933",
       "categories": [
         "ai"
       ],
@@ -458,12 +497,32 @@
       "importance": 0
     },
     {
+      "title": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
+      "link": "https://www.qbitai.com/2026/06/436966.html",
+      "summary": "抢人最猛的Meta，似乎先从内部裂开了",
+      "source": "量子位",
+      "pub_date": "Sat, 20 Jun 2026 09:36:31 +0000",
+      "fetched_at": "2026-06-20T20:00:20.421854",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "抢人最猛的Meta，似乎先从内部裂开了",
+      "keywords": [
+        "meta",
+        "员工士气跌至",
+        "年谷底",
+        "内部直播当众开骂",
+        "cto"
+      ],
+      "importance": 0.5
+    },
+    {
       "title": "六成美国消费者对品牌中的 AI 表示反感",
       "link": "https://www.solidot.org/story?sid=84611",
       "summary": "根据 WordPress VIP 的报告《Future of the Web Report》，六成美国消费者对品牌信息中的 AI 表示反感。74% 的消费者认为今天的互联网没有 10 年前有人味；普通人冲浪 40 分钟就会产生在线互动缺乏真实感的感受——这被称为 Bot fatigue；16% 的消费者认为没有品牌真正有效利用了 AI，六成消费者认为品牌信息中的 AI 会让人倒胃口。",
       "source": "Solidot",
       "pub_date": "Wed, 17 Jun 2026 23:23:45 +0800",
-      "fetched_at": "2026-06-20T12:00:03.231323",
+      "fetched_at": "2026-06-20T20:00:05.122701",
       "categories": [
         "ai"
       ],
@@ -483,7 +542,7 @@
       "summary": "苹果成为 AI 热导致内存短缺而涨价的最新一家公司。即将卸任的苹果 CEO 库克（Tim Cook）表示，内存供应状况“难以为继”，涨价“不可避免”。他没有透露何时涨价，也没有说明哪些产品会涨价，以及即将于 9 月发布的下一代 iPhone 18 是否会受到影响 。库克说，“在消费者急需设备时内存供应在减少，而内存厂商却选择大幅涨价。我们迫切需要内存价格和供应恢复到消费产品的合理水平。这是最为重要的。”内存价格自 2025 年 10 月以来翻了一番多。",
       "source": "Solidot",
       "pub_date": "Thu, 18 Jun 2026 14:17:13 +0800",
-      "fetched_at": "2026-06-20T12:00:03.230953",
+      "fetched_at": "2026-06-20T20:00:05.122326",
       "categories": [
         "ai"
       ],
@@ -503,7 +562,7 @@
       "summary": "勒索组织 FulcrumSec 宣称入侵了制药巨头诺和诺德（Novo Nordisk）的网络，窃取了约 1.3 TB 的数据，包括源代码、药物研究、临床试验记录、员工和医生信息、生产系统信息以及内部 AI 模型数据。它向诺和诺德勒索 2500 万美元赎金，但未获成功，因此考虑出售部分数据。FulcrumSec 称诺和诺德的代表于 6 月 3 日联系了他们。FulcrumSec 表示考虑通过开源来遏制企业不想支付赎金的情况。诺和诺德发言人表示它正与相关机构保持联系。",
       "source": "Solidot",
       "pub_date": "Thu, 18 Jun 2026 17:54:03 +0800",
-      "fetched_at": "2026-06-20T12:00:03.230276",
+      "fetched_at": "2026-06-20T20:00:05.121639",
       "categories": [
         "ai"
       ],
@@ -523,7 +582,7 @@
       "summary": "美国投行摩根大通已禁止香港员工访问 Anthropic 的模型，显示这一技术在美国境外的应用正面临极其严格的审查。由于 Anthropic 与摩根大通的许可协议中有关“使用条款”的特定措辞，摩根大通已将 Claude 模型从其驻港员工获批使用的大型语言模型（LLM）内部名单中移除。在此之前，高盛也做出了类似决定，于 4 月将 Claude 从其香港员工的获准使用工具名单中剔除。今年 4 月 Anthropic 首次向少数企业和机构开放 Mythos 模型测试，并警告该模型具备发现网络安全漏洞的能力，不宜广泛推广。6 月初 Anthropic 发布了 Mythos 级模型的首个公开版本 Fabl...",
       "source": "Solidot",
       "pub_date": "Thu, 18 Jun 2026 18:36:55 +0800",
-      "fetched_at": "2026-06-20T12:00:03.230147",
+      "fetched_at": "2026-06-20T20:00:05.121501",
       "categories": [
         "ai"
       ],
@@ -543,7 +602,7 @@
       "summary": "三个微软在 2011 年颁发的安全启动 (Secure Boot) 证书将于 6 月 24 日过期。安全启动检查系统启动期间加载的所有固件的数字签名，确保其来自可信提供商。安全启动旨在设计阻止会纂改 UEFI 的恶意程序 UEFI bootkits，一旦安装此类恶意程序很难检测到，即使重装系统也没用。安全启动使用加密签名确保启动过程中加载的每个固件都受到计算机制造商的信任，它旨在建立信任链，防止攻击者用恶意固件替换预期的启动固件。但在 2023 年研究人员发现了存在于几乎所有 Windows 和 Linux 系统 UEFI 启动过程中的严重漏洞 LogoFail。该漏洞存在于启动时显示硬件制造...",
       "source": "Solidot",
       "pub_date": "Thu, 18 Jun 2026 19:30:23 +0800",
-      "fetched_at": "2026-06-20T12:00:03.230003",
+      "fetched_at": "2026-06-20T20:00:05.121354",
       "categories": [
         "ai"
       ],
@@ -563,7 +622,7 @@
       "summary": "在内存和 SSD 之后，又一个计算机核心元件面临价格快速上涨。这一次是因为中东冲突导致生产高纯度树脂的沙特工厂停产。树脂是制造电路板（PCB）的基本原材料，位于沙特阿拉伯 Jubail 的一家工厂为陶氏化学与沙特阿美的合资企业，它供应了全球七成的高纯度 PPE 树脂。该公司于三月下旬因中东冲突关闭，4 月 6 日和 7 日还遭到导弹袭击。陶氏化学 CEO Jim Fitterling 此前表示公司预计物流和供应链恢复正常至少需要 275 天。高盛报告称 3 月到 4 月间 PCB 价格上涨了 40%。全球最大 PCB 制造商之一的胜宏科技警告中东冲突可能会推高铜和树脂的价格。替代树脂需要重新设...",
       "source": "Solidot",
       "pub_date": "Fri, 19 Jun 2026 21:30:32 +0800",
-      "fetched_at": "2026-06-20T12:00:03.229390",
+      "fetched_at": "2026-06-20T20:00:05.120732",
       "categories": [
         "ai"
       ],
@@ -576,47 +635,7 @@
         "之后"
       ],
       "importance": 0
-    },
-    {
-      "title": "特朗普政府停止拆除洋流观测系统",
-      "link": "https://www.solidot.org/story?sid=84627",
-      "summary": "在美国国会参议院周三通过一项法案阻止政府拆除 3.68 亿美元的海洋观测计划（Ocean Observatories Initiative）之后，特朗普政府表示将撤销拆除决定。海洋观测计划由逾 900 台深海仪器构成，用于监测洋流、海洋生态系统、碳吸收、热浪、渔业、沿海洪水和气候变化。每个观测站由多个锚定装置组成。这些设备测量从水面到数千英尺深处的洋流以及化学生物状况。仪器经过加固能承受深海的压力、腐蚀性海水以及可能损坏电子设备的海洋动植物。锚定装置周围的遥控机器人和滑翔机负责收集数据并将其传输到研究实验室。它于 2016 年投入运作，原计划运行 25 年，每年的运行成本为 4800 万美元。...",
-      "source": "Solidot",
-      "pub_date": "Fri, 19 Jun 2026 22:44:04 +0800",
-      "fetched_at": "2026-06-20T12:00:03.229071",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "在美国国会参议院周三通过一项法案阻止政府拆除 3.68 亿美元的海洋观测计划（Ocean Observatories Initiative）之后，特朗普政府表示将撤销拆除决定。海洋观测计划由逾 900 台深海仪器构成，用于监测洋流、海洋生态系统、碳吸收、热浪、渔业、沿海洪水和气候变化。每个观测站由多...",
-      "keywords": [
-        "特朗普政府停止拆除洋流观测系统",
-        "在美国国会参议院周三通过一项法案阻止政府拆除",
-        "亿美元的海洋观测计划",
-        "ocean",
-        "observatories"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "加州亿万富翁税提案获得足够签名有资格在 11 月公投",
-      "link": "https://www.solidot.org/story?sid=84628",
-      "summary": "加州亿万富翁税提案获得足够签名达到在 11 月公投的资格。亿万富翁税（California Billionaire Tax Act）将对任何身价逾 10 亿美元的加州居民一次性征收 5% 的税，该税将用于医保和教育等项目。加州是全美亿万富翁人数最多的州，总数超过 200 人，很多人在 AI 热下积累了巨额财富。该税遭到了加州亿万富翁们的强烈反对，Google 联合创始人 Sergey Brin 一人至少投入了 8200 万美元反对该税，并搬到了靠近加州的内华达州居住。Palantir 联合创始人 Peter Thiel、Google 前 CEO Eric Sc​​hmidt、加密货币亿万富翁 ...",
-      "source": "Solidot",
-      "pub_date": "Fri, 19 Jun 2026 23:58:57 +0800",
-      "fetched_at": "2026-06-20T12:00:03.228852",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "加州亿万富翁税提案获得足够签名达到在 11 月公投的资格。亿万富翁税（California Billionaire Tax Act）将对任何身价逾 10 亿美元的加州居民一次性征收 5% 的税，该税将用于医保和教育等项目。加州是全美亿万富翁人数最多的州，总数超过 200 人，很多人在 AI 热下积累...",
-      "keywords": [
-        "google",
-        "联合创始人",
-        "加州亿万富翁税提案获得足够签名有资格在",
-        "月公投",
-        "加州亿万富翁税提案获得足够签名达到在"
-      ],
-      "importance": 1.5
     }
   ],
-  "updated_at": "2026-06-20T12:00:41.694862"
+  "updated_at": "2026-06-20T20:00:47.268306"
 }

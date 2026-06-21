@@ -5,38 +5,39 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-06-20T20:00:47.268306",
-    "total_items": 22
+    "last_update": "2026-06-21T12:01:41.954098",
+    "total_items": 31
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 21
+      "count": 28
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 2
+      "count": 9
     },
     "space": {
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 0
+      "count": 1
     }
   },
   "stats": {
-    "total_items": 22,
-    "today_items": 22,
+    "total_items": 31,
+    "today_items": 31,
     "sources": {
-      "Solidot": 8,
+      "Solidot": 10,
+      "36氪": 10,
       "量子位": 7,
-      "HackerNews": 7
+      "HackerNews": 4
     },
-    "last_update": "2026-06-20T20:00:47.268306"
+    "last_update": "2026-06-21T12:01:41.954098"
   },
   "trending": [
     {
@@ -45,7 +46,7 @@
       "summary": "加州亿万富翁税提案获得足够签名达到在 11 月公投的资格。亿万富翁税（California Billionaire Tax Act）将对任何身价逾 10 亿美元的加州居民一次性征收 5% 的税，该税将用于医保和教育等项目。加州是全美亿万富翁人数最多的州，总数超过 200 人，很多人在 AI 热下积累了巨额财富。该税遭到了加州亿万富翁们的强烈反对，Google 联合创始人 Sergey Brin 一人至少投入了 8200 万美元反对该税，并搬到了靠近加州的内华达州居住。Palantir 联合创始人 Peter Thiel、Google 前 CEO Eric Sc​​hmidt、加密货币亿万富翁 ...",
       "source": "Solidot",
       "pub_date": "Fri, 19 Jun 2026 23:58:57 +0800",
-      "fetched_at": "2026-06-20T20:00:05.120068",
+      "fetched_at": "2026-06-21T12:00:44.817072",
       "categories": [
         "ai"
       ],
@@ -60,12 +61,53 @@
       "importance": 1.5
     },
     {
+      "title": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发",
+      "link": "https://36kr.com/p/3856708724315400?f=rss",
+      "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能企业穹彻智能（Noematrix）近日完成新一轮数亿元融资，本轮融资由无锡数据集团领投，投资方包括上海交通大学AI未来基金（创业基金）、上海创之智科技有限公司（上海创智学院全资子公司）、一村资本等。 这也是公司近半年来完成的又一轮融资。此前穹彻智能已获得多家机构加持，包括Prosperity7 Ventures、红杉中国、C Capital、阿里巴巴和Sea Limited等。 穹彻智能是硬氪长期关注的企业。公司成立于2023年11月，长期专注具身智能基础模型与系统的自主研发，已发布有核心产品“穹彻具身大脑”（Noematrix Brain），并围绕...",
+      "source": "36氪",
+      "pub_date": "2026-06-18 09:28:16  +0800",
+      "fetched_at": "2026-06-21T12:00:49.044409",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "这也是公司近半年来完成的又一轮融资。此前穹彻智能已获得多家机构加持，包括Prosperity7 Ventures、红杉中国、C Capital、阿里巴巴和Sea Limited等。...",
+      "keywords": [
+        "noematrix",
+        "红杉",
+        "阿里押注过的具身大脑公司再融资",
+        "上交等投资数亿元",
+        "硬氪首发"
+      ],
+      "importance": 1.5
+    },
+    {
+      "title": "软银将其持有的波士顿动力剩余股份全部出售给现代汽车",
+      "link": "https://www.solidot.org/story?sid=84631",
+      "summary": "2020 年 12 月现代汽车以 8.8 亿美元从软银手中收购波士顿动力 80% 的控股权，该交易对波士顿动力的估值为 11 亿美元。收购协议包含了一项卖出期权，允许软银在未来某个时候将剩余股份出售给现代汽车。现在软银行使了卖出期权，以 3.25 亿美元将其持有的剩余股份出售给现代汽车。波士顿动力已有逾三十年历史，但其机器人的商业化一直进展缓慢。四足机器人 Spot 是首个取得商业成功的产品，而其人形机器人 Atlas 要证明其商业价值仍然面临重重困难。",
+      "source": "Solidot",
+      "pub_date": "Sat, 20 Jun 2026 23:12:29 +0800",
+      "fetched_at": "2026-06-21T12:00:44.816116",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "2020 年 12 月现代汽车以 8.8 亿美元从软银手中收购波士顿动力 80% 的控股权，该交易对波士顿动力的估值为 11 亿美元。收购协议包含了一项卖出期权，允许软银在未来某个时候将剩余股份出售给现代汽车。现在软银行使了卖出期权，以 3.25 亿美元将其持有的剩余股份出售给现代汽车。波士顿动力已...",
+      "keywords": [
+        "软银将其持有的波士顿动力剩余股份全部出售给现代汽车",
+        "月现代汽车以",
+        "亿美元从软银手中收购波士顿动力",
+        "的控股权",
+        "该交易对波士顿动力的估值为"
+      ],
+      "importance": 1.0
+    },
+    {
       "title": "摩根大通高盛禁止香港员工使用 Anthropic 模型",
       "link": "https://www.solidot.org/story?sid=84620",
       "summary": "美国投行摩根大通已禁止香港员工访问 Anthropic 的模型，显示这一技术在美国境外的应用正面临极其严格的审查。由于 Anthropic 与摩根大通的许可协议中有关“使用条款”的特定措辞，摩根大通已将 Claude 模型从其驻港员工获批使用的大型语言模型（LLM）内部名单中移除。在此之前，高盛也做出了类似决定，于 4 月将 Claude 从其香港员工的获准使用工具名单中剔除。今年 4 月 Anthropic 首次向少数企业和机构开放 Mythos 模型测试，并警告该模型具备发现网络安全漏洞的能力，不宜广泛推广。6 月初 Anthropic 发布了 Mythos 级模型的首个公开版本 Fabl...",
       "source": "Solidot",
       "pub_date": "Thu, 18 Jun 2026 18:36:55 +0800",
-      "fetched_at": "2026-06-20T20:00:05.121501",
+      "fetched_at": "2026-06-21T12:00:44.819732",
       "categories": [
         "ai"
       ],
@@ -85,7 +127,7 @@
       "summary": "苹果成为 AI 热导致内存短缺而涨价的最新一家公司。即将卸任的苹果 CEO 库克（Tim Cook）表示，内存供应状况“难以为继”，涨价“不可避免”。他没有透露何时涨价，也没有说明哪些产品会涨价，以及即将于 9 月发布的下一代 iPhone 18 是否会受到影响 。库克说，“在消费者急需设备时内存供应在减少，而内存厂商却选择大幅涨价。我们迫切需要内存价格和供应恢复到消费产品的合理水平。这是最为重要的。”内存价格自 2025 年 10 月以来翻了一番多。",
       "source": "Solidot",
       "pub_date": "Thu, 18 Jun 2026 14:17:13 +0800",
-      "fetched_at": "2026-06-20T20:00:05.122326",
+      "fetched_at": "2026-06-21T12:00:44.821584",
       "categories": [
         "ai"
       ],
@@ -100,12 +142,94 @@
       "importance": 1.0
     },
     {
+      "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
+      "link": "https://36kr.com/p/3859926114161665?f=rss",
+      "summary": "硬氪获悉，AI-Native科技潮玩品牌ZuzuZoos查无此园（杭州多蓝艾梦智能科技旗下）近日完成数千万元Pre-A轮融资，锦秋领投、上海复容跟投。此次融资将主要AI大模型迭代、硬件产品扩建、IP生态深化、全球市场拓展、核心团队扩容。 ZuzuZoos成立于2025年，聚焦“AI陪伴机器人+AI潮玩”。创始人董晓楠是前摩根士丹利投资银行分析师，曾任新消费独角兽企业moody事业部总经理，任职期间拉动GMV从2亿元增长至10亿元。硬件负责人是前大疆清扫机器人机械结构负责人，深耕机器人及智能硬件领域15余年，主导多款机器人研发与落地。IP设计团队来自泡泡玛特、迪士尼等IP大厂，AI团队来自智谱等...",
+      "source": "36氪",
+      "pub_date": "2026-06-19 18:01:25  +0800",
+      "fetched_at": "2026-06-21T12:00:47.905143",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "硬氪获悉，AI-Native科技潮玩品牌ZuzuZoos查无此园（杭州多蓝艾梦智能科技旗下）近日完成数千万元Pre-A轮融资，锦秋领投、上海复容跟投。此次融资将主要AI大模型迭代、硬件产品扩建、IP生态深化、全球市场拓展、核心团队扩容。 ZuzuZoos成立于2025年，聚焦“AI陪伴机器人+AI潮...",
+      "keywords": [
+        "ai",
+        "ip",
+        "moody",
+        "锦秋领投",
+        "zuzuzoos"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "北大科学家下场做脑机接口，种子轮融了近亿元",
+      "link": "https://36kr.com/p/3855480467543042?f=rss",
+      "summary": "文 | 孙小雯 访谈 / 编辑 | 海若镜 「暗涌Waves」独家获悉，侵入式脑机接口公司「芯生视界」近日完成近亿元人民币种子轮融资。本轮融资由经纬创投领投，星连资本、燕缘创投、水木创投跟投。 当下，侵入式脑机接口已经在治疗瘫痪、脑控外设等医疗场景落地，验证长期植入的安全、有效。与此同时，AI Agent和具身智能技术加速进化，也放大了市场对脑机接口的期待：改写未来“人机交互”的方式，实现人机融合、增强人类。马斯克和他的Neuralink，正是这一叙事的风向标。 芯生视界团队集合了多位国家“脑计划”脑机接口方向“青年首席”：创始人王茜来自北京大学心理与认知科学学院、IDG麦戈文脑科学研究所。联...",
+      "source": "36氪",
+      "pub_date": "2026-06-18 09:34:22  +0800",
+      "fetched_at": "2026-06-21T12:00:48.760145",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "文 | 孙小雯 访谈 / 编辑 | 海若镜 「暗涌Waves」独家获悉，侵入式脑机接口公司「芯生视界」近日完成近亿元人民币种子轮融资。本轮融资由经纬创投领投，星连资本、燕缘创投、水木创投跟投。 当下，侵入式脑机接口已经在治疗瘫痪、脑控外设等医疗场景落地，验证长期植入的安全、有效。与此同时，AI...",
+      "keywords": [
+        "北大科学家下场做脑机接口",
+        "种子轮融了近亿元",
+        "孙小雯",
+        "访谈",
+        "编辑"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "Anthropic首席执行官：人工智能公司需要“数千亿美元”收入，否则将面临生存风险",
+      "link": "https://36kr.com/newsflashes/3862373538386952?f=rss",
+      "summary": "Anthropic首席执行官表示，人工智能公司需要“数千亿美元”收入，否则将面临生存风险。（财联社）",
+      "source": "36氪",
+      "pub_date": "2026-06-21 11:40:32  +0800",
+      "fetched_at": "2026-06-21T12:00:49.044840",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Anthropic首席执行官表示，人工智能公司需要“数千亿美元”收入，否则将面临生存风险。（财联社）",
+      "keywords": [
+        "anthropic",
+        "人工智能公司需要",
+        "数千亿美元",
+        "收入",
+        "否则将面临生存风险"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "特朗普：不再将Anthropic视为国家安全威胁",
+      "link": "https://36kr.com/newsflashes/3861259140764678?f=rss",
+      "summary": "在6月19日发布的《阿克西奥斯秀》（《Axios Show》）访谈节目中，美国总统特朗普表示，他已经不再将美国人工智能公司安特罗匹克（Anthropic）视为国家安全威胁。 （财联社）",
+      "source": "36氪",
+      "pub_date": "2026-06-20 17:49:42  +0800",
+      "fetched_at": "2026-06-21T12:00:49.046831",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "在6月19日发布的《阿克西奥斯秀》（《Axios Show》）访谈节目中，美国总统特朗普表示，他已经不再将美国人工智能公司安特罗匹克（Anthropic）视为国家安全威胁。 （财联社）",
+      "keywords": [
+        "anthropic",
+        "视为国家安全威胁",
+        "特朗普",
+        "不再将",
+        "日发布的"
+      ],
+      "importance": 1.0
+    },
+    {
       "title": "特朗普政府停止拆除洋流观测系统",
       "link": "https://www.solidot.org/story?sid=84627",
       "summary": "在美国国会参议院周三通过一项法案阻止政府拆除 3.68 亿美元的海洋观测计划（Ocean Observatories Initiative）之后，特朗普政府表示将撤销拆除决定。海洋观测计划由逾 900 台深海仪器构成，用于监测洋流、海洋生态系统、碳吸收、热浪、渔业、沿海洪水和气候变化。每个观测站由多个锚定装置组成。这些设备测量从水面到数千英尺深处的洋流以及化学生物状况。仪器经过加固能承受深海的压力、腐蚀性海水以及可能损坏电子设备的海洋动植物。锚定装置周围的遥控机器人和滑翔机负责收集数据并将其传输到研究实验室。它于 2016 年投入运作，原计划运行 25 年，每年的运行成本为 4800 万美元。...",
       "source": "Solidot",
       "pub_date": "Fri, 19 Jun 2026 22:44:04 +0800",
-      "fetched_at": "2026-06-20T20:00:05.120407",
+      "fetched_at": "2026-06-21T12:00:44.817372",
       "categories": [
         "robotics"
       ],
@@ -118,301 +242,86 @@
         "observatories"
       ],
       "importance": 0.5
-    },
-    {
-      "title": "三个安全启动证书即将过期",
-      "link": "https://www.solidot.org/story?sid=84621",
-      "summary": "三个微软在 2011 年颁发的安全启动 (Secure Boot) 证书将于 6 月 24 日过期。安全启动检查系统启动期间加载的所有固件的数字签名，确保其来自可信提供商。安全启动旨在设计阻止会纂改 UEFI 的恶意程序 UEFI bootkits，一旦安装此类恶意程序很难检测到，即使重装系统也没用。安全启动使用加密签名确保启动过程中加载的每个固件都受到计算机制造商的信任，它旨在建立信任链，防止攻击者用恶意固件替换预期的启动固件。但在 2023 年研究人员发现了存在于几乎所有 Windows 和 Linux 系统 UEFI 启动过程中的严重漏洞 LogoFail。该漏洞存在于启动时显示硬件制造...",
-      "source": "Solidot",
-      "pub_date": "Thu, 18 Jun 2026 19:30:23 +0800",
-      "fetched_at": "2026-06-20T20:00:05.121354",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "三个微软在 2011 年颁发的安全启动 (Secure Boot) 证书将于 6 月 24 日过期。安全启动检查系统启动期间加载的所有固件的数字签名，确保其来自可信提供商。安全启动旨在设计阻止会纂改 UEFI 的恶意程序 UEFI bootkits，一旦安装此类恶意程序很难检测到，即使重装系统也没用...",
-      "keywords": [
-        "uefi",
-        "三个安全启动证书即将过期",
-        "三个微软在",
-        "年颁发的安全启动",
-        "secure"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
-      "link": "https://www.qbitai.com/2026/06/436966.html",
-      "summary": "抢人最猛的Meta，似乎先从内部裂开了",
-      "source": "量子位",
-      "pub_date": "Sat, 20 Jun 2026 09:36:31 +0000",
-      "fetched_at": "2026-06-20T20:00:20.421854",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "抢人最猛的Meta，似乎先从内部裂开了",
-      "keywords": [
-        "meta",
-        "员工士气跌至",
-        "年谷底",
-        "内部直播当众开骂",
-        "cto"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "PCB 价格因中东冲突一月内上涨四成",
-      "link": "https://www.solidot.org/story?sid=84625",
-      "summary": "在内存和 SSD 之后，又一个计算机核心元件面临价格快速上涨。这一次是因为中东冲突导致生产高纯度树脂的沙特工厂停产。树脂是制造电路板（PCB）的基本原材料，位于沙特阿拉伯 Jubail 的一家工厂为陶氏化学与沙特阿美的合资企业，它供应了全球七成的高纯度 PPE 树脂。该公司于三月下旬因中东冲突关闭，4 月 6 日和 7 日还遭到导弹袭击。陶氏化学 CEO Jim Fitterling 此前表示公司预计物流和供应链恢复正常至少需要 275 天。高盛报告称 3 月到 4 月间 PCB 价格上涨了 40%。全球最大 PCB 制造商之一的胜宏科技警告中东冲突可能会推高铜和树脂的价格。替代树脂需要重新设...",
-      "source": "Solidot",
-      "pub_date": "Fri, 19 Jun 2026 21:30:32 +0800",
-      "fetched_at": "2026-06-20T20:00:05.120732",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "在内存和 SSD 之后，又一个计算机核心元件面临价格快速上涨。这一次是因为中东冲突导致生产高纯度树脂的沙特工厂停产。树脂是制造电路板（PCB）的基本原材料，位于沙特阿拉伯 Jubail 的一家工厂为陶氏化学与沙特阿美的合资企业，它供应了全球七成的高纯度 PPE 树脂。该公司于三月下旬因中东冲突关闭，...",
-      "keywords": [
-        "pcb",
-        "价格因中东冲突一月内上涨四成",
-        "在内存和",
-        "ssd",
-        "之后"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "诺和诺德 1.3 TB 内部数据被盗，被勒索 2500 万美元",
-      "link": "https://www.solidot.org/story?sid=84619",
-      "summary": "勒索组织 FulcrumSec 宣称入侵了制药巨头诺和诺德（Novo Nordisk）的网络，窃取了约 1.3 TB 的数据，包括源代码、药物研究、临床试验记录、员工和医生信息、生产系统信息以及内部 AI 模型数据。它向诺和诺德勒索 2500 万美元赎金，但未获成功，因此考虑出售部分数据。FulcrumSec 称诺和诺德的代表于 6 月 3 日联系了他们。FulcrumSec 表示考虑通过开源来遏制企业不想支付赎金的情况。诺和诺德发言人表示它正与相关机构保持联系。",
-      "source": "Solidot",
-      "pub_date": "Thu, 18 Jun 2026 17:54:03 +0800",
-      "fetched_at": "2026-06-20T20:00:05.121639",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "勒索组织 FulcrumSec 宣称入侵了制药巨头诺和诺德（Novo Nordisk）的网络，窃取了约 1.3 TB 的数据，包括源代码、药物研究、临床试验记录、员工和医生信息、生产系统信息以及内部 AI 模型数据。它向诺和诺德勒索 2500 万美元赎金，但未获成功，因此考虑出售部分数据。Fulcr...",
-      "keywords": [
-        "fulcrumsec",
-        "tb",
-        "诺和诺德",
-        "内部数据被盗",
-        "被勒索"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "六成美国消费者对品牌中的 AI 表示反感",
-      "link": "https://www.solidot.org/story?sid=84611",
-      "summary": "根据 WordPress VIP 的报告《Future of the Web Report》，六成美国消费者对品牌信息中的 AI 表示反感。74% 的消费者认为今天的互联网没有 10 年前有人味；普通人冲浪 40 分钟就会产生在线互动缺乏真实感的感受——这被称为 Bot fatigue；16% 的消费者认为没有品牌真正有效利用了 AI，六成消费者认为品牌信息中的 AI 会让人倒胃口。",
-      "source": "Solidot",
-      "pub_date": "Wed, 17 Jun 2026 23:23:45 +0800",
-      "fetched_at": "2026-06-20T20:00:05.122701",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "根据 WordPress VIP 的报告《Future of the Web Report》，六成美国消费者对品牌信息中的 AI 表示反感。74% 的消费者认为今天的互联网没有 10 年前有人味；普通人冲浪 40 分钟就会产生在线互动缺乏真实感的感受——这被称为 Bot fatigue；16% 的消...",
-      "keywords": [
-        "ai",
-        "表示反感",
-        "六成美国消费者对品牌中的",
-        "根据",
-        "wordpress"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
-      "link": "https://www.qbitai.com/2026/06/436864.html",
-      "summary": "创作者的终极玩具来了",
-      "source": "量子位",
-      "pub_date": "Fri, 19 Jun 2026 08:42:04 +0000",
-      "fetched_at": "2026-06-20T20:00:20.421933",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "创作者的终极玩具来了",
-      "keywords": [
-        "我把昨晚的梦输入",
-        "ai",
-        "它居然直接把我拉进去玩儿了一把",
-        "创作者的终极玩具来了"
-      ],
-      "importance": 0
     }
   ],
   "latest": [
     {
-      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "link": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "summary": "👍 606 | 💬 379",
+      "title": "Semiconductor Lifeline Keeps Fighter Jets in the Air",
+      "link": "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems",
+      "summary": "👍 51 | 💬 16",
       "source": "HackerNews",
-      "pub_date": "2026-06-19T14:35:57",
-      "fetched_at": "2026-06-20T20:00:44.114349",
+      "pub_date": "2026-06-16T20:31:02",
+      "fetched_at": "2026-06-21T12:01:28.284324",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 606 | 💬 379",
+      "ai_summary": "👍 51 | 💬 16",
       "keywords": [
-        "project",
-        "valhalla",
-        "explained",
-        "how",
-        "decade"
+        "semiconductor",
+        "lifeline",
+        "keeps",
+        "fighter",
+        "jets"
       ],
       "importance": 0
     },
     {
-      "title": "Norway imposes near ban on AI in elementary school",
-      "link": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-      "summary": "👍 707 | 💬 493",
+      "title": "When I reject AI code even if it works",
+      "link": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+      "summary": "👍 70 | 💬 35",
       "source": "HackerNews",
-      "pub_date": "2026-06-20T00:03:15",
-      "fetched_at": "2026-06-20T20:00:42.516643",
+      "pub_date": "2026-06-21T08:58:13",
+      "fetched_at": "2026-06-21T12:01:17.310038",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 707 | 💬 493",
+      "ai_summary": "👍 70 | 💬 35",
       "keywords": [
-        "norway",
-        "imposes",
-        "near",
-        "ban",
-        "on"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "LLMs Are Complicated Now",
-      "link": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
-      "summary": "👍 41 | 💬 8",
-      "source": "HackerNews",
-      "pub_date": "2026-06-20T09:25:14",
-      "fetched_at": "2026-06-20T20:00:41.737928",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 41 | 💬 8",
-      "keywords": [
-        "llms",
-        "are",
-        "complicated",
-        "now"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Hyundai buys Boston Dynamics",
-      "link": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-      "summary": "👍 855 | 💬 368",
-      "source": "HackerNews",
-      "pub_date": "2026-06-20T00:28:20",
-      "fetched_at": "2026-06-20T20:00:38.155554",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 855 | 💬 368",
-      "keywords": [
-        "hyundai",
-        "buys",
-        "boston",
-        "dynamics"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "A 1969 camera operators' strike created Upstairs Downstairs multiverse",
-      "link": "https://ironicsans.ghost.io/the-color-strike/",
-      "summary": "👍 40 | 💬 10",
-      "source": "HackerNews",
-      "pub_date": "2026-06-17T02:24:39",
-      "fetched_at": "2026-06-20T20:00:36.525216",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 40 | 💬 10",
-      "keywords": [
-        "camera",
-        "operators",
-        "strike",
-        "created",
-        "upstairs"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "link": "https://arrowtsx.dev/bigger-models/",
-      "summary": "👍 239 | 💬 84",
-      "source": "HackerNews",
-      "pub_date": "2026-06-20T00:11:25",
-      "fetched_at": "2026-06-20T20:00:33.146203",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 239 | 💬 84",
-      "keywords": [
-        "gpt",
-        "hallucinates",
-        "more",
-        "than",
-        "mit"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Data Compression Explained (2012)",
-      "link": "https://mattmahoney.net/dc/dce.html",
-      "summary": "👍 144 | 💬 19",
-      "source": "HackerNews",
-      "pub_date": "2026-06-17T05:51:57",
-      "fetched_at": "2026-06-20T20:00:27.575400",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 144 | 💬 19",
-      "keywords": [
-        "data",
-        "compression",
-        "explained"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding",
-      "link": "https://www.qbitai.com/2026/06/436674.html",
-      "summary": "已接入华为鸿蒙生态",
-      "source": "量子位",
-      "pub_date": "Thu, 18 Jun 2026 09:39:35 +0000",
-      "fetched_at": "2026-06-20T20:00:20.422325",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "已接入华为鸿蒙生态",
-      "keywords": [
-        "腾讯老兵",
-        "大厂",
-        "后新锐",
-        "码上飞想做的不只是",
-        "ai"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根",
-      "link": "https://www.qbitai.com/2026/06/436740.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Thu, 18 Jun 2026 09:45:11 +0000",
-      "fetched_at": "2026-06-20T20:00:20.422260",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "aiec",
-        "太初元碁分享国产",
+        "when",
+        "reject",
         "ai",
-        "算力实践",
-        "助力"
+        "code",
+        "even"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "link": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "summary": "👍 87 | 💬 17",
+      "source": "HackerNews",
+      "pub_date": "2026-06-21T06:22:52",
+      "fetched_at": "2026-06-21T12:01:10.556086",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 87 | 💬 17",
+      "keywords": [
+        "slow",
+        "breathing",
+        "modulates",
+        "brain",
+        "function"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+      "link": "https://github.com/mysk-research/loupe",
+      "summary": "👍 112 | 💬 29",
+      "source": "HackerNews",
+      "pub_date": "2026-06-20T20:08:23",
+      "fetched_at": "2026-06-21T12:01:05.081629",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 112 | 💬 29",
+      "keywords": [
+        "loupe",
+        "ios",
+        "app",
+        "that",
+        "raises"
       ],
       "importance": 0
     },
@@ -422,7 +331,7 @@
       "summary": "M4是大脑，百小医是身体",
       "source": "量子位",
       "pub_date": "Thu, 18 Jun 2026 13:46:04 +0000",
-      "fetched_at": "2026-06-20T20:00:20.422174",
+      "fetched_at": "2026-06-21T12:00:50.769034",
       "categories": [
         "ai"
       ],
@@ -442,7 +351,7 @@
       "summary": "人形机器人正式迈入“GPT时代”",
       "source": "量子位",
       "pub_date": "Fri, 19 Jun 2026 03:28:37 +0000",
-      "fetched_at": "2026-06-20T20:00:20.422082",
+      "fetched_at": "2026-06-21T12:00:50.768886",
       "categories": [
         "ai",
         "robotics"
@@ -463,7 +372,7 @@
       "summary": "AI实现药物全自动研发，还远吗？",
       "source": "量子位",
       "pub_date": "Fri, 19 Jun 2026 03:34:23 +0000",
-      "fetched_at": "2026-06-20T20:00:20.422004",
+      "fetched_at": "2026-06-21T12:00:50.768757",
       "categories": [
         "ai"
       ],
@@ -483,7 +392,7 @@
       "summary": "创作者的终极玩具来了",
       "source": "量子位",
       "pub_date": "Fri, 19 Jun 2026 08:42:04 +0000",
-      "fetched_at": "2026-06-20T20:00:20.421933",
+      "fetched_at": "2026-06-21T12:00:50.768617",
       "categories": [
         "ai"
       ],
@@ -502,7 +411,7 @@
       "summary": "抢人最猛的Meta，似乎先从内部裂开了",
       "source": "量子位",
       "pub_date": "Sat, 20 Jun 2026 09:36:31 +0000",
-      "fetched_at": "2026-06-20T20:00:20.421854",
+      "fetched_at": "2026-06-21T12:00:50.768467",
       "categories": [
         "ai"
       ],
@@ -517,125 +426,229 @@
       "importance": 0.5
     },
     {
-      "title": "六成美国消费者对品牌中的 AI 表示反感",
-      "link": "https://www.solidot.org/story?sid=84611",
-      "summary": "根据 WordPress VIP 的报告《Future of the Web Report》，六成美国消费者对品牌信息中的 AI 表示反感。74% 的消费者认为今天的互联网没有 10 年前有人味；普通人冲浪 40 分钟就会产生在线互动缺乏真实感的感受——这被称为 Bot fatigue；16% 的消费者认为没有品牌真正有效利用了 AI，六成消费者认为品牌信息中的 AI 会让人倒胃口。",
-      "source": "Solidot",
-      "pub_date": "Wed, 17 Jun 2026 23:23:45 +0800",
-      "fetched_at": "2026-06-20T20:00:05.122701",
+      "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
+      "link": "https://www.qbitai.com/2026/06/437023.html",
+      "summary": "全球最聪明的人之一，成了AI最狂热的布道者",
+      "source": "量子位",
+      "pub_date": "Sat, 20 Jun 2026 11:56:57 +0000",
+      "fetched_at": "2026-06-21T12:00:50.767962",
       "categories": [
         "ai"
       ],
-      "ai_summary": "根据 WordPress VIP 的报告《Future of the Web Report》，六成美国消费者对品牌信息中的 AI 表示反感。74% 的消费者认为今天的互联网没有 10 年前有人味；普通人冲浪 40 分钟就会产生在线互动缺乏真实感的感受——这被称为 Bot fatigue；16% 的消...",
+      "ai_summary": "全球最聪明的人之一，成了AI最狂热的布道者",
       "keywords": [
         "ai",
-        "表示反感",
-        "六成美国消费者对品牌中的",
-        "根据",
-        "wordpress"
+        "陶哲轩",
+        "年前的预言",
+        "现在",
+        "帮他兑现了"
       ],
       "importance": 0
     },
     {
-      "title": "苹果准备涨价",
-      "link": "https://www.solidot.org/story?sid=84614",
-      "summary": "苹果成为 AI 热导致内存短缺而涨价的最新一家公司。即将卸任的苹果 CEO 库克（Tim Cook）表示，内存供应状况“难以为继”，涨价“不可避免”。他没有透露何时涨价，也没有说明哪些产品会涨价，以及即将于 9 月发布的下一代 iPhone 18 是否会受到影响 。库克说，“在消费者急需设备时内存供应在减少，而内存厂商却选择大幅涨价。我们迫切需要内存价格和供应恢复到消费产品的合理水平。这是最为重要的。”内存价格自 2025 年 10 月以来翻了一番多。",
-      "source": "Solidot",
-      "pub_date": "Thu, 18 Jun 2026 14:17:13 +0800",
-      "fetched_at": "2026-06-20T20:00:05.122326",
+      "title": "英伟达开始搞机器人自己研究机器人那套了…",
+      "link": "https://www.qbitai.com/2026/06/437041.html",
+      "summary": "为了让你烧token，英伟达已经卷到机器人身上了",
+      "source": "量子位",
+      "pub_date": "Sat, 20 Jun 2026 12:06:20 +0000",
+      "fetched_at": "2026-06-21T12:00:50.767769",
       "categories": [
-        "ai"
+        "robotics"
       ],
-      "ai_summary": "苹果成为 AI 热导致内存短缺而涨价的最新一家公司。即将卸任的苹果 CEO 库克（Tim Cook）表示，内存供应状况“难以为继”，涨价“不可避免”。他没有透露何时涨价，也没有说明哪些产品会涨价，以及即将于 9 月发布的下一代 iPhone 18 是否会受到影响 。库克说，“在消费者急需设备时内存供...",
+      "ai_summary": "为了让你烧token，英伟达已经卷到机器人身上了",
       "keywords": [
-        "苹果准备涨价",
-        "苹果成为",
-        "ai",
-        "热导致内存短缺而涨价的最新一家公司",
-        "即将卸任的苹果"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "诺和诺德 1.3 TB 内部数据被盗，被勒索 2500 万美元",
-      "link": "https://www.solidot.org/story?sid=84619",
-      "summary": "勒索组织 FulcrumSec 宣称入侵了制药巨头诺和诺德（Novo Nordisk）的网络，窃取了约 1.3 TB 的数据，包括源代码、药物研究、临床试验记录、员工和医生信息、生产系统信息以及内部 AI 模型数据。它向诺和诺德勒索 2500 万美元赎金，但未获成功，因此考虑出售部分数据。FulcrumSec 称诺和诺德的代表于 6 月 3 日联系了他们。FulcrumSec 表示考虑通过开源来遏制企业不想支付赎金的情况。诺和诺德发言人表示它正与相关机构保持联系。",
-      "source": "Solidot",
-      "pub_date": "Thu, 18 Jun 2026 17:54:03 +0800",
-      "fetched_at": "2026-06-20T20:00:05.121639",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "勒索组织 FulcrumSec 宣称入侵了制药巨头诺和诺德（Novo Nordisk）的网络，窃取了约 1.3 TB 的数据，包括源代码、药物研究、临床试验记录、员工和医生信息、生产系统信息以及内部 AI 模型数据。它向诺和诺德勒索 2500 万美元赎金，但未获成功，因此考虑出售部分数据。Fulcr...",
-      "keywords": [
-        "fulcrumsec",
-        "tb",
-        "诺和诺德",
-        "内部数据被盗",
-        "被勒索"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "摩根大通高盛禁止香港员工使用 Anthropic 模型",
-      "link": "https://www.solidot.org/story?sid=84620",
-      "summary": "美国投行摩根大通已禁止香港员工访问 Anthropic 的模型，显示这一技术在美国境外的应用正面临极其严格的审查。由于 Anthropic 与摩根大通的许可协议中有关“使用条款”的特定措辞，摩根大通已将 Claude 模型从其驻港员工获批使用的大型语言模型（LLM）内部名单中移除。在此之前，高盛也做出了类似决定，于 4 月将 Claude 从其香港员工的获准使用工具名单中剔除。今年 4 月 Anthropic 首次向少数企业和机构开放 Mythos 模型测试，并警告该模型具备发现网络安全漏洞的能力，不宜广泛推广。6 月初 Anthropic 发布了 Mythos 级模型的首个公开版本 Fabl...",
-      "source": "Solidot",
-      "pub_date": "Thu, 18 Jun 2026 18:36:55 +0800",
-      "fetched_at": "2026-06-20T20:00:05.121501",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "美国投行摩根大通已禁止香港员工访问 Anthropic 的模型，显示这一技术在美国境外的应用正面临极其严格的审查。由于 Anthropic 与摩根大通的许可协议中有关“使用条款”的特定措辞，摩根大通已将 Claude 模型从其驻港员工获批使用的大型语言模型（LLM）内部名单中移除。在此之前，高盛也做...",
-      "keywords": [
-        "anthropic",
-        "claude",
-        "mythos",
-        "摩根大通高盛禁止香港员工使用",
-        "模型"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "三个安全启动证书即将过期",
-      "link": "https://www.solidot.org/story?sid=84621",
-      "summary": "三个微软在 2011 年颁发的安全启动 (Secure Boot) 证书将于 6 月 24 日过期。安全启动检查系统启动期间加载的所有固件的数字签名，确保其来自可信提供商。安全启动旨在设计阻止会纂改 UEFI 的恶意程序 UEFI bootkits，一旦安装此类恶意程序很难检测到，即使重装系统也没用。安全启动使用加密签名确保启动过程中加载的每个固件都受到计算机制造商的信任，它旨在建立信任链，防止攻击者用恶意固件替换预期的启动固件。但在 2023 年研究人员发现了存在于几乎所有 Windows 和 Linux 系统 UEFI 启动过程中的严重漏洞 LogoFail。该漏洞存在于启动时显示硬件制造...",
-      "source": "Solidot",
-      "pub_date": "Thu, 18 Jun 2026 19:30:23 +0800",
-      "fetched_at": "2026-06-20T20:00:05.121354",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "三个微软在 2011 年颁发的安全启动 (Secure Boot) 证书将于 6 月 24 日过期。安全启动检查系统启动期间加载的所有固件的数字签名，确保其来自可信提供商。安全启动旨在设计阻止会纂改 UEFI 的恶意程序 UEFI bootkits，一旦安装此类恶意程序很难检测到，即使重装系统也没用...",
-      "keywords": [
-        "uefi",
-        "三个安全启动证书即将过期",
-        "三个微软在",
-        "年颁发的安全启动",
-        "secure"
+        "英伟达开始搞机器人自己研究机器人那套了",
+        "为了让你烧",
+        "token",
+        "英伟达已经卷到机器人身上了"
       ],
       "importance": 0.5
     },
     {
-      "title": "PCB 价格因中东冲突一月内上涨四成",
-      "link": "https://www.solidot.org/story?sid=84625",
-      "summary": "在内存和 SSD 之后，又一个计算机核心元件面临价格快速上涨。这一次是因为中东冲突导致生产高纯度树脂的沙特工厂停产。树脂是制造电路板（PCB）的基本原材料，位于沙特阿拉伯 Jubail 的一家工厂为陶氏化学与沙特阿美的合资企业，它供应了全球七成的高纯度 PPE 树脂。该公司于三月下旬因中东冲突关闭，4 月 6 日和 7 日还遭到导弹袭击。陶氏化学 CEO Jim Fitterling 此前表示公司预计物流和供应链恢复正常至少需要 275 天。高盛报告称 3 月到 4 月间 PCB 价格上涨了 40%。全球最大 PCB 制造商之一的胜宏科技警告中东冲突可能会推高铜和树脂的价格。替代树脂需要重新设...",
-      "source": "Solidot",
-      "pub_date": "Fri, 19 Jun 2026 21:30:32 +0800",
-      "fetched_at": "2026-06-20T20:00:05.120732",
+      "title": "挪威将禁止小学生使用生成式人工智能",
+      "link": "https://36kr.com/newsflashes/3861257682129921?f=rss",
+      "summary": "挪威首相斯特勒6月19日表示，为防止对学习产生负面影响，挪威将禁止小学生使用生成式人工智能工具，同时限制人工智能工具在高年级学生教育中的使用。根据挪威政府公布的方案，6到13岁的小学生原则上不得使用人工智能工具；14到16岁的初中生可在教师的严密监管下谨慎使用此类工具。17到19岁的高中生应学习如何恰当地使用人工智能工具，以便为后续的高等教育和未来的职场环境做好准备。（央视新闻）",
+      "source": "36氪",
+      "pub_date": "2026-06-20 17:30:48  +0800",
+      "fetched_at": "2026-06-21T12:00:49.047067",
       "categories": [
         "ai"
       ],
-      "ai_summary": "在内存和 SSD 之后，又一个计算机核心元件面临价格快速上涨。这一次是因为中东冲突导致生产高纯度树脂的沙特工厂停产。树脂是制造电路板（PCB）的基本原材料，位于沙特阿拉伯 Jubail 的一家工厂为陶氏化学与沙特阿美的合资企业，它供应了全球七成的高纯度 PPE 树脂。该公司于三月下旬因中东冲突关闭，...",
+      "ai_summary": "挪威首相斯特勒6月19日表示，为防止对学习产生负面影响，挪威将禁止小学生使用生成式人工智能工具，同时限制人工智能工具在高年级学生教育中的使用。根据挪威政府公布的方案，6到13岁的小学生原则上不得使用人工智能工具；14到16岁的初中生可在教师的严密监管下谨慎使用此类工具。17到19岁的高中生应学习如何...",
       "keywords": [
-        "pcb",
-        "价格因中东冲突一月内上涨四成",
-        "在内存和",
-        "ssd",
-        "之后"
+        "挪威将禁止小学生使用生成式人工智能",
+        "挪威首相斯特勒",
+        "日表示",
+        "为防止对学习产生负面影响",
+        "挪威将禁止小学生使用生成式人工智能工具"
       ],
       "importance": 0
+    },
+    {
+      "title": "特朗普：不再将Anthropic视为国家安全威胁",
+      "link": "https://36kr.com/newsflashes/3861259140764678?f=rss",
+      "summary": "在6月19日发布的《阿克西奥斯秀》（《Axios Show》）访谈节目中，美国总统特朗普表示，他已经不再将美国人工智能公司安特罗匹克（Anthropic）视为国家安全威胁。 （财联社）",
+      "source": "36氪",
+      "pub_date": "2026-06-20 17:49:42  +0800",
+      "fetched_at": "2026-06-21T12:00:49.046831",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "在6月19日发布的《阿克西奥斯秀》（《Axios Show》）访谈节目中，美国总统特朗普表示，他已经不再将美国人工智能公司安特罗匹克（Anthropic）视为国家安全威胁。 （财联社）",
+      "keywords": [
+        "anthropic",
+        "视为国家安全威胁",
+        "特朗普",
+        "不再将",
+        "日发布的"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "报道：特斯拉加速推进人工智能与机器人战略，申请注册 “Amazing Abundance” 商标",
+      "link": "https://36kr.com/newsflashes/3862280121865219?f=rss",
+      "summary": "据报道，特斯拉已正式提交 “Amazing Abundance” 商标注册申请，此举表明企业将进一步深耕长期发展愿景，核心布局人工智能、人形机器人、自动驾驶系统，并依托自动化技术实现生产成本大幅下降的未来图景。（新浪财经）",
+      "source": "36氪",
+      "pub_date": "2026-06-21 09:54:30  +0800",
+      "fetched_at": "2026-06-21T12:00:49.045889",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "据报道，特斯拉已正式提交 “Amazing Abundance” 商标注册申请，此举表明企业将进一步深耕长期发展愿景，核心布局人工智能、人形机器人、自动驾驶系统，并依托自动化技术实现生产成本大幅下降的未来图景。（新浪财经）",
+      "keywords": [
+        "amazing",
+        "abundance",
+        "报道",
+        "特斯拉加速推进人工智能与机器人战略",
+        "申请注册"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Anthropic首席执行官：人工智能公司需要“数千亿美元”收入，否则将面临生存风险",
+      "link": "https://36kr.com/newsflashes/3862373538386952?f=rss",
+      "summary": "Anthropic首席执行官表示，人工智能公司需要“数千亿美元”收入，否则将面临生存风险。（财联社）",
+      "source": "36氪",
+      "pub_date": "2026-06-21 11:40:32  +0800",
+      "fetched_at": "2026-06-21T12:00:49.044840",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Anthropic首席执行官表示，人工智能公司需要“数千亿美元”收入，否则将面临生存风险。（财联社）",
+      "keywords": [
+        "anthropic",
+        "人工智能公司需要",
+        "数千亿美元",
+        "收入",
+        "否则将面临生存风险"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发",
+      "link": "https://36kr.com/p/3856708724315400?f=rss",
+      "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能企业穹彻智能（Noematrix）近日完成新一轮数亿元融资，本轮融资由无锡数据集团领投，投资方包括上海交通大学AI未来基金（创业基金）、上海创之智科技有限公司（上海创智学院全资子公司）、一村资本等。 这也是公司近半年来完成的又一轮融资。此前穹彻智能已获得多家机构加持，包括Prosperity7 Ventures、红杉中国、C Capital、阿里巴巴和Sea Limited等。 穹彻智能是硬氪长期关注的企业。公司成立于2023年11月，长期专注具身智能基础模型与系统的自主研发，已发布有核心产品“穹彻具身大脑”（Noematrix Brain），并围绕...",
+      "source": "36氪",
+      "pub_date": "2026-06-18 09:28:16  +0800",
+      "fetched_at": "2026-06-21T12:00:49.044409",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "这也是公司近半年来完成的又一轮融资。此前穹彻智能已获得多家机构加持，包括Prosperity7 Ventures、红杉中国、C Capital、阿里巴巴和Sea Limited等。...",
+      "keywords": [
+        "noematrix",
+        "红杉",
+        "阿里押注过的具身大脑公司再融资",
+        "上交等投资数亿元",
+        "硬氪首发"
+      ],
+      "importance": 1.5
+    },
+    {
+      "title": "北大科学家下场做脑机接口，种子轮融了近亿元",
+      "link": "https://36kr.com/p/3855480467543042?f=rss",
+      "summary": "文 | 孙小雯 访谈 / 编辑 | 海若镜 「暗涌Waves」独家获悉，侵入式脑机接口公司「芯生视界」近日完成近亿元人民币种子轮融资。本轮融资由经纬创投领投，星连资本、燕缘创投、水木创投跟投。 当下，侵入式脑机接口已经在治疗瘫痪、脑控外设等医疗场景落地，验证长期植入的安全、有效。与此同时，AI Agent和具身智能技术加速进化，也放大了市场对脑机接口的期待：改写未来“人机交互”的方式，实现人机融合、增强人类。马斯克和他的Neuralink，正是这一叙事的风向标。 芯生视界团队集合了多位国家“脑计划”脑机接口方向“青年首席”：创始人王茜来自北京大学心理与认知科学学院、IDG麦戈文脑科学研究所。联...",
+      "source": "36氪",
+      "pub_date": "2026-06-18 09:34:22  +0800",
+      "fetched_at": "2026-06-21T12:00:48.760145",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "文 | 孙小雯 访谈 / 编辑 | 海若镜 「暗涌Waves」独家获悉，侵入式脑机接口公司「芯生视界」近日完成近亿元人民币种子轮融资。本轮融资由经纬创投领投，星连资本、燕缘创投、水木创投跟投。 当下，侵入式脑机接口已经在治疗瘫痪、脑控外设等医疗场景落地，验证长期植入的安全、有效。与此同时，AI...",
+      "keywords": [
+        "北大科学家下场做脑机接口",
+        "种子轮融了近亿元",
+        "孙小雯",
+        "访谈",
+        "编辑"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "蔚来补上“智驾课”，任少卿总结：智驾技术创新将重构竞争",
+      "link": "https://36kr.com/p/3858329994875908?f=rss",
+      "summary": "文｜肖漫编辑｜李勤 6月18日，蔚来同时向两代平台车型（包含8款NT2.0平台车型、4款NT2.5平台车型，以及6款NT3.0车型）推送了最新版的世界模型，这意味着，蔚来现在能让同一套复杂的智驾代码，现在能跑在不同代际的芯片上。 软件迭代节奏被硬件绑架曾是一个困扰行业的难题。很多车企无法在不同版本、配置的车型上迭代同一款软件，这带来的结果是，很长时间内只有使用最新版本硬件的车才能用上最好的软件，老车主被背刺。 蔚来部署推理跨平台兼容 任少卿的团队在 2020 年就在思考如何解决这个问题。蔚来的做法是搭建一套AI Infra——自研工具链铺平不同芯片间的鸿沟，用AI编译器提升车辆的处理速度，用 ...",
+      "source": "36氪",
+      "pub_date": "2026-06-18 20:20:28  +0800",
+      "fetched_at": "2026-06-21T12:00:48.149469",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "文｜肖漫编辑｜李勤 6月18日，蔚来同时向两代平台车型（包含8款NT2.0平台车型、4款NT2.5平台车型，以及6款NT3.0车型）推送了最新版的世界模型，这意味着，蔚来现在能让同一套复杂的智驾代码，现在能跑在不同代际的芯片上。 蔚来部署推理跨平台兼容 任少卿的团队在 2020...",
+      "keywords": [
+        "nt",
+        "平台车型",
+        "ai",
+        "蔚来补上",
+        "智驾课"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功",
+      "link": "https://36kr.com/p/3858015526704129?f=rss",
+      "summary": "大公司： 滴滴自动驾驶参加伦敦MOVE 2026大会 6月17至18日，MOVE 2026大会在英国伦敦召开，滴滴自动驾驶在会上分享了来自中国的自动驾驶落地实践。在AI技术方面，滴滴自动驾驶已实现L4级全栈核心技术的自主可控；硬件方面，与广汽埃安联合打造的新一代Robotaxi车型R2已于今年1月交付，正持续在广州和北京等地开展道路测试；在场景应用上，自去年四季度在广州、北京部分示范应用区域开启全天候载客测试以来，滴滴自动驾驶始终保持安全稳定的运行表现。 菜鸟：未来4个月将在全球交付4座大型攀爬机器人仓库 36氪获悉，6月18日，菜鸟副总裁、物流科技事业部总经理毕江华表示，菜鸟自研生产的攀爬机...",
+      "source": "36氪",
+      "pub_date": "2026-06-18 20:47:44  +0800",
+      "fetched_at": "2026-06-21T12:00:48.137215",
+      "categories": [
+        "ai",
+        "robotics",
+        "space"
+      ],
+      "ai_summary": "大公司： 滴滴自动驾驶参加伦敦MOVE 2026大会 6月17至18日，MOVE 2026大会在英国伦敦召开，滴滴自动驾驶在会上分享了来自中国的自动驾驶落地实践。在AI技术方面，滴滴自动驾驶已实现L4级全栈核心技术的自主可控；硬件方面，与广汽埃安联合打造的新一代Robotaxi车型R2已于今年1月交...",
+      "keywords": [
+        "ai",
+        "move",
+        "氪星晚报",
+        "bilibiliworld",
+        "成国内首个海外售票的综合性"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "科氪 | 两轮电动车没有天花板，爱玛黑翼要用AI与硬核科技赢得年轻男性的心",
+      "link": "https://36kr.com/p/3858803016881154?f=rss",
+      "summary": "国内两轮电动车市场正悄然迎来一场深层次的“基因突变”。长期以来，大众对两轮电动车的认知被牢牢框定在“代步工具”与“大众精品”的传统叙事里。然而，在四川省体育馆的一场发布会上，爱玛正式发布了旗下专为年轻男性打造的极速运动品类品牌——“爱玛黑翼”（AIMA BLACK WING）。首位中国F1车手周冠宇化身“全速领航员”在线助力，爱玛黑翼S360电竞版、爱玛黑翼S360赛道版以及爱玛黑翼S790赛博版三款硬核新品集结亮相。这场动作透露出的创投信号再明显不过：在女性和基础通勤赛道筑牢绝对壁垒后，传统头部巨头爱玛正以一种颠覆性的姿态，正式向年轻男性性能与运动电摩赛道发起总攻。36氪通过与爱玛科技集团三...",
+      "source": "36氪",
+      "pub_date": "2026-06-18 22:57:40  +0800",
+      "fetched_at": "2026-06-21T12:00:48.113779",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "国内两轮电动车市场正悄然迎来一场深层次的“基因突变”。长期以来，大众对两轮电动车的认知被牢牢框定在“代步工具”与“大众精品”的传统叙事里。然而，在四川省体育馆的一场发布会上，爱玛正式发布了旗下专为年轻男性打造的极速运动品类品牌——“爱玛黑翼”（AIMA BLACK WING）。首位中国F1车手周冠宇...",
+      "keywords": [
+        "爱玛黑翼",
+        "科氪",
+        "两轮电动车没有天花板",
+        "爱玛黑翼要用",
+        "ai"
+      ],
+      "importance": 0.5
     }
   ],
-  "updated_at": "2026-06-20T20:00:47.268306"
+  "updated_at": "2026-06-21T12:01:41.954098"
 }

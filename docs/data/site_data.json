@@ -5,625 +5,649 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-07-04T12:00:38.816338",
-    "total_items": 19
+    "last_update": "2026-07-07T12:00:29.523483",
+    "total_items": 28
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 16
+      "count": 20
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 3
+      "count": 9
     },
     "space": {
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 2
+      "count": 4
     }
   },
   "stats": {
-    "total_items": 19,
-    "today_items": 19,
+    "total_items": 28,
+    "today_items": 28,
     "sources": {
-      "Solidot": 10,
-      "量子位": 4,
-      "HackerNews": 5
+      "Solidot": 7,
+      "36氪": 11,
+      "HackerNews": 6,
+      "量子位": 4
     },
-    "last_update": "2026-07-04T12:00:38.816338"
+    "last_update": "2026-07-07T12:00:29.523483"
   },
   "trending": [
     {
-      "title": "OpenAI 磋商将 5% 股份送给美国政府",
-      "link": "https://www.solidot.org/story?sid=84744",
-      "summary": "随着 AI 公司试图缓和与特朗普政府的关系，OpenAI 正磋商向美国政府捐赠其 5% 的股份。OpenAI CEO Sam Altman 认为，向美国公众提供该公司的股份是分享 AI 好处的最佳方式。它的提议还建议还其它美国 AI 公司向政府捐出类似的股份，目前尚不清楚 Anthropic、Google 和 Meta 等公司是否会同意该计划。OpenAI 高管建议，美国 AI 公司应将 5% 股份捐给主权基金 Alaska Permanent Fund。这一谈判是“概念性的”，还处于早期阶段，任何协议可能需要国会通过法案才能实施。",
+      "title": "微软将利润转移到低税国家",
+      "link": "https://www.solidot.org/story?sid=84760",
+      "summary": "微软显然在将利润转移到低企业税国家。早在 2005 年，微软时任 CEO 巴尔默(Steve Ballmer)称低企业税率是在爱尔兰做生意的整体优势之一。微软和其它跨国企业一样，会利用子公司来转移利润以降税。微软子公司的纳税金额有明显的模式：低税国家高利润，高税国家低利润。微软在爱尔兰的员工占到了全球员工的 3%，但它产生了近 40% 的税前收入；而在欧洲最大的经济体德国，德国子公司的利润仅占全球利润的不到 0.5%。微软在卢森堡的税前收入为 2.83 亿美元，但在该国仅仅只有 34 名员工。美国国税局（IRS）正寻求微软补税近 290 亿美元。微软官方篇博客称税收“是衡量贡献的一个重要指标，...",
       "source": "Solidot",
-      "pub_date": "Thu, 02 Jul 2026 22:35:47 +0800",
-      "fetched_at": "2026-07-04T12:00:05.299977",
+      "pub_date": "Mon, 06 Jul 2026 00:16:45 +0800",
+      "fetched_at": "2026-07-07T12:00:05.345334",
       "categories": [
         "ai"
       ],
-      "ai_summary": "随着 AI 公司试图缓和与特朗普政府的关系，OpenAI 正磋商向美国政府捐赠其 5% 的股份。OpenAI CEO Sam Altman 认为，向美国公众提供该公司的股份是分享 AI 好处的最佳方式。它的提议还建议还其它美国 AI 公司向政府捐出类似的股份，目前尚不清楚 Anthropic、Goo...",
+      "ai_summary": "微软显然在将利润转移到低企业税国家。早在 2005 年，微软时任 CEO 巴尔默(Steve Ballmer)称低企业税率是在爱尔兰做生意的整体优势之一。微软和其它跨国企业一样，会利用子公司来转移利润以降税。微软子公司的纳税金额有明显的模式：低税国家高利润，高税国家低利润。微软在爱尔兰的员工占到了全...",
       "keywords": [
-        "openai",
-        "ai",
-        "磋商将",
-        "股份送给美国政府",
-        "随着"
-      ],
-      "importance": 2.0
-    },
-    {
-      "title": "轨道数据中心的炒作和现实",
-      "link": "https://www.solidot.org/story?sid=84743",
-      "summary": "SpaceX 创始人 Elon Musk 今年一月在达沃斯世界经济论坛上宣称，最迟三年轨道数据中心就能实现。随后 SpaceX 向 FCC 递交申请发射 100 万颗卫星建立轨道数据中心星座。Musk 总是喜欢夸大其词，他说完全自动驾驶汽车将在 2017 年实现，载人火星任务将在 2024 年实现，到 2025 年底将会制造出 1 万台 Optimus 人形机器人。目前地球轨道上约有 14,500 颗卫星，Starlink 星座占了三分之二，要部署 100 万颗卫星，SpaceX 的火箭发射频率和卫星制造能力都需要大幅提升。SpaceX 下一代火箭 Starship 能将 60 颗卫星发射到轨...",
-      "source": "Solidot",
-      "pub_date": "Thu, 02 Jul 2026 22:17:54 +0800",
-      "fetched_at": "2026-07-04T12:00:05.300266",
-      "categories": [
-        "robotics",
-        "space"
-      ],
-      "ai_summary": "SpaceX 创始人 Elon Musk 今年一月在达沃斯世界经济论坛上宣称，最迟三年轨道数据中心就能实现。随后 SpaceX 向 FCC 递交申请发射 100 万颗卫星建立轨道数据中心星座。Musk 总是喜欢夸大其词，他说完全自动驾驶汽车将在 2017 年实现，载人火星任务将在 2024 年实现，...",
-      "keywords": [
-        "spacex",
-        "musk",
-        "年实现",
-        "轨道数据中心的炒作和现实",
-        "创始人"
+        "亿美元",
+        "微软将利润转移到低税国家",
+        "微软显然在将利润转移到低企业税国家",
+        "早在",
+        "微软时任"
       ],
       "importance": 1.0
     },
     {
-      "title": "Anthropic 将移除检测中国用户的秘密代码",
-      "link": "https://www.solidot.org/story?sid=84735",
-      "summary": "Anthropic 工程师表示将在周三发布补丁移除几个月前添加到 Claude Code 中的隐藏代码，这些代码旨在阻止其它 AI 公司蒸馏其模型。Claude Code 工程师 Thariq Shihipar 表示，“它是我们 3 月启动的一项实验，旨在防止未经授权的转售商滥用账户，以及防止模型蒸馏。团队此后已采取了更有效的缓解措施，实际上我们早就打算移除这些代码了。”在这之前有开发者发现 Claude Code 包含了秘密代码检查基本 URL 环境变量，该变量用于将 API 请求路由到代理或网关。如果基本 URL 已被覆盖，代码会继续检查系统时区，以及主机名是否与已知中国 AI 实验室、其...",
-      "source": "Solidot",
-      "pub_date": "Thu, 02 Jul 2026 13:41:56 +0800",
-      "fetched_at": "2026-07-04T12:00:05.304178",
+      "title": "氪星晚报｜佑驾创新正式发布四轮足机器人；千问大模型升级实时语音识别大模型Fun-ASR-Realtime",
+      "link": "https://36kr.com/p/3884024701874183?f=rss",
+      "summary": "大公司： 郭明錤爆料最新苹果折叠手机：出货量明显不足，或重现“饥饿营销” 知名分析师郭明錤分析指出，苹果可折叠iPhone预计2026年下半年出货，但初期供应可能不足。他称自己的行业调查显示，2026年下半年可折叠iPhone的组装出货量约为700万至800万部，第三季度出货量约为50万至100万部，约占苹果总出货量的10%。该产品价格可能在2300至2500美元左右，而供应限制将导致转售价格溢价50%至100%。他认为判断可折叠iPhone销售前景的关键在于2026年末至2027年第一季度。（财联社） 千问大模型升级实时语音识别大模型Fun-ASR-Realtime 36氪获悉，千问大模型正...",
+      "source": "36氪",
+      "pub_date": "2026-07-06 18:39:24  +0800",
+      "fetched_at": "2026-07-07T12:00:05.910456",
       "categories": [
-        "ai"
-      ],
-      "ai_summary": "Anthropic 工程师表示将在周三发布补丁移除几个月前添加到 Claude Code 中的隐藏代码，这些代码旨在阻止其它 AI 公司蒸馏其模型。Claude Code 工程师 Thariq Shihipar 表示，“它是我们 3 月启动的一项实验，旨在防止未经授权的转售商滥用账户，以及防止模型蒸...",
-      "keywords": [
-        "claude",
-        "code",
-        "anthropic",
         "ai",
-        "url"
+        "robotics"
+      ],
+      "ai_summary": "大公司： 郭明錤爆料最新苹果折叠手机：出货量明显不足，或重现“饥饿营销” 知名分析师郭明錤分析指出，苹果可折叠iPhone预计2026年下半年出货，但初期供应可能不足。他称自己的行业调查显示，2026年下半年可折叠iPhone的组装出货量约为700万至800万部，第三季度出货量约为50万至100万部...",
+      "keywords": [
+        "iphone",
+        "千问大模型升级实时语音识别大模型",
+        "fun",
+        "asr",
+        "realtime"
       ],
       "importance": 1.0
     },
     {
-      "title": "NASA 发射探测器拯救坠落中的 Swift 天文台",
-      "link": "https://www.solidot.org/story?sid=84753",
-      "summary": "2004 年发射的 Neil Gehrels Swift 天文台设计监测宇宙中的伽马射线暴，它最初的运行轨道高度约 600 公里，但由于大气阻力其轨道高度已衰减至约 400 公里。2024 年太阳极大期间的太阳活动导致了地球大气膨胀，加速了轨道衰减。如果不进行拯救，Swift 天文台将于 2026 年底不受控重返大气层。Swift 天文台本身没有推进系统。去年 9 月 NASA 授予 Katalyst Space Technologies 一份 3000 万美元的合同，用于开发和发射一艘与 Swift 对接并提升其轨道的探测器 LINK。LINK 于 7 月 3 日成功发射，未来几个月它将尝试...",
-      "source": "Solidot",
-      "pub_date": "Fri, 03 Jul 2026 22:56:02 +0800",
-      "fetched_at": "2026-07-04T12:00:05.297676",
-      "categories": [
-        "space"
-      ],
-      "ai_summary": "2004 年发射的 Neil Gehrels Swift 天文台设计监测宇宙中的伽马射线暴，它最初的运行轨道高度约 600 公里，但由于大气阻力其轨道高度已衰减至约 400 公里。2024 年太阳极大期间的太阳活动导致了地球大气膨胀，加速了轨道衰减。如果不进行拯救，Swift 天文台将于 2026 ...",
-      "keywords": [
-        "swift",
-        "nasa",
-        "公里",
-        "link",
-        "发射探测器拯救坠落中的"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "阿里巴巴禁止员工使用 Claude Code",
-      "link": "https://www.solidot.org/story?sid=84751",
-      "summary": "阿里巴巴因担心后门禁止员工在工作中使用 Anthropic 的 Claude Code，它要求员工使用自家的编程平台 Qoder。尽管 Anthropic 限制了中国用户和实体的访问，但 Claude Code 在中国程序员中间仍然非常受欢迎。Anthropic 上个月指控阿里巴巴蒸馏了其模型，几天前它的 Claude Code 被发现包含了检测用户是否来自中国的代码。",
-      "source": "Solidot",
-      "pub_date": "Fri, 03 Jul 2026 17:59:33 +0800",
-      "fetched_at": "2026-07-04T12:00:05.298108",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "阿里巴巴因担心后门禁止员工在工作中使用 Anthropic 的 Claude Code，它要求员工使用自家的编程平台 Qoder。尽管 Anthropic 限制了中国用户和实体的访问，但 Claude Code 在中国程序员中间仍然非常受欢迎。Anthropic 上个月指控阿里巴巴蒸馏了其模型，几天...",
-      "keywords": [
-        "claude",
-        "code",
-        "anthropic",
-        "阿里巴巴禁止员工使用",
-        "阿里巴巴因担心后门禁止员工在工作中使用"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "Google 的 2025 年用电量增长了 37%",
-      "link": "https://www.solidot.org/story?sid=84745",
-      "summary": "Google 通过最新的可持续发展报告承认，该公司自 2019 年以来用电量增长了逾 250%，在 2024 年增长 27% 基础上 2025 年又增长了 37%。Google 将这一切归于 Google Cloud、YouTube 视频串流以及 AI 基础设施的建造和运营的持续增长。Google 数据中心在 2025 年消耗了逾 4200 万 MWh 电力，2024 年则是 3060 万 MWh。这意味着 Google 数据中心的能源消耗量相当于新西兰、丹麦和尼日利亚等国全国的电力消耗量。",
-      "source": "Solidot",
-      "pub_date": "Thu, 02 Jul 2026 22:54:38 +0800",
-      "fetched_at": "2026-07-04T12:00:05.299752",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Google 通过最新的可持续发展报告承认，该公司自 2019 年以来用电量增长了逾 250%，在 2024 年增长 27% 基础上 2025 年又增长了 37%。Google 将这一切归于 Google Cloud、YouTube 视频串流以及 AI 基础设施的建造和运营的持续增长。Google ...",
-      "keywords": [
-        "google",
-        "mwh",
-        "年用电量增长了",
-        "通过最新的可持续发展报告承认",
-        "该公司自"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "DGX Spark 黑客松线上训练营：4 小时干货，从环境配置到具身智能，手把手教你搭出能跑的 Agent",
-      "link": "https://www.solidot.org/story?sid=84742",
-      "summary": "NVIDIA DGX Spark 黑客松开赛即报满，但赛事之外还有一场更适合\"先蹭一波再决定要不要打\"的硬核直播 直播时间：7 月 12 日 10:00 - 12:00 训练营内容： 1· 黑客松赛事规则说明：解读赛事机制、评审标准与提交流程，帮助团队明确方向、高效备赛。 2 · 基于 DGX Spark 和 Step 3.7 搭建本地 Agent Team 的最佳实践：从环境配置到模型推理，讲解如何在 DGX Spark 上高效落地Stepfun3.7模型能力。 3 · Agent 一键出片：基于 DGX Spark 搭建本地视觉生成智能体 演示如何构建具备视觉理解与内容生成能力的本地 Ag...",
-      "source": "Solidot",
-      "pub_date": "Thu, 02 Jul 2026 19:51:13 +0800",
-      "fetched_at": "2026-07-04T12:00:05.302105",
+      "title": "蚂蚁灵波发布空间感知模型LingBot-Depth 2.0",
+      "link": "https://36kr.com/newsflashes/3885019659202566?f=rss",
+      "summary": "7月7日，蚂蚁集团旗下具身智能公司灵波科技发布空间感知模型LingBot-Depth 2.0。该模型基于1.5亿规模数据进行训练，在边缘清晰度、细小物体识别、远距离深度估计以及复杂场景鲁棒性等方面实现全面升级。此外，灵波还同步推出了LingBot-Depth 2.0的视觉基座模型——LingBot-Vision，构建起机器人从“看懂”到“看准”的能力链路，旨在应对机器人视觉在空间感知、精细识别和复杂环境适应等方面的核心挑战。",
+      "source": "36氪",
+      "pub_date": "2026-07-07 11:26:21  +0800",
+      "fetched_at": "2026-07-07T12:00:05.938917",
       "categories": [
         "robotics"
       ],
-      "ai_summary": "2 · 基于 DGX Spark 和 Step 3.7 搭建本地 Agent Team 的最佳实践：从环境配置到模型推理，讲解如何在 DGX Spark 上高效落地Stepfun3.7模型能力。 3 · Agent 一键出片：基于 DGX Spark 搭建本地视觉生成智能体...",
+      "ai_summary": "7月7日，蚂蚁集团旗下具身智能公司灵波科技发布空间感知模型LingBot-Depth 2.0。该模型基于1.5亿规模数据进行训练，在边缘清晰度、细小物体识别、远距离深度估计以及复杂场景鲁棒性等方面实现全面升级。此外，灵波还同步推出了LingBot-Depth 2.0的视觉基座模型——LingBot-...",
       "keywords": [
-        "dgx",
-        "spark",
-        "agent",
-        "基于",
-        "黑客松线上训练营"
+        "lingbot",
+        "depth",
+        "蚂蚁灵波发布空间感知模型",
+        "蚂蚁集团旗下具身智能公司灵波科技发布空间感知模型",
+        "该模型基于"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "天问二号探测器抵达目标小行星",
+      "link": "https://www.solidot.org/story?sid=84769",
+      "summary": "中国国家航天局周一宣布，天问二号探测器历经约 400 天、行程约 10 亿千米飞行后于近日与小行星 2016HO3 成功交会，到达距离小行星 20 千米处，开始科学探测。在抵近小行星过程中，探测器获得小行星影像数据。同时任务团队利用探测器抵近过程中获得的光学导航数据，改进了小行星星历，将之前仅依靠地基观测所确定的小行星位置误差，由上百千米减小到千米量级。天问二号探测器于 2025 年 5 月 29 日在西昌卫星发射中心成功发射。2026 年 6 月 6 日，探测器首次捕获到小行星；6 月 7 日，在距离小行星 3 万千米处实施捕获控制，实现与小行星共面飞行；6 月 19 日，到达距离小行星 2...",
+      "source": "Solidot",
+      "pub_date": "Mon, 06 Jul 2026 23:11:52 +0800",
+      "fetched_at": "2026-07-07T12:00:05.342549",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "中国国家航天局周一宣布，天问二号探测器历经约 400 天、行程约 10 亿千米飞行后于近日与小行星 2016HO3 成功交会，到达距离小行星 20 千米处，开始科学探测。在抵近小行星过程中，探测器获得小行星影像数据。同时任务团队利用探测器抵近过程中获得的光学导航数据，改进了小行星星历，将之前仅依靠地...",
+      "keywords": [
+        "到达距离小行星",
+        "天问二号探测器抵达目标小行星",
+        "中国国家航天局周一宣布",
+        "天问二号探测器历经约",
+        "行程约"
       ],
       "importance": 0.5
     },
     {
-      "title": "黄仁勋说的Physical AI，被这家中国跨界选手带进了生命科学实验室",
-      "link": "https://www.qbitai.com/2026/07/442311.html",
-      "summary": "第三方测评超越OpenAI最强旗舰GPT-5.6 Sol",
-      "source": "量子位",
-      "pub_date": "Fri, 03 Jul 2026 05:24:06 +0000",
-      "fetched_at": "2026-07-04T12:00:18.706989",
+      "title": "火星岩石发现大量碳，来源未知",
+      "link": "https://www.solidot.org/story?sid=84757",
+      "summary": "NASA 漫游车在火星上发现的有机碳绝大多数都是在岩石的内部，需要通过钻或磨才能暴露。如今火星漫游车毅力号在河道 Neretva Vallis 附近的岩石表面发现了复杂大分子碳，这是至今在火星上发现的最浅的有机物。如果地球上发现类似的大量大分子碳，通常表明它们来自生物。但对于火星岩石上发现的大量碳，则难以识别其来源，除非将其带到地球进行仔细研究。研究人员表示这些分子碳也可能源于非生物过程。它们是否是古代火星生命的遗迹，还有待未来回答。",
+      "source": "Solidot",
+      "pub_date": "Sun, 05 Jul 2026 00:26:23 +0800",
+      "fetched_at": "2026-07-07T12:00:05.345895",
       "categories": [
-        "ai"
+        "space"
       ],
-      "ai_summary": "第三方测评超越OpenAI最强旗舰GPT-5.6 Sol",
+      "ai_summary": "NASA 漫游车在火星上发现的有机碳绝大多数都是在岩石的内部，需要通过钻或磨才能暴露。如今火星漫游车毅力号在河道 Neretva Vallis 附近的岩石表面发现了复杂大分子碳，这是至今在火星上发现的最浅的有机物。如果地球上发现类似的大量大分子碳，通常表明它们来自生物。但对于火星岩石上发现的大量碳，...",
       "keywords": [
-        "黄仁勋说的",
-        "physical",
-        "ai",
-        "被这家中国跨界选手带进了生命科学实验室",
-        "第三方测评超越"
+        "火星岩石发现大量碳",
+        "来源未知",
+        "nasa",
+        "漫游车在火星上发现的有机碳绝大多数都是在岩石的内部",
+        "需要通过钻或磨才能暴露"
       ],
       "importance": 0.5
     },
     {
-      "title": "日本最高法院裁决 AI 不能被列为专利申请的发明人",
-      "link": "https://www.solidot.org/story?sid=84748",
-      "summary": "日本最高法院驳回了一位美国工程师要求将 AI 列为专利申请发明人的上诉。日本最高法院维持了下级法院的判决，即根据专利法，专利申请的发明人必须是“自然人”。原告于 2020 年提交了一份专利申请，发明人是原告创建的 DABUS AI。专利局要求原告提供自然人的姓名作为发明人。原告拒绝提供，因此该申请被驳回。日本最高法院表示，专利法并未预见到 AI 的快速发展，而关于是否应授予 AI 发明专利权的问题“鉴于其对社会的影响，需要进行讨论”。",
+      "title": "仙女座发现新卫星星系",
+      "link": "https://www.solidot.org/story?sid=84756",
+      "summary": "天文学家在距离地球约 250 万光年的仙女座星系附近，发现了一个新的超暗矮星系，命名为仙女座 XXXVI（Andromeda XXXVI，其中 XXXVI 为罗马数字 36），代表它是目前正式命名的第 36 个仙女座卫星星系。研究显示，它可能是迄今在仙女座星系周围发现最暗淡的卫星星系之一。这个星系年龄约达 125 亿年。仙女座星系是距离银河系最近的巨大螺旋星系，周围环绕着许多受到重力束缚的矮卫星星系，因此被视为研究星系形成的天然实验室。目前理论预测，仙女座可能拥有多达约 90 个卫星星系，但迄今仅发现约 40 个，其中只有约 15 个属于超暗矮星系。仙女座 XXXVI 的发现显示，在仙女座周围...",
       "source": "Solidot",
-      "pub_date": "Fri, 03 Jul 2026 15:31:07 +0800",
-      "fetched_at": "2026-07-04T12:00:05.299058",
+      "pub_date": "Sat, 04 Jul 2026 23:26:34 +0800",
+      "fetched_at": "2026-07-07T12:00:05.346067",
       "categories": [
-        "ai"
+        "space"
       ],
-      "ai_summary": "日本最高法院驳回了一位美国工程师要求将 AI 列为专利申请发明人的上诉。日本最高法院维持了下级法院的判决，即根据专利法，专利申请的发明人必须是“自然人”。原告于 2020 年提交了一份专利申请，发明人是原告创建的 DABUS AI。专利局要求原告提供自然人的姓名作为发明人。原告拒绝提供，因此该申请被...",
+      "ai_summary": "天文学家在距离地球约 250 万光年的仙女座星系附近，发现了一个新的超暗矮星系，命名为仙女座 XXXVI（Andromeda XXXVI，其中 XXXVI 为罗马数字 36），代表它是目前正式命名的第 36 个仙女座卫星星系。研究显示，它可能是迄今在仙女座星系周围发现最暗淡的卫星星系之一。这个星系年...",
       "keywords": [
-        "ai",
-        "日本最高法院裁决",
-        "不能被列为专利申请的发明人",
-        "日本最高法院驳回了一位美国工程师要求将",
-        "列为专利申请发明人的上诉"
+        "xxxvi",
+        "仙女座发现新卫星星系",
+        "天文学家在距离地球约",
+        "万光年的仙女座星系附近",
+        "发现了一个新的超暗矮星系"
       ],
-      "importance": 0
+      "importance": 0.5
     },
     {
-      "title": "越来越多的儿童使用 AI",
-      "link": "https://www.solidot.org/story?sid=84739",
-      "summary": "根据来自 10 个国家的新数据，联合国儿童基金会估计，至少有 2000 万儿童使用过人工智能，且青少年采用该技术人数的增长速度是成年人的三倍多。最引人注目的是，据估计约有 200万 儿童——约占十分之一——表示会向人工智能寻求关于自身担忧的建议，另有 1300 万儿童表示使用人工智能来协助完成学校作业和家庭作业。儿基会表示：“人工智能已经到来。它正日益成为我们生活的一部分，它已经在塑造全球儿童的成长历程——无论好坏。”尽管人工智能为学习和创造力提供了新机遇，但儿基会警告称，关于其对儿童发展、情绪健康以及可能面临的伤害的影响，相关证据才刚刚开始浮出水面。该机构表示：“实际上，这一代人正在一场全球...",
-      "source": "Solidot",
-      "pub_date": "Thu, 02 Jul 2026 16:43:37 +0800",
-      "fetched_at": "2026-07-04T12:00:05.303202",
+      "title": "用AI“复刻”人类细胞、预判药效，「华源智因」获千万级人民币种子轮融资｜36氪首发",
+      "link": "https://36kr.com/p/3883943959621634?f=rss",
+      "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，AI虚拟细胞（AIVC）企业华源智因近期已完成千万级人民币种子轮融资。本轮融资由水木创投领投，募集资金将主要用于多模态测序底层技术迭代，进一步拓展与头部三甲医院的合作，以及团队扩充等。此外，华源智因团队已计划启动新一轮融资。 华源智因创始团队由资深医药产业从业者、计算生物学研发人员组成，并邀请到深圳国家基因库等单位专家组成科学顾问委员会，形成科研与产业协同的团队架构。公司CEO杜润诗就读于加州大学洛杉矶分校，是AI领域连续创业者；CTO王艺璇为香港中文大学计算机科学与工程专业博士生，曾在百图生科牵头搭建基因扰动转录效应的预测模型xTrimoSC Pertu...",
+      "source": "36氪",
+      "pub_date": "2026-07-07 09:05:00  +0800",
+      "fetched_at": "2026-07-07T12:00:05.893624",
       "categories": [
         "ai"
       ],
-      "ai_summary": "根据来自 10 个国家的新数据，联合国儿童基金会估计，至少有 2000 万儿童使用过人工智能，且青少年采用该技术人数的增长速度是成年人的三倍多。最引人注目的是，据估计约有 200万 儿童——约占十分之一——表示会向人工智能寻求关于自身担忧的建议，另有 1300 万儿童表示使用人工智能来协助完成学校作...",
+      "ai_summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，AI虚拟细胞（AIVC）企业华源智因近期已完成千万级人民币种子轮融资。本轮融资由水木创投领投，募集资金将主要用于多模态测序底层技术迭代，进一步拓展与头部三甲医院的合作，以及团队扩充等。此外，华源智因团队已计划启动新一轮融资。 华源智因创始团队由资深医药产业从业者...",
       "keywords": [
-        "越来越多的儿童使用",
         "ai",
-        "根据来自",
-        "个国家的新数据",
-        "联合国儿童基金会估计"
+        "复刻",
+        "人类细胞",
+        "预判药效",
+        "华源智因"
       ],
-      "importance": 0
+      "importance": 0.5
+    },
+    {
+      "title": "36氪首发丨上科大博士团队加速国产超高速光电探测芯片量产，获千万级天使轮融资",
+      "link": "https://36kr.com/p/3884289424437511?f=rss",
+      "summary": "图源/企业 本文约2000字，建议阅读5分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，上海快粼光电科技有限公司（以下简称“快粼光电”）近期已完成数千万元天使轮融资。本轮融资由小苗朗程领投，一村资本跟投。中岚科创担任长期财务顾问，提供产业协同和资本对接服务。此次募集资金将主要用于公司超高速光探测芯片的研发迭代与送样验证，加速国产光探测芯片量产进程以及企业高端人才引进。 快粼光电2024年成立于上海，是一家专注于III-V族高速光电探测芯片的研发与产业化的硬科技公司，曾在AI光互联与6G通信核心的光芯片领域刷新世界纪录，填补了国内超高速收端光芯片的空白。 快粼光电的核心团队由4位师出同门、平均年龄不到...",
+      "source": "36氪",
+      "pub_date": "2026-07-07 09:00:00  +0800",
+      "fetched_at": "2026-07-07T12:00:05.896614",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "图源/企业 本文约2000字，建议阅读5分钟 作者丨欧雪 编辑丨袁斯来...",
+      "keywords": [
+        "快粼光电",
+        "氪首发丨上科大博士团队加速国产超高速光电探测芯片量产",
+        "获千万级天使轮融资",
+        "图源",
+        "企业"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "8点1氪丨SK海力士本周五将登陆纳斯达克；99万机器人“伴侣”续航撑不过一晚？优必选回应；青海省博物馆回应“国家一级文物发现TCL字样”",
+      "link": "https://36kr.com/p/3884831072514309?f=rss",
+      "summary": "今日热点导览 华为Mate90系列有望搭载基于韬定律的新麒麟芯片 央视曝光滴眼液涉事企业被立案，对滴眼液乱象开展调查处置 千问大模型升级实时语音识别大模型Fun-ASR-Realtime WPS回应“滥收费、背刺用户”言论 TOP3大新闻 SK海力士10日在纳斯达克上市290亿美元规模ADR，创外资企业史上最大规模 据报道，SK海力士将以约44万亿韩元规模的美国存托凭证（ADR）在纳斯达克上市，挑战外资企业在美国股市上市的历史最大规模。纳斯达克上市后，SK海力士可在美国正规市场进行交易，并获得纳入纳斯达克100等主要指数的资格，追踪相关指数的交易所交易基金（ETF）的买入资金流入也备受期待。不...",
+      "source": "36氪",
+      "pub_date": "2026-07-07 08:15:11  +0800",
+      "fetched_at": "2026-07-07T12:00:05.908044",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "今日热点导览 华为Mate90系列有望搭载基于韬定律的新麒麟芯片 央视曝光滴眼液涉事企业被立案，对滴眼液乱象开展调查处置 千问大模型升级实时语音识别大模型Fun-ASR-Realtime WPS回应“滥收费、背刺用户”言论 TOP3大新闻 SK海力士10日在纳斯达克上市290亿美元规模ADR，创外资...",
+      "keywords": [
+        "sk",
+        "adr",
+        "氪丨",
+        "海力士本周五将登陆纳斯达克",
+        "万机器人"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "获DCM Ventures投资数百万美元，APTSell希望成为AI版的首席销售官｜涌现新项目",
+      "link": "https://36kr.com/p/3883591654895873?f=rss",
+      "summary": "文｜吴思瑾 编辑｜邓咏仪 01 一句话介绍 北京治真治合科技有限公司成立于2024年，旗下产品「APTSell」（AI Power To Sales）希望成为AI版的CSO （Chief Sales Officer，首席销售官）。 简单来说，APTSell是一个组合式Agent，通过整合与可视化销售全流程数据，生成管理决策和执行建议，以期正向促进销售效率和业绩提升，反向降低对传统销售管理经验和岗位的依赖。 近期，APTSell宣布已经完成由DCM Ventures独家投资的数百万美元种子轮融资，该资金将用于产品技术的研发迭代，并积极开展深入的商业化合作。此前，APTSell还曾获得来自Atom...",
+      "source": "36氪",
+      "pub_date": "2026-07-06 15:53:03  +0800",
+      "fetched_at": "2026-07-07T12:00:05.913929",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "文｜吴思瑾 编辑｜邓咏仪 01 一句话介绍 北京治真治合科技有限公司成立于2024年，旗下产品「APTSell」（AI Power To Sales）希望成为AI版的CSO （Chief Sales Officer，首席销售官）。 近期，APTSell宣布已经完成由DCM...",
+      "keywords": [
+        "aptsell",
+        "ai",
+        "dcm",
+        "ventures",
+        "希望成为"
+      ],
+      "importance": 0.5
     }
   ],
   "latest": [
     {
-      "title": "Espionage Against the European Parliament",
-      "link": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
-      "summary": "👍 296 | 💬 71",
+      "title": "Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)",
+      "link": "https://news.ycombinator.com/item?id=48806976",
+      "summary": "👍 1 | 💬 0",
       "source": "HackerNews",
-      "pub_date": "2026-07-04T04:38:26",
-      "fetched_at": "2026-07-04T12:00:34.987307",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 296 | 💬 71",
-      "keywords": [
-        "espionage",
-        "against",
-        "the",
-        "european",
-        "parliament"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
-      "link": "https://epoch.ai/data-insights/cve-severity-spike",
-      "summary": "👍 66 | 💬 14",
-      "source": "HackerNews",
-      "pub_date": "2026-07-04T05:16:16",
-      "fetched_at": "2026-07-04T12:00:34.015023",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 66 | 💬 14",
-      "keywords": [
-        "new",
-        "serious",
-        "vulnerabilities",
-        "spiked",
-        "around"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Jamesob's guide to running SOTA LLMs locally",
-      "link": "https://github.com/jamesob/local-llm",
-      "summary": "👍 300 | 💬 136",
-      "source": "HackerNews",
-      "pub_date": "2026-07-03T23:03:43",
-      "fetched_at": "2026-07-04T12:00:28.797954",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 300 | 💬 136",
-      "keywords": [
-        "jamesob",
-        "guide",
-        "to",
-        "running",
-        "sota"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "The circuit that lets your brain think and see",
-      "link": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
-      "summary": "👍 58 | 💬 10",
-      "source": "HackerNews",
-      "pub_date": "2026-07-04T06:56:17",
-      "fetched_at": "2026-07-04T12:00:25.640989",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 58 | 💬 10",
-      "keywords": [
-        "the",
-        "circuit",
-        "that",
-        "lets",
-        "your"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
-      "link": "https://mrbruh.com/msicenter/",
-      "summary": "👍 40 | 💬 9",
-      "source": "HackerNews",
-      "pub_date": "2026-07-04T08:57:44",
-      "fetched_at": "2026-07-04T12:00:23.159729",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 40 | 💬 9",
-      "keywords": [
-        "msi",
-        "center",
-        "how",
-        "to",
-        "gain"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？",
-      "link": "https://www.qbitai.com/2026/07/442167.html",
-      "summary": "7月17-7月20",
-      "source": "量子位",
-      "pub_date": "Fri, 03 Jul 2026 03:36:19 +0000",
-      "fetched_at": "2026-07-04T12:00:18.707063",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "7月17-7月20",
-      "keywords": [
-        "基石筑底",
-        "waic",
-        "算力",
-        "超节点与光互连",
-        "能否绕过单芯片的物理天花板"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "黄仁勋说的Physical AI，被这家中国跨界选手带进了生命科学实验室",
-      "link": "https://www.qbitai.com/2026/07/442311.html",
-      "summary": "第三方测评超越OpenAI最强旗舰GPT-5.6 Sol",
-      "source": "量子位",
-      "pub_date": "Fri, 03 Jul 2026 05:24:06 +0000",
-      "fetched_at": "2026-07-04T12:00:18.706989",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "第三方测评超越OpenAI最强旗舰GPT-5.6 Sol",
-      "keywords": [
-        "黄仁勋说的",
-        "physical",
-        "ai",
-        "被这家中国跨界选手带进了生命科学实验室",
-        "第三方测评超越"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "AI找出4种全新超导体，只用28个GPU时！人类此前完全未知",
-      "link": "https://www.qbitai.com/2026/07/442452.html",
-      "summary": "超越人类超导体发现100年效率",
-      "source": "量子位",
-      "pub_date": "Fri, 03 Jul 2026 07:35:58 +0000",
-      "fetched_at": "2026-07-04T12:00:18.706905",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "超越人类超导体发现100年效率",
-      "keywords": [
-        "ai",
-        "找出",
-        "种全新超导体",
-        "只用",
-        "gpu"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
-      "link": "https://www.qbitai.com/2026/07/442746.html",
-      "summary": "四年前LeCun提出JEPA时，大概不会想到，这套架构有一天会被用来理解：一颗细胞。",
-      "source": "量子位",
-      "pub_date": "Fri, 03 Jul 2026 14:28:38 +0000",
-      "fetched_at": "2026-07-04T12:00:18.706606",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "四年前LeCun提出JEPA时，大概不会想到，这套架构有一天会被用来理解：一颗细胞。",
-      "keywords": [
-        "jepa",
-        "llm",
-        "中国团队正在把",
-        "世界模型",
-        "搬进细胞内部"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Anthropic 将移除检测中国用户的秘密代码",
-      "link": "https://www.solidot.org/story?sid=84735",
-      "summary": "Anthropic 工程师表示将在周三发布补丁移除几个月前添加到 Claude Code 中的隐藏代码，这些代码旨在阻止其它 AI 公司蒸馏其模型。Claude Code 工程师 Thariq Shihipar 表示，“它是我们 3 月启动的一项实验，旨在防止未经授权的转售商滥用账户，以及防止模型蒸馏。团队此后已采取了更有效的缓解措施，实际上我们早就打算移除这些代码了。”在这之前有开发者发现 Claude Code 包含了秘密代码检查基本 URL 环境变量，该变量用于将 API 请求路由到代理或网关。如果基本 URL 已被覆盖，代码会继续检查系统时区，以及主机名是否与已知中国 AI 实验室、其...",
-      "source": "Solidot",
-      "pub_date": "Thu, 02 Jul 2026 13:41:56 +0800",
-      "fetched_at": "2026-07-04T12:00:05.304178",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Anthropic 工程师表示将在周三发布补丁移除几个月前添加到 Claude Code 中的隐藏代码，这些代码旨在阻止其它 AI 公司蒸馏其模型。Claude Code 工程师 Thariq Shihipar 表示，“它是我们 3 月启动的一项实验，旨在防止未经授权的转售商滥用账户，以及防止模型蒸...",
-      "keywords": [
-        "claude",
-        "code",
-        "anthropic",
-        "ai",
-        "url"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "Cloudflare 推动 AI 公司为内容付费",
-      "link": "https://www.solidot.org/story?sid=84737",
-      "summary": "Cloudflare 宣布推出新的控制功能，赋予内容出版商更多控制权，更好的掌控 AI 公司如何访问和使用其内容。 从 9 月 15 日起，新 Cloudflare 网站将允许传统的搜索引擎索引，但默认会屏蔽 AI 训练机器人和 AI 智能体访问广告支持的网页。Cloudflare 还在扩展其变现努力，推出了一种按使用付费模式（Pay-Per-Use），目的是当出版商的内容为 AI 生成的答案做出贡献时给予它们补偿，而不仅仅是让内容被抓取。Cloudflare 认为，出版商不应被迫在提高在线曝光率和免费向 AI 系统提供内容之间做出选择。",
-      "source": "Solidot",
-      "pub_date": "Thu, 02 Jul 2026 15:23:37 +0800",
-      "fetched_at": "2026-07-04T12:00:05.303729",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "Cloudflare 宣布推出新的控制功能，赋予内容出版商更多控制权，更好的掌控 AI 公司如何访问和使用其内容。 从 9 月 15 日起，新 Cloudflare 网站将允许传统的搜索引擎索引，但默认会屏蔽 AI 训练机器人和 AI 智能体访问广告支持的网页。Cloudflare 还在扩展其变现努...",
-      "keywords": [
-        "ai",
-        "cloudflare",
-        "推动",
-        "公司为内容付费",
-        "宣布推出新的控制功能"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "越来越多的儿童使用 AI",
-      "link": "https://www.solidot.org/story?sid=84739",
-      "summary": "根据来自 10 个国家的新数据，联合国儿童基金会估计，至少有 2000 万儿童使用过人工智能，且青少年采用该技术人数的增长速度是成年人的三倍多。最引人注目的是，据估计约有 200万 儿童——约占十分之一——表示会向人工智能寻求关于自身担忧的建议，另有 1300 万儿童表示使用人工智能来协助完成学校作业和家庭作业。儿基会表示：“人工智能已经到来。它正日益成为我们生活的一部分，它已经在塑造全球儿童的成长历程——无论好坏。”尽管人工智能为学习和创造力提供了新机遇，但儿基会警告称，关于其对儿童发展、情绪健康以及可能面临的伤害的影响，相关证据才刚刚开始浮出水面。该机构表示：“实际上，这一代人正在一场全球...",
-      "source": "Solidot",
-      "pub_date": "Thu, 02 Jul 2026 16:43:37 +0800",
-      "fetched_at": "2026-07-04T12:00:05.303202",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "根据来自 10 个国家的新数据，联合国儿童基金会估计，至少有 2000 万儿童使用过人工智能，且青少年采用该技术人数的增长速度是成年人的三倍多。最引人注目的是，据估计约有 200万 儿童——约占十分之一——表示会向人工智能寻求关于自身担忧的建议，另有 1300 万儿童表示使用人工智能来协助完成学校作...",
-      "keywords": [
-        "越来越多的儿童使用",
-        "ai",
-        "根据来自",
-        "个国家的新数据",
-        "联合国儿童基金会估计"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "DGX Spark 黑客松线上训练营：4 小时干货，从环境配置到具身智能，手把手教你搭出能跑的 Agent",
-      "link": "https://www.solidot.org/story?sid=84742",
-      "summary": "NVIDIA DGX Spark 黑客松开赛即报满，但赛事之外还有一场更适合\"先蹭一波再决定要不要打\"的硬核直播 直播时间：7 月 12 日 10:00 - 12:00 训练营内容： 1· 黑客松赛事规则说明：解读赛事机制、评审标准与提交流程，帮助团队明确方向、高效备赛。 2 · 基于 DGX Spark 和 Step 3.7 搭建本地 Agent Team 的最佳实践：从环境配置到模型推理，讲解如何在 DGX Spark 上高效落地Stepfun3.7模型能力。 3 · Agent 一键出片：基于 DGX Spark 搭建本地视觉生成智能体 演示如何构建具备视觉理解与内容生成能力的本地 Ag...",
-      "source": "Solidot",
-      "pub_date": "Thu, 02 Jul 2026 19:51:13 +0800",
-      "fetched_at": "2026-07-04T12:00:05.302105",
+      "pub_date": "2026-07-07T00:33:04",
+      "fetched_at": "2026-07-07T12:00:26.728667",
       "categories": [
         "robotics"
       ],
-      "ai_summary": "2 · 基于 DGX Spark 和 Step 3.7 搭建本地 Agent Team 的最佳实践：从环境配置到模型推理，讲解如何在 DGX Spark 上高效落地Stepfun3.7模型能力。 3 · Agent 一键出片：基于 DGX Spark 搭建本地视觉生成智能体...",
+      "ai_summary": "👍 1 | 💬 0",
       "keywords": [
-        "dgx",
-        "spark",
-        "agent",
-        "基于",
-        "黑客松线上训练营"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "轨道数据中心的炒作和现实",
-      "link": "https://www.solidot.org/story?sid=84743",
-      "summary": "SpaceX 创始人 Elon Musk 今年一月在达沃斯世界经济论坛上宣称，最迟三年轨道数据中心就能实现。随后 SpaceX 向 FCC 递交申请发射 100 万颗卫星建立轨道数据中心星座。Musk 总是喜欢夸大其词，他说完全自动驾驶汽车将在 2017 年实现，载人火星任务将在 2024 年实现，到 2025 年底将会制造出 1 万台 Optimus 人形机器人。目前地球轨道上约有 14,500 颗卫星，Starlink 星座占了三分之二，要部署 100 万颗卫星，SpaceX 的火箭发射频率和卫星制造能力都需要大幅提升。SpaceX 下一代火箭 Starship 能将 60 颗卫星发射到轨...",
-      "source": "Solidot",
-      "pub_date": "Thu, 02 Jul 2026 22:17:54 +0800",
-      "fetched_at": "2026-07-04T12:00:05.300266",
-      "categories": [
+        "stealth",
         "robotics",
-        "space"
-      ],
-      "ai_summary": "SpaceX 创始人 Elon Musk 今年一月在达沃斯世界经济论坛上宣称，最迟三年轨道数据中心就能实现。随后 SpaceX 向 FCC 递交申请发射 100 万颗卫星建立轨道数据中心星座。Musk 总是喜欢夸大其词，他说完全自动驾驶汽车将在 2017 年实现，载人火星任务将在 2024 年实现，...",
-      "keywords": [
-        "spacex",
-        "musk",
-        "年实现",
-        "轨道数据中心的炒作和现实",
-        "创始人"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "OpenAI 磋商将 5% 股份送给美国政府",
-      "link": "https://www.solidot.org/story?sid=84744",
-      "summary": "随着 AI 公司试图缓和与特朗普政府的关系，OpenAI 正磋商向美国政府捐赠其 5% 的股份。OpenAI CEO Sam Altman 认为，向美国公众提供该公司的股份是分享 AI 好处的最佳方式。它的提议还建议还其它美国 AI 公司向政府捐出类似的股份，目前尚不清楚 Anthropic、Google 和 Meta 等公司是否会同意该计划。OpenAI 高管建议，美国 AI 公司应将 5% 股份捐给主权基金 Alaska Permanent Fund。这一谈判是“概念性的”，还处于早期阶段，任何协议可能需要国会通过法案才能实施。",
-      "source": "Solidot",
-      "pub_date": "Thu, 02 Jul 2026 22:35:47 +0800",
-      "fetched_at": "2026-07-04T12:00:05.299977",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "随着 AI 公司试图缓和与特朗普政府的关系，OpenAI 正磋商向美国政府捐赠其 5% 的股份。OpenAI CEO Sam Altman 认为，向美国公众提供该公司的股份是分享 AI 好处的最佳方式。它的提议还建议还其它美国 AI 公司向政府捐出类似的股份，目前尚不清楚 Anthropic、Goo...",
-      "keywords": [
-        "openai",
-        "ai",
-        "磋商将",
-        "股份送给美国政府",
-        "随着"
-      ],
-      "importance": 2.0
-    },
-    {
-      "title": "Google 的 2025 年用电量增长了 37%",
-      "link": "https://www.solidot.org/story?sid=84745",
-      "summary": "Google 通过最新的可持续发展报告承认，该公司自 2019 年以来用电量增长了逾 250%，在 2024 年增长 27% 基础上 2025 年又增长了 37%。Google 将这一切归于 Google Cloud、YouTube 视频串流以及 AI 基础设施的建造和运营的持续增长。Google 数据中心在 2025 年消耗了逾 4200 万 MWh 电力，2024 年则是 3060 万 MWh。这意味着 Google 数据中心的能源消耗量相当于新西兰、丹麦和尼日利亚等国全国的电力消耗量。",
-      "source": "Solidot",
-      "pub_date": "Thu, 02 Jul 2026 22:54:38 +0800",
-      "fetched_at": "2026-07-04T12:00:05.299752",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Google 通过最新的可持续发展报告承认，该公司自 2019 年以来用电量增长了逾 250%，在 2024 年增长 27% 基础上 2025 年又增长了 37%。Google 将这一切归于 Google Cloud、YouTube 视频串流以及 AI 基础设施的建造和运营的持续增长。Google ...",
-      "keywords": [
-        "google",
-        "mwh",
-        "年用电量增长了",
-        "通过最新的可持续发展报告承认",
-        "该公司自"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "日本最高法院裁决 AI 不能被列为专利申请的发明人",
-      "link": "https://www.solidot.org/story?sid=84748",
-      "summary": "日本最高法院驳回了一位美国工程师要求将 AI 列为专利申请发明人的上诉。日本最高法院维持了下级法院的判决，即根据专利法，专利申请的发明人必须是“自然人”。原告于 2020 年提交了一份专利申请，发明人是原告创建的 DABUS AI。专利局要求原告提供自然人的姓名作为发明人。原告拒绝提供，因此该申请被驳回。日本最高法院表示，专利法并未预见到 AI 的快速发展，而关于是否应授予 AI 发明专利权的问题“鉴于其对社会的影响，需要进行讨论”。",
-      "source": "Solidot",
-      "pub_date": "Fri, 03 Jul 2026 15:31:07 +0800",
-      "fetched_at": "2026-07-04T12:00:05.299058",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "日本最高法院驳回了一位美国工程师要求将 AI 列为专利申请发明人的上诉。日本最高法院维持了下级法院的判决，即根据专利法，专利申请的发明人必须是“自然人”。原告于 2020 年提交了一份专利申请，发明人是原告创建的 DABUS AI。专利局要求原告提供自然人的姓名作为发明人。原告拒绝提供，因此该申请被...",
-      "keywords": [
-        "ai",
-        "日本最高法院裁决",
-        "不能被列为专利申请的发明人",
-        "日本最高法院驳回了一位美国工程师要求将",
-        "列为专利申请发明人的上诉"
+        "startup",
+        "yc",
+        "is"
       ],
       "importance": 0
     },
     {
-      "title": "阿里巴巴禁止员工使用 Claude Code",
-      "link": "https://www.solidot.org/story?sid=84751",
-      "summary": "阿里巴巴因担心后门禁止员工在工作中使用 Anthropic 的 Claude Code，它要求员工使用自家的编程平台 Qoder。尽管 Anthropic 限制了中国用户和实体的访问，但 Claude Code 在中国程序员中间仍然非常受欢迎。Anthropic 上个月指控阿里巴巴蒸馏了其模型，几天前它的 Claude Code 被发现包含了检测用户是否来自中国的代码。",
-      "source": "Solidot",
-      "pub_date": "Fri, 03 Jul 2026 17:59:33 +0800",
-      "fetched_at": "2026-07-04T12:00:05.298108",
+      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "link": "https://github.com/iOfficeAI/OfficeCLI",
+      "summary": "👍 141 | 💬 36",
+      "source": "HackerNews",
+      "pub_date": "2026-07-07T00:47:44",
+      "fetched_at": "2026-07-07T12:00:25.826744",
       "categories": [
         "ai"
       ],
-      "ai_summary": "阿里巴巴因担心后门禁止员工在工作中使用 Anthropic 的 Claude Code，它要求员工使用自家的编程平台 Qoder。尽管 Anthropic 限制了中国用户和实体的访问，但 Claude Code 在中国程序员中间仍然非常受欢迎。Anthropic 上个月指控阿里巴巴蒸馏了其模型，几天...",
+      "ai_summary": "👍 141 | 💬 36",
       "keywords": [
-        "claude",
-        "code",
-        "anthropic",
-        "阿里巴巴禁止员工使用",
-        "阿里巴巴因担心后门禁止员工在工作中使用"
+        "office",
+        "officecli",
+        "suite",
+        "for",
+        "ai"
       ],
       "importance": 0.5
     },
     {
-      "title": "NASA 发射探测器拯救坠落中的 Swift 天文台",
-      "link": "https://www.solidot.org/story?sid=84753",
-      "summary": "2004 年发射的 Neil Gehrels Swift 天文台设计监测宇宙中的伽马射线暴，它最初的运行轨道高度约 600 公里，但由于大气阻力其轨道高度已衰减至约 400 公里。2024 年太阳极大期间的太阳活动导致了地球大气膨胀，加速了轨道衰减。如果不进行拯救，Swift 天文台将于 2026 年底不受控重返大气层。Swift 天文台本身没有推进系统。去年 9 月 NASA 授予 Katalyst Space Technologies 一份 3000 万美元的合同，用于开发和发射一艘与 Swift 对接并提升其轨道的探测器 LINK。LINK 于 7 月 3 日成功发射，未来几个月它将尝试...",
-      "source": "Solidot",
-      "pub_date": "Fri, 03 Jul 2026 22:56:02 +0800",
-      "fetched_at": "2026-07-04T12:00:05.297676",
+      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "summary": "👍 291 | 💬 214",
+      "source": "HackerNews",
+      "pub_date": "2026-07-06T23:01:18",
+      "fetched_at": "2026-07-07T12:00:23.915218",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 291 | 💬 214",
+      "keywords": [
+        "ai",
+        "amd",
+        "ryzen",
+        "halo",
+        "dev"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "A global workspace in language models",
+      "link": "https://www.anthropic.com/research/global-workspace",
+      "summary": "👍 301 | 💬 106",
+      "source": "HackerNews",
+      "pub_date": "2026-07-07T01:44:08",
+      "fetched_at": "2026-07-07T12:00:17.492831",
       "categories": [
         "space"
       ],
-      "ai_summary": "2004 年发射的 Neil Gehrels Swift 天文台设计监测宇宙中的伽马射线暴，它最初的运行轨道高度约 600 公里，但由于大气阻力其轨道高度已衰减至约 400 公里。2024 年太阳极大期间的太阳活动导致了地球大气膨胀，加速了轨道衰减。如果不进行拯救，Swift 天文台将于 2026 ...",
+      "ai_summary": "👍 301 | 💬 106",
       "keywords": [
-        "swift",
-        "nasa",
-        "公里",
-        "link",
-        "发射探测器拯救坠落中的"
+        "global",
+        "workspace",
+        "in",
+        "language",
+        "models"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "summary": "👍 45 | 💬 10",
+      "source": "HackerNews",
+      "pub_date": "2026-07-07T07:59:54",
+      "fetched_at": "2026-07-07T12:00:16.715258",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 45 | 💬 10",
+      "keywords": [
+        "small",
+        "ai",
+        "models",
+        "gain",
+        "traction"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "summary": "👍 226 | 💬 147",
+      "source": "HackerNews",
+      "pub_date": "2026-07-07T04:14:55",
+      "fetched_at": "2026-07-07T12:00:14.680109",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 226 | 💬 147",
+      "keywords": [
+        "glm",
+        "and",
+        "the",
+        "coming",
+        "ai"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "模型不是企业的护城河，那什么才是？",
+      "link": "https://www.qbitai.com/2026/07/443842.html",
+      "summary": "大模型越来越强，为什么企业没有跟着变强",
+      "source": "量子位",
+      "pub_date": "Mon, 06 Jul 2026 08:17:34 +0000",
+      "fetched_at": "2026-07-07T12:00:06.104513",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "大模型越来越强，为什么企业没有跟着变强",
+      "keywords": [
+        "模型不是企业的护城河",
+        "那什么才是",
+        "大模型越来越强",
+        "为什么企业没有跟着变强"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "字节、宇树、BAT等40+产品大咖齐聚，2026奇点智能产品大会最新最全日程来了！",
+      "link": "https://www.qbitai.com/2026/07/444043.html",
+      "summary": "",
+      "source": "量子位",
+      "pub_date": "Mon, 06 Jul 2026 09:54:19 +0000",
+      "fetched_at": "2026-07-07T12:00:06.104105",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "",
+      "keywords": [
+        "字节",
+        "宇树",
+        "bat",
+        "产品大咖齐聚",
+        "奇点智能产品大会最新最全日程来了"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑”",
+      "link": "https://www.qbitai.com/2026/07/444733.html",
+      "summary": "",
+      "source": "量子位",
+      "pub_date": "Mon, 06 Jul 2026 10:40:27 +0000",
+      "fetched_at": "2026-07-07T12:00:06.104066",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "",
+      "keywords": [
+        "在联合国",
+        "这家中国公司给",
+        "ai",
+        "减负",
+        "不堆算力"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Claude的脑子里，也长出了一块「意识」",
+      "link": "https://www.qbitai.com/2026/07/444741.html",
+      "summary": "内部发现「类脑空间」，删掉就变傻",
+      "source": "量子位",
+      "pub_date": "Tue, 07 Jul 2026 01:38:18 +0000",
+      "fetched_at": "2026-07-07T12:00:06.104039",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "内部发现「类脑空间」，删掉就变傻",
+      "keywords": [
+        "claude",
+        "的脑子里",
+        "也长出了一块",
+        "意识",
+        "内部发现"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "“迈巨微电子”完成数千万元融资",
+      "link": "https://36kr.com/newsflashes/3884959571128584?f=rss",
+      "summary": "近日，“迈巨微电子”完成数千万元融资，由华宝新能领投，老股东欣旺达、启赋资本持续加注，资金将主要用于智能单电芯级多维监测传感器芯片MagiCell™的量产导入、MagicFETs™与MagicAFE™系列产品线的迭代扩产，以及面向工商业储能和汽车电子市场的研发与市场拓展。迈巨微电子是一家专注于锂电池安全管理芯片和智慧电芯传感器芯片解决方案的国产半导体设计公司，已形成覆盖全电压段的完整芯片产品矩阵。",
+      "source": "36氪",
+      "pub_date": "2026-07-07 10:25:14  +0800",
+      "fetched_at": "2026-07-07T12:00:05.940008",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "近日，“迈巨微电子”完成数千万元融资，由华宝新能领投，老股东欣旺达、启赋资本持续加注，资金将主要用于智能单电芯级多维监测传感器芯片MagiCell™的量产导入、MagicFETs™与MagicAFE™系列产品线的迭代扩产，以及面向工商业储能和汽车电子市场的研发与市场拓展。迈巨微电子是一家专注于锂电池...",
+      "keywords": [
+        "迈巨微电子",
+        "完成数千万元融资",
+        "近日",
+        "由华宝新能领投",
+        "老股东欣旺达"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "支付宝AI开放平台开启邀测",
+      "link": "https://36kr.com/newsflashes/3884959785234689?f=rss",
+      "summary": "36氪获悉，7月7日，支付宝正式上线AI开放平台，面向商家、机构、服务商、智能终端、大模型平台等生态伙伴开放AI接入能力。",
+      "source": "36氪",
+      "pub_date": "2026-07-07 10:25:27  +0800",
+      "fetched_at": "2026-07-07T12:00:05.939919",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "36氪获悉，7月7日，支付宝正式上线AI开放平台，面向商家、机构、服务商、智能终端、大模型平台等生态伙伴开放AI接入能力。",
+      "keywords": [
+        "ai",
+        "支付宝",
+        "开放平台开启邀测",
+        "氪获悉",
+        "支付宝正式上线"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "我国规上工业企业人工智能应用普及率已超30%",
+      "link": "https://36kr.com/newsflashes/3884995291246599?f=rss",
+      "summary": "工业和信息化部科技司副司长甘小斌在7月7日举行的上海市新闻发布会上表示，今年人形机器人全年整机产量有望突破10万台。制造业是人工智能赋能应用的主战场。目前，我国规上工业企业人工智能应用普及率已超30%，人形机器人开始“进工厂、下车间”。目前工业和信息化部正会同各方深入实施“模数共振”“人形机器人与具身智能实景实训”等专项行动，挖掘高价值应用场景。大会期间，中国—金砖国家人工智能发展与合作中心将发布“国际人工智能伦理治理行动计划”。（界面）",
+      "source": "36氪",
+      "pub_date": "2026-07-07 11:01:34  +0800",
+      "fetched_at": "2026-07-07T12:00:05.939397",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "工业和信息化部科技司副司长甘小斌在7月7日举行的上海市新闻发布会上表示，今年人形机器人全年整机产量有望突破10万台。制造业是人工智能赋能应用的主战场。目前，我国规上工业企业人工智能应用普及率已超30%，人形机器人开始“进工厂、下车间”。目前工业和信息化部正会同各方深入实施“模数共振”“人形机器人与具...",
+      "keywords": [
+        "我国规上工业企业人工智能应用普及率已超",
+        "工业和信息化部科技司副司长甘小斌在",
+        "日举行的上海市新闻发布会上表示",
+        "今年人形机器人全年整机产量有望突破",
+        "万台"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "蚂蚁灵波发布空间感知模型LingBot-Depth 2.0",
+      "link": "https://36kr.com/newsflashes/3885019659202566?f=rss",
+      "summary": "7月7日，蚂蚁集团旗下具身智能公司灵波科技发布空间感知模型LingBot-Depth 2.0。该模型基于1.5亿规模数据进行训练，在边缘清晰度、细小物体识别、远距离深度估计以及复杂场景鲁棒性等方面实现全面升级。此外，灵波还同步推出了LingBot-Depth 2.0的视觉基座模型——LingBot-Vision，构建起机器人从“看懂”到“看准”的能力链路，旨在应对机器人视觉在空间感知、精细识别和复杂环境适应等方面的核心挑战。",
+      "source": "36氪",
+      "pub_date": "2026-07-07 11:26:21  +0800",
+      "fetched_at": "2026-07-07T12:00:05.938917",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "7月7日，蚂蚁集团旗下具身智能公司灵波科技发布空间感知模型LingBot-Depth 2.0。该模型基于1.5亿规模数据进行训练，在边缘清晰度、细小物体识别、远距离深度估计以及复杂场景鲁棒性等方面实现全面升级。此外，灵波还同步推出了LingBot-Depth 2.0的视觉基座模型——LingBot-...",
+      "keywords": [
+        "lingbot",
+        "depth",
+        "蚂蚁灵波发布空间感知模型",
+        "蚂蚁集团旗下具身智能公司灵波科技发布空间感知模型",
+        "该模型基于"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "跨境电商风向转变：新生代不再只拼价格，开始争“定价权”丨最前线",
+      "link": "https://36kr.com/p/3883561480876297?f=rss",
+      "summary": "作者丨欧雪 编辑丨最前线 6月30日，亚马逊全球开店与福布斯中国联合发布“2026福布斯中国新生代跨境电商30人评选”，30位入选者平均年龄仅35岁，95后已开始崭露头角。 入选者既有3D打印、庭院机器人、AI助听器等硬核科技赛道的开拓者，也有家具、家居、服装等传统产业的变革者。他们来自广东、浙江、江苏三省，占比超过75%。更重要的是，这些年轻创业者共同票选出了三个年度关键词：“星辰大海”、“快与慢”和“定价权”。 这三个词背后的指向也很有意思：全球化视野、长期主义决心，以及跳出价格战的野心。 过去一年，昂听ELEHEAR在美国亚马逊助听器类目做到品牌第一。创始人苗健彰长期深耕AI声学算法，2...",
+      "source": "36氪",
+      "pub_date": "2026-07-06 10:43:23  +0800",
+      "fetched_at": "2026-07-07T12:00:05.938128",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "作者丨欧雪 编辑丨最前线 6月30日，亚马逊全球开店与福布斯中国联合发布“2026福布斯中国新生代跨境电商30人评选”，30位入选者平均年龄仅35岁，95后已开始崭露头角。 过去一年，昂听ELEHEAR在美国亚马逊助听器类目做到品牌第一。创始人苗健彰长期深耕AI声学算法，2...",
+      "keywords": [
+        "定价权",
+        "ai",
+        "跨境电商风向转变",
+        "新生代不再只拼价格",
+        "开始争"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "上市前夜 | 哈工大在读博士以百亿市值冲港股IPO，创始三人只剩一人",
+      "link": "https://36kr.com/p/3883708118921480?f=rss",
+      "summary": "本文约3600字，建议阅读8分钟 作者 | 彭孝秋 编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第二期——珞石机器人。 7月6日上午10点，珞石机器人港股IPO招股结束。此次IPO定价38港元，每手100股，对应市值99.46亿港元。合计募资8.75亿港元，五家基石认购31.4%。 珞石的IPO之路并不顺利，早在2024年12月，它就和国泰海通签了A股上市辅导协议。但2025年8月，就主动叫停A股，掉头奔向港股。有意思的是，虽然其总部落在山东济宁邹城，但创始团队却出自北京。 连亏三年，但经营亏损在飞速收窄 珞石2023—2...",
+      "source": "36氪",
+      "pub_date": "2026-07-06 13:13:02  +0800",
+      "fetched_at": "2026-07-07T12:00:05.927827",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "本文约3600字，建议阅读8分钟 作者 | 彭孝秋 编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第二期——珞石机器人。...",
+      "keywords": [
+        "ipo",
+        "上市前夜",
+        "亿港元",
+        "哈工大在读博士以百亿市值冲港股",
+        "创始三人只剩一人"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "获DCM Ventures投资数百万美元，APTSell希望成为AI版的首席销售官｜涌现新项目",
+      "link": "https://36kr.com/p/3883591654895873?f=rss",
+      "summary": "文｜吴思瑾 编辑｜邓咏仪 01 一句话介绍 北京治真治合科技有限公司成立于2024年，旗下产品「APTSell」（AI Power To Sales）希望成为AI版的CSO （Chief Sales Officer，首席销售官）。 简单来说，APTSell是一个组合式Agent，通过整合与可视化销售全流程数据，生成管理决策和执行建议，以期正向促进销售效率和业绩提升，反向降低对传统销售管理经验和岗位的依赖。 近期，APTSell宣布已经完成由DCM Ventures独家投资的数百万美元种子轮融资，该资金将用于产品技术的研发迭代，并积极开展深入的商业化合作。此前，APTSell还曾获得来自Atom...",
+      "source": "36氪",
+      "pub_date": "2026-07-06 15:53:03  +0800",
+      "fetched_at": "2026-07-07T12:00:05.913929",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "文｜吴思瑾 编辑｜邓咏仪 01 一句话介绍 北京治真治合科技有限公司成立于2024年，旗下产品「APTSell」（AI Power To Sales）希望成为AI版的CSO （Chief Sales Officer，首席销售官）。 近期，APTSell宣布已经完成由DCM...",
+      "keywords": [
+        "aptsell",
+        "ai",
+        "dcm",
+        "ventures",
+        "希望成为"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "氪星晚报｜佑驾创新正式发布四轮足机器人；千问大模型升级实时语音识别大模型Fun-ASR-Realtime",
+      "link": "https://36kr.com/p/3884024701874183?f=rss",
+      "summary": "大公司： 郭明錤爆料最新苹果折叠手机：出货量明显不足，或重现“饥饿营销” 知名分析师郭明錤分析指出，苹果可折叠iPhone预计2026年下半年出货，但初期供应可能不足。他称自己的行业调查显示，2026年下半年可折叠iPhone的组装出货量约为700万至800万部，第三季度出货量约为50万至100万部，约占苹果总出货量的10%。该产品价格可能在2300至2500美元左右，而供应限制将导致转售价格溢价50%至100%。他认为判断可折叠iPhone销售前景的关键在于2026年末至2027年第一季度。（财联社） 千问大模型升级实时语音识别大模型Fun-ASR-Realtime 36氪获悉，千问大模型正...",
+      "source": "36氪",
+      "pub_date": "2026-07-06 18:39:24  +0800",
+      "fetched_at": "2026-07-07T12:00:05.910456",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "大公司： 郭明錤爆料最新苹果折叠手机：出货量明显不足，或重现“饥饿营销” 知名分析师郭明錤分析指出，苹果可折叠iPhone预计2026年下半年出货，但初期供应可能不足。他称自己的行业调查显示，2026年下半年可折叠iPhone的组装出货量约为700万至800万部，第三季度出货量约为50万至100万部...",
+      "keywords": [
+        "iphone",
+        "千问大模型升级实时语音识别大模型",
+        "fun",
+        "asr",
+        "realtime"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "8点1氪丨SK海力士本周五将登陆纳斯达克；99万机器人“伴侣”续航撑不过一晚？优必选回应；青海省博物馆回应“国家一级文物发现TCL字样”",
+      "link": "https://36kr.com/p/3884831072514309?f=rss",
+      "summary": "今日热点导览 华为Mate90系列有望搭载基于韬定律的新麒麟芯片 央视曝光滴眼液涉事企业被立案，对滴眼液乱象开展调查处置 千问大模型升级实时语音识别大模型Fun-ASR-Realtime WPS回应“滥收费、背刺用户”言论 TOP3大新闻 SK海力士10日在纳斯达克上市290亿美元规模ADR，创外资企业史上最大规模 据报道，SK海力士将以约44万亿韩元规模的美国存托凭证（ADR）在纳斯达克上市，挑战外资企业在美国股市上市的历史最大规模。纳斯达克上市后，SK海力士可在美国正规市场进行交易，并获得纳入纳斯达克100等主要指数的资格，追踪相关指数的交易所交易基金（ETF）的买入资金流入也备受期待。不...",
+      "source": "36氪",
+      "pub_date": "2026-07-07 08:15:11  +0800",
+      "fetched_at": "2026-07-07T12:00:05.908044",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "今日热点导览 华为Mate90系列有望搭载基于韬定律的新麒麟芯片 央视曝光滴眼液涉事企业被立案，对滴眼液乱象开展调查处置 千问大模型升级实时语音识别大模型Fun-ASR-Realtime WPS回应“滥收费、背刺用户”言论 TOP3大新闻 SK海力士10日在纳斯达克上市290亿美元规模ADR，创外资...",
+      "keywords": [
+        "sk",
+        "adr",
+        "氪丨",
+        "海力士本周五将登陆纳斯达克",
+        "万机器人"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "36氪首发丨上科大博士团队加速国产超高速光电探测芯片量产，获千万级天使轮融资",
+      "link": "https://36kr.com/p/3884289424437511?f=rss",
+      "summary": "图源/企业 本文约2000字，建议阅读5分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，上海快粼光电科技有限公司（以下简称“快粼光电”）近期已完成数千万元天使轮融资。本轮融资由小苗朗程领投，一村资本跟投。中岚科创担任长期财务顾问，提供产业协同和资本对接服务。此次募集资金将主要用于公司超高速光探测芯片的研发迭代与送样验证，加速国产光探测芯片量产进程以及企业高端人才引进。 快粼光电2024年成立于上海，是一家专注于III-V族高速光电探测芯片的研发与产业化的硬科技公司，曾在AI光互联与6G通信核心的光芯片领域刷新世界纪录，填补了国内超高速收端光芯片的空白。 快粼光电的核心团队由4位师出同门、平均年龄不到...",
+      "source": "36氪",
+      "pub_date": "2026-07-07 09:00:00  +0800",
+      "fetched_at": "2026-07-07T12:00:05.896614",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "图源/企业 本文约2000字，建议阅读5分钟 作者丨欧雪 编辑丨袁斯来...",
+      "keywords": [
+        "快粼光电",
+        "氪首发丨上科大博士团队加速国产超高速光电探测芯片量产",
+        "获千万级天使轮融资",
+        "图源",
+        "企业"
       ],
       "importance": 0.5
     }
   ],
-  "updated_at": "2026-07-04T12:00:38.816338"
+  "updated_at": "2026-07-07T12:00:29.523483"
 }

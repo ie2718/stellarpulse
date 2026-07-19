@@ -5,39 +5,38 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-07-17T20:00:34.974691",
-    "total_items": 37
+    "last_update": "2026-07-19T12:00:38.531774",
+    "total_items": 19
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 33
+      "count": 18
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 5
+      "count": 3
     },
     "space": {
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 2
+      "count": 1
     }
   },
   "stats": {
-    "total_items": 37,
-    "today_items": 37,
+    "total_items": 19,
+    "today_items": 19,
     "sources": {
-      "Solidot": 8,
-      "36氪": 14,
+      "Solidot": 4,
       "量子位": 10,
       "HackerNews": 5
     },
-    "last_update": "2026-07-17T20:00:34.974691"
+    "last_update": "2026-07-19T12:00:38.531774"
   },
   "trending": [
     {
@@ -46,7 +45,7 @@
       "summary": "月之暗面宣布了 2.8 万亿参数开放权重模型 Kimi K3，完整的权重将于 7 月 27 日发布。月之暗面称，Kimi K3基于 Kimi Delta Attention 和 Attention Residuals 构建，参数规模 2.8 万亿，具备原生视觉功能和 100 万个词元上下文窗口。它是全球首个 3 万亿参数级别的开放权重模型，专为长程编码、知识工作和推理等前沿智能领域而设计。在基准测试中，Kimi K3 整体性能仅落后于 Claude Fable 5 和 GPT-5.6 Sol。Kimi K3 现已在 Kimi.com、Kimi Work、Kimi Code 和 Kimi API...",
       "source": "Solidot",
       "pub_date": "Fri, 17 Jul 2026 15:24:33 +0800",
-      "fetched_at": "2026-07-17T20:00:03.483970",
+      "fetched_at": "2026-07-19T12:00:03.901846",
       "categories": [
         "ai"
       ],
@@ -66,7 +65,7 @@
       "summary": "深度求索（DeepSeek）计划启动新一轮融资，目标融资高达 500 亿元人民币，估值高达 4800 亿人民币。该公司也已开始就可能在上交所科创板上市进行初步探讨。该公司的内部目标是计划在今年提交 IPO 申请。今年 6 月，DeepSeek 完成了成立以来的首轮外部融资，募资总额逾 500 亿元人民币，融资后估值约为 3380 亿人民币。首轮融资中，梁文锋个人出资 200 亿元人民币，腾讯控股和电池巨头宁德时代分别出资 100 亿元人民币和 50 亿元人民币，成为最大的外部股东。京东、网易及 IDG 资本各出资 30 亿元，国家人工智能产业投资基金出资 10 亿元。DeepSeek 如此迅速...",
       "source": "Solidot",
       "pub_date": "Thu, 16 Jul 2026 15:01:00 +0800",
-      "fetched_at": "2026-07-17T20:00:03.484973",
+      "fetched_at": "2026-07-19T12:00:03.902923",
       "categories": [
         "ai"
       ],
@@ -81,93 +80,12 @@
       "importance": 1.0
     },
     {
-      "title": "2026最受投资人关注人工智能/具身智能企业50揭晓",
-      "link": "https://36kr.com/p/3899597215745664?f=rss",
-      "summary": "人工智能正在进入一个新的产业周期。 过去一年，大模型能力持续演进，生成式AI、多模态交互、智能体等技术方向快速推进；而具身智能也从早期的技术探索阶段，逐渐步入产业验证的深水区，机器人开始成为人工智能与现实世界的重要载体。 市场率先给出了回应。据36氪研究院测算，中国具身智能市场规模已从2018年的2133亿元增长至2025年的9150亿元，2026年有望突破万亿关口。IT桔子数据显示，2026上半年具身智能融资总金额达到935亿元，较2025上半年提升近5倍，投融资事件达到322起，同比增长137%。 但硬币的另一面同样刺眼。智源研究院在《2026十大AI技术趋势》中直言，具身智能创业公司业务...",
-      "source": "36氪",
-      "pub_date": "2026-07-17 18:45:58  +0800",
-      "fetched_at": "2026-07-17T20:00:03.990347",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "过去一年，大模型能力持续演进，生成式AI、多模态交互、智能体等技术方向快速推进；而具身智能也从早期的技术探索阶段，逐渐步入产业验证的深水区，机器人开始成为人工智能与现实世界的重要载体。...",
-      "keywords": [
-        "ai",
-        "年的",
-        "亿元",
-        "最受投资人关注人工智能",
-        "具身智能企业"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "36氪首发 | 前蔚来、华为智驾核心成员联手创业具身世界模型，三个月内完成数亿元融资",
-      "link": "https://36kr.com/p/3899081603483525?f=rss",
-      "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，具身智能世界模型公司日冕开物（北京日冕机器人有限公司）近期完成连续两轮种子轮融资，融资合计金额达数亿元人民币，由鼎峰科创、远图未来、百度风投、沃衍资本、武岳峰科创、万林国际共同参与投资。同时，新一轮融资也在同步交割中。 此前融资资金主要用于自研世界模型 LaMPA 的研发迭代、强化学习体系建设，以及数据闭环和产品交付能力的持续完善。 日冕开物成立于2026年3月，聚焦物理世界基础模型研发，希望打造能够理解物理世界、预测环境变化并驱动机器人执行任务的基础模型，帮助机器人从单一场景能力，逐步迈向跨场景泛化。 日冕创始团队均为清华自动驾驶背景，主导过行业...",
-      "source": "36氪",
-      "pub_date": "2026-07-17 09:52:16  +0800",
-      "fetched_at": "2026-07-17T20:00:04.013157",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，具身智能世界模型公司日冕开物（北京日冕机器人有限公司）近期完成连续两轮种子轮融资，融资合计金额达数亿元人民币，由鼎峰科创、远图未来、百度风投、沃衍资本、武岳峰科创、万林国际共同参与投资。同时，新一轮融资也在同步交割中。...",
-      "keywords": [
-        "氪首发",
-        "前蔚来",
-        "华为智驾核心成员联手创业具身世界模型",
-        "三个月内完成数亿元融资",
-        "作者"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "IDC：2030年全球活跃Agent数量或将超过22亿个",
-      "link": "https://36kr.com/newsflashes/3899647452677769?f=rss",
-      "summary": "36氪获悉，IDC预发布《DAA研究报告》，系统解析DAA（Daily Active Agents，日活智能体数）指标。报告显示，全球活跃Agent数量2025年是2860万个，预计2026年达到7940万个，2030年增长到22.16亿个。据了解，DAA度量衡指标由百度创始人李彦宏在Create 2026大会上首次提出。与模型参数、Token消耗等传统指标相比，DAA更关注每天有多少智能体真正进入业务流程、完成任务并创造价值。",
-      "source": "36氪",
-      "pub_date": "2026-07-17 19:26:31  +0800",
-      "fetched_at": "2026-07-17T20:00:04.018884",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "36氪获悉，IDC预发布《DAA研究报告》，系统解析DAA（Daily Active Agents，日活智能体数）指标。报告显示，全球活跃Agent数量2025年是2860万个，预计2026年达到7940万个，2030年增长到22.16亿个。据了解，DAA度量衡指标由百度创始人李彦宏在Create ...",
-      "keywords": [
-        "daa",
-        "idc",
-        "agent",
-        "亿个",
-        "万个"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "397B参数追平万亿模型，上海AI Lab发布科学智能体新基座 | WAIC 2026",
-      "link": "https://www.qbitai.com/2026/07/452942.html",
-      "summary": "采用非Transformer架构“Mobius”，不做泛化通用问答",
-      "source": "量子位",
-      "pub_date": "Fri, 17 Jul 2026 09:20:14 +0000",
-      "fetched_at": "2026-07-17T20:00:04.170280",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "采用非Transformer架构“Mobius”，不做泛化通用问答",
-      "keywords": [
-        "参数追平万亿模型",
-        "上海",
-        "ai",
-        "lab",
-        "发布科学智能体新基座"
-      ],
-      "importance": 1.0
-    },
-    {
       "title": "Grok Build 开源，在这之前它被发现会上传用户的完整库",
       "link": "https://www.solidot.org/story?sid=84848",
       "summary": "xAI 在 GitHub 上公开了其辅助编程智能体 Grok Build 的源代码，此举可能是某种重新赢得用户信任的补救措施。因为在这之前它被发现存在严重的隐私安全问题，会上传用户的完整代码库。Grok Build 被发现在读取或处理文件时，该文件的内容未经任何编辑就被传输到 xAI 使用的 Google Cloud Storage 中。Grok Build 的数据保留远超 Claude Code、Gemini 和 Codex 等类似工具。有 Grok Build 用户报告，包含 SSH 密钥、密码管理器数据库等的完整用户目录都被上传了。Elon Musk 表示该公司将彻底删除此前上传到服务器...",
       "source": "Solidot",
       "pub_date": "Thu, 16 Jul 2026 18:44:12 +0800",
-      "fetched_at": "2026-07-17T20:00:03.484544",
+      "fetched_at": "2026-07-19T12:00:03.902390",
       "categories": [
         "ai"
       ],
@@ -187,7 +105,7 @@
       "summary": "大型图书出版商 Hachette、Cengage 和 Elsevier 以及作家 Scott Turow 指控 Google 在训练 Gemini 模型过程中未经许可使用了数百万受版权保护图书，声称这是历史上最严重的版权侵犯事件之一。出版商称，Google 挪用了用于 Google Books、Google Play Books 和 Google Scholar 等服务的图书，这些服务允许 Google 以特定方式使用相关图书——如显示可搜索的片段或销售电子书，但无权将这些图书用于训练商业 AI 产品。诉讼书称：“为了维持其在互联网领域的统治地位，Google 放弃了其早期‘不作恶’的座右铭，...",
       "source": "Solidot",
       "pub_date": "Thu, 16 Jul 2026 15:57:15 +0800",
-      "fetched_at": "2026-07-17T20:00:03.484833",
+      "fetched_at": "2026-07-19T12:00:03.902772",
       "categories": [
         "ai"
       ],
@@ -202,444 +120,509 @@
       "importance": 0.5
     },
     {
-      "title": "AI 公司高管加强个人安保",
-      "link": "https://www.solidot.org/story?sid=84843",
-      "summary": "在 Sam Altman 住所遭遇纵火未遂事件五天后，一名男子尝试尾随 Anthropic 员工进入公司大楼，保安及时阻止了他，该男子对保安说要去警告一名 Anthropic 高管，有人要杀他。随着对 AI 的反对声浪日益高涨，科技公司高管开始加强个人安保。提供安全服务的 Liferaft 公司称，针对 AI 公司高管和数据中心的网络威胁数量增长了七倍，6 月的威胁数量略有下降。Equilar 对公开文件的分析显示，2025 年标普 500 指数成分股公司中有 38.1% 的公司披露了高管安保支出，而 2021 年这一比例为 26.8%。其中 Palantir Technologies 高管安...",
-      "source": "Solidot",
-      "pub_date": "Thu, 16 Jul 2026 14:24:20 +0800",
-      "fetched_at": "2026-07-17T20:00:03.485253",
+      "title": "WAIC 2026现场发布AI商业落地报告，海亮科服同时入选产业图谱、Top50",
+      "link": "https://www.qbitai.com/2026/07/453889.html",
+      "summary": "全面演进为赋能千行百业的新型数字基础设施",
+      "source": "量子位",
+      "pub_date": "Sat, 18 Jul 2026 10:12:52 +0000",
+      "fetched_at": "2026-07-19T12:00:19.129898",
       "categories": [
         "ai"
       ],
-      "ai_summary": "在 Sam Altman 住所遭遇纵火未遂事件五天后，一名男子尝试尾随 Anthropic 员工进入公司大楼，保安及时阻止了他，该男子对保安说要去警告一名 Anthropic 高管，有人要杀他。随着对 AI 的反对声浪日益高涨，科技公司高管开始加强个人安保。提供安全服务的 Liferaft 公司称，...",
+      "ai_summary": "全面演进为赋能千行百业的新型数字基础设施",
       "keywords": [
+        "waic",
+        "现场发布",
         "ai",
-        "anthropic",
-        "公司高管加强个人安保",
-        "sam",
-        "altman"
+        "商业落地报告",
+        "海亮科服同时入选产业图谱"
       ],
       "importance": 0.5
     },
     {
-      "title": "微软周二例行安全更新修复了 570 个漏洞",
-      "link": "https://www.solidot.org/story?sid=84835",
-      "summary": "微软在本周二释出了 7 月例行安全更新，修复了创纪录的 570 个漏洞。微软将补丁数量的激增归于 AI 辅助的漏洞发现。其中近 60 个 Bug 的风险等级归类为高危级。微软还修复了 3 个 0day，其中 2 个正被利用。2 个被利用的 0day 都是提权漏洞，包括 CVE-2026-56155 和 CVE-2026-56164。第三个 0day 则能绕过 Windows BitLocker 的安全功能，微软表示尚未发现该漏洞被利用。",
-      "source": "Solidot",
-      "pub_date": "Wed, 15 Jul 2026 15:34:12 +0800",
-      "fetched_at": "2026-07-17T20:00:03.486210",
+      "title": "魔法原子Magic-VLA K02攻克叠盒封胶长程任务，成功率超90%",
+      "link": "https://www.qbitai.com/2026/07/454155.html",
+      "summary": "WAIC现场叠箱封胶，解锁物理AI新技能",
+      "source": "量子位",
+      "pub_date": "Sun, 19 Jul 2026 02:36:39 +0000",
+      "fetched_at": "2026-07-19T12:00:19.129484",
       "categories": [
         "ai"
       ],
-      "ai_summary": "微软在本周二释出了 7 月例行安全更新，修复了创纪录的 570 个漏洞。微软将补丁数量的激增归于 AI 辅助的漏洞发现。其中近 60 个 Bug 的风险等级归类为高危级。微软还修复了 3 个 0day，其中 2 个正被利用。2 个被利用的 0day 都是提权漏洞，包括 CVE-2026-56155 ...",
+      "ai_summary": "WAIC现场叠箱封胶，解锁物理AI新技能",
       "keywords": [
-        "day",
-        "个漏洞",
-        "cve",
-        "微软周二例行安全更新修复了",
-        "微软在本周二释出了"
+        "魔法原子",
+        "magic",
+        "vla",
+        "攻克叠盒封胶长程任务",
+        "成功率超"
       ],
-      "importance": 0.5
+      "importance": 0
+    },
+    {
+      "title": "这，可能是今年WAIC最惊艳的图片！",
+      "link": "https://www.qbitai.com/2026/07/454049.html",
+      "summary": "理解、生成、行动的原生统一",
+      "source": "量子位",
+      "pub_date": "Sun, 19 Jul 2026 02:08:41 +0000",
+      "fetched_at": "2026-07-19T12:00:19.129579",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "理解、生成、行动的原生统一",
+      "keywords": [
+        "可能是今年",
+        "waic",
+        "最惊艳的图片",
+        "理解",
+        "生成"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "全球市占第一后，普渡在WAIC开始回答机器人下一场战争",
+      "link": "https://www.qbitai.com/2026/07/453802.html",
+      "summary": "PuduFM+PuduAgent，一并在不同本体上持续落地，共同构成了普渡机器人的顶层战略「一脑多形」。",
+      "source": "量子位",
+      "pub_date": "Sun, 19 Jul 2026 01:01:46 +0000",
+      "fetched_at": "2026-07-19T12:00:19.129667",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "PuduFM+PuduAgent，一并在不同本体上持续落地，共同构成了普渡机器人的顶层战略「一脑多形」。",
+      "keywords": [
+        "全球市占第一后",
+        "普渡在",
+        "waic",
+        "开始回答机器人下一场战争",
+        "pudufm"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "WAIC看了一圈，这家公司的机器人在认真打工",
+      "link": "https://www.qbitai.com/2026/07/454040.html",
+      "summary": "机器人真正具备了干活的完整能力",
+      "source": "量子位",
+      "pub_date": "Sat, 18 Jul 2026 13:23:21 +0000",
+      "fetched_at": "2026-07-19T12:00:19.129745",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "机器人真正具备了干活的完整能力",
+      "keywords": [
+        "waic",
+        "看了一圈",
+        "这家公司的机器人在认真打工",
+        "机器人真正具备了干活的完整能力"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "WAIC 2026现场直击：万兴科技旗下万兴剧厂“无限画布”、新品Filmora.AI与Virbo AI火爆首秀",
+      "link": "https://www.qbitai.com/2026/07/454015.html",
+      "summary": "",
+      "source": "量子位",
+      "pub_date": "Sat, 18 Jul 2026 11:19:41 +0000",
+      "fetched_at": "2026-07-19T12:00:19.129755",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "",
+      "keywords": [
+        "ai",
+        "waic",
+        "现场直击",
+        "万兴科技旗下万兴剧厂",
+        "无限画布"
+      ],
+      "importance": 0
     }
   ],
   "latest": [
     {
-      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-      "link": "https://blog.lyc8503.net/en/post/llm-classifier/",
-      "summary": "👍 209 | 💬 151",
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "link": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "summary": "👍 224 | 💬 107",
       "source": "HackerNews",
-      "pub_date": "2026-07-17T00:41:37",
-      "fetched_at": "2026-07-17T20:00:34.888216",
+      "pub_date": "2026-07-18T19:00:29",
+      "fetched_at": "2026-07-19T12:00:36.044116",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 209 | 💬 151",
+      "ai_summary": "👍 224 | 💬 107",
       "keywords": [
-        "detecting",
+        "fable",
+        "vs",
+        "gpt",
+        "sol",
+        "on"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "link": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+      "summary": "👍 57 | 💬 14",
+      "source": "HackerNews",
+      "pub_date": "2026-07-19T09:29:19",
+      "fetched_at": "2026-07-19T12:00:32.306788",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 57 | 💬 14",
+      "keywords": [
+        "ai",
+        "mania",
+        "is",
+        "eviscerating",
+        "global"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+      "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "summary": "👍 315 | 💬 155",
+      "source": "HackerNews",
+      "pub_date": "2026-07-19T06:13:39",
+      "fetched_at": "2026-07-19T12:00:29.618509",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 315 | 💬 155",
+      "keywords": [
+        "mayor",
+        "mamdani",
+        "says",
+        "landlords",
+        "can"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "link": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "summary": "👍 520 | 💬 332",
+      "source": "HackerNews",
+      "pub_date": "2026-07-18T21:00:52",
+      "fetched_at": "2026-07-19T12:00:27.828696",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 520 | 💬 332",
+      "keywords": [
+        "gpt",
+        "used",
+        "prompt",
+        "to",
+        "close"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "LLM-Integrated Multivariable Calculus Course",
+      "link": "https://calculus.academa.ai/",
+      "summary": "👍 6 | 💬 1",
+      "source": "HackerNews",
+      "pub_date": "2026-07-19T10:55:43",
+      "fetched_at": "2026-07-19T12:00:26.110066",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 6 | 💬 1",
+      "keywords": [
         "llm",
-        "generated",
-        "texts",
-        "with"
+        "integrated",
+        "multivariable",
+        "calculus",
+        "course"
       ],
       "importance": 0
     },
     {
-      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-      "summary": "👍 302 | 💬 396",
-      "source": "HackerNews",
-      "pub_date": "2026-07-17T04:03:23",
-      "fetched_at": "2026-07-17T20:00:22.269955",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 302 | 💬 396",
-      "keywords": [
-        "ai",
-        "music",
-        "video",
-        "claude",
-        "fable"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "LM Studio Bionic: the AI agent for open models",
-      "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-      "summary": "👍 270 | 💬 99",
-      "source": "HackerNews",
-      "pub_date": "2026-07-17T04:18:15",
-      "fetched_at": "2026-07-17T20:00:21.046765",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 270 | 💬 99",
-      "keywords": [
-        "lm",
-        "studio",
-        "bionic",
-        "the",
-        "ai"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
-      "link": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
-      "summary": "👍 68 | 💬 9",
-      "source": "HackerNews",
-      "pub_date": "2026-07-17T19:30:00",
-      "fetched_at": "2026-07-17T20:00:09.976973",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 68 | 💬 9",
-      "keywords": [
-        "blatant",
-        "ai",
-        "slop",
-        "just",
-        "won"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "EEG shows brain can simultaneous encode two speech streams",
-      "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-      "summary": "👍 141 | 💬 79",
-      "source": "HackerNews",
-      "pub_date": "2026-07-17T13:51:10",
-      "fetched_at": "2026-07-17T20:00:07.509670",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 141 | 💬 79",
-      "keywords": [
-        "eeg",
-        "shows",
-        "brain",
-        "can",
-        "simultaneous"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "百度搭子获评WAIC 2026“镇馆之宝”，智能体全家桶将集中亮相",
-      "link": "https://www.qbitai.com/2026/07/451691.html",
-      "summary": "",
+      "title": "后摩智能携 M50 Inside 终端亮相 WAIC 2026，支撑端侧 AI 算力与终端创新",
+      "link": "https://www.qbitai.com/2026/07/453705.html",
+      "summary": "本地大模型规模化商用破局",
       "source": "量子位",
-      "pub_date": "Fri, 17 Jul 2026 02:41:03 +0000",
-      "fetched_at": "2026-07-17T20:00:04.170372",
+      "pub_date": "Sat, 18 Jul 2026 07:20:19 +0000",
+      "fetched_at": "2026-07-19T12:00:19.130038",
       "categories": [
         "ai"
       ],
-      "ai_summary": "",
+      "ai_summary": "本地大模型规模化商用破局",
       "keywords": [
-        "百度搭子获评",
+        "后摩智能携",
+        "inside",
+        "终端亮相",
         "waic",
-        "镇馆之宝",
-        "智能体全家桶将集中亮相"
+        "支撑端侧"
       ],
       "importance": 0
     },
     {
-      "title": "OpenAI官方教你8招玩透ChatGPT！",
-      "link": "https://www.qbitai.com/2026/07/452611.html",
+      "title": "妙啊！无人机直连卫星传Token",
+      "link": "https://www.qbitai.com/2026/07/453789.html",
+      "summary": "世界人工智能大会最高奖",
+      "source": "量子位",
+      "pub_date": "Sat, 18 Jul 2026 08:17:18 +0000",
+      "fetched_at": "2026-07-19T12:00:19.129967",
+      "categories": [
+        "ai",
+        "space"
+      ],
+      "ai_summary": "世界人工智能大会最高奖",
+      "keywords": [
+        "妙啊",
+        "无人机直连卫星传",
+        "token",
+        "世界人工智能大会最高奖"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "WAIC 2026现场发布AI商业落地报告，海亮科服同时入选产业图谱、Top50",
+      "link": "https://www.qbitai.com/2026/07/453889.html",
+      "summary": "全面演进为赋能千行百业的新型数字基础设施",
+      "source": "量子位",
+      "pub_date": "Sat, 18 Jul 2026 10:12:52 +0000",
+      "fetched_at": "2026-07-19T12:00:19.129898",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "全面演进为赋能千行百业的新型数字基础设施",
+      "keywords": [
+        "waic",
+        "现场发布",
+        "ai",
+        "商业落地报告",
+        "海亮科服同时入选产业图谱"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "让VLA更懂接触，优理奇UniTac让机器人拥有“触觉想象力”",
+      "link": "https://www.qbitai.com/2026/07/453897.html",
+      "summary": "入选ECCV 2026",
+      "source": "量子位",
+      "pub_date": "Sat, 18 Jul 2026 10:55:47 +0000",
+      "fetched_at": "2026-07-19T12:00:19.129830",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "入选ECCV 2026",
+      "keywords": [
+        "vla",
+        "更懂接触",
+        "优理奇",
+        "unitac",
+        "让机器人拥有"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "滴滴在WAIC分享：AI升级出行体验 好服务连接消费烟火气",
+      "link": "https://www.qbitai.com/2026/07/454003.html",
       "summary": "",
       "source": "量子位",
-      "pub_date": "Fri, 17 Jul 2026 05:11:53 +0000",
-      "fetched_at": "2026-07-17T20:00:04.170366",
+      "pub_date": "Sat, 18 Jul 2026 11:04:51 +0000",
+      "fetched_at": "2026-07-19T12:00:19.129761",
       "categories": [
         "ai"
       ],
       "ai_summary": "",
       "keywords": [
-        "openai",
-        "官方教你",
-        "招玩透",
-        "chatgpt"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "IDC报告：中国AI Coding市占率阿里Qoder断层第一，超过二三四五名总和",
-      "link": "https://www.qbitai.com/2026/07/452914.html",
-      "summary": "模型、Harness Engineering与产品的持续进化",
-      "source": "量子位",
-      "pub_date": "Fri, 17 Jul 2026 08:09:52 +0000",
-      "fetched_at": "2026-07-17T20:00:04.170356",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "模型、Harness Engineering与产品的持续进化",
-      "keywords": [
-        "idc",
-        "报告",
-        "中国",
+        "滴滴在",
+        "waic",
+        "分享",
         "ai",
-        "coding"
+        "升级出行体验"
       ],
       "importance": 0
     },
     {
-      "title": "397B参数追平万亿模型，上海AI Lab发布科学智能体新基座 | WAIC 2026",
-      "link": "https://www.qbitai.com/2026/07/452942.html",
-      "summary": "采用非Transformer架构“Mobius”，不做泛化通用问答",
+      "title": "WAIC 2026现场直击：万兴科技旗下万兴剧厂“无限画布”、新品Filmora.AI与Virbo AI火爆首秀",
+      "link": "https://www.qbitai.com/2026/07/454015.html",
+      "summary": "",
       "source": "量子位",
-      "pub_date": "Fri, 17 Jul 2026 09:20:14 +0000",
-      "fetched_at": "2026-07-17T20:00:04.170280",
+      "pub_date": "Sat, 18 Jul 2026 11:19:41 +0000",
+      "fetched_at": "2026-07-19T12:00:19.129755",
       "categories": [
         "ai"
       ],
-      "ai_summary": "采用非Transformer架构“Mobius”，不做泛化通用问答",
+      "ai_summary": "",
       "keywords": [
-        "参数追平万亿模型",
-        "上海",
         "ai",
-        "lab",
-        "发布科学智能体新基座"
+        "waic",
+        "现场直击",
+        "万兴科技旗下万兴剧厂",
+        "无限画布"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "WAIC看了一圈，这家公司的机器人在认真打工",
+      "link": "https://www.qbitai.com/2026/07/454040.html",
+      "summary": "机器人真正具备了干活的完整能力",
+      "source": "量子位",
+      "pub_date": "Sat, 18 Jul 2026 13:23:21 +0000",
+      "fetched_at": "2026-07-19T12:00:19.129745",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "机器人真正具备了干活的完整能力",
+      "keywords": [
+        "waic",
+        "看了一圈",
+        "这家公司的机器人在认真打工",
+        "机器人真正具备了干活的完整能力"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "全球市占第一后，普渡在WAIC开始回答机器人下一场战争",
+      "link": "https://www.qbitai.com/2026/07/453802.html",
+      "summary": "PuduFM+PuduAgent，一并在不同本体上持续落地，共同构成了普渡机器人的顶层战略「一脑多形」。",
+      "source": "量子位",
+      "pub_date": "Sun, 19 Jul 2026 01:01:46 +0000",
+      "fetched_at": "2026-07-19T12:00:19.129667",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "PuduFM+PuduAgent，一并在不同本体上持续落地，共同构成了普渡机器人的顶层战略「一脑多形」。",
+      "keywords": [
+        "全球市占第一后",
+        "普渡在",
+        "waic",
+        "开始回答机器人下一场战争",
+        "pudufm"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "这，可能是今年WAIC最惊艳的图片！",
+      "link": "https://www.qbitai.com/2026/07/454049.html",
+      "summary": "理解、生成、行动的原生统一",
+      "source": "量子位",
+      "pub_date": "Sun, 19 Jul 2026 02:08:41 +0000",
+      "fetched_at": "2026-07-19T12:00:19.129579",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "理解、生成、行动的原生统一",
+      "keywords": [
+        "可能是今年",
+        "waic",
+        "最惊艳的图片",
+        "理解",
+        "生成"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "魔法原子Magic-VLA K02攻克叠盒封胶长程任务，成功率超90%",
+      "link": "https://www.qbitai.com/2026/07/454155.html",
+      "summary": "WAIC现场叠箱封胶，解锁物理AI新技能",
+      "source": "量子位",
+      "pub_date": "Sun, 19 Jul 2026 02:36:39 +0000",
+      "fetched_at": "2026-07-19T12:00:19.129484",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "WAIC现场叠箱封胶，解锁物理AI新技能",
+      "keywords": [
+        "魔法原子",
+        "magic",
+        "vla",
+        "攻克叠盒封胶长程任务",
+        "成功率超"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "DeepSeek 计划年内申请 IPO",
+      "link": "https://www.solidot.org/story?sid=84845",
+      "summary": "深度求索（DeepSeek）计划启动新一轮融资，目标融资高达 500 亿元人民币，估值高达 4800 亿人民币。该公司也已开始就可能在上交所科创板上市进行初步探讨。该公司的内部目标是计划在今年提交 IPO 申请。今年 6 月，DeepSeek 完成了成立以来的首轮外部融资，募资总额逾 500 亿元人民币，融资后估值约为 3380 亿人民币。首轮融资中，梁文锋个人出资 200 亿元人民币，腾讯控股和电池巨头宁德时代分别出资 100 亿元人民币和 50 亿元人民币，成为最大的外部股东。京东、网易及 IDG 资本各出资 30 亿元，国家人工智能产业投资基金出资 10 亿元。DeepSeek 如此迅速...",
+      "source": "Solidot",
+      "pub_date": "Thu, 16 Jul 2026 15:01:00 +0800",
+      "fetched_at": "2026-07-19T12:00:03.902923",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "深度求索（DeepSeek）计划启动新一轮融资，目标融资高达 500 亿元人民币，估值高达 4800 亿人民币。该公司也已开始就可能在上交所科创板上市进行初步探讨。该公司的内部目标是计划在今年提交 IPO 申请。今年 6 月，DeepSeek 完成了成立以来的首轮外部融资，募资总额逾 500 亿元人...",
+      "keywords": [
+        "deepseek",
+        "亿元人民币",
+        "ipo",
+        "亿人民币",
+        "亿元"
       ],
       "importance": 1.0
     },
     {
-      "title": "WAIC 2026：全球DAA将达7940万个百度AI重磅升级发布",
-      "link": "https://www.qbitai.com/2026/07/452956.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Fri, 17 Jul 2026 09:34:57 +0000",
-      "fetched_at": "2026-07-17T20:00:04.170201",
+      "title": "图书出版商指控 Google 在训练 Gemini 过程中大规模侵犯版权",
+      "link": "https://www.solidot.org/story?sid=84846",
+      "summary": "大型图书出版商 Hachette、Cengage 和 Elsevier 以及作家 Scott Turow 指控 Google 在训练 Gemini 模型过程中未经许可使用了数百万受版权保护图书，声称这是历史上最严重的版权侵犯事件之一。出版商称，Google 挪用了用于 Google Books、Google Play Books 和 Google Scholar 等服务的图书，这些服务允许 Google 以特定方式使用相关图书——如显示可搜索的片段或销售电子书，但无权将这些图书用于训练商业 AI 产品。诉讼书称：“为了维持其在互联网领域的统治地位，Google 放弃了其早期‘不作恶’的座右铭，...",
+      "source": "Solidot",
+      "pub_date": "Thu, 16 Jul 2026 15:57:15 +0800",
+      "fetched_at": "2026-07-19T12:00:03.902772",
       "categories": [
         "ai"
       ],
-      "ai_summary": "",
+      "ai_summary": "大型图书出版商 Hachette、Cengage 和 Elsevier 以及作家 Scott Turow 指控 Google 在训练 Gemini 模型过程中未经许可使用了数百万受版权保护图书，声称这是历史上最严重的版权侵犯事件之一。出版商称，Google 挪用了用于 Google Books、Go...",
       "keywords": [
-        "waic",
-        "全球",
-        "daa",
-        "将达",
-        "万个百度"
+        "google",
+        "在训练",
+        "gemini",
+        "books",
+        "图书出版商指控"
       ],
       "importance": 0.5
     },
     {
-      "title": "文远发布物理AI大模型WITT：让每一公里都变成模型能力",
-      "link": "https://www.qbitai.com/2026/07/452961.html",
-      "summary": "单卡日处理1万分钟视频",
-      "source": "量子位",
-      "pub_date": "Fri, 17 Jul 2026 10:11:49 +0000",
-      "fetched_at": "2026-07-17T20:00:04.170191",
+      "title": "Grok Build 开源，在这之前它被发现会上传用户的完整库",
+      "link": "https://www.solidot.org/story?sid=84848",
+      "summary": "xAI 在 GitHub 上公开了其辅助编程智能体 Grok Build 的源代码，此举可能是某种重新赢得用户信任的补救措施。因为在这之前它被发现存在严重的隐私安全问题，会上传用户的完整代码库。Grok Build 被发现在读取或处理文件时，该文件的内容未经任何编辑就被传输到 xAI 使用的 Google Cloud Storage 中。Grok Build 的数据保留远超 Claude Code、Gemini 和 Codex 等类似工具。有 Grok Build 用户报告，包含 SSH 密钥、密码管理器数据库等的完整用户目录都被上传了。Elon Musk 表示该公司将彻底删除此前上传到服务器...",
+      "source": "Solidot",
+      "pub_date": "Thu, 16 Jul 2026 18:44:12 +0800",
+      "fetched_at": "2026-07-19T12:00:03.902390",
       "categories": [
         "ai"
       ],
-      "ai_summary": "单卡日处理1万分钟视频",
+      "ai_summary": "xAI 在 GitHub 上公开了其辅助编程智能体 Grok Build 的源代码，此举可能是某种重新赢得用户信任的补救措施。因为在这之前它被发现存在严重的隐私安全问题，会上传用户的完整代码库。Grok Build 被发现在读取或处理文件时，该文件的内容未经任何编辑就被传输到 xAI 使用的 Goo...",
       "keywords": [
-        "文远发布物理",
-        "ai",
-        "大模型",
-        "witt",
-        "让每一公里都变成模型能力"
+        "grok",
+        "build",
+        "xai",
+        "开源",
+        "在这之前它被发现会上传用户的完整库"
       ],
       "importance": 0.5
     },
     {
-      "title": "上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下",
-      "link": "https://www.qbitai.com/2026/07/453084.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Fri, 17 Jul 2026 10:17:23 +0000",
-      "fetched_at": "2026-07-17T20:00:04.170067",
+      "title": "月之暗面宣布首个 3 万亿参数开放权重模型 Kimi K3",
+      "link": "https://www.solidot.org/story?sid=84852",
+      "summary": "月之暗面宣布了 2.8 万亿参数开放权重模型 Kimi K3，完整的权重将于 7 月 27 日发布。月之暗面称，Kimi K3基于 Kimi Delta Attention 和 Attention Residuals 构建，参数规模 2.8 万亿，具备原生视觉功能和 100 万个词元上下文窗口。它是全球首个 3 万亿参数级别的开放权重模型，专为长程编码、知识工作和推理等前沿智能领域而设计。在基准测试中，Kimi K3 整体性能仅落后于 Claude Fable 5 和 GPT-5.6 Sol。Kimi K3 现已在 Kimi.com、Kimi Work、Kimi Code 和 Kimi API...",
+      "source": "Solidot",
+      "pub_date": "Fri, 17 Jul 2026 15:24:33 +0800",
+      "fetched_at": "2026-07-19T12:00:03.901846",
       "categories": [
         "ai"
       ],
-      "ai_summary": "",
+      "ai_summary": "月之暗面宣布了 2.8 万亿参数开放权重模型 Kimi K3，完整的权重将于 7 月 27 日发布。月之暗面称，Kimi K3基于 Kimi Delta Attention 和 Attention Residuals 构建，参数规模 2.8 万亿，具备原生视觉功能和 100 万个词元上下文窗口。它是...",
       "keywords": [
-        "上海制造",
-        "ai",
-        "入魂",
-        "央国企率先",
-        "重用"
+        "kimi",
+        "万亿参数开放权重模型",
+        "attention",
+        "月之暗面宣布首个",
+        "月之暗面宣布了"
       ],
-      "importance": 0
-    },
-    {
-      "title": "从仰望星空到落地创新：WAIC青年菁英会即将硬核开场，最新成果首发在即",
-      "link": "https://www.qbitai.com/2026/07/453203.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Fri, 17 Jul 2026 10:41:24 +0000",
-      "fetched_at": "2026-07-17T20:00:04.170061",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "从仰望星空到落地创新",
-        "waic",
-        "青年菁英会即将硬核开场",
-        "最新成果首发在即"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "算力的尽头，不是更多算力——全球顶尖科学家7月18日聚首上海，共议AI时代的“未来计算”",
-      "link": "https://www.qbitai.com/2026/07/453208.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Fri, 17 Jul 2026 10:53:17 +0000",
-      "fetched_at": "2026-07-17T20:00:04.170054",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "算力的尽头",
-        "不是更多算力",
-        "全球顶尖科学家",
-        "日聚首上海",
-        "共议"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "WAIC 2026商汤大装置发布算电协同Agent，单位电力成本Token产出提升80%",
-      "link": "https://www.qbitai.com/2026/07/453211.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Fri, 17 Jul 2026 11:00:47 +0000",
-      "fetched_at": "2026-07-17T20:00:04.170039",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "waic",
-        "商汤大装置发布算电协同",
-        "agent",
-        "单位电力成本",
-        "token"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "德科立：上半年净利同比预增217%-277%，数通业务为核心增长引擎、长进光子公允价值收益提升",
-      "link": "https://36kr.com/newsflashes/3899589179557508?f=rss",
-      "summary": "36氪获悉，德科立公告，预计2026年上半年实现营业收入5.19亿元-5.71亿元，同比增加19.76%-31.76%；归属于上市公司股东的净利润为8900万元-1.06亿元，同比增长216.80%=277.31%。报告期内，受益于AI算力基础设施投资加速及全球数据中心资本开支持续加大，光通信行业景气度显著回升，公司营收及净利润均实现同比两位数增长，数通业务成为核心增长引擎；同时，公司战略配售持有的武汉长进光子技术股份有限公司确认公允价值变动收益，提升净利润约6700万元。",
-      "source": "36氪",
-      "pub_date": "2026-07-17 18:27:14  +0800",
-      "fetched_at": "2026-07-17T20:00:04.019777",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "36氪获悉，德科立公告，预计2026年上半年实现营业收入5.19亿元-5.71亿元，同比增加19.76%-31.76%；归属于上市公司股东的净利润为8900万元-1.06亿元，同比增长216.80%=277.31%。报告期内，受益于AI算力基础设施投资加速及全球数据中心资本开支持续加大，光通信行业景...",
-      "keywords": [
-        "亿元",
-        "万元",
-        "德科立",
-        "上半年净利同比预增",
-        "数通业务为核心增长引擎"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "优刻得携手上海理工大学发布“太空算力”样机系统",
-      "link": "https://36kr.com/newsflashes/3899605243250309?f=rss",
-      "summary": "36氪获悉，7月17日，在2026世界人工智能大会（WAIC 2026）上，优刻得与上海理工大学联合举行了“太空算力”样机系统发布仪式，面向到场观众及嘉宾全方位展示了这一��企共研创新成果。",
-      "source": "36氪",
-      "pub_date": "2026-07-17 18:43:35  +0800",
-      "fetched_at": "2026-07-17T20:00:04.019411",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "36氪获悉，7月17日，在2026世界人工智能大会（WAIC 2026）上，优刻得与上海理工大学联合举行了“太空算力”样机系统发布仪式，面向到场观众及嘉宾全方位展示了这一��企共研创新成果。",
-      "keywords": [
-        "太空算力",
-        "优刻得携手上海理工大学发布",
-        "样机系统",
-        "氪获悉",
-        "世界人工智能大会"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "是石科技发布国产Token优化工厂“拓元”Vectron",
-      "link": "https://36kr.com/newsflashes/3899616811878279?f=rss",
-      "summary": "36氪获悉，在WAIC 2026上，国内AI infra企业是石科技正式发布国产Token优化工厂“拓元（Vectron）”，该产品定位将每份算力转化为稳定高效的Token，同等算力投入下产出更多有效Token、同等显存下长上下文运行更稳。",
-      "source": "36氪",
-      "pub_date": "2026-07-17 18:55:21  +0800",
-      "fetched_at": "2026-07-17T20:00:04.019193",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "36氪获悉，在WAIC 2026上，国内AI infra企业是石科技正式发布国产Token优化工厂“拓元（Vectron）”，该产品定位将每份算力转化为稳定高效的Token，同等算力投入下产出更多有效Token、同等显存下长上下文运行更稳。",
-      "keywords": [
-        "token",
-        "优化工厂",
-        "拓元",
-        "vectron",
-        "是石科技发布国产"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "国科微：拟定增募资不超过50.61亿元，用于端侧AI芯片研发及产业化项目等",
-      "link": "https://36kr.com/newsflashes/3899639438280323?f=rss",
-      "summary": "36氪获悉，国科微公告，公司拟向不超过35名特定投资者发行股票，募集资金总额不超过50.61亿元，扣除发行费用后用于新一代AI视觉处理芯片及解决方案研发与产业化项目、媒体交互AI芯片研发及产业化项目、端侧AI芯片研发及产业化项目及补充流动资金。",
-      "source": "36氪",
-      "pub_date": "2026-07-17 19:18:22  +0800",
-      "fetched_at": "2026-07-17T20:00:04.019032",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "36氪获悉，国科微公告，公司拟向不超过35名特定投资者发行股票，募集资金总额不超过50.61亿元，扣除发行费用后用于新一代AI视觉处理芯片及解决方案研发与产业化项目、媒体交互AI芯片研发及产业化项目、端侧AI芯片研发及产业化项目及补充流动资金。",
-      "keywords": [
-        "ai",
-        "亿元",
-        "国科微",
-        "拟定增募资不超过",
-        "用于端侧"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "高盛看好通宇通讯低轨卫星相关业务前景",
-      "link": "https://36kr.com/newsflashes/3899640637687689?f=rss",
-      "summary": "高盛发布报告称，通宇通讯在低轨卫星相控阵天线领域具备相关经验，已形成全面的产品线布局，并较早进入重点低轨卫星星座供应链。随着中国低轨卫星星座逐步推进建设，高盛对公司相关业务的增长前景持积极看法。（界面）",
-      "source": "36氪",
-      "pub_date": "2026-07-17 19:19:35  +0800",
-      "fetched_at": "2026-07-17T20:00:04.018960",
-      "categories": [
-        "space"
-      ],
-      "ai_summary": "高盛发布报告称，通宇通讯在低轨卫星相控阵天线领域具备相关经验，已形成全面的产品线布局，并较早进入重点低轨卫星星座供应链。随着中国低轨卫星星座逐步推进建设，高盛对公司相关业务的增长前景持积极看法。（界面）",
-      "keywords": [
-        "高盛看好通宇通讯低轨卫星相关业务前景",
-        "高盛发布报告称",
-        "通宇通讯在低轨卫星相控阵天线领域具备相关经验",
-        "已形成全面的产品线布局",
-        "并较早进入重点低轨卫星星座供应链"
-      ],
-      "importance": 0.5
+      "importance": 1.0
     }
   ],
-  "updated_at": "2026-07-17T20:00:34.974691"
+  "updated_at": "2026-07-19T12:00:38.531774"
 }

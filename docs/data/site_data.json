@@ -5,21 +5,21 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-07-20T20:00:35.841342",
-    "total_items": 29
+    "last_update": "2026-07-21T08:00:26.704280",
+    "total_items": 33
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 22
+      "count": 27
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 8
+      "count": 7
     },
     "space": {
       "name": "Space",
@@ -29,15 +29,15 @@
     }
   },
   "stats": {
-    "total_items": 29,
-    "today_items": 29,
+    "total_items": 33,
+    "today_items": 33,
     "sources": {
-      "36氪": 9,
-      "Solidot": 3,
+      "36氪": 11,
+      "Solidot": 5,
       "量子位": 10,
       "HackerNews": 7
     },
-    "last_update": "2026-07-20T20:00:35.841342"
+    "last_update": "2026-07-21T08:00:26.704280"
   },
   "trending": [
     {
@@ -46,7 +46,7 @@
       "summary": "大公司： 摩根士丹利成为华尔街AI债务交易头号银行 摩根士丹利已崛起为华尔街构建人工智能（AI）繁荣背后融资架构的主导力量，设计了新的债务和股权融资模式，为数据中心的大规模建设输送数百亿美元资金。据业内高管称，自去年以来，该行已成为主导顾问，牵头了规模最大、最具创新性的AI基础设施融资交易。 三星电子晶圆代工正评估将美国泰勒厂的初期生产规模扩大至原计划的2倍 据报道，三星电子晶圆代工正评估将美国泰勒厂的初期生产规模扩大至原计划的2倍。 马斯克称特斯拉FSD会模仿驾驶风格 7月20日，埃隆·马斯克已确认特斯拉FSD（Full Self-Driving）软件正在从过去的“通用型、一套方案适用于所有...",
       "source": "36氪",
       "pub_date": "2026-07-20 18:22:28  +0800",
-      "fetched_at": "2026-07-20T20:00:06.594520",
+      "fetched_at": "2026-07-21T08:00:07.851106",
       "categories": [
         "ai",
         "robotics",
@@ -63,12 +63,72 @@
       "importance": 2.0
     },
     {
+      "title": "OpenAI 高管不满中国的开源 AI 战略",
+      "link": "https://www.solidot.org/story?sid=84877",
+      "summary": "在月之暗面宣布首个 3 万亿参数级别开放权重模型 Kimi K3 之后，前特朗普 AI 高级顾问、现 OpenAI 战略主管 Dean Ball 在 X 平台上表示，开放权重模型的战略将导致“AI 共产主义”，可能会“减缓 AI 的发展”，因为会“阻碍 AI 领域的资本支出”。他认为政府可以通过 FUD 策略（即 fear, uncertainty, and doubt）阻止美国公司使用开放权重模型。他后来澄清说这只是预测不是建议，声称他支持 AI 开源/开放权重。美国两大前沿 AI 公司 OpenAI 和 Anthropic 仍然有领先优势，但优势在缩小，它们采用的都是闭源模式。",
+      "source": "Solidot",
+      "pub_date": "Tue, 21 Jul 2026 00:20:11 +0800",
+      "fetched_at": "2026-07-21T08:00:06.347159",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "在月之暗面宣布首个 3 万亿参数级别开放权重模型 Kimi K3 之后，前特朗普 AI 高级顾问、现 OpenAI 战略主管 Dean Ball 在 X 平台上表示，开放权重模型的战略将导致“AI 共产主义”，可能会“减缓 AI 的发展”，因为会“阻碍 AI 领域的资本支出”。他认为政府可以通过 F...",
+      "keywords": [
+        "ai",
+        "openai",
+        "高管不满中国的开源",
+        "战略",
+        "在月之暗面宣布首个"
+      ],
+      "importance": 1.5
+    },
+    {
+      "title": "贝莱德拟发行超120亿美元债券，为Meta得州数据中心提供融资",
+      "link": "https://36kr.com/newsflashes/3904618999039875?f=rss",
+      "summary": "据报道，贝莱德计划发行超过120亿美元债券，为Meta位于美国得州埃尔帕索的数据中心园区提供融资。这些债券预计将于下周初定价。知情人士称，这些债券是由一家控股公司发行的，该公司持有贝莱德在Project Sopaipilla Holdings中80%的股份，Meta在该数据中心项目持有20%股份。（界面）",
+      "source": "36氪",
+      "pub_date": "2026-07-21 07:58:50  +0800",
+      "fetched_at": "2026-07-21T08:00:07.877034",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "据报道，贝莱德计划发行超过120亿美元债券，为Meta位于美国得州埃尔帕索的数据中心园区提供融资。这些债券预计将于下周初定价。知情人士称，这些债券是由一家控股公司发行的，该公司持有贝莱德在Project Sopaipilla Holdings中80%的股份，Meta在该数据中心项目持有20%股份。（...",
+      "keywords": [
+        "meta",
+        "亿美元债券",
+        "贝莱德拟发行超",
+        "得州数据中心提供融资",
+        "据报道"
+      ],
+      "importance": 1.5
+    },
+    {
+      "title": "「月泉仿生」获数亿元融资，仿生拉压体灵巧手万台量产、订单过亿｜36氪首发",
+      "link": "https://36kr.com/p/3899174356387718?f=rss",
+      "summary": "文｜胡香赟 编辑｜海若镜 36氪独家获悉，近日，月泉仿生已完成数亿元Pre-A+轮融资。本轮融资由长发基金、华控基金、华夏基金、国力民生、星科创投基金等联合投资，老股东中关村启航投资跟投。 据介绍，本轮募集资金将用于月泉仿生团队建设、核心产品技术研发及产能提升，以及强化全栈自研能力、打造完整技术体系，推动超仿生神经骨骼肌肉机器人研发, 打造“大脑-身体-环境”一体化的仿生具身智能体系。 当前，人形机器人赛道已走过最初的样机展示阶段，逐渐迈入商业化落地的关键拐点。而灵巧手作为机器人和现实世界交互的核心部件，更是成为资本重点押注的核心方向。仅今年一季度，国内灵巧手类企业融资总额就接近50亿元。 喧...",
+      "source": "36氪",
+      "pub_date": "2026-07-21 08:00:00  +0800",
+      "fetched_at": "2026-07-21T08:00:07.842816",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "文｜胡香赟 编辑｜海若镜 36氪独家获悉，近日，月泉仿生已完成数亿元Pre-A+轮融资。本轮融资由长发基金、华控基金、华夏基金、国力民生、星科创投基金等联合投资，老股东中关村启航投资跟投。...",
+      "keywords": [
+        "月泉仿生",
+        "获数亿元融资",
+        "仿生拉压体灵巧手万台量产",
+        "订单过亿",
+        "氪首发"
+      ],
+      "importance": 1.0
+    },
+    {
       "title": "硬氪首发 | 离子束装备商获超亿元融资，已批量导入光通信、核聚变、量子计算头部客户",
       "link": "https://36kr.com/p/3903739699005058?f=rss",
       "summary": "硬氪获悉，中山市博顿光电科技有限公司（以下简称“博顿光电”）完成超亿元人民币B+轮融资，本轮投资方为毅达资本、中信建投资本、达武创投、友谊时光、南控基金，IO资本担任独家财务顾问。 该轮资金将用来引进高端人才、研发新产品，以及针对已经出现爆发趋势的重点行业领域，加快在综合解决方案、市场推广以及产能建设方面的投入速度。 博顿光电成立于2016年，是国家级“专精特新”小巨人企业。公司专注于全国产自主可控离子源和离子束超精密工艺设备，是业内唯一掌握核心部件离子源-离子束整机装备-应用工艺方案全链条核心技术并自研自制的企业。 （图源/企业） 在商业化落地上，博顿以精密光学、泛半导体、航空航天构成提供稳...",
       "source": "36氪",
       "pub_date": "2026-07-20 16:51:01  +0800",
-      "fetched_at": "2026-07-20T20:00:06.627013",
+      "fetched_at": "2026-07-21T08:00:07.861290",
       "categories": [
         "space"
       ],
@@ -88,7 +148,7 @@
       "summary": "国家航天局小行星监测预警研究中心首席科学家李明涛领导的团队在一篇论文中讨论了中国自己的行星防御系统。NASA 执行双小行星重定向测试(DART)任务的探测器于 2022 年 9 月撞击了小行星 Dimorphos，这是世界首次行星防御技术演示。中国的计划更雄心勃勃，旨在直接破坏小行星的结构，而不只是偏转其轨道。中国计划中的探测器预定在 2029 年或 2030 年以 26 倍音速以上或每秒逾 9 公里速度撞击目标——相比之下 DART 撞击速度为每秒 6.1 公里。此次任务包括四个目标：精确撞击小行星、成功偏转其轨道、精确测量撞击结果以及证明撞击并未对地球造成损害。目标小行星是 2015 年发...",
       "source": "Solidot",
       "pub_date": "Mon, 20 Jul 2026 16:52:42 +0800",
-      "fetched_at": "2026-07-20T20:00:05.901756",
+      "fetched_at": "2026-07-21T08:00:06.348036",
       "categories": [
         "space"
       ],
@@ -108,7 +168,7 @@
       "summary": "7月17日-20日，一起在WAIC2026现场，看见人工智能真正进入产业深处。 过去一年，围绕AI行业的讨论正在变得更具体。大模型能力仍在持续迭代，但外界关注的重点，已经不再只停留在模型参数、模型发布和单点能力展示上。随着智能体、具身智能、空间智能、AI基础设施等方向不断演进，行业开始更频繁地追问：AI如何进入真实流程，如何完成复杂任务，又如何在产业场景中形成可持续价值。 这种变化背后，是AI竞争维度的继续扩展：模型能力仍是基础，但企业真正要面对的，已经包括数据质量、工程系统、场景理解、交付能力和商业闭环等更复杂的问题。智能体需要从工具调用走向任务协同，机器人需要在真实场景中完成稳定作业，AI...",
       "source": "36氪",
       "pub_date": "2026-07-20 10:49:41  +0800",
-      "fetched_at": "2026-07-20T20:00:06.678966",
+      "fetched_at": "2026-07-21T08:00:07.876889",
       "categories": [
         "ai",
         "robotics"
@@ -124,42 +184,42 @@
       "importance": 0.5
     },
     {
-      "title": "从“连得上”到“算得懂”，天基通算融合初创公司押注无人系统，首轮融资数千万元｜36氪首发",
-      "link": "https://36kr.com/p/3903365398185857?f=rss",
-      "summary": "文 | 阿至 封面来源｜Pexels 中国低轨卫星星座的规模化部署已经进入关键时间窗口。 一组直观的数据进展是：中国星网已完成第一代组网，垣信卫星在轨运行卫星数量突破200颗，长征十号乙型火箭成功完成全球首次海上网系回收，头部商业公司的可回收火箭也将迎来关键首飞节点。 当“上天”这件事的成本有望迅速下降，产业链的注意力也在从“怎么把卫星打上去”转向一个更务实的问题：卫星组网之后，要给谁用、怎么用？ 这个问题目前还没有标准答案，但市场上不乏想要给出解法的玩家。 一家成立不到半年、聚焦“无人系统通算融合”的初创企业「星联天枢」，近日正式宣布完成数千万元天使轮融资，这也是星联天枢完成的首���融资。...",
+      "title": "微软与AMD扩大合作，将在Azure部署下一代AI芯片",
+      "link": "https://36kr.com/newsflashes/3904609584694912?f=rss",
+      "summary": "超微半导体正扩大与微软的战略合作伙伴关系。根据协议，这家软件公司将在其Azure云平台上部署AMD的下一代人工智能芯片和处理器。两家公司周一表示，微软将部署AMD的Helios机架级AI平台，为其自身的AI服务和Azure客户的前沿模型推理工作负载提供算力支持。AMD表示，预计将于2026年下半年开始向包括微软在内的客户出货Helios平台。（新浪财经）",
       "source": "36氪",
-      "pub_date": "2026-07-20 10:30:06  +0800",
-      "fetched_at": "2026-07-20T20:00:06.683343",
+      "pub_date": "2026-07-21 07:44:16  +0800",
+      "fetched_at": "2026-07-21T08:00:07.877657",
       "categories": [
-        "space"
+        "ai"
       ],
-      "ai_summary": "一组直观的数据进展是：中国星网已完成第一代组网，垣信卫星在轨运行卫星数量突破200颗，长征十号乙型火箭成功完成全球首次海上网系回收，头部商业公司的可回收火箭也将迎来关键首飞节点。...",
+      "ai_summary": "超微半导体正扩大与微软的战略合作伙伴关系。根据协议，这家软件公司将在其Azure云平台上部署AMD的下一代人工智能芯片和处理器。两家公司周一表示，微软将部署AMD的Helios机架级AI平台，为其自身的AI服务和Azure客户的前沿模型推理工作负载提供算力支持。AMD表示，预计将于2026年下半年开...",
       "keywords": [
-        "连得上",
-        "算得懂",
-        "天基通算融合初创公司押注无人系统",
-        "首轮融资数千万元",
-        "氪首发"
+        "amd",
+        "azure",
+        "ai",
+        "helios",
+        "平台"
       ],
       "importance": 0.5
     },
     {
-      "title": "腾讯云ADP 4.0海外版发布，要把企业级智能体带到全球市场 | 最前线",
-      "link": "https://36kr.com/p/3901396207584902?f=rss",
-      "summary": "腾讯云的企业级智能体平台，正式出海了。 7月18日，在2026世界人工智能大会上，腾讯云正式发布了智能体开发平台 ADP 4.0海外版，同步升级智能工作台、Claw 模式、Skill 广场三大核心模块，围绕触达、交互、生态、连接四大能力做了全面国际化适配。 ADP 的全称是 Agent Development Platform，定位为企业级 AgentOps 平台，覆盖智能体的构建、分发和治理全生命周期。 简单来说，它解决的是企业智能体从建立、运行到管理的问题。 智能体开发平台 ADP 4.0海外版 这次企业级智能体海外版的核心升级集中在四个方面：一是渠道，Claw 应用支持 LINE、Tel...",
+      "title": "报道称谷歌正计划开发新芯片",
+      "link": "https://36kr.com/newsflashes/3904568264279684?f=rss",
+      "summary": "7月20日，据报道，谷歌正计划开发一款“Frozen V2”芯片，以更高效地为其Gemini AI模型提供服务。（界面）",
       "source": "36氪",
-      "pub_date": "2026-07-20 09:30:27  +0800",
-      "fetched_at": "2026-07-20T20:00:06.686666",
+      "pub_date": "2026-07-21 07:21:06  +0800",
+      "fetched_at": "2026-07-21T08:00:07.878607",
       "categories": [
         "ai"
       ],
-      "ai_summary": "7月18日，在2026世界人工智能大会上，腾讯云正式发布了智能体开发平台 ADP 4.0海外版，同步升级智能工作台、Claw 模式、Skill 广场三大核心模块，围绕触达、交互、生态、连接四大能力做了全面国际化适配。 智能体开发平台 ADP 4.0海外版...",
+      "ai_summary": "7月20日，据报道，谷歌正计划开发一款“Frozen V2”芯片，以更高效地为其Gemini AI模型提供服务。（界面）",
       "keywords": [
-        "adp",
-        "海外版",
-        "claw",
-        "腾讯云",
-        "海外版发布"
+        "报道称谷歌正计划开发新芯片",
+        "据报道",
+        "谷歌正计划开发一款",
+        "frozen",
+        "芯片"
       ],
       "importance": 0.5
     },
@@ -169,7 +229,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Mon, 20 Jul 2026 08:44:24 +0000",
-      "fetched_at": "2026-07-20T20:00:06.966666",
+      "fetched_at": "2026-07-21T08:00:07.999066",
       "categories": [
         "robotics"
       ],
@@ -181,203 +241,143 @@
         "正式亮相"
       ],
       "importance": 0.5
-    },
-    {
-      "title": "有了 AI 之后人们愈来愈不愿说不知道了",
-      "link": "https://www.solidot.org/story?sid=84873",
-      "summary": "法国和意大利研究人员发现，有了 AI 之后人们愈来愈不愿说不知道了，AI 抑制了人们的批判性思维，使得人们更容易重复 AI 生成的虚假信息。研究人员将参与者分成两组，一组必须在没有 AI 的帮助下回答问题，另一组可以向 AI 寻求建议。结果发现没有 AI 帮助时 44% 的人会回答说不知道答案，而有了 AI 的帮助后只有 3% 的人这样做。研究人员让参与者使用了一个更可能出错的模型 Step 3.5 Flash。结果显示，不使用 AI 正确率为 27%，使用 AI 后降至了 9%，原本会给出正确答案的人在听取了 AI 建议后给出了错误答案。尽管正确率下降了，但参与者的自信心却增加了。",
-      "source": "Solidot",
-      "pub_date": "Mon, 20 Jul 2026 18:34:37 +0800",
-      "fetched_at": "2026-07-20T20:00:05.900025",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "法国和意大利研究人员发现，有了 AI 之后人们愈来愈不愿说不知道了，AI 抑制了人们的批判性思维，使得人们更容易重复 AI 生成的虚假信息。研究人员将参与者分成两组，一组必须在没有 AI 的帮助下回答问题，另一组可以向 AI 寻求建议。结果发现没有 AI 帮助时 44% 的人会回答说不知道答案，而有...",
-      "keywords": [
-        "ai",
-        "有了",
-        "之后人们愈来愈不愿说不知道了",
-        "法国和意大利研究人员发现",
-        "抑制了人们的批判性思维"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "数据中心抗议席卷美国",
-      "link": "https://www.solidot.org/story?sid=84865",
-      "summary": "反数据中心抗议者在美国 42 州举行了 142 场抗议活动。这一抗议行动获得了两党民众支持、由前茶党领袖联合创办的组织 HumansFirst 协调。抗议者集会反对 HumansFirst 所称的数据中心“缺乏问责”的扩张以及“对自由不可接受的侵犯”。在弗吉尼亚州 Fredericksburg，一位年轻人举的牌子上面写着：“我们靠水而不是数据生存。”亚特兰大抗议者的标语是“佐治亚州从未投票支持超大规模人工智能数据中心”。HumansFirst 表示暂无全美和各大城市抗议者人数的统计数据。反对数据中心建设是少数几个能跨越意识形态团结美国人的议题之一。民调显示，只有三分之一的美国人认可数据中心的建...",
-      "source": "Solidot",
-      "pub_date": "Sun, 19 Jul 2026 20:40:03 +0800",
-      "fetched_at": "2026-07-20T20:00:05.907061",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "反数据中心抗议者在美国 42 州举行了 142 场抗议活动。这一抗议行动获得了两党民众支持、由前茶党领袖联合创办的组织 HumansFirst 协调。抗议者集会反对 HumansFirst 所称的数据中心“缺乏问责”的扩张以及“对自由不可接受的侵犯”。在弗吉尼亚州 Fredericksburg，一位...",
-      "keywords": [
-        "humansfirst",
-        "数据中心抗议席卷美国",
-        "反数据中心抗议者在美国",
-        "州举行了",
-        "场抗议活动"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "WAIC上，AI开始接管人类的欲望",
-      "link": "https://36kr.com/p/3903687507904387?f=rss",
-      "summary": "24.8万的仿生人形机器人，“比彩礼都贵！” 撰文 | 刘思洁 编辑 | 张薇 在2026年的世界人工智能大会（WAIC）上，大模型、算力与机器人占据着核心展区的宏大叙事。但在场馆地下一层的创新展区里，AI正在撕开含蓄的面具，向下接管人类最隐秘的本能：情欲、控制欲、对失去的遗憾、对孤独的恐惧，以及对未来的迷茫困惑。 一只套着塑料壳的蛋形玩偶摆在桌子上，和人交互到一定亲密度后，它会“破壳而出”，一个毛茸茸的桌面宠物就此诞生；一个酷似Labubu的毛绒AI玩具主打亲子陪伴，父母想传递的教育内容，可以借一个AI玩偶的嘴说出来；还有一种陪伴被设计成了肩膀上的毛绒挂件，通过声音感知用户的情绪变化。 展会...",
-      "source": "36氪",
-      "pub_date": "2026-07-20 18:06:08  +0800",
-      "fetched_at": "2026-07-20T20:00:06.611291",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "24.8万的仿生人形机器人，“比彩礼都贵！” 撰文 | 刘思洁 编辑 | 张薇...",
-      "keywords": [
-        "ai",
-        "waic",
-        "开始接管人类的欲望",
-        "万的仿生人形机器人",
-        "比彩礼都贵"
-      ],
-      "importance": 0
     }
   ],
   "latest": [
     {
-      "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
-      "link": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
-      "summary": "👍 57 | 💬 45",
+      "title": "My two year old taught me constraint solving",
+      "link": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
+      "summary": "👍 17 | 💬 9",
       "source": "HackerNews",
-      "pub_date": "2026-07-15T16:35:46",
-      "fetched_at": "2026-07-20T20:00:26.281296",
+      "pub_date": "2026-07-11T03:32:07",
+      "fetched_at": "2026-07-21T08:00:25.120327",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 57 | 💬 45",
+      "ai_summary": "👍 17 | 💬 9",
       "keywords": [
-        "sealed",
-        "tomb",
-        "filled",
-        "with",
-        "paintings"
+        "my",
+        "two",
+        "year",
+        "old",
+        "taught"
       ],
       "importance": 0
     },
     {
-      "title": "Xiaomi-Robotics-1",
-      "link": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-      "summary": "👍 268 | 💬 192",
+      "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
+      "link": "https://nothings.org/gamedev/ssao/",
+      "summary": "👍 142 | 💬 61",
       "source": "HackerNews",
-      "pub_date": "2026-07-20T12:45:15",
-      "fetched_at": "2026-07-20T20:00:24.670589",
+      "pub_date": "2026-07-20T23:07:31",
+      "fetched_at": "2026-07-21T08:00:22.759672",
       "categories": [
-        "robotics"
+        "space"
       ],
-      "ai_summary": "👍 268 | 💬 192",
+      "ai_summary": "👍 142 | 💬 61",
       "keywords": [
-        "xiaomi",
-        "robotics"
+        "corners",
+        "don",
+        "look",
+        "like",
+        "that"
       ],
       "importance": 0
     },
     {
-      "title": "Self-Powered Trailers Promise Leaner Freight Runs",
-      "link": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
-      "summary": "👍 51 | 💬 27",
+      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+      "link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "summary": "👍 187 | 💬 138",
       "source": "HackerNews",
-      "pub_date": "2026-07-10T23:44:36",
-      "fetched_at": "2026-07-20T20:00:22.643079",
+      "pub_date": "2026-07-21T00:36:36",
+      "fetched_at": "2026-07-21T08:00:21.967724",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 51 | 💬 27",
+      "ai_summary": "👍 187 | 💬 138",
       "keywords": [
-        "self",
-        "powered",
-        "trailers",
-        "promise",
-        "leaner"
+        "how",
+        "we",
+        "measured",
+        "ai",
+        "writing"
       ],
       "importance": 0
     },
     {
-      "title": "Orion Browser by Kagi",
-      "link": "https://orionbrowser.com/",
-      "summary": "👍 228 | 💬 162",
+      "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+      "link": "https://news.ycombinator.com/item?id=48981136",
+      "summary": "👍 54 | 💬 73",
       "source": "HackerNews",
-      "pub_date": "2026-07-20T03:13:29",
-      "fetched_at": "2026-07-20T20:00:21.337511",
+      "pub_date": "2026-07-21T00:32:10",
+      "fetched_at": "2026-07-21T08:00:19.442240",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 228 | 💬 162",
+      "ai_summary": "👍 54 | 💬 73",
       "keywords": [
-        "orion",
-        "browser",
-        "by",
-        "kagi"
+        "launch",
+        "hn",
+        "bloomy",
+        "yc",
+        "ai"
       ],
       "importance": 0
     },
     {
-      "title": "Claude Code uses Bun written in Rust now",
-      "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "summary": "👍 549 | 💬 727",
+      "title": "Airport Simulator",
+      "link": "https://airport.apunen.com/",
+      "summary": "👍 669 | 💬 134",
       "source": "HackerNews",
-      "pub_date": "2026-07-19T18:03:23",
-      "fetched_at": "2026-07-20T20:00:16.570895",
+      "pub_date": "2026-07-20T18:30:40",
+      "fetched_at": "2026-07-21T08:00:16.835036",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 549 | 💬 727",
+      "ai_summary": "👍 669 | 💬 134",
       "keywords": [
-        "claude",
-        "code",
-        "uses",
-        "bun",
-        "written"
+        "airport",
+        "simulator"
       ],
       "importance": 0
     },
     {
-      "title": "Airbus Takes Flight from AWS",
-      "link": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
-      "summary": "👍 60 | 💬 43",
+      "title": "Who's Afraid of Chinese Models?",
+      "link": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "summary": "👍 131 | 💬 92",
       "source": "HackerNews",
-      "pub_date": "2026-07-20T18:12:22",
-      "fetched_at": "2026-07-20T20:00:13.981097",
+      "pub_date": "2026-07-20T19:05:58",
+      "fetched_at": "2026-07-21T08:00:10.433458",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 60 | 💬 43",
+      "ai_summary": "👍 131 | 💬 92",
       "keywords": [
-        "airbus",
-        "takes",
-        "flight",
-        "from",
-        "aws"
+        "who",
+        "afraid",
+        "of",
+        "chinese",
+        "models"
       ],
       "importance": 0
     },
     {
-      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-      "link": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-      "summary": "👍 172 | 💬 88",
+      "title": "China’s open-weights AI strategy is winning",
+      "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "summary": "👍 920 | 💬 750",
       "source": "HackerNews",
-      "pub_date": "2026-07-20T16:13:36",
-      "fetched_at": "2026-07-20T20:00:10.000184",
+      "pub_date": "2026-07-20T22:21:47",
+      "fetched_at": "2026-07-21T08:00:09.666655",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 172 | 💬 88",
+      "ai_summary": "👍 920 | 💬 750",
       "keywords": [
-        "exploit",
-        "brokers",
-        "pay",
-        "for",
-        "wordpress"
+        "china",
+        "open",
+        "weights",
+        "ai",
+        "strategy"
       ],
       "importance": 0
     },
@@ -387,7 +387,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Mon, 20 Jul 2026 08:06:22 +0000",
-      "fetched_at": "2026-07-20T20:00:06.966672",
+      "fetched_at": "2026-07-21T08:00:07.999072",
       "categories": [
         "ai"
       ],
@@ -407,7 +407,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Mon, 20 Jul 2026 08:44:24 +0000",
-      "fetched_at": "2026-07-20T20:00:06.966666",
+      "fetched_at": "2026-07-21T08:00:07.999066",
       "categories": [
         "robotics"
       ],
@@ -426,7 +426,7 @@
       "summary": "GMI Cloud × HappyHorse 共建 AI 创作生态",
       "source": "量子位",
       "pub_date": "Mon, 20 Jul 2026 08:52:26 +0000",
-      "fetched_at": "2026-07-20T20:00:06.966655",
+      "fetched_at": "2026-07-21T08:00:07.999057",
       "categories": [
         "ai"
       ],
@@ -446,7 +446,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Mon, 20 Jul 2026 09:03:23 +0000",
-      "fetched_at": "2026-07-20T20:00:06.966553",
+      "fetched_at": "2026-07-21T08:00:07.998976",
       "categories": [
         "ai"
       ],
@@ -466,7 +466,7 @@
       "summary": "细粒度标签+ 20 种方言",
       "source": "量子位",
       "pub_date": "Mon, 20 Jul 2026 09:05:06 +0000",
-      "fetched_at": "2026-07-20T20:00:06.966542",
+      "fetched_at": "2026-07-21T08:00:07.998967",
       "categories": [
         "ai"
       ],
@@ -486,7 +486,7 @@
       "summary": "从理论探索到体系构建",
       "source": "量子位",
       "pub_date": "Mon, 20 Jul 2026 09:21:30 +0000",
-      "fetched_at": "2026-07-20T20:00:06.966425",
+      "fetched_at": "2026-07-21T08:00:07.998891",
       "categories": [
         "ai"
       ],
@@ -506,7 +506,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Mon, 20 Jul 2026 09:41:49 +0000",
-      "fetched_at": "2026-07-20T20:00:06.966320",
+      "fetched_at": "2026-07-21T08:00:07.998812",
       "categories": [
         "ai"
       ],
@@ -526,7 +526,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Mon, 20 Jul 2026 09:54:33 +0000",
-      "fetched_at": "2026-07-20T20:00:06.966311",
+      "fetched_at": "2026-07-21T08:00:07.998805",
       "categories": [
         "ai"
       ],
@@ -545,7 +545,7 @@
       "summary": "大模型时代的共同选择",
       "source": "量子位",
       "pub_date": "Mon, 20 Jul 2026 10:33:23 +0000",
-      "fetched_at": "2026-07-20T20:00:06.966298",
+      "fetched_at": "2026-07-21T08:00:07.998795",
       "categories": [
         "ai"
       ],
@@ -565,7 +565,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Mon, 20 Jul 2026 10:42:09 +0000",
-      "fetched_at": "2026-07-20T20:00:06.966137",
+      "fetched_at": "2026-07-21T08:00:07.998663",
       "categories": [
         "ai"
       ],
@@ -580,65 +580,65 @@
       "importance": 0
     },
     {
-      "title": "郑栅洁：目前企业生产经营平稳 市场预期稳步改善，有能力、有信心完成全年生产经营目标",
-      "link": "https://36kr.com/newsflashes/3903866748274309?f=rss",
-      "summary": "36氪获悉，据国家发展改革委消息，7月20日，国家发展改革委主任郑栅洁主持召开民营企业座谈会，与来自食品加工、工业自动化测试设备制造、营销服务、人形机器人研发、物联网服务等领域的三全食品、华兴源创、易点天下、银河通用机器人、飞尚科技等5家企业负责人沟通交流，围绕上半年经济形势和下半年经济工作听取意见建议。会上，参会企业负责人围绕会议主题，结合各自行业特点与企业生产经营情况等，对上半年经济形势进行了分析。大家普遍认为，今年以来外部不稳定不确定因素增多，我国经济顶住压力、稳中有进，展现出强大韧性和活力，目前企业生产经营平稳，市场预期稳步改善，有能力、有信心完成全年生产经营目标。",
+      "title": "报道称谷歌正计划开发新芯片",
+      "link": "https://36kr.com/newsflashes/3904568264279684?f=rss",
+      "summary": "7月20日，据报道，谷歌正计划开发一款“Frozen V2”芯片，以更高效地为其Gemini AI模型提供服务。（界面）",
       "source": "36氪",
-      "pub_date": "2026-07-20 18:58:36  +0800",
-      "fetched_at": "2026-07-20T20:00:06.695993",
+      "pub_date": "2026-07-21 07:21:06  +0800",
+      "fetched_at": "2026-07-21T08:00:07.878607",
       "categories": [
-        "robotics"
+        "ai"
       ],
-      "ai_summary": "36氪获悉，据国家发展改革委消息，7月20日，国家发展改革委主任郑栅洁主持召开民营企业座谈会，与来自食品加工、工业自动化测试设备制造、营销服务、人形机器人研发、物联网服务等领域的三全食品、华兴源创、易点天下、银河通用机器人、飞尚科技等5家企业负责人沟通交流，围绕上半年经济形势和下半年经济工作听取意见...",
+      "ai_summary": "7月20日，据报道，谷歌正计划开发一款“Frozen V2”芯片，以更高效地为其Gemini AI模型提供服务。（界面）",
       "keywords": [
-        "目前企业生产经营平稳",
-        "市场预期稳步改善",
-        "有能力",
-        "有信心完成全年生产经营目标",
-        "郑栅洁"
+        "报道称谷歌正计划开发新芯片",
+        "据报道",
+        "谷歌正计划开发一款",
+        "frozen",
+        "芯片"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "上半年，上海三大先导产业制造业产值同比增长14.5%",
+      "link": "https://36kr.com/newsflashes/3904569653347972?f=rss",
+      "summary": "从上海市经信委获悉，今年上半年，上海工业生产稳步增长，软信业继续保持较快增速，产业经济稳中有进、向新向优。据上海市经信委披露，上半年本市三大先导产业制造业保持较高增速。三大先导产业制造业产值同比增长14.5%。其中，人工智能制造业、集成电路制造业、生物医药制造业产值分别增长21.8%、19.5%和7.2%。（澎湃）",
+      "source": "36氪",
+      "pub_date": "2026-07-21 07:25:32  +0800",
+      "fetched_at": "2026-07-21T08:00:07.878455",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "从上海市经信委获悉，今年上半年，上海工业生产稳步增长，软信业继续保持较快增速，产业经济稳中有进、向新向优。据上海市经信委披露，上半年本市三大先导产业制造业保持较高增速。三大先导产业制造业产值同比增长14.5%。其中，人工智能制造业、集成电路制造业、生物医药制造业产值分别增长21.8%、19.5%和7...",
+      "keywords": [
+        "上半年",
+        "上海三大先导产业制造业产值同比增长",
+        "从上海市经信委获悉",
+        "今年上半年",
+        "上海工业生产稳步增长"
       ],
       "importance": 0
     },
     {
-      "title": "腾讯云ADP 4.0海外版发布，要把企业级智能体带到全球市场 | 最前线",
-      "link": "https://36kr.com/p/3901396207584902?f=rss",
-      "summary": "腾讯云的企业级智能体平台，正式出海了。 7月18日，在2026世界人工智能大会上，腾讯云正式发布了智能体开发平台 ADP 4.0海外版，同步升级智能工作台、Claw 模式、Skill 广场三大核心模块，围绕触达、交互、生态、连接四大能力做了全面国际化适配。 ADP 的全称是 Agent Development Platform，定位为企业级 AgentOps 平台，覆盖智能体的构建、分发和治理全生命周期。 简单来说，它解决的是企业智能体从建立、运行到管理的问题。 智能体开发平台 ADP 4.0海外版 这次企业级智能体海外版的核心升级集中在四个方面：一是渠道，Claw 应用支持 LINE、Tel...",
+      "title": "微软与AMD扩大合作，将在Azure部署下一代AI芯片",
+      "link": "https://36kr.com/newsflashes/3904609584694912?f=rss",
+      "summary": "超微半导体正扩大与微软的战略合作伙伴关系。根据协议，这家软件公司将在其Azure云平台上部署AMD的下一代人工智能芯片和处理器。两家公司周一表示，微软将部署AMD的Helios机架级AI平台，为其自身的AI服务和Azure客户的前沿模型推理工作负载提供算力支持。AMD表示，预计将于2026年下半年开始向包括微软在内的客户出货Helios平台。（新浪财经）",
       "source": "36氪",
-      "pub_date": "2026-07-20 09:30:27  +0800",
-      "fetched_at": "2026-07-20T20:00:06.686666",
+      "pub_date": "2026-07-21 07:44:16  +0800",
+      "fetched_at": "2026-07-21T08:00:07.877657",
       "categories": [
         "ai"
       ],
-      "ai_summary": "7月18日，在2026世界人工智能大会上，腾讯云正式发布了智能体开发平台 ADP 4.0海外版，同步升级智能工作台、Claw 模式、Skill 广场三大核心模块，围绕触达、交互、生态、连接四大能力做了全面国际化适配。 智能体开发平台 ADP 4.0海外版...",
+      "ai_summary": "超微半导体正扩大与微软的战略合作伙伴关系。根据协议，这家软件公司将在其Azure云平台上部署AMD的下一代人工智能芯片和处理器。两家公司周一表示，微软将部署AMD的Helios机架级AI平台，为其自身的AI服务和Azure客户的前沿模型推理工作负载提供算力支持。AMD表示，预计将于2026年下半年开...",
       "keywords": [
-        "adp",
-        "海外版",
-        "claw",
-        "腾讯云",
-        "海外版发布"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "从“连得上”到“算得懂”，天基通算融合初创公司押注无人系统，首轮融资数千万元｜36氪首发",
-      "link": "https://36kr.com/p/3903365398185857?f=rss",
-      "summary": "文 | 阿至 封面来源｜Pexels 中国低轨卫星星座的规模化部署已经进入关键时间窗口。 一组直观的数据进展是：中国星网已完成第一代组网，垣信卫星在轨运行卫星数量突破200颗，长征十号乙型火箭成功完成全球首次海上网系回收，头部商业公司的可回收火箭也将迎来关键首飞节点。 当“上天”这件事的成本有望迅速下降，产业链的注意力也在从“怎么把卫星打上去”转向一个更务实的问题：卫星组网之后，要给谁用、怎么用？ 这个问题目前还没有标准答案，但市场上不乏想要给出解法的玩家。 一家成立不到半年、聚焦“无人系统通算融合”的初创企业「星联天枢」，近日正式宣布完成数千万元天使轮融资，这也是星联天枢完成的首���融资。...",
-      "source": "36氪",
-      "pub_date": "2026-07-20 10:30:06  +0800",
-      "fetched_at": "2026-07-20T20:00:06.683343",
-      "categories": [
-        "space"
-      ],
-      "ai_summary": "一组直观的数据进展是：中国星网已完成第一代组网，垣信卫星在轨运行卫星数量突破200颗，长征十号乙型火箭成功完成全球首次海上网系回收，头部商业公司的可回收火箭也将迎来关键首飞节点。...",
-      "keywords": [
-        "连得上",
-        "算得懂",
-        "天基通算融合初创公司押注无人系统",
-        "首轮融资数千万元",
-        "氪首发"
+        "amd",
+        "azure",
+        "ai",
+        "helios",
+        "平台"
       ],
       "importance": 0.5
     }
   ],
-  "updated_at": "2026-07-20T20:00:35.841342"
+  "updated_at": "2026-07-21T08:00:26.704280"
 }

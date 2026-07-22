@@ -5,39 +5,39 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-07-22T12:00:46.373824",
-    "total_items": 28
+    "last_update": "2026-07-22T20:00:59.245087",
+    "total_items": 34
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 23
+      "count": 30
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 1
+      "count": 3
     },
     "space": {
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 5
+      "count": 4
     }
   },
   "stats": {
-    "total_items": 28,
-    "today_items": 28,
+    "total_items": 34,
+    "today_items": 34,
     "sources": {
-      "Solidot": 8,
-      "36氪": 7,
-      "量子位": 8,
-      "HackerNews": 5
+      "Solidot": 9,
+      "36氪": 8,
+      "量子位": 10,
+      "HackerNews": 7
     },
-    "last_update": "2026-07-22T12:00:46.373824"
+    "last_update": "2026-07-22T20:00:59.245087"
   },
   "trending": [
     {
@@ -46,7 +46,7 @@
       "summary": "日经的调查显示，因 AI 投资激增美国五大科技巨头 Google/Alphabet、微软、亚马逊、Meta 和甲骨文的隐性债务高达 1.65 万亿美元，超过了其实际债务。其中 Meta 的表外债务达到了 4200 亿美元，是其账面债务的几乎三倍。甲骨文隐性债务约 2733 亿美元。为支持 AI 研发这些科技巨头在迅速扩充其数据中心等 AI 计算资源，签订了 GPU 和服务器的长期采购协议。",
       "source": "Solidot",
       "pub_date": "Tue, 21 Jul 2026 14:05:09 +0800",
-      "fetched_at": "2026-07-22T12:00:03.249264",
+      "fetched_at": "2026-07-22T20:00:03.773034",
       "categories": [
         "ai"
       ],
@@ -61,12 +61,32 @@
       "importance": 2.0
     },
     {
+      "title": "法官批准了 Anthropic 与图书出版商达成的 15 亿美元侵权和解",
+      "link": "https://www.solidot.org/story?sid=84888",
+      "summary": "为了训练其 AI 模型 Claude，Anthropic 实施了名为“巴拿马计划”（Project Panama）的行动：大量购买实体图书，拆开书脊、扫描书页，之后将图书残骸送去回收公司。Anthropic 为此投入了数千万美元，聘请了二十年前参与 Google Books 项目的 Google 高管。此外 Anthropic 还从影子图书馆下载了海量的盗版电子书。对于 Anthropic 的行为，法官裁决使用受版权保护图书训练 AI 模型属于合理使用，但其图书盗版行为并不合法。图书出版商以及作者提起了集体诉讼，Anthropic 去年与他们达成了和解，将向图书作者和出版商赔偿 15 亿美元。...",
+      "source": "Solidot",
+      "pub_date": "Wed, 22 Jul 2026 13:48:04 +0800",
+      "fetched_at": "2026-07-22T20:00:03.771820",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "为了训练其 AI 模型 Claude，Anthropic 实施了名为“巴拿马计划”（Project Panama）的行动：大量购买实体图书，拆开书脊、扫描书页，之后将图书残骸送去回收公司。Anthropic 为此投入了数千万美元，聘请了二十年前参与 Google Books 项目的 Google 高...",
+      "keywords": [
+        "anthropic",
+        "ai",
+        "google",
+        "法官批准了",
+        "与图书出版商达成的"
+      ],
+      "importance": 1.5
+    },
+    {
       "title": "OpenAI 高管不满中国的开源 AI 战略",
       "link": "https://www.solidot.org/story?sid=84877",
       "summary": "在月之暗面宣布首个 3 万亿参数级别开放权重模型 Kimi K3 之后，前特朗普 AI 高级顾问、现 OpenAI 战略主管 Dean Ball 在 X 平台上表示，开放权重模型的战略将导致“AI 共产主义”，可能会“减缓 AI 的发展”，因为会“阻碍 AI 领域的资本支出”。他认为政府可以通过 FUD 策略（即 fear, uncertainty, and doubt）阻止美国公司使用开放权重模型。他后来澄清说这只是预测不是建议，声称他支持 AI 开源/开放权重。美国两大前沿 AI 公司 OpenAI 和 Anthropic 仍然有领先优势，但优势在缩小，它们采用的都是闭源模式。",
       "source": "Solidot",
       "pub_date": "Tue, 21 Jul 2026 00:20:11 +0800",
-      "fetched_at": "2026-07-22T12:00:03.249670",
+      "fetched_at": "2026-07-22T20:00:03.773443",
       "categories": [
         "ai"
       ],
@@ -86,7 +106,7 @@
       "summary": "今日热点导览 字节XR业务PICO创始人周宏伟将卸任，李晓凯成为新任业务负责人 ZARA客服回应“阔腿裤存安全隐患”：专员正在核实处理 SpaceX将于8月4日发布上市后首份财报 恋与深空多平台账号停更 美国发布全球安全警示 TOP3大新闻 怡颗莓回应“检出致癌物”：国内销售草莓来自云南 近日，全球最大浆果品牌“怡颗莓”（Driscoll's）陷入食品安全争议。美国消费者对其提起集体诉讼，指控其草莓检出包括1类致癌物全氟辛酸（PFOA）在内的8种“永久性化学物”（PFAS）。 中国市场受此影响，山姆会员店、Ole'精品超市等线下渠道已全面下架怡颗莓产品，盒马、永辉、开市客等平台暂停销售。7月2...",
       "source": "36氪",
       "pub_date": "2026-07-22 07:55:35  +0800",
-      "fetched_at": "2026-07-22T12:00:03.709220",
+      "fetched_at": "2026-07-22T20:00:04.295422",
       "categories": [
         "space"
       ],
@@ -101,22 +121,42 @@
       "importance": 1.5
     },
     {
-      "title": "氪星晚报｜英特尔将在数据中心部门裁员；日产在美召回超16万辆阿曼达及英菲尼迪SUV；我国将建设3000个以上电动重卡充换电站",
-      "link": "https://36kr.com/p/3905124154721925?f=rss",
-      "summary": "大公司： 日产在美召回超16万辆阿曼达及英菲尼迪SUV 美国国家公路交通安全管理局（NHTSA）7月21日公布，日产北美公司正在召回部分配备22英寸轮毂的2020至2026款阿曼达（Armada）、2011至2013款英菲尼迪QX56以及2014至2027款英菲尼迪QX80车型，涉及约16.8万辆汽车。由于车辆认证标签上的总轴重额定值（GAWR）标注错误，可能导致车辆超载，车辆超载会增加发生碰撞的风险。 Meta与英伟达联手布局AI材料供应链 社交媒体巨头Meta与芯片制造商英伟达周一宣布，共同参与一家英国AI初创公司的材料发现项目，旨在为半导体行业寻找新型制造材料。该初创公司此前已获得亚马逊...",
-      "source": "36氪",
-      "pub_date": "2026-07-21 16:43:23  +0800",
-      "fetched_at": "2026-07-22T12:00:03.722499",
+      "title": "苹果应用商店涌入大量 AI 辅助开发的应用",
+      "link": "https://www.solidot.org/story?sid=84893",
+      "summary": "根据 Sensor Tower 的估计，2025 年苹果 App Store 上架的新应用数量增长 30% 达到约 60 万。今年上半年，新应用数量翻了一番达到约 56 万。虽然更多的应用理论上能为苹果带来更多的佣金，然而应用数量的大幅增长并没有带来下载量大幅增加，Sensor Tower 的数据显示去年 App Store 的下载量增长 3% 达到 354 亿次，今年上半年下载量增长 2% 达到 176 亿次。由于涌入了大量应用，苹果审核人员显然有点跟不上了。应用开发者在苹果开发者论坛上抱怨审核时间过长。分析师认为这一波 AI 辅助编程应用浪潮可能不会为苹果带来多少收入，因为此类应用通常是靠...",
+      "source": "Solidot",
+      "pub_date": "Wed, 22 Jul 2026 17:00:39 +0800",
+      "fetched_at": "2026-07-22T20:00:03.771055",
       "categories": [
         "ai"
       ],
-      "ai_summary": "大公司： 日产在美召回超16万辆阿曼达及英菲尼迪SUV 美国国家公路交通安全管理局（NHTSA）7月21日公布，日产北美公司正在召回部分配备22英寸轮毂的2020至2026款阿曼达（Armada）、2011至2013款英菲尼迪QX56以及2014至2027款英菲尼迪QX80车型，涉及约16.8万辆汽...",
+      "ai_summary": "根据 Sensor Tower 的估计，2025 年苹果 App Store 上架的新应用数量增长 30% 达到约 60 万。今年上半年，新应用数量翻了一番达到约 56 万。虽然更多的应用理论上能为苹果带来更多的佣金，然而应用数量的大幅增长并没有带来下载量大幅增加，Sensor Tower 的数据显...",
       "keywords": [
-        "日产在美召回超",
-        "万辆阿曼达及英菲尼迪",
-        "suv",
-        "款英菲尼迪",
-        "qx"
+        "ai",
+        "sensor",
+        "tower",
+        "app",
+        "store"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "硬氪首发 | 前华为智驾骨干入局AI船舶，已获亿元订单，专攻休闲艇",
+      "link": "https://36kr.com/p/3906468088042886?f=rss",
+      "summary": "硬氪获悉，智能船艇公司同舟智航近日完成数千万种子轮融资，由英诺天使和吴中金控联合领投，江苏金桥基金跟投。融资将用于补充核心研发与量产团队人才，同步启动海外品牌建设与渠道开拓。 同舟智航2025年6月成立，核心理念是用人工智能赋能船舶。创始人张呈伦拥有10余年汽车自动驾驶行业经验，曾任华为商用车解决方案部负责人，并创立过规模超百人的矿山自动驾驶公司。 团队自动驾驶基因雄厚，首席科学家为美国康涅狄格大学AI博士及博士后，曾任某自动驾驶独角兽公司的感知预测负责人；智能航行技术VP为法国巴黎萨克雷大学AI硕士，历任Intel算法科学家、驭势科技高级研究员及挚途科技规控部部长；商务合伙人拥有12年华为大...",
+      "source": "36氪",
+      "pub_date": "2026-07-22 15:06:04  +0800",
+      "fetched_at": "2026-07-22T20:00:04.278248",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "硬氪获悉，智能船艇公司同舟智航近日完成数千万种子轮融资，由英诺天使和吴中金控联合领投，江苏金桥基金跟投。融资将用于补充核心研发与量产团队人才，同步启动海外品牌建设与渠道开拓。...",
+      "keywords": [
+        "ai",
+        "硬氪首发",
+        "前华为智驾骨干入局",
+        "船舶",
+        "已获亿元订单"
       ],
       "importance": 1.0
     },
@@ -126,7 +166,7 @@
       "summary": "在生成式 AI 时代，流行公民科学数据库如 iNaturalist 和 Macaulay Library 也免不了被 AI slop 入侵。研究人员在《自然》上报告，他们在记录野生动物物种的流行公民数据库内发现了数百张 AI 生成的虚假图像。问题的真实规模尚不清楚，因为有许多假图可能未被发现。文章作者 Alexander Lees 博士称他在 Facebook 上看到的野生动物照片基本上都是 AI 生成的。他指出公民科学数据库里彻头彻尾的假图还比较罕见，问题主要是照片上传者会用 AI 美化下图像，结果生成式 AI 给图像添加了不存在的内容。iNaturalist 上逾 6.1 亿张图像只有 1...",
       "source": "Solidot",
       "pub_date": "Tue, 21 Jul 2026 18:59:11 +0800",
-      "fetched_at": "2026-07-22T12:00:03.248579",
+      "fetched_at": "2026-07-22T20:00:03.772332",
       "categories": [
         "ai"
       ],
@@ -141,118 +181,138 @@
       "importance": 0.5
     },
     {
-      "title": "中国考虑演示自己的行星防御技术",
-      "link": "https://www.solidot.org/story?sid=84871",
-      "summary": "国家航天局小行星监测预警研究中心首席科学家李明涛领导的团队在一篇论文中讨论了中国自己的行星防御系统。NASA 执行双小行星重定向测试(DART)任务的探测器于 2022 年 9 月撞击了小行星 Dimorphos，这是世界首次行星防御技术演示。中国的计划更雄心勃勃，旨在直接破坏小行星的结构，而不只是偏转其轨道。中国计划中的探测器预定在 2029 年或 2030 年以 26 倍音速以上或每秒逾 9 公里速度撞击目标——相比之下 DART 撞击速度为每秒 6.1 公里。此次任务包括四个目标：精确撞击小行星、成功偏转其轨道、精确测量撞击结果以及证明撞击并未对地球造成损害。目标小行星是 2015 年发...",
-      "source": "Solidot",
-      "pub_date": "Mon, 20 Jul 2026 16:52:42 +0800",
-      "fetched_at": "2026-07-22T12:00:03.250489",
-      "categories": [
-        "space"
-      ],
-      "ai_summary": "国家航天局小行星监测预警研究中心首席科学家李明涛领导的团队在一篇论文中讨论了中国自己的行星防御系统。NASA 执行双小行星重定向测试(DART)任务的探测器于 2022 年 9 月撞击了小行星 Dimorphos，这是世界首次行星防御技术演示。中国的计划更雄心勃勃，旨在直接破坏小行星的结构，而不只是...",
-      "keywords": [
-        "dart",
-        "中国考虑演示自己的行星防御技术",
-        "国家航天局小行星监测预警研究中心首席科学家李明涛领导的团队在一篇论文中讨论了中国自己的行星防御系统",
-        "nasa",
-        "执行双小行星重定向测试"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "意界智创签约上海市人工智能重点项目",
-      "link": "https://36kr.com/newsflashes/3906278198318214?f=rss",
-      "summary": "7月20日，2026世界人工智能大会暨人工智能全球治理高级别会议闭幕式上，意界智创等32个项目集中签约，成为上海市人工智能重点项目，总签约金额超过409亿元。据了解，目前意界智创已进入半导体等高端制造场景开展产品研发与应用验证。公司方面表示，未来计划以高端制造为起点，持续拓展至物流、商业服务及家庭等更多真实场景。",
+      "title": "中微半导：预计2026年上半年净利润同比增长90.82%",
+      "link": "https://36kr.com/newsflashes/3906749755774086?f=rss",
+      "summary": "36氪获悉，中微半导公告，预计2026年半年度实现归属于母公司所有者的净利润1.65亿元左右，与上年同期相比，将增加7853.04万元左右，同比增长90.82%左右。本期业绩大幅增长，受益于全球AI及算力需求持续爆发，一方面挤占了MCU产能，另一方面带动了MCU需求增长，以及MCU在原有的消费电子、智能家电、工业控制、汽车电子等领域的市场需求稳步复苏，造成公司MCU市场需求增速超过公司MCU产能增速，出现产能相对紧缺状态，产品出货量增长的同时产品价格上涨，公司营收及利润实现双增长。",
       "source": "36氪",
-      "pub_date": "2026-07-22 11:51:40  +0800",
-      "fetched_at": "2026-07-22T12:00:03.737249",
+      "pub_date": "2026-07-22 19:51:21  +0800",
+      "fetched_at": "2026-07-22T20:00:04.298595",
       "categories": [
         "ai"
       ],
-      "ai_summary": "7月20日，2026世界人工智能大会暨人工智能全球治理高级别会议闭幕式上，意界智创等32个项目集中签约，成为上海市人工智能重点项目，总签约金额超过409亿元。据了解，目前意界智创已进入半导体等高端制造场景开展产品研发与应用验证。公司方面表示，未来计划以高端制造为起点，持续拓展至物流、商业服务及家庭等...",
+      "ai_summary": "36氪获悉，中微半导公告，预计2026年半年度实现归属于母公司所有者的净利润1.65亿元左右，与上年同期相比，将增加7853.04万元左右，同比增长90.82%左右。本期业绩大幅增长，受益于全球AI及算力需求持续爆发，一方面挤占了MCU产能，另一方面带动了MCU需求增长，以及MCU在原有的消费电子、...",
       "keywords": [
-        "意界智创签约上海市人工智能重点项目",
-        "世界人工智能大会暨人工智能全球治理高级别会议闭幕式上",
-        "意界智创等",
-        "个项目集中签约",
-        "成为上海市人工智能重点项目"
+        "mcu",
+        "预计",
+        "中微半导",
+        "年上半年净利润同比增长",
+        "氪获悉"
       ],
       "importance": 0.5
     },
     {
-      "title": "三星拟在韩国投资2000亿韩元建设HVAC工厂",
-      "link": "https://36kr.com/newsflashes/3906263274312834?f=rss",
-      "summary": "7月22日，据报道，业内人士透露，三星电子计划在其位于韩国光州的园区内新建一座HVAC（暖通空调）制造工厂，旨在加速拓展企业对企业中央空调业务。报道称，三星近期已向当地政府提交了光州园区新设施的建设许可申请。该项目预计投资约2000亿韩元，旨在加强HVAC系统产能，包括面向AI数据中心的冷却设备。（界面）",
+      "title": "OpenAI任命两位银行巨头CEO加入公司董事会",
+      "link": "https://36kr.com/newsflashes/3906652944618633?f=rss",
+      "summary": "OpenAI于本周二官宣，增补两名新任董事会成员：巴西数字银行Nubank首席执行官戴维・贝莱斯、纽约梅隆银行首席执行官罗宾・文斯。Nubank是拉丁美洲规模最大的纯数字银行，纽约梅隆银行则是美国头部金融服务机构。（新浪财经）",
       "source": "36氪",
-      "pub_date": "2026-07-22 11:36:29  +0800",
-      "fetched_at": "2026-07-22T12:00:03.737491",
+      "pub_date": "2026-07-22 18:33:50  +0800",
+      "fetched_at": "2026-07-22T20:00:04.300106",
       "categories": [
         "ai"
       ],
-      "ai_summary": "7月22日，据报道，业内人士透露，三星电子计划在其位于韩国光州的园区内新建一座HVAC（暖通空调）制造工厂，旨在加速拓展企业对企业中央空调业务。报道称，三星近期已向当地政府提交了光州园区新设施的建设许可申请。该项目预计投资约2000亿韩元，旨在加强HVAC系统产能，包括面向AI数据中心的冷却设备。（...",
+      "ai_summary": "OpenAI于本周二官宣，增补两名新任董事会成员：巴西数字银行Nubank首席执行官戴维・贝莱斯、纽约梅隆银行首席执行官罗宾・文斯。Nubank是拉丁美洲规模最大的纯数字银行，纽约梅隆银行则是美国头部金融服务机构。（新浪财经）",
       "keywords": [
-        "hvac",
-        "三星拟在韩国投资",
-        "亿韩元建设",
-        "工厂",
-        "据报道"
+        "openai",
+        "nubank",
+        "任命两位银行巨头",
+        "ceo",
+        "加入公司董事会"
       ],
       "importance": 0.5
     },
     {
-      "title": "WAIC重磅成果｜上海仪电智算牵头成立“智算系统架构联盟”并发布《超节点系统架构规范》",
-      "link": "https://www.qbitai.com/2026/07/456052.html",
-      "summary": "",
+      "title": "Halliday发布第二代AI眼镜Halliday G2，AI功能走向“实时参与会议”",
+      "link": "https://www.qbitai.com/2026/07/457049.html",
+      "summary": "通过Meeting Flow让实时智能融入会议与商务沟通场景",
       "source": "量子位",
-      "pub_date": "Tue, 21 Jul 2026 09:39:34 +0000",
-      "fetched_at": "2026-07-22T12:00:03.885830",
+      "pub_date": "Wed, 22 Jul 2026 04:10:16 +0000",
+      "fetched_at": "2026-07-22T20:00:04.515180",
       "categories": [
         "ai"
       ],
-      "ai_summary": "",
+      "ai_summary": "通过Meeting Flow让实时智能融入会议与商务沟通场景",
       "keywords": [
-        "waic",
-        "重磅成果",
-        "上海仪电智算牵头成立",
-        "智算系统架构联盟",
-        "并发布"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "WAIC重磅成果｜智爱赛思全面升级并发布科研专属Token Plan",
-      "link": "https://www.qbitai.com/2026/07/456021.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Tue, 21 Jul 2026 09:21:55 +0000",
-      "fetched_at": "2026-07-22T12:00:03.885842",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "waic",
-        "重磅成果",
-        "智爱赛思全面升级并发布科研专属",
-        "token",
-        "plan"
+        "halliday",
+        "ai",
+        "发布第二代",
+        "眼镜",
+        "功能走向"
       ],
       "importance": 0.5
     }
   ],
   "latest": [
     {
-      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-      "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-      "summary": "👍 269 | 💬 228",
+      "title": "Show HN: A new kind of FPS aim trainer",
+      "link": "https://openaim.pramit.gg/",
+      "summary": "👍 58 | 💬 30",
       "source": "HackerNews",
-      "pub_date": "2026-07-22T01:14:06",
-      "fetched_at": "2026-07-22T12:00:32.316265",
+      "pub_date": "2026-07-22T13:39:31",
+      "fetched_at": "2026-07-22T20:00:56.748247",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 269 | 💬 228",
+      "ai_summary": "👍 58 | 💬 30",
+      "keywords": [
+        "show",
+        "hn",
+        "new",
+        "kind",
+        "of"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "ScreenWall – Turn old phones into synced widgets for your space",
+      "link": "https://screenwall.app/",
+      "summary": "👍 42 | 💬 17",
+      "source": "HackerNews",
+      "pub_date": "2026-07-17T19:00:04",
+      "fetched_at": "2026-07-22T20:00:53.570714",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "👍 42 | 💬 17",
+      "keywords": [
+        "screenwall",
+        "turn",
+        "old",
+        "phones",
+        "into"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+      "summary": "👍 215 | 💬 76",
+      "source": "HackerNews",
+      "pub_date": "2026-07-22T05:13:20",
+      "fetched_at": "2026-07-22T20:00:49.116905",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 215 | 💬 76",
+      "keywords": [
+        "drawing",
+        "the",
+        "mona",
+        "lisa",
+        "with"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "summary": "👍 332 | 💬 288",
+      "source": "HackerNews",
+      "pub_date": "2026-07-22T01:14:06",
+      "fetched_at": "2026-07-22T20:00:45.277403",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 332 | 💬 288",
       "keywords": [
         "jack",
         "dorsey",
@@ -265,14 +325,14 @@
     {
       "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
       "link": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-      "summary": "👍 183 | 💬 141",
+      "summary": "👍 412 | 💬 371",
       "source": "HackerNews",
       "pub_date": "2026-07-22T03:04:39",
-      "fetched_at": "2026-07-22T12:00:26.631929",
+      "fetched_at": "2026-07-22T20:00:29.773697",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 183 | 💬 141",
+      "ai_summary": "👍 412 | 💬 371",
       "keywords": [
         "judge",
         "approves",
@@ -283,36 +343,16 @@
       "importance": 0.5
     },
     {
-      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-      "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
-      "summary": "👍 141 | 💬 51",
-      "source": "HackerNews",
-      "pub_date": "2026-07-22T05:13:20",
-      "fetched_at": "2026-07-22T12:00:24.961673",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 141 | 💬 51",
-      "keywords": [
-        "drawing",
-        "the",
-        "mona",
-        "lisa",
-        "with"
-      ],
-      "importance": 0
-    },
-    {
       "title": "Advertise in ChatGPT",
       "link": "https://ads.openai.com/",
-      "summary": "👍 464 | 💬 377",
+      "summary": "👍 847 | 💬 646",
       "source": "HackerNews",
       "pub_date": "2026-07-22T02:58:44",
-      "fetched_at": "2026-07-22T12:00:19.156584",
+      "fetched_at": "2026-07-22T20:00:24.260660",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 464 | 💬 377",
+      "ai_summary": "👍 847 | 💬 646",
       "keywords": [
         "advertise",
         "in",
@@ -323,14 +363,14 @@
     {
       "title": "OpenAI and Hugging Face address security incident during model evaluation",
       "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-      "summary": "👍 836 | 💬 578",
+      "summary": "👍 1265 | 💬 863",
       "source": "HackerNews",
       "pub_date": "2026-07-22T04:09:52",
-      "fetched_at": "2026-07-22T12:00:07.865634",
+      "fetched_at": "2026-07-22T20:00:09.614686",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 836 | 💬 578",
+      "ai_summary": "👍 1265 | 💬 863",
       "keywords": [
         "openai",
         "and",
@@ -341,128 +381,12 @@
       "importance": 0.5
     },
     {
-      "title": "不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面",
-      "link": "https://www.qbitai.com/2026/07/455805.html",
-      "summary": "大模型时代的共同选择",
-      "source": "量子位",
-      "pub_date": "Mon, 20 Jul 2026 10:33:23 +0000",
-      "fetched_at": "2026-07-22T12:00:03.885950",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "大模型时代的共同选择",
-      "keywords": [
-        "不同模型厂同一家",
-        "agentic",
-        "infra",
-        "agi",
-        "时代的地基终于浮出水面"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践",
-      "link": "https://www.qbitai.com/2026/07/455963.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Mon, 20 Jul 2026 10:42:09 +0000",
-      "fetched_at": "2026-07-22T12:00:03.885865",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "waic",
-        "收官",
-        "范式大会亮点集锦",
-        "见证",
-        "ai"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "WAIC重磅成果｜仪电智算云在国家人工智能应用中试基地建设中展现全栈服务能力",
-      "link": "https://www.qbitai.com/2026/07/455998.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Tue, 21 Jul 2026 09:15:50 +0000",
-      "fetched_at": "2026-07-22T12:00:03.885848",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "waic",
-        "重磅成果",
-        "仪电智算云在国家人工智能应用中试基地建设中展现全栈服务能力"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "WAIC重磅成果｜智爱赛思全面升级并发布科研专属Token Plan",
-      "link": "https://www.qbitai.com/2026/07/456021.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Tue, 21 Jul 2026 09:21:55 +0000",
-      "fetched_at": "2026-07-22T12:00:03.885842",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "waic",
-        "重磅成果",
-        "智爱赛思全面升级并发布科研专属",
-        "token",
-        "plan"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "WAIC重磅成果｜上海市教育算力专区正式开启试运行",
-      "link": "https://www.qbitai.com/2026/07/456026.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Tue, 21 Jul 2026 09:30:03 +0000",
-      "fetched_at": "2026-07-22T12:00:03.885837",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "waic",
-        "重磅成果",
-        "上海市教育算力专区正式开启试运行"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "WAIC重磅成果｜上海仪电智算牵头成立“智算系统架构联盟”并发布《超节点系统架构规范》",
-      "link": "https://www.qbitai.com/2026/07/456052.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Tue, 21 Jul 2026 09:39:34 +0000",
-      "fetched_at": "2026-07-22T12:00:03.885830",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "waic",
-        "重磅成果",
-        "上海仪电智算牵头成立",
-        "智算系统架构联盟",
-        "并发布"
-      ],
-      "importance": 0.5
-    },
-    {
       "title": "小红书大模型IMO满分夺金，第三题解法让冠军选手直呼优雅",
       "link": "https://www.qbitai.com/2026/07/456061.html",
       "summary": "中国大模型首次获得IMO官方金牌水平认证",
       "source": "量子位",
       "pub_date": "Wed, 22 Jul 2026 00:34:33 +0000",
-      "fetched_at": "2026-07-22T12:00:03.885819",
+      "fetched_at": "2026-07-22T20:00:04.515640",
       "categories": [
         "ai"
       ],
@@ -482,7 +406,7 @@
       "summary": "机器人真正需要的世界模型，并不是单一物理世界模型，而是物理世界模型与人类社会世界模型的统一",
       "source": "量子位",
       "pub_date": "Wed, 22 Jul 2026 01:46:01 +0000",
-      "fetched_at": "2026-07-22T12:00:03.885728",
+      "fetched_at": "2026-07-22T20:00:04.515568",
       "categories": [
         "ai",
         "robotics"
@@ -498,145 +422,226 @@
       "importance": 0
     },
     {
-      "title": "海南省“十五五”服务业发展规划：发展商业航天技术服务",
-      "link": "https://36kr.com/newsflashes/3906206333228162?f=rss",
-      "summary": "36氪获悉，海南省人民政府办公厅近日印发《海南省“十五五”服务业发展规划》，其中提出，发展商业航天技术服务。依托国际卫星数据交易服务平台、商业航天发射场智慧发射服务系统（二期）、低轨卫星第三方智能化检测服务中心、遥感测绘应用服务能力提升项目，推动商业航天从硬件制造向高附加值运营服务延伸，提升海南在国际航天与测控保障领域的服务能级。",
-      "source": "36氪",
-      "pub_date": "2026-07-22 10:38:33  +0800",
-      "fetched_at": "2026-07-22T12:00:03.738402",
-      "categories": [
-        "space"
-      ],
-      "ai_summary": "36氪获悉，海南省人民政府办公厅近日印发《海南省“十五五”服务业发展规划》，其中提出，发展商业航天技术服务。依托国际卫星数据交易服务平台、商业航天发射场智慧发射服务系统（二期）、低轨卫星第三方智能化检测服务中心、遥感测绘应用服务能力提升项目，推动商业航天从硬件制造向高附加值运营服务延伸，提升海南在国...",
-      "keywords": [
-        "海南省",
-        "十五五",
-        "服务业发展规划",
-        "发展商业航天技术服务",
-        "氪获悉"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "一箭九星，引力一号遥四运载火箭发射成功",
-      "link": "https://36kr.com/newsflashes/3906250194785670?f=rss",
-      "summary": "北京时间2026年7月22日10时54分，我国太原卫星发射中心在上海东部海域使用引力一号遥四运载火箭，将搭载的东坡13~14星、东坡17~20星、西光贰号01星、天仪49星、紫丁香三号卫星共9颗卫星顺利送入预定轨道，飞行试验任务取得圆满成功。此次任务是引力一号运载火箭的第3次飞行。（央视新闻）",
-      "source": "36氪",
-      "pub_date": "2026-07-22 11:23:10  +0800",
-      "fetched_at": "2026-07-22T12:00:03.737713",
-      "categories": [
-        "space"
-      ],
-      "ai_summary": "北京时间2026年7月22日10时54分，我国太原卫星发射中心在上海东部海域使用引力一号遥四运载火箭，将搭载的东坡13~14星、东坡17~20星、西光贰号01星、天仪49星、紫丁香三号卫星共9颗卫星顺利送入预定轨道，飞行试验任务取得圆满成功。此次任务是引力一号运载火箭的第3次飞行。（央视新闻）",
-      "keywords": [
-        "一箭九星",
-        "引力一号遥四运载火箭发射成功",
-        "北京时间",
-        "我国太原卫星发射中心在上海东部海域使用引力一号遥四运载火箭",
-        "将搭载的东坡"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "三星拟在韩国投资2000亿韩元建设HVAC工厂",
-      "link": "https://36kr.com/newsflashes/3906263274312834?f=rss",
-      "summary": "7月22日，据报道，业内人士透露，三星电子计划在其位于韩国光州的园区内新建一座HVAC（暖通空调）制造工厂，旨在加速拓展企业对企业中央空调业务。报道称，三星近期已向当地政府提交了光州园区新设施的建设许可申请。该项目预计投资约2000亿韩元，旨在加强HVAC系统产能，包括面向AI数据中心的冷却设备。（界面）",
-      "source": "36氪",
-      "pub_date": "2026-07-22 11:36:29  +0800",
-      "fetched_at": "2026-07-22T12:00:03.737491",
+      "title": "AI医疗卷了10年终于悟了：不用替代医生，而是给医院装上超强buff",
+      "link": "https://www.qbitai.com/2026/07/456555.html",
+      "summary": "建一座「元医院」比造AI工具难多了。",
+      "source": "量子位",
+      "pub_date": "Wed, 22 Jul 2026 02:59:28 +0000",
+      "fetched_at": "2026-07-22T20:00:04.515498",
       "categories": [
         "ai"
       ],
-      "ai_summary": "7月22日，据报道，业内人士透露，三星电子计划在其位于韩国光州的园区内新建一座HVAC（暖通空调）制造工厂，旨在加速拓展企业对企业中央空调业务。报道称，三星近期已向当地政府提交了光州园区新设施的建设许可申请。该项目预计投资约2000亿韩元，旨在加强HVAC系统产能，包括面向AI数据中心的冷却设备。（...",
+      "ai_summary": "建一座「元医院」比造AI工具难多了。",
       "keywords": [
-        "hvac",
-        "三星拟在韩国投资",
-        "亿韩元建设",
-        "工厂",
-        "据报道"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "意界智创签约上海市人工智能重点项目",
-      "link": "https://36kr.com/newsflashes/3906278198318214?f=rss",
-      "summary": "7月20日，2026世界人工智能大会暨人工智能全球治理高级别会议闭幕式上，意界智创等32个项目集中签约，成为上海市人工智能重点项目，总签约金额超过409亿元。据了解，目前意界智创已进入半导体等高端制造场景开展产品研发与应用验证。公司方面表示，未来计划以高端制造为起点，持续拓展至物流、商业服务及家庭等更多真实场景。",
-      "source": "36氪",
-      "pub_date": "2026-07-22 11:51:40  +0800",
-      "fetched_at": "2026-07-22T12:00:03.737249",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "7月20日，2026世界人工智能大会暨人工智能全球治理高级别会议闭幕式上，意界智创等32个项目集中签约，成为上海市人工智能重点项目，总签约金额超过409亿元。据了解，目前意界智创已进入半导体等高端制造场景开展产品研发与应用验证。公司方面表示，未来计划以高端制造为起点，持续拓展至物流、商业服务及家庭等...",
-      "keywords": [
-        "意界智创签约上海市人工智能重点项目",
-        "世界人工智能大会暨人工智能全球治理高级别会议闭幕式上",
-        "意界智创等",
-        "个项目集中签约",
-        "成为上海市人工智能重点项目"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "氪星晚报｜英特尔将在数据中心部门裁员；日产在美召回超16万辆阿曼达及英菲尼迪SUV；我国将建设3000个以上电动重卡充换电站",
-      "link": "https://36kr.com/p/3905124154721925?f=rss",
-      "summary": "大公司： 日产在美召回超16万辆阿曼达及英菲尼迪SUV 美国国家公路交通安全管理局（NHTSA）7月21日公布，日产北美公司正在召回部分配备22英寸轮毂的2020至2026款阿曼达（Armada）、2011至2013款英菲尼迪QX56以及2014至2027款英菲尼迪QX80车型，涉及约16.8万辆汽车。由于车辆认证标签上的总轴重额定值（GAWR）标注错误，可能导致车辆超载，车辆超载会增加发生碰撞的风险。 Meta与英伟达联手布局AI材料供应链 社交媒体巨头Meta与芯片制造商英伟达周一宣布，共同参与一家英国AI初创公司的材料发现项目，旨在为半导体行业寻找新型制造材料。该初创公司此前已获得亚马逊...",
-      "source": "36氪",
-      "pub_date": "2026-07-21 16:43:23  +0800",
-      "fetched_at": "2026-07-22T12:00:03.722499",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "大公司： 日产在美召回超16万辆阿曼达及英菲尼迪SUV 美国国家公路交通安全管理局（NHTSA）7月21日公布，日产北美公司正在召回部分配备22英寸轮毂的2020至2026款阿曼达（Armada）、2011至2013款英菲尼迪QX56以及2014至2027款英菲尼迪QX80车型，涉及约16.8万辆汽...",
-      "keywords": [
-        "日产在美召回超",
-        "万辆阿曼达及英菲尼迪",
-        "suv",
-        "款英菲尼迪",
-        "qx"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "圆桌论坛：夏天周而复始·VC3.0| 36氪WAVES2026新浪潮",
-      "link": "https://36kr.com/p/3905169127114368?f=rss",
-      "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。” 冯大刚｜36氪CEO（圆桌主持人） 王啸｜九合创投 创始人 刘缨｜软银...",
-      "source": "36氪",
-      "pub_date": "2026-07-21 17:05:17  +0800",
-      "fetched_at": "2026-07-22T12:00:03.719671",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落...",
-      "keywords": [
-        "waves",
         "ai",
-        "圆桌论坛",
-        "夏天周而复始",
-        "vc"
+        "医疗卷了",
+        "年终于悟了",
+        "不用替代医生",
+        "而是给医院装上超强"
       ],
       "importance": 0
     },
     {
-      "title": "8点1氪丨怡颗莓回应“检出致癌物”；美团否认上线“本科专送”“硕士优送”等配送服务；美方喊话三星电子、SK海力士分享超额利润",
-      "link": "https://36kr.com/p/3906043683296648?f=rss",
-      "summary": "今日热点导览 字节XR业务PICO创始人周宏伟将卸任，李晓凯成为新任业务负责人 ZARA客服回应“阔腿裤存安全隐患”：专员正在核实处理 SpaceX将于8月4日发布上市后首份财报 恋与深空多平台账号停更 美国发布全球安全警示 TOP3大新闻 怡颗莓回应“检出致癌物”：国内销售草莓来自云南 近日，全球最大浆果品牌“怡颗莓”（Driscoll's）陷入食品安全争议。美国消费者对其提起集体诉讼，指控其草莓检出包括1类致癌物全氟辛酸（PFOA）在内的8种“永久性化学物”（PFAS）。 中国市场受此影响，山姆会员店、Ole'精品超市等线下渠道已全面下架怡颗莓产品，盒马、永辉、开市客等平台暂停销售。7月2...",
-      "source": "36氪",
-      "pub_date": "2026-07-22 07:55:35  +0800",
-      "fetched_at": "2026-07-22T12:00:03.709220",
+      "title": "物理AI的闭环，终于有人跑通了：日冕+远图万台级部署计划官宣",
+      "link": "https://www.qbitai.com/2026/07/456728.html",
+      "summary": "按照规划，日冕和远图将首先在服务器制造场景验证超级工站能力，随后向更多生产环节扩展。2027年完成百台级部署，未来实现万台级具身智能产品部署。",
+      "source": "量子位",
+      "pub_date": "Wed, 22 Jul 2026 03:06:21 +0000",
+      "fetched_at": "2026-07-22T20:00:04.515425",
       "categories": [
-        "space"
+        "ai",
+        "robotics"
       ],
-      "ai_summary": "今日热点导览 字节XR业务PICO创始人周宏伟将卸任，李晓凯成为新任业务负责人 ZARA客服回应“阔腿裤存安全隐患”：专员正在核实处理 SpaceX将于8月4日发布上市后首份财报 恋与深空多平台账号停更 美国发布全球安全警示 TOP3大新闻 怡颗莓回应“检出致癌物”：国内销售草莓来自云南 近日，全球...",
+      "ai_summary": "按照规划，日冕和远图将首先在服务器制造场景验证超级工站能力，随后向更多生产环节扩展。2027年完成百台级部署，未来实现万台级具身智能产品部署。",
       "keywords": [
-        "检出致癌物",
-        "氪丨怡颗莓回应",
-        "美团否认上线",
-        "本科专送",
-        "硕士优送"
+        "物理",
+        "ai",
+        "的闭环",
+        "终于有人跑通了",
+        "日冕"
       ],
-      "importance": 1.5
+      "importance": 0
+    },
+    {
+      "title": "懂你、能交付、专业操作：金山办公田然给出AI办公助理的三项标准",
+      "link": "https://www.qbitai.com/2026/07/456910.html",
+      "summary": "",
+      "source": "量子位",
+      "pub_date": "Wed, 22 Jul 2026 03:24:37 +0000",
+      "fetched_at": "2026-07-22T20:00:04.515345",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "",
+      "keywords": [
+        "懂你",
+        "能交付",
+        "专业操作",
+        "金山办公田然给出",
+        "ai"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "我在WAIC 2026看见的十大趋势",
+      "link": "https://www.qbitai.com/2026/07/456974.html",
+      "summary": "没有人因此热情减退",
+      "source": "量子位",
+      "pub_date": "Wed, 22 Jul 2026 03:46:30 +0000",
+      "fetched_at": "2026-07-22T20:00:04.515335",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "没有人因此热情减退",
+      "keywords": [
+        "我在",
+        "waic",
+        "看见的十大趋势",
+        "没有人因此热情减退"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "天立启鸣发布教育AGI白皮书：破解教育“不可能三角”",
+      "link": "https://www.qbitai.com/2026/07/457040.html",
+      "summary": "从答题响应到心智仿真",
+      "source": "量子位",
+      "pub_date": "Wed, 22 Jul 2026 03:54:49 +0000",
+      "fetched_at": "2026-07-22T20:00:04.515257",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "从答题响应到心智仿真",
+      "keywords": [
+        "天立启鸣发布教育",
+        "agi",
+        "白皮书",
+        "破解教育",
+        "不可能三角"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Halliday发布第二代AI眼镜Halliday G2，AI功能走向“实时参与会议”",
+      "link": "https://www.qbitai.com/2026/07/457049.html",
+      "summary": "通过Meeting Flow让实时智能融入会议与商务沟通场景",
+      "source": "量子位",
+      "pub_date": "Wed, 22 Jul 2026 04:10:16 +0000",
+      "fetched_at": "2026-07-22T20:00:04.515180",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "通过Meeting Flow让实时智能融入会议与商务沟通场景",
+      "keywords": [
+        "halliday",
+        "ai",
+        "发布第二代",
+        "眼镜",
+        "功能走向"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "业内首款超算+智算的大规模计算底座，在WAIC上我们找到了",
+      "link": "https://www.qbitai.com/2026/07/457054.html",
+      "summary": "一颗“不走寻常路”的芯",
+      "source": "量子位",
+      "pub_date": "Wed, 22 Jul 2026 05:47:42 +0000",
+      "fetched_at": "2026-07-22T20:00:04.515091",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "一颗“不走寻常路”的芯",
+      "keywords": [
+        "业内首款超算",
+        "智算的大规模计算底座",
+        "waic",
+        "上我们找到了",
+        "一颗"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "百度文心助手任务Agent登顶国际权威榜单，超越Claude、GPT拿下全球智能体冠军",
+      "link": "https://www.qbitai.com/2026/07/457117.html",
+      "summary": "",
+      "source": "量子位",
+      "pub_date": "Wed, 22 Jul 2026 07:31:19 +0000",
+      "fetched_at": "2026-07-22T20:00:04.514961",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "",
+      "keywords": [
+        "百度文心助手任务",
+        "agent",
+        "登顶国际权威榜单",
+        "超越",
+        "claude"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "OpenAI任命两位银行巨头CEO加入公司董事会",
+      "link": "https://36kr.com/newsflashes/3906652944618633?f=rss",
+      "summary": "OpenAI于本周二官宣，增补两名新任董事会成员：巴西数字银行Nubank首席执行官戴维・贝莱斯、纽约梅隆银行首席执行官罗宾・文斯。Nubank是拉丁美洲规模最大的纯数字银行，纽约梅隆银行则是美国头部金融服务机构。（新浪财经）",
+      "source": "36氪",
+      "pub_date": "2026-07-22 18:33:50  +0800",
+      "fetched_at": "2026-07-22T20:00:04.300106",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "OpenAI于本周二官宣，增补两名新任董事会成员：巴西数字银行Nubank首席执行官戴维・贝莱斯、纽约梅隆银行首席执行官罗宾・文斯。Nubank是拉丁美洲规模最大的纯数字银行，纽约梅隆银行则是美国头部金融服务机构。（新浪财经）",
+      "keywords": [
+        "openai",
+        "nubank",
+        "任命两位银行巨头",
+        "ceo",
+        "加入公司董事会"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "凌迪科技携两大产品亮相WAIC 2026，展示物理AI仿真能力",
+      "link": "https://36kr.com/newsflashes/3906679130231936?f=rss",
+      "summary": "WAIC 2026期间，凌迪科技携SynReal World与StyleWork亮相，集中展现了凌迪科技在物理AI与产业智能化领域的实践。SynReal World面向具身智能，覆盖数据生成、虚拟训练与仿真评测；StyleWork面向服装等轻工业场景，以AI Agent能力支持设计、选品、营销和运营协同。",
+      "source": "36氪",
+      "pub_date": "2026-07-22 18:39:31  +0800",
+      "fetched_at": "2026-07-22T20:00:04.299945",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "WAIC 2026期间，凌迪科技携SynReal World与StyleWork亮相，集中展现了凌迪科技在物理AI与产业智能化领域的实践。SynReal World面向具身智能，覆盖数据生成、虚拟训练与仿真评测；StyleWork面向服装等轻工业场景，以AI Agent能力支持设计、选品、营销和运营...",
+      "keywords": [
+        "ai",
+        "waic",
+        "synreal",
+        "world",
+        "stylework"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "WPS AI登顶TableBench方法榜",
+      "link": "https://36kr.com/newsflashes/3906704457667970?f=rss",
+      "summary": "36氪获悉，7月21日，国际表格问答基准TableBench更新最新榜单，金山办公旗下WPS AI以72.54分登顶Methodology Leaderboard（方法榜）。TableBench设有“方法榜”与“大语言模型榜”两个独立榜单，WPS AI事实核验与数值推理均超过90分。",
+      "source": "36氪",
+      "pub_date": "2026-07-22 19:16:18  +0800",
+      "fetched_at": "2026-07-22T20:00:04.299235",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "36氪获悉，7月21日，国际表格问答基准TableBench更新最新榜单，金山办公旗下WPS AI以72.54分登顶Methodology Leaderboard（方法榜）。TableBench设有“方法榜”与“大语言模型榜”两个独立榜单，WPS AI事实核验与数值推理均超过90分。",
+      "keywords": [
+        "wps",
+        "ai",
+        "tablebench",
+        "方法榜",
+        "登顶"
+      ],
+      "importance": 0
     }
   ],
-  "updated_at": "2026-07-22T12:00:46.373824"
+  "updated_at": "2026-07-22T20:00:59.245087"
 }

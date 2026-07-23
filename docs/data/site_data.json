@@ -5,48 +5,70 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-07-22T20:00:59.245087",
-    "total_items": 34
+    "last_update": "2026-07-23T12:00:46.016908",
+    "total_items": 38
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 30
+      "count": 35
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 3
+      "count": 5
     },
     "space": {
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 4
+      "count": 3
     }
   },
   "stats": {
-    "total_items": 34,
-    "today_items": 34,
+    "total_items": 38,
+    "today_items": 38,
     "sources": {
+      "36氪": 14,
       "Solidot": 9,
-      "36氪": 8,
-      "量子位": 10,
-      "HackerNews": 7
+      "量子位": 9,
+      "HackerNews": 6
     },
-    "last_update": "2026-07-22T20:00:59.245087"
+    "last_update": "2026-07-23T12:00:46.016908"
   },
   "trending": [
+    {
+      "title": "8点1氪丨小红书回应IPO因前员工举报而受阻传闻：均不属实；谷歌Gemini跌出全球排名前十；耐克宣布终止滔搏线上经销权",
+      "link": "https://36kr.com/p/3907461333144711?f=rss",
+      "summary": "今日热点导览 香港高院驳回宗馥莉上诉申请，维持冻结18亿美元资产 苹果拟推出月租iPhone，支持大多数机型 SpaceX做空比例飙至32%，马斯克警告空头：几无存活可能 康美药业原实控人马兴田夫妇赔付13.96亿元 宇树科技王兴兴：具身智能的“ChatGPT时刻\"有望最快在两三年内到来 越疆科技回应招股书举报风波 TOP3大新闻 小红书回应IPO传闻 近日，有较多传言称“小红书已于6月底前秘密提交IPO申请”，但因前员工举报其“上市合规”问题而受阻。7月22日，小红书方面回应界面新闻称，目前流传的IPO相关信息均不属实。（界面新闻） Gemini掉出全球前十 当地时间7月21日，谷歌Deep...",
+      "source": "36氪",
+      "pub_date": "2026-07-23 07:58:11  +0800",
+      "fetched_at": "2026-07-23T12:00:03.606008",
+      "categories": [
+        "ai",
+        "robotics",
+        "space"
+      ],
+      "ai_summary": "今日热点导览 香港高院驳回宗馥莉上诉申请，维持冻结18亿美元资产 苹果拟推出月租iPhone，支持大多数机型 SpaceX做空比例飙至32%，马斯克警告空头：几无存活可能 康美药业原实控人马兴田夫妇赔付13.96亿元 宇树科技王兴兴：具身智能的“ChatGPT时刻\"有望最快在两三年内到来 越疆科技回...",
+      "keywords": [
+        "ipo",
+        "谷歌",
+        "gemini",
+        "氪丨小红书回应",
+        "因前员工举报而受阻传闻"
+      ],
+      "importance": 2.5
+    },
     {
       "title": "美国科技巨头的隐性债务高达 1.65 万亿美元",
       "link": "https://www.solidot.org/story?sid=84880",
       "summary": "日经的调查显示，因 AI 投资激增美国五大科技巨头 Google/Alphabet、微软、亚马逊、Meta 和甲骨文的隐性债务高达 1.65 万亿美元，超过了其实际债务。其中 Meta 的表外债务达到了 4200 亿美元，是其账面债务的几乎三倍。甲骨文隐性债务约 2733 亿美元。为支持 AI 研发这些科技巨头在迅速扩充其数据中心等 AI 计算资源，签订了 GPU 和服务器的长期采购协议。",
       "source": "Solidot",
       "pub_date": "Tue, 21 Jul 2026 14:05:09 +0800",
-      "fetched_at": "2026-07-22T20:00:03.773034",
+      "fetched_at": "2026-07-23T12:00:03.170280",
       "categories": [
         "ai"
       ],
@@ -66,7 +88,7 @@
       "summary": "为了训练其 AI 模型 Claude，Anthropic 实施了名为“巴拿马计划”（Project Panama）的行动：大量购买实体图书，拆开书脊、扫描书页，之后将图书残骸送去回收公司。Anthropic 为此投入了数千万美元，聘请了二十年前参与 Google Books 项目的 Google 高管。此外 Anthropic 还从影子图书馆下载了海量的盗版电子书。对于 Anthropic 的行为，法官裁决使用受版权保护图书训练 AI 模型属于合理使用，但其图书盗版行为并不合法。图书出版商以及作者提起了集体诉讼，Anthropic 去年与他们达成了和解，将向图书作者和出版商赔偿 15 亿美元。...",
       "source": "Solidot",
       "pub_date": "Wed, 22 Jul 2026 13:48:04 +0800",
-      "fetched_at": "2026-07-22T20:00:03.771820",
+      "fetched_at": "2026-07-23T12:00:03.169224",
       "categories": [
         "ai"
       ],
@@ -81,52 +103,12 @@
       "importance": 1.5
     },
     {
-      "title": "OpenAI 高管不满中国的开源 AI 战略",
-      "link": "https://www.solidot.org/story?sid=84877",
-      "summary": "在月之暗面宣布首个 3 万亿参数级别开放权重模型 Kimi K3 之后，前特朗普 AI 高级顾问、现 OpenAI 战略主管 Dean Ball 在 X 平台上表示，开放权重模型的战略将导致“AI 共产主义”，可能会“减缓 AI 的发展”，因为会“阻碍 AI 领域的资本支出”。他认为政府可以通过 FUD 策略（即 fear, uncertainty, and doubt）阻止美国公司使用开放权重模型。他后来澄清说这只是预测不是建议，声称他支持 AI 开源/开放权重。美国两大前沿 AI 公司 OpenAI 和 Anthropic 仍然有领先优势，但优势在缩小，它们采用的都是闭源模式。",
-      "source": "Solidot",
-      "pub_date": "Tue, 21 Jul 2026 00:20:11 +0800",
-      "fetched_at": "2026-07-22T20:00:03.773443",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "在月之暗面宣布首个 3 万亿参数级别开放权重模型 Kimi K3 之后，前特朗普 AI 高级顾问、现 OpenAI 战略主管 Dean Ball 在 X 平台上表示，开放权重模型的战略将导致“AI 共产主义”，可能会“减缓 AI 的发展”，因为会“阻碍 AI 领域的资本支出”。他认为政府可以通过 F...",
-      "keywords": [
-        "ai",
-        "openai",
-        "高管不满中国的开源",
-        "战略",
-        "在月之暗面宣布首个"
-      ],
-      "importance": 1.5
-    },
-    {
-      "title": "8点1氪丨怡颗莓回应“检出致癌物”；美团否认上线“本科专送”“硕士优送”等配送服务；美方喊话三星电子、SK海力士分享超额利润",
-      "link": "https://36kr.com/p/3906043683296648?f=rss",
-      "summary": "今日热点导览 字节XR业务PICO创始人周宏伟将卸任，李晓凯成为新任业务负责人 ZARA客服回应“阔腿裤存安全隐患”：专员正在核实处理 SpaceX将于8月4日发布上市后首份财报 恋与深空多平台账号停更 美国发布全球安全警示 TOP3大新闻 怡颗莓回应“检出致癌物”：国内销售草莓来自云南 近日，全球最大浆果品牌“怡颗莓”（Driscoll's）陷入食品安全争议。美国消费者对其提起集体诉讼，指控其草莓检出包括1类致癌物全氟辛酸（PFOA）在内的8种“永久性化学物”（PFAS）。 中国市场受此影响，山姆会员店、Ole'精品超市等线下渠道已全面下架怡颗莓产品，盒马、永辉、开市客等平台暂停销售。7月2...",
-      "source": "36氪",
-      "pub_date": "2026-07-22 07:55:35  +0800",
-      "fetched_at": "2026-07-22T20:00:04.295422",
-      "categories": [
-        "space"
-      ],
-      "ai_summary": "今日热点导览 字节XR业务PICO创始人周宏伟将卸任，李晓凯成为新任业务负责人 ZARA客服回应“阔腿裤存安全隐患”：专员正在核实处理 SpaceX将于8月4日发布上市后首份财报 恋与深空多平台账号停更 美国发布全球安全警示 TOP3大新闻 怡颗莓回应“检出致癌物”：国内销售草莓来自云南 近日，全球...",
-      "keywords": [
-        "检出致癌物",
-        "氪丨怡颗莓回应",
-        "美团否认上线",
-        "本科专送",
-        "硕士优送"
-      ],
-      "importance": 1.5
-    },
-    {
       "title": "苹果应用商店涌入大量 AI 辅助开发的应用",
       "link": "https://www.solidot.org/story?sid=84893",
       "summary": "根据 Sensor Tower 的估计，2025 年苹果 App Store 上架的新应用数量增长 30% 达到约 60 万。今年上半年，新应用数量翻了一番达到约 56 万。虽然更多的应用理论上能为苹果带来更多的佣金，然而应用数量的大幅增长并没有带来下载量大幅增加，Sensor Tower 的数据显示去年 App Store 的下载量增长 3% 达到 354 亿次，今年上半年下载量增长 2% 达到 176 亿次。由于涌入了大量应用，苹果审核人员显然有点跟不上了。应用开发者在苹果开发者论坛上抱怨审核时间过长。分析师认为这一波 AI 辅助编程应用浪潮可能不会为苹果带来多少收入，因为此类应用通常是靠...",
       "source": "Solidot",
       "pub_date": "Wed, 22 Jul 2026 17:00:39 +0800",
-      "fetched_at": "2026-07-22T20:00:03.771055",
+      "fetched_at": "2026-07-23T12:00:03.168472",
       "categories": [
         "ai"
       ],
@@ -141,22 +123,42 @@
       "importance": 1.0
     },
     {
-      "title": "硬氪首发 | 前华为智驾骨干入局AI船舶，已获亿元订单，专攻休闲艇",
-      "link": "https://36kr.com/p/3906468088042886?f=rss",
-      "summary": "硬氪获悉，智能船艇公司同舟智航近日完成数千万种子轮融资，由英诺天使和吴中金控联合领投，江苏金桥基金跟投。融资将用于补充核心研发与量产团队人才，同步启动海外品牌建设与渠道开拓。 同舟智航2025年6月成立，核心理念是用人工智能赋能船舶。创始人张呈伦拥有10余年汽车自动驾驶行业经验，曾任华为商用车解决方案部负责人，并创立过规模超百人的矿山自动驾驶公司。 团队自动驾驶基因雄厚，首席科学家为美国康涅狄格大学AI博士及博士后，曾任某自动驾驶独角兽公司的感知预测负责人；智能航行技术VP为法国巴黎萨克雷大学AI硕士，历任Intel算法科学家、驭势科技高级研究员及挚途科技规控部部长；商务合伙人拥有12年华为大...",
+      "title": "36氪首发 | 同济博士做几何、物理AI重构设计制造，累计获超3亿元融资",
+      "link": "https://36kr.com/p/3907532622648453?f=rss",
+      "summary": "图源/企业 本文约1400字，建议阅读3分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，工业AI设计研发解决方案供应商「设序科技」于近日正式完成B轮超亿元融资，累计获超3亿元融资，投资方包括深产投、合鼎共及老股东涌铧投资等。融资将用于市场开拓（含出海）及核心模型技术研发。 设序科技成立于2020年，旗下产品“则形AI”是基于自研工业世界模型与自然语言大模型封装的面向硬件工程的设计研发智能体平台，提供云架构下的3D设计方案与2D工程图纸智能生成功能。创始人兼CEO吴泳荣为同济大学先进制造方向博士，曾任通用先进制造实验室研究员、蔚来汽车智能制造专家。 相比去年，设序原有的3D生成与2D生成两大产品线经历...",
       "source": "36氪",
-      "pub_date": "2026-07-22 15:06:04  +0800",
-      "fetched_at": "2026-07-22T20:00:04.278248",
+      "pub_date": "2026-07-23 09:08:03  +0800",
+      "fetched_at": "2026-07-23T12:00:03.600886",
       "categories": [
         "ai"
       ],
-      "ai_summary": "硬氪获悉，智能船艇公司同舟智航近日完成数千万种子轮融资，由英诺天使和吴中金控联合领投，江苏金桥基金跟投。融资将用于补充核心研发与量产团队人才，同步启动海外品牌建设与渠道开拓。...",
+      "ai_summary": "图源/企业 本文约1400字，建议阅读3分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，工业AI设计研发解决方案供应商「设序科技」于近日正式完成B轮超亿元融资，累计获超3亿元融资，投资方包括深产投、合鼎共及老股东涌铧投资等。融资将用于市场开拓（含出海）及核心模型技术研发。...",
       "keywords": [
         "ai",
-        "硬氪首发",
-        "前华为智驾骨干入局",
-        "船舶",
-        "已获亿元订单"
+        "累计获超",
+        "亿元融资",
+        "氪首发",
+        "同济博士做几何"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "“智象未来”完成C轮融资",
+      "link": "https://36kr.com/newsflashes/3907615630546306?f=rss",
+      "summary": "36氪获悉，近日，“智象未来”（HiDream.ai）宣布完成15亿元人民币的C轮融资。本轮融资由社保基金四川振兴科创基金、工银资本、弘颐资管、敦鸿资本联合领投，厦门国贸资本、上影新视野基金、湖北长江产业投资集团、华策影视、航源资本、创云海资本、华福投资、余杭金控股份、交银资本、若松基金等多家机构跟投。老股东合肥产投、东方富海、金浦投资、金华金投、中哲创、财鑫资本持续加注。至此，智象近三个月内已完成三轮融资，累计融资超过21亿元人民币。",
+      "source": "36氪",
+      "pub_date": "2026-07-23 10:32:10  +0800",
+      "fetched_at": "2026-07-23T12:00:03.620392",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "36氪获悉，近日，“智象未来”（HiDream.ai）宣布完成15亿元人民币的C轮融资。本轮融资由社保基金四川振兴科创基金、工银资本、弘颐资管、敦鸿资本联合领投，厦门国贸资本、上影新视野基金、湖北长江产业投资集团、华策影视、航源资本、创云海资本、华福投资、余杭金控股份、交银资本、若松基金等多家机构跟...",
+      "keywords": [
+        "智象未来",
+        "轮融资",
+        "完成",
+        "氪获悉",
+        "近日"
       ],
       "importance": 1.0
     },
@@ -166,7 +168,7 @@
       "summary": "在生成式 AI 时代，流行公民科学数据库如 iNaturalist 和 Macaulay Library 也免不了被 AI slop 入侵。研究人员在《自然》上报告，他们在记录野生动物物种的流行公民数据库内发现了数百张 AI 生成的虚假图像。问题的真实规模尚不清楚，因为有许多假图可能未被发现。文章作者 Alexander Lees 博士称他在 Facebook 上看到的野生动物照片基本上都是 AI 生成的。他指出公民科学数据库里彻头彻尾的假图还比较罕见，问题主要是照片上传者会用 AI 美化下图像，结果生成式 AI 给图像添加了不存在的内容。iNaturalist 上逾 6.1 亿张图像只有 1...",
       "source": "Solidot",
       "pub_date": "Tue, 21 Jul 2026 18:59:11 +0800",
-      "fetched_at": "2026-07-22T20:00:03.772332",
+      "fetched_at": "2026-07-23T12:00:03.169647",
       "categories": [
         "ai"
       ],
@@ -181,345 +183,185 @@
       "importance": 0.5
     },
     {
-      "title": "中微半导：预计2026年上半年净利润同比增长90.82%",
-      "link": "https://36kr.com/newsflashes/3906749755774086?f=rss",
-      "summary": "36氪获悉，中微半导公告，预计2026年半年度实现归属于母公司所有者的净利润1.65亿元左右，与上年同期相比，将增加7853.04万元左右，同比增长90.82%左右。本期业绩大幅增长，受益于全球AI及算力需求持续爆发，一方面挤占了MCU产能，另一方面带动了MCU需求增长，以及MCU在原有的消费电子、智能家电、工业控制、汽车电子等领域的市场需求稳步复苏，造成公司MCU市场需求增速超过公司MCU产能增速，出现产能相对紧缺状态，产品出货量增长的同时产品价格上涨，公司营收及利润实现双增长。",
+      "title": "硬氪首发 | 大疆系AI自然探索公司获五源、顺为投资，首创水下光学系统",
+      "link": "https://36kr.com/p/3906474040153220?f=rss",
+      "summary": "硬氪获悉，水下AI自然探索科技公司Deeplore近日完成数千万元种子轮融资，由五源资本、顺为资本联合投资。资金将核心用于研发团队扩建与水下AI技术深耕，加速首款AI潜水面镜落地迭代，搭建水下自然探索智能平台的技术底座。 一群在消费电子行业征战十余年的大疆老兵，把目光从天空转向了深海。 Deeplore 2025年诞生于深圳，核心团队大多出自大疆，覆盖产品定义、硬核研发、全球商业全链路，是典型的“技术+量产+全球化”组合。 更特别的是，三位创始人均是资深潜水与户外运动爱好者：创始人丘力是拥有200+潜次的救援潜水员，也曾任大疆核心结构专家、能源BU负责人，后以森合创新联合创始人身份积累了完整的...",
       "source": "36氪",
-      "pub_date": "2026-07-22 19:51:21  +0800",
-      "fetched_at": "2026-07-22T20:00:04.298595",
+      "pub_date": "2026-07-23 10:30:00  +0800",
+      "fetched_at": "2026-07-23T12:00:03.594990",
       "categories": [
         "ai"
       ],
-      "ai_summary": "36氪获悉，中微半导公告，预计2026年半年度实现归属于母公司所有者的净利润1.65亿元左右，与上年同期相比，将增加7853.04万元左右，同比增长90.82%左右。本期业绩大幅增长，受益于全球AI及算力需求持续爆发，一方面挤占了MCU产能，另一方面带动了MCU需求增长，以及MCU在原有的消费电子、...",
+      "ai_summary": "硬氪获悉，水下AI自然探索科技公司Deeplore近日完成数千万元种子轮融资，由五源资本、顺为资本联合投资。资金将核心用于研发团队扩建与水下AI技术深耕，加速首款AI潜水面镜落地迭代，搭建水下自然探索智能平台的技术底座。...",
       "keywords": [
-        "mcu",
-        "预计",
-        "中微半导",
-        "年上半年净利润同比增长",
-        "氪获悉"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "OpenAI任命两位银行巨头CEO加入公司董事会",
-      "link": "https://36kr.com/newsflashes/3906652944618633?f=rss",
-      "summary": "OpenAI于本周二官宣，增补两名新任董事会成员：巴西数字银行Nubank首席执行官戴维・贝莱斯、纽约梅隆银行首席执行官罗宾・文斯。Nubank是拉丁美洲规模最大的纯数字银行，纽约梅隆银行则是美国头部金融服务机构。（新浪财经）",
-      "source": "36氪",
-      "pub_date": "2026-07-22 18:33:50  +0800",
-      "fetched_at": "2026-07-22T20:00:04.300106",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "OpenAI于本周二官宣，增补两名新任董事会成员：巴西数字银行Nubank首席执行官戴维・贝莱斯、纽约梅隆银行首席执行官罗宾・文斯。Nubank是拉丁美洲规模最大的纯数字银行，纽约梅隆银行则是美国头部金融服务机构。（新浪财经）",
-      "keywords": [
-        "openai",
-        "nubank",
-        "任命两位银行巨头",
-        "ceo",
-        "加入公司董事会"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "Halliday发布第二代AI眼镜Halliday G2，AI功能走向“实时参与会议”",
-      "link": "https://www.qbitai.com/2026/07/457049.html",
-      "summary": "通过Meeting Flow让实时智能融入会议与商务沟通场景",
-      "source": "量子位",
-      "pub_date": "Wed, 22 Jul 2026 04:10:16 +0000",
-      "fetched_at": "2026-07-22T20:00:04.515180",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "通过Meeting Flow让实时智能融入会议与商务沟通场景",
-      "keywords": [
-        "halliday",
         "ai",
-        "发布第二代",
-        "眼镜",
-        "功能走向"
+        "deeplore",
+        "硬氪首发",
+        "大疆系",
+        "自然探索公司获五源"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "36氪首发 | 前华尔街投资人下场造“手”，以“自研视触觉+软硬闭环”破解行业数据难题",
+      "link": "https://36kr.com/p/3907536767833473?f=rss",
+      "summary": "图源/企业 本文约2100字，建议阅读5分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，机器人灵巧操作方案提供商拾玥科技（LumiBot）近日完成数千万元天使轮融资。本轮由常州智融长优股权投资合伙企业（有限合伙）领投，另外两家国有投资平台旗下基金跟投。资金将主要用于团队扩张、产品迭代与小批量产线建设，以及灵巧操作数据采集与模型研发。 拾玥科技成立于2025年初，专注于为工业制造、精密装配等高精度场景提供灵巧操作解决方案。目前，公司已推出Lumi-Dex系列高自由度灵巧手、Lumi-Tac指型视触觉传感器、Lumi-Mind灵巧操作模型及Lumi-Mod电机模组四大产品线。 团队方面，创始人吴聿文曾以...",
+      "source": "36氪",
+      "pub_date": "2026-07-23 09:12:15  +0800",
+      "fetched_at": "2026-07-23T12:00:03.599268",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "图源/企业 本文约2100字，建议阅读5分钟 作者丨欧雪 编辑丨袁斯来...",
+      "keywords": [
+        "lumi",
+        "氪首发",
+        "前华尔街投资人下场造",
+        "自研视触觉",
+        "软硬闭环"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "上海：探索推动将S基金纳入嵌套层级豁免范围",
+      "link": "https://36kr.com/newsflashes/3907694112494725?f=rss",
+      "summary": "36氪获悉，中共上海市委金融委员会办公室、上海市发展和改革委员会等部门印发《上海市充分发挥直接融资功能 进一步加强科技金融服务的若干措施》，其中提出，构建投资接续长效机制。加快与全国社保基金会合作设立优选项目基金，建立资本接力、协同赋能的长效机制。研究设立S母基金，引导更多S基金在沪集聚，吸引保险公司、金融资产投资公司（AIC）、金融资产管理公司（AMC）等多种主体出资设立S基金或参与份额交易。探索推动将S基金纳入嵌套层级豁免范围。",
+      "source": "36氪",
+      "pub_date": "2026-07-23 11:52:00  +0800",
+      "fetched_at": "2026-07-23T12:00:03.619011",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "36氪获悉，中共上海市委金融委员会办公室、上海市发展和改革委员会等部门印发《上海市充分发挥直接融资功能 进一步加强科技金融服务的若干措施》，其中提出，构建投资接续长效机制。加快与全国社保基金会合作设立优选项目基金，建立资本接力、协同赋能的长效机制。研究设立S母基金，引导更多S基金在沪集聚，吸引保险公...",
+      "keywords": [
+        "探索推动将",
+        "基金纳入嵌套层级豁免范围",
+        "上海",
+        "氪获悉",
+        "中共上海市委金融委员会办公室"
       ],
       "importance": 0.5
     }
   ],
   "latest": [
     {
-      "title": "Show HN: A new kind of FPS aim trainer",
-      "link": "https://openaim.pramit.gg/",
-      "summary": "👍 58 | 💬 30",
+      "title": "Fairphone 6 wide camera experimental Linux support",
+      "link": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+      "summary": "👍 82 | 💬 9",
       "source": "HackerNews",
-      "pub_date": "2026-07-22T13:39:31",
-      "fetched_at": "2026-07-22T20:00:56.748247",
+      "pub_date": "2026-07-23T04:16:01",
+      "fetched_at": "2026-07-23T12:00:39.654737",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 58 | 💬 30",
+      "ai_summary": "👍 82 | 💬 9",
       "keywords": [
-        "show",
-        "hn",
-        "new",
-        "kind",
-        "of"
+        "fairphone",
+        "wide",
+        "camera",
+        "experimental",
+        "linux"
       ],
       "importance": 0
     },
     {
-      "title": "ScreenWall – Turn old phones into synced widgets for your space",
-      "link": "https://screenwall.app/",
-      "summary": "👍 42 | 💬 17",
+      "title": "So Reddit has decided that plain HTML is unsafe",
+      "link": "https://www.cole-k.com/2026/07/21/reddit/",
+      "summary": "👍 323 | 💬 324",
       "source": "HackerNews",
-      "pub_date": "2026-07-17T19:00:04",
-      "fetched_at": "2026-07-22T20:00:53.570714",
+      "pub_date": "2026-07-22T20:32:48",
+      "fetched_at": "2026-07-23T12:00:38.275741",
       "categories": [
-        "space"
+        "ai"
       ],
-      "ai_summary": "👍 42 | 💬 17",
+      "ai_summary": "👍 323 | 💬 324",
       "keywords": [
-        "screenwall",
-        "turn",
-        "old",
-        "phones",
-        "into"
+        "so",
+        "reddit",
+        "has",
+        "decided",
+        "that"
       ],
       "importance": 0
     },
     {
-      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-      "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
-      "summary": "👍 215 | 💬 76",
+      "title": "Petals: Run LLMs at home, BitTorrent-style",
+      "link": "https://petals.dev/",
+      "summary": "👍 70 | 💬 25",
       "source": "HackerNews",
-      "pub_date": "2026-07-22T05:13:20",
-      "fetched_at": "2026-07-22T20:00:49.116905",
+      "pub_date": "2026-07-23T09:33:12",
+      "fetched_at": "2026-07-23T12:00:30.532551",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 215 | 💬 76",
+      "ai_summary": "👍 70 | 💬 25",
       "keywords": [
-        "drawing",
-        "the",
-        "mona",
-        "lisa",
-        "with"
+        "petals",
+        "run",
+        "llms",
+        "at",
+        "home"
       ],
       "importance": 0
     },
     {
-      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-      "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-      "summary": "👍 332 | 💬 288",
+      "title": "Are AI labs pelicanmaxxing?",
+      "link": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "summary": "👍 421 | 💬 162",
       "source": "HackerNews",
-      "pub_date": "2026-07-22T01:14:06",
-      "fetched_at": "2026-07-22T20:00:45.277403",
+      "pub_date": "2026-07-23T01:17:54",
+      "fetched_at": "2026-07-23T12:00:20.133542",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 332 | 💬 288",
+      "ai_summary": "👍 421 | 💬 162",
       "keywords": [
-        "jack",
-        "dorsey",
-        "launches",
-        "buzz",
-        "to"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-      "link": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-      "summary": "👍 412 | 💬 371",
-      "source": "HackerNews",
-      "pub_date": "2026-07-22T03:04:39",
-      "fetched_at": "2026-07-22T20:00:29.773697",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 412 | 💬 371",
-      "keywords": [
-        "judge",
-        "approves",
-        "anthropic",
-        "settlement",
-        "for"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "Advertise in ChatGPT",
-      "link": "https://ads.openai.com/",
-      "summary": "👍 847 | 💬 646",
-      "source": "HackerNews",
-      "pub_date": "2026-07-22T02:58:44",
-      "fetched_at": "2026-07-22T20:00:24.260660",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 847 | 💬 646",
-      "keywords": [
-        "advertise",
-        "in",
-        "chatgpt"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "OpenAI and Hugging Face address security incident during model evaluation",
-      "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-      "summary": "👍 1265 | 💬 863",
-      "source": "HackerNews",
-      "pub_date": "2026-07-22T04:09:52",
-      "fetched_at": "2026-07-22T20:00:09.614686",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 1265 | 💬 863",
-      "keywords": [
-        "openai",
-        "and",
-        "hugging",
-        "face",
-        "address"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "小红书大模型IMO满分夺金，第三题解法让冠军选手直呼优雅",
-      "link": "https://www.qbitai.com/2026/07/456061.html",
-      "summary": "中国大模型首次获得IMO官方金牌水平认证",
-      "source": "量子位",
-      "pub_date": "Wed, 22 Jul 2026 00:34:33 +0000",
-      "fetched_at": "2026-07-22T20:00:04.515640",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "中国大模型首次获得IMO官方金牌水平认证",
-      "keywords": [
-        "imo",
-        "小红书大模型",
-        "满分夺金",
-        "第三题解法让冠军选手直呼优雅",
-        "中国大模型首次获得"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "酷哇科技亮相WAIC 2026，解密行业首个双层智能体世界模型",
-      "link": "https://www.qbitai.com/2026/07/456178.html",
-      "summary": "机器人真正需要的世界模型，并不是单一物理世界模型，而是物理世界模型与人类社会世界模型的统一",
-      "source": "量子位",
-      "pub_date": "Wed, 22 Jul 2026 01:46:01 +0000",
-      "fetched_at": "2026-07-22T20:00:04.515568",
-      "categories": [
+        "are",
         "ai",
-        "robotics"
-      ],
-      "ai_summary": "机器人真正需要的世界模型，并不是单一物理世界模型，而是物理世界模型与人类社会世界模型的统一",
-      "keywords": [
-        "酷哇科技亮相",
-        "waic",
-        "解密行业首个双层智能体世界模型",
-        "机器人真正需要的世界模型",
-        "并不是单一物理世界模型"
+        "labs",
+        "pelicanmaxxing"
       ],
       "importance": 0
     },
     {
-      "title": "AI医疗卷了10年终于悟了：不用替代医生，而是给医院装上超强buff",
-      "link": "https://www.qbitai.com/2026/07/456555.html",
-      "summary": "建一座「元医院」比造AI工具难多了。",
-      "source": "量子位",
-      "pub_date": "Wed, 22 Jul 2026 02:59:28 +0000",
-      "fetched_at": "2026-07-22T20:00:04.515498",
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "link": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "summary": "👍 204 | 💬 87",
+      "source": "HackerNews",
+      "pub_date": "2026-07-22T22:18:05",
+      "fetched_at": "2026-07-23T12:00:09.953400",
       "categories": [
         "ai"
       ],
-      "ai_summary": "建一座「元医院」比造AI工具难多了。",
+      "ai_summary": "👍 204 | 💬 87",
       "keywords": [
-        "ai",
-        "医疗卷了",
-        "年终于悟了",
-        "不用替代医生",
-        "而是给医院装上超强"
+        "quality",
+        "non",
+        "fiction",
+        "books",
+        "are"
       ],
       "importance": 0
     },
     {
-      "title": "物理AI的闭环，终于有人跑通了：日冕+远图万台级部署计划官宣",
-      "link": "https://www.qbitai.com/2026/07/456728.html",
-      "summary": "按照规划，日冕和远图将首先在服务器制造场景验证超级工站能力，随后向更多生产环节扩展。2027年完成百台级部署，未来实现万台级具身智能产品部署。",
-      "source": "量子位",
-      "pub_date": "Wed, 22 Jul 2026 03:06:21 +0000",
-      "fetched_at": "2026-07-22T20:00:04.515425",
+      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+      "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "summary": "👍 684 | 💬 404",
+      "source": "HackerNews",
+      "pub_date": "2026-07-23T01:30:40",
+      "fetched_at": "2026-07-23T12:00:06.567922",
       "categories": [
-        "ai",
-        "robotics"
+        "ai"
       ],
-      "ai_summary": "按照规划，日冕和远图将首先在服务器制造场景验证超级工站能力，随后向更多生产环节扩展。2027年完成百台级部署，未来实现万台级具身智能产品部署。",
+      "ai_summary": "👍 684 | 💬 404",
       "keywords": [
-        "物理",
-        "ai",
-        "的闭环",
-        "终于有人跑通了",
-        "日冕"
+        "terence",
+        "tao",
+        "chatgpt",
+        "conversation",
+        "about"
       ],
       "importance": 0
-    },
-    {
-      "title": "懂你、能交付、专业操作：金山办公田然给出AI办公助理的三项标准",
-      "link": "https://www.qbitai.com/2026/07/456910.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Wed, 22 Jul 2026 03:24:37 +0000",
-      "fetched_at": "2026-07-22T20:00:04.515345",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "懂你",
-        "能交付",
-        "专业操作",
-        "金山办公田然给出",
-        "ai"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "我在WAIC 2026看见的十大趋势",
-      "link": "https://www.qbitai.com/2026/07/456974.html",
-      "summary": "没有人因此热情减退",
-      "source": "量子位",
-      "pub_date": "Wed, 22 Jul 2026 03:46:30 +0000",
-      "fetched_at": "2026-07-22T20:00:04.515335",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "没有人因此热情减退",
-      "keywords": [
-        "我在",
-        "waic",
-        "看见的十大趋势",
-        "没有人因此热情减退"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "天立启鸣发布教育AGI白皮书：破解教育“不可能三角”",
-      "link": "https://www.qbitai.com/2026/07/457040.html",
-      "summary": "从答题响应到心智仿真",
-      "source": "量子位",
-      "pub_date": "Wed, 22 Jul 2026 03:54:49 +0000",
-      "fetched_at": "2026-07-22T20:00:04.515257",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "从答题响应到心智仿真",
-      "keywords": [
-        "天立启鸣发布教育",
-        "agi",
-        "白皮书",
-        "破解教育",
-        "不可能三角"
-      ],
-      "importance": 0.5
     },
     {
       "title": "Halliday发布第二代AI眼镜Halliday G2，AI功能走向“实时参与会议”",
@@ -527,7 +369,7 @@
       "summary": "通过Meeting Flow让实时智能融入会议与商务沟通场景",
       "source": "量子位",
       "pub_date": "Wed, 22 Jul 2026 04:10:16 +0000",
-      "fetched_at": "2026-07-22T20:00:04.515180",
+      "fetched_at": "2026-07-23T12:00:03.731953",
       "categories": [
         "ai"
       ],
@@ -547,7 +389,7 @@
       "summary": "一颗“不走寻常路”的芯",
       "source": "量子位",
       "pub_date": "Wed, 22 Jul 2026 05:47:42 +0000",
-      "fetched_at": "2026-07-22T20:00:04.515091",
+      "fetched_at": "2026-07-23T12:00:03.731876",
       "categories": [
         "ai"
       ],
@@ -567,7 +409,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Wed, 22 Jul 2026 07:31:19 +0000",
-      "fetched_at": "2026-07-22T20:00:04.514961",
+      "fetched_at": "2026-07-23T12:00:03.731807",
       "categories": [
         "ai"
       ],
@@ -582,66 +424,226 @@
       "importance": 0
     },
     {
-      "title": "OpenAI任命两位银行巨头CEO加入公司董事会",
-      "link": "https://36kr.com/newsflashes/3906652944618633?f=rss",
-      "summary": "OpenAI于本周二官宣，增补两名新任董事会成员：巴西数字银行Nubank首席执行官戴维・贝莱斯、纽约梅隆银行首席执行官罗宾・文斯。Nubank是拉丁美洲规模最大的纯数字银行，纽约梅隆银行则是美国头部金融服务机构。（新浪财经）",
-      "source": "36氪",
-      "pub_date": "2026-07-22 18:33:50  +0800",
-      "fetched_at": "2026-07-22T20:00:04.300106",
+      "title": "美图拿出1亿元，面向全行业寻找AI影像Builder",
+      "link": "https://www.qbitai.com/2026/07/457223.html",
+      "summary": "美图产品挑战赛（Meitu Hatch Catch）火热报名中",
+      "source": "量子位",
+      "pub_date": "Wed, 22 Jul 2026 17:35:44 +0000",
+      "fetched_at": "2026-07-23T12:00:03.731798",
       "categories": [
         "ai"
       ],
-      "ai_summary": "OpenAI于本周二官宣，增补两名新任董事会成员：巴西数字银行Nubank首席执行官戴维・贝莱斯、纽约梅隆银行首席执行官罗宾・文斯。Nubank是拉丁美洲规模最大的纯数字银行，纽约梅隆银行则是美国头部金融服务机构。（新浪财经）",
+      "ai_summary": "美图产品挑战赛（Meitu Hatch Catch）火热报名中",
       "keywords": [
-        "openai",
-        "nubank",
-        "任命两位银行巨头",
-        "ceo",
-        "加入公司董事会"
+        "美图拿出",
+        "亿元",
+        "面向全行业寻找",
+        "ai",
+        "影像"
       ],
       "importance": 0.5
     },
     {
-      "title": "凌迪科技携两大产品亮相WAIC 2026，展示物理AI仿真能力",
-      "link": "https://36kr.com/newsflashes/3906679130231936?f=rss",
-      "summary": "WAIC 2026期间，凌迪科技携SynReal World与StyleWork亮相，集中展现了凌迪科技在物理AI与产业智能化领域的实践。SynReal World面向具身智能，覆盖数据生成、虚拟训练与仿真评测；StyleWork面向服装等轻工业场景，以AI Agent能力支持设计、选品、营销和运营协同。",
-      "source": "36氪",
-      "pub_date": "2026-07-22 18:39:31  +0800",
-      "fetched_at": "2026-07-22T20:00:04.299945",
+      "title": "上海这场大赛有点“野”：让AI自主科研、控核聚变、认甲骨文",
+      "link": "https://www.qbitai.com/2026/07/457249.html",
+      "summary": "为科研OPC创业者铺就“最后一公里”",
+      "source": "量子位",
+      "pub_date": "Thu, 23 Jul 2026 00:35:43 +0000",
+      "fetched_at": "2026-07-23T12:00:03.731718",
       "categories": [
-        "ai",
-        "robotics"
+        "ai"
       ],
-      "ai_summary": "WAIC 2026期间，凌迪科技携SynReal World与StyleWork亮相，集中展现了凌迪科技在物理AI与产业智能化领域的实践。SynReal World面向具身智能，覆盖数据生成、虚拟训练与仿真评测；StyleWork面向服装等轻工业场景，以AI Agent能力支持设计、选品、营销和运营...",
+      "ai_summary": "为科研OPC创业者铺就“最后一公里”",
       "keywords": [
+        "上海这场大赛有点",
         "ai",
-        "waic",
-        "synreal",
-        "world",
-        "stylework"
+        "自主科研",
+        "控核聚变",
+        "认甲骨文"
       ],
       "importance": 0
     },
     {
-      "title": "WPS AI登顶TableBench方法榜",
-      "link": "https://36kr.com/newsflashes/3906704457667970?f=rss",
-      "summary": "36氪获悉，7月21日，国际表格问答基准TableBench更新最新榜单，金山办公旗下WPS AI以72.54分登顶Methodology Leaderboard（方法榜）。TableBench设有“方法榜”与“大语言模型榜”两个独立榜单，WPS AI事实核验与数值推理均超过90分。",
-      "source": "36氪",
-      "pub_date": "2026-07-22 19:16:18  +0800",
-      "fetched_at": "2026-07-22T20:00:04.299235",
+      "title": "太初元碁携手上海人工智能实验室举办AI4S和新型模型架构算子优化赛",
+      "link": "https://www.qbitai.com/2026/07/457356.html",
+      "summary": "",
+      "source": "量子位",
+      "pub_date": "Thu, 23 Jul 2026 01:43:44 +0000",
+      "fetched_at": "2026-07-23T12:00:03.731647",
       "categories": [
         "ai"
       ],
-      "ai_summary": "36氪获悉，7月21日，国际表格问答基准TableBench更新最新榜单，金山办公旗下WPS AI以72.54分登顶Methodology Leaderboard（方法榜）。TableBench设有“方法榜”与“大语言模型榜”两个独立榜单，WPS AI事实核验与数值推理均超过90分。",
+      "ai_summary": "",
       "keywords": [
-        "wps",
+        "太初元碁携手上海人工智能实验室举办",
         "ai",
-        "tablebench",
-        "方法榜",
-        "登顶"
+        "和新型模型架构算子优化赛"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座",
+      "link": "https://www.qbitai.com/2026/07/457359.html",
+      "summary": "",
+      "source": "量子位",
+      "pub_date": "Thu, 23 Jul 2026 01:55:14 +0000",
+      "fetched_at": "2026-07-23T12:00:03.731641",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "",
+      "keywords": [
+        "科大讯飞发布星火",
+        "token",
+        "factory",
+        "打造企业级",
+        "ai"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "芯片卖了56万片之后，阿里平头哥把最值钱的东西开源了",
+      "link": "https://www.qbitai.com/2026/07/457405.html",
+      "summary": "开源AI软件栈SAIL，260+框架即开即用",
+      "source": "量子位",
+      "pub_date": "Thu, 23 Jul 2026 02:09:03 +0000",
+      "fetched_at": "2026-07-23T12:00:03.731631",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "开源AI软件栈SAIL，260+框架即开即用",
+      "keywords": [
+        "芯片卖了",
+        "万片之后",
+        "阿里平头哥把最值钱的东西开源了",
+        "开源",
+        "ai"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "WAIC最狠展台打爆工业「深水区」！它石智航首发具身原生大脑AWE 3.5，具身Scaling全面释放",
+      "link": "https://www.qbitai.com/2026/07/457469.html",
+      "summary": "一台机器人的「多任务实战」",
+      "source": "量子位",
+      "pub_date": "Thu, 23 Jul 2026 03:28:24 +0000",
+      "fetched_at": "2026-07-23T12:00:03.731534",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "一台机器人的「多任务实战」",
+      "keywords": [
+        "waic",
+        "最狠展台打爆工业",
+        "深水区",
+        "它石智航首发具身原生大脑",
+        "awe"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "“智象未来”完成C轮融资",
+      "link": "https://36kr.com/newsflashes/3907615630546306?f=rss",
+      "summary": "36氪获悉，近日，“智象未来”（HiDream.ai）宣布完成15亿元人民币的C轮融资。本轮融资由社保基金四川振兴科创基金、工银资本、弘颐资管、敦鸿资本联合领投，厦门国贸资本、上影新视野基金、湖北长江产业投资集团、华策影视、航源资本、创云海资本、华福投资、余杭金控股份、交银资本、若松基金等多家机构跟投。老股东合肥产投、东方富海、金浦投资、金华金投、中哲创、财鑫资本持续加注。至此，智象近三个月内已完成三轮融资，累计融资超过21亿元人民币。",
+      "source": "36氪",
+      "pub_date": "2026-07-23 10:32:10  +0800",
+      "fetched_at": "2026-07-23T12:00:03.620392",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "36氪获悉，近日，“智象未来”（HiDream.ai）宣布完成15亿元人民币的C轮融资。本轮融资由社保基金四川振兴科创基金、工银资本、弘颐资管、敦鸿资本联合领投，厦门国贸资本、上影新视野基金、湖北长江产业投资集团、华策影视、航源资本、创云海资本、华福投资、余杭金控股份、交银资本、若松基金等多家机构跟...",
+      "keywords": [
+        "智象未来",
+        "轮融资",
+        "完成",
+        "氪获悉",
+        "近日"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "蚂蚁集团旗下公司等入股乐享智能",
+      "link": "https://36kr.com/newsflashes/3907679101801856?f=rss",
+      "summary": "36氪获悉，天眼查App显示，近日，苏州乐享智能科技有限公司近日发生工商变更，新增蚂蚁集团旗下上海云玚企业管理咨询有限公司、安徽泰运投资管理有限公司等为股东，同时，注册资本由约196.5万人民币增至约217.3万人民币。该公司成立于2024年12月，法定代表人为郭人杰，经营范围包括智能机器人的研发、人工智能应用软件开发等，现由郭人杰、苏州凌码科技合伙企业及上述新增股东等共同持股。",
+      "source": "36氪",
+      "pub_date": "2026-07-23 11:36:44  +0800",
+      "fetched_at": "2026-07-23T12:00:03.619692",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "36氪获悉，天眼查App显示，近日，苏州乐享智能科技有限公司近日发生工商变更，新增蚂蚁集团旗下上海云玚企业管理咨询有限公司、安徽泰运投资管理有限公司等为股东，同时，注册资本由约196.5万人民币增至约217.3万人民币。该公司成立于2024年12月，法定代表人为郭人杰，经营范围包括智能机器人的研发、...",
+      "keywords": [
+        "蚂蚁集团旗下公司等入股乐享智能",
+        "氪获悉",
+        "天眼查",
+        "app",
+        "显示"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "阅文推出文创AI智能体“Buddy系列”",
+      "link": "https://36kr.com/newsflashes/3907683274675337?f=rss",
+      "summary": "36氪获悉，近日，阅文集团发布文创垂直AI智能体Buddy系列，升级作家助手NovelBuddy、漫剧助手DramaBuddy、版权助手IPBuddy三款产品，形成覆盖内容创作、IP改编、版权开发的一体化AI工具矩阵。",
+      "source": "36氪",
+      "pub_date": "2026-07-23 11:40:59  +0800",
+      "fetched_at": "2026-07-23T12:00:03.619609",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "36氪获悉，近日，阅文集团发布文创垂直AI智能体Buddy系列，升级作家助手NovelBuddy、漫剧助手DramaBuddy、版权助手IPBuddy三款产品，形成覆盖内容创作、IP改编、版权开发的一体化AI工具矩阵。",
+      "keywords": [
+        "ai",
+        "智能体",
+        "buddy",
+        "系列",
+        "阅文推出文创"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "上海：推动科创板持续深化改革，持续扩大科创板第五套上市标准的适用范围",
+      "link": "https://36kr.com/newsflashes/3907684379055238?f=rss",
+      "summary": "36氪获悉，中共上海市委金融委员会办公室、上海市发展和改革委员会等部门印发《上海市充分发挥直接融资功能 进一步加强科技金融服务的若干措施》，其中提出，推动科创板持续深化改革。推动出台科创板人工智能、低空经济等企业适用第五套标准上市审核指引，推动可控核聚变、具身智能、大模型、量子计算、脑机接口等新兴产业和未来产业领域企业在科创板上市，持续扩大科创板第五套上市标准的适用范围，增强资本市场对前沿科技领域未盈利企业的制度包容性与适应性。用好优质科技企业试点IPO预先审阅机制，推动进一步完善上海证券交易所与优质投资机构及专业投资者的沟通交流机制。",
+      "source": "36氪",
+      "pub_date": "2026-07-23 11:42:06  +0800",
+      "fetched_at": "2026-07-23T12:00:03.619531",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "36氪获悉，中共上海市委金融委员会办公室、上海市发展和改革委员会等部门印发《上海市充分发挥直接融资功能 进一步加强科技金融服务的若干措施》，其中提出，推动科创板持续深化改革。推动出台科创板人工智能、低空经济等企业适用第五套标准上市审核指引，推动可控核聚变、具身智能、大模型、量子计算、脑机接口等新兴产...",
+      "keywords": [
+        "推动科创板持续深化改革",
+        "持续扩大科创板第五套上市标准的适用范围",
+        "上海",
+        "氪获悉",
+        "中共上海市委金融委员会办公室"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "微盟内测“微盟星元”AI原生产品",
+      "link": "https://36kr.com/newsflashes/3907692595418242?f=rss",
+      "summary": "36氪获悉，微盟WAI近期将改版为“微盟星元”，这将是一款面向电商零售赛道的AI原生智能经营系统。“AI原生”在微盟星元中体现为两个层面：交互层面，从传统GUI图形界面转型为LUI语言交互，商家通过自然语言对话即可开启经营；能力层面，微盟将服务数千零售品牌积累的行业Know-how拆解为标准化、可独立调用和自由组合的Skill模块，让Agent具备任务拆解和Skill调度能力，实现“对话即经营”。",
+      "source": "36氪",
+      "pub_date": "2026-07-23 11:50:28  +0800",
+      "fetched_at": "2026-07-23T12:00:03.619100",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "36氪获悉，微盟WAI近期将改版为“微盟星元”，这将是一款面向电商零售赛道的AI原生智能经营系统。“AI原生”在微盟星元中体现为两个层面：交互层面，从传统GUI图形界面转型为LUI语言交互，商家通过自然语言对话即可开启经营；能力层面，微盟将服务数千零售品牌积累的行业Know-how拆解为标准化、可独...",
+      "keywords": [
+        "ai",
+        "微盟星元",
+        "skill",
+        "微盟内测",
+        "原生产品"
       ],
       "importance": 0
     }
   ],
-  "updated_at": "2026-07-22T20:00:59.245087"
+  "updated_at": "2026-07-23T12:00:46.016908"
 }

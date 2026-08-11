@@ -5,623 +5,641 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-08-05T20:00:34.762114",
-    "total_items": 19
+    "last_update": "2026-08-11T12:00:37.437096",
+    "total_items": 24
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 15
+      "count": 21
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 1
+      "count": 3
     },
     "space": {
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 4
+      "count": 3
     }
   },
   "stats": {
-    "total_items": 19,
-    "today_items": 19,
+    "total_items": 24,
+    "today_items": 24,
     "sources": {
-      "Solidot": 6,
-      "量子位": 8,
-      "HackerNews": 5
+      "Solidot": 10,
+      "量子位": 7,
+      "HackerNews": 7
     },
-    "last_update": "2026-08-05T20:00:34.762114"
+    "last_update": "2026-08-11T12:00:37.437096"
   },
   "trending": [
     {
-      "title": "美国据报将豁免中国开放权重模型",
-      "link": "https://www.solidot.org/story?sid=85012",
-      "summary": "白宫已向美国顶尖 AI 企业透露，在特朗普政府新出台的 AI 安全框架下，中国竞争对手正在开发的开放权重模型将被豁免，无需接受美国政府的安全测试。这项豁免决定是在星期二（4日）的一场白宫闭门会议上向行业代表宣布的。OpenAI、Anthropic PBC 以及 Alphabet 旗下的 Google 等硅谷巨头均派代表出席了此次会议。这一尚未公开的 AI 安全框架，源于美国总统特朗普今年 6 月签署的应对 AI 安全问题的行政令。该行政令提出了一项自愿性计划，鼓励 AI 企业将最前沿的模型交由美国审查。促使华盛顿加速推进安全倡议的导火索，是今年 4 月 Anthropic 警告 Mythos ...",
+      "title": "微软 Google 亚马逊 Meta 甲骨文 2027 年负现金流将达到 1250 亿美元",
+      "link": "https://www.solidot.org/story?sid=85043",
+      "summary": "五大科技公司微软、Google、亚马逊、Meta 和甲骨文在 AI 的开发和交付上投入了巨资，因此到 2027 年它们的财务状况将会严重恶化。自由现金流是扣除各项支出和 AI 基础设施成本后的剩余款项，对 S&P Global Market Intelligence 的数据分析显示，五大公司在 2026 年的自由现金流合计几乎为零，而到 2027 年将会出现高达 1250 亿美元的负现金流。其中亚马逊和 Google 两大云计算公司过去三个月损失的现金超过其它任何美国公司。马斯克旗下的 SpaceX 公司情况估计会更严重。",
       "source": "Solidot",
-      "pub_date": "Wed, 05 Aug 2026 15:52:09 +0800",
-      "fetched_at": "2026-08-05T20:00:05.070358",
+      "pub_date": "Sun, 09 Aug 2026 21:24:37 +0800",
+      "fetched_at": "2026-08-11T12:00:06.469682",
+      "categories": [
+        "ai",
+        "space"
+      ],
+      "ai_summary": "五大科技公司微软、Google、亚马逊、Meta 和甲骨文在 AI 的开发和交付上投入了巨资，因此到 2027 年它们的财务状况将会严重恶化。自由现金流是扣除各项支出和 AI 基础设施成本后的剩余款项，对 S&P Global Market Intelligence 的数据分析显示，五大公司在 20...",
+      "keywords": [
+        "google",
+        "亚马逊",
+        "meta",
+        "ai",
+        "微软"
+      ],
+      "importance": 3.0
+    },
+    {
+      "title": "Meta 推出 300 亿参数的开放权重模型 Muse Glimmer",
+      "link": "https://www.solidot.org/story?sid=85054",
+      "summary": "Meta 在 Apache 2.0 许可证下推出了 300 亿参数的开放权重模型 Muse Glimmer。Muse Glimmer 为本地运行的智能体工作流程进行了优化，能在配备了单个消费级 GPU 的 Mac 或 PC 上运行，支持从本地智能体和函数调用到本地编程和 LLM 自动化评估等多种应用场景。Meta 将在未来几天推出针对 llama.cpp、MLX 和 ExecuTorch 的集成。",
+      "source": "Solidot",
+      "pub_date": "Mon, 10 Aug 2026 22:01:22 +0800",
+      "fetched_at": "2026-08-11T12:00:06.467068",
       "categories": [
         "ai"
       ],
-      "ai_summary": "白宫已向美国顶尖 AI 企业透露，在特朗普政府新出台的 AI 安全框架下，中国竞争对手正在开发的开放权重模型将被豁免，无需接受美国政府的安全测试。这项豁免决定是在星期二（4日）的一场白宫闭门会议上向行业代表宣布的。OpenAI、Anthropic PBC 以及 Alphabet 旗下的 Google...",
+      "ai_summary": "Meta 在 Apache 2.0 许可证下推出了 300 亿参数的开放权重模型 Muse Glimmer。Muse Glimmer 为本地运行的智能体工作流程进行了优化，能在配备了单个消费级 GPU 的 Mac 或 PC 上运行，支持从本地智能体和函数调用到本地编程和 LLM 自动化评估等多种应用...",
       "keywords": [
-        "ai",
-        "anthropic",
-        "美国据报将豁免中国开放权重模型",
-        "白宫已向美国顶尖",
-        "企业透露"
-      ],
-      "importance": 1.5
-    },
-    {
-      "title": "倒卖英伟达GPU算力比火箭卫星来钱快！马斯克交出SpaceX首份财报",
-      "link": "https://www.qbitai.com/2026/08/466454.html",
-      "summary": "二季度AI收入暴涨247%",
-      "source": "量子位",
-      "pub_date": "Wed, 05 Aug 2026 04:28:31 +0000",
-      "fetched_at": "2026-08-05T20:00:05.595896",
-      "categories": [
-        "ai",
-        "space"
-      ],
-      "ai_summary": "二季度AI收入暴涨247%",
-      "keywords": [
-        "倒卖英伟达",
-        "gpu",
-        "算力比火箭卫星来钱快",
-        "马斯克交出",
-        "spacex"
-      ],
-      "importance": 1.5
-    },
-    {
-      "title": "特斯拉在华销量持续下滑",
-      "link": "https://www.solidot.org/story?sid=85013",
-      "summary": "中国汽车流通协会乘用车市场信息联席分会（CPCA）的数据显示，特斯拉上海工厂 6 月产量创历史新高，当月生产了 93,579 辆汽车，相比去年同期增幅 38%。但高产量并未转化为中国市场的高销量：特斯拉在华销量连续一年多呈环比下滑趋势。特斯拉上海 6 月生产的电动汽车近 40% 用于出口。今年二季度特斯拉上海生产的汽车中逾五成或 128,394 辆销往欧洲、加拿大和其他亚洲市场，而中国市场销量为 126,157 辆。此前有报道称特斯拉正考虑摆脱对中国业务的依赖，但特斯拉随后否认了这一报道。问题在于特斯拉以及 SpaceX 的 CEO Elon Musk 想要合并两家公司，其中特斯拉已进入标普 ...",
-      "source": "Solidot",
-      "pub_date": "Wed, 05 Aug 2026 16:38:10 +0800",
-      "fetched_at": "2026-08-05T20:00:05.069989",
-      "categories": [
-        "space"
-      ],
-      "ai_summary": "中国汽车流通协会乘用车市场信息联席分会（CPCA）的数据显示，特斯拉上海工厂 6 月产量创历史新高，当月生产了 93,579 辆汽车，相比去年同期增幅 38%。但高产量并未转化为中国市场的高销量：特斯拉在华销量连续一年多呈环比下滑趋势。特斯拉上海 6 月生产的电动汽车近 40% 用于出口。今年二季度...",
-      "keywords": [
-        "特斯拉在华销量持续下滑",
-        "中国汽车流通协会乘用车市场信息联席分会",
-        "cpca",
-        "的数据显示",
-        "特斯拉上海工厂"
+        "meta",
+        "muse",
+        "glimmer",
+        "亿参数的开放权重模型",
+        "推出"
       ],
       "importance": 1.0
     },
     {
-      "title": "两颗戴森球候选天体被排除",
-      "link": "https://www.solidot.org/story?sid=85001",
-      "summary": "戴森球一直都被列为地外文明技术特征的典型标志，天文学家使用韦伯望远镜的中红外仪器（MIRI），对两颗因红外超出而被列为戴森球头号候选的 M 型矮星进行了复查，结果发现所谓异常根本不在恒星身上，而是来自天空中与恒星相距仅约 1 角秒的两颗毫无关联的遥远星系。这意味着两个最有希望的“外星文明巨型工程”均为天然天体物理源。戴森球概念由物理学家弗里曼·戴森在 1960 年提出，其认为一个足够先进的文明为突破行星能源瓶颈，会转向母恒星收集能量，而任何能量收集结构都无法隐藏废热，必然在中红外波段留下特征性辐射。正因如此，NASA 将戴森球列为地外文明典型技术特征之一，并通过望远镜寻找这一先进文明巨型工程的...",
+      "title": "DeepMind 的 WeatherNext 模型在飓风预测上取得突破",
+      "link": "https://www.solidot.org/story?sid=85042",
+      "summary": "2025 年 10 月，加勒比海上空酝酿着一场风暴。气象模型对其路径有不同的预测。它会保持弱势最终登陆海地，还是会增强并袭击牙买加？由 Google DeepMind 和 Google Research 联合开发的模型 WeatherNext 选择了后者。在风暴登陆前五天，该模型以 80% 的置信度预测它将以五级飓风的强度袭击牙买加。飓风梅丽莎（Melissa）给牙买加带来了灾难性的洪水和山体滑坡。但 AI 模型帮助预报员更早向沿途社区发出预警，使他们有时间做好充足准备。研究人员在《自然》上发表论文，称 WeatherNext AI 模型能以前所未有的精度预测飓风。它能比现有模型提前一天发出预...",
       "source": "Solidot",
-      "pub_date": "Tue, 04 Aug 2026 15:46:51 +0800",
-      "fetched_at": "2026-08-05T20:00:05.073350",
+      "pub_date": "Sun, 09 Aug 2026 01:05:07 +0800",
+      "fetched_at": "2026-08-11T12:00:06.470033",
       "categories": [
+        "ai"
+      ],
+      "ai_summary": "2025 年 10 月，加勒比海上空酝酿着一场风暴。气象模型对其路径有不同的预测。它会保持弱势最终登陆海地，还是会增强并袭击牙买加？由 Google DeepMind 和 Google Research 联合开发的模型 WeatherNext 选择了后者。在风暴登陆前五天，该模型以 80% 的置信度...",
+      "keywords": [
+        "weathernext",
+        "deepmind",
+        "google",
+        "ai",
+        "模型在飓风预测上取得突破"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "对磁星的测量或证实了真空双折射理论",
+      "link": "https://www.solidot.org/story?sid=85055",
+      "summary": "国际团队在 2025 年 3 月至 4 月间，结合 NASA 的 IXPE (Imaging X-ray Polarimetry Explorer、NICER (Neutron Star Interior Composition Explorer) 以及澳洲联邦科学与工业研究组织（CSIRO）的 Murriyang 无线电望远镜，对磁星 1E 1547-5408 进行了超过 140 小时的联合观测。这是人类史上首次针对磁星进行同步的无线电与 X 射线偏振测量。这颗每 2 秒自转一周的磁星能持续发出明亮的无线电与 X 射线。观测显示，其光子偏振度是类似天体的三倍之多，远高于标准表面辐射模型的预期...",
+      "source": "Solidot",
+      "pub_date": "Mon, 10 Aug 2026 22:38:00 +0800",
+      "fetched_at": "2026-08-11T12:00:06.466676",
+      "categories": [
+        "ai",
         "space"
       ],
-      "ai_summary": "戴森球一直都被列为地外文明技术特征的典型标志，天文学家使用韦伯望远镜的中红外仪器（MIRI），对两颗因红外超出而被列为戴森球头号候选的 M 型矮星进行了复查，结果发现所谓异常根本不在恒星身上，而是来自天空中与恒星相距仅约 1 角秒的两颗毫无关联的遥远星系。这意味着两个最有希望的“外星文明巨型工程”均...",
+      "ai_summary": "国际团队在 2025 年 3 月至 4 月间，结合 NASA 的 IXPE (Imaging X-ray Polarimetry Explorer、NICER (Neutron Star Interior Composition Explorer) 以及澳洲联邦科学与工业研究组织（CSIRO）的 M...",
       "keywords": [
-        "两颗戴森球候选天体被排除",
-        "戴森球一直都被列为地外文明技术特征的典型标志",
-        "天文学家使用韦伯望远镜的中红外仪器",
-        "miri",
-        "对两颗因红外超出而被列为戴森球头号候选的"
+        "explorer",
+        "对磁星的测量或证实了真空双折射理论",
+        "国际团队在",
+        "月至",
+        "月间"
       ],
       "importance": 0.5
     },
     {
-      "title": "AI 开始大幅减少客服岗位",
-      "link": "https://www.solidot.org/story?sid=84994",
-      "summary": "澳大利亚联邦银行、微软、 Uber 和凯悦酒店等公司正用自动化聊天和电话系统去处理以前需要人工完成的工作。AI 系统开始大幅削减客服人数。呼叫中心行业在美国、印度和菲律宾等地雇佣了数百万从业者。随着 AI 技术的进步以及高管面临拥抱新技术的压力，企业日益用生成式 AI 工具取代客服。美国的客服务人数正在下降，未来这一趋势会继续下去。分析师估计到 2030 年近半客服岗位将受到影响。西方公司此前将客服外包到熟悉英语的菲律宾、印度等国，随着 AI 的普及，这些国家的客服人数预计会大量减少。澳大利亚最大银行——联邦银行（Commonwealth Bank of Australia）裁减了数百名客服，...",
+      "title": "苹果测试长鑫内存",
+      "link": "https://www.solidot.org/story?sid=85050",
+      "summary": "苹果正在 iPhone 和 MacBook 等产品上测试长鑫的内存芯片，以缓解 AI 热导致的内存短缺。苹果已与长鑫就供应内存芯片进行了初步磋商，目标是将其用于部分在中国销售的苹果设备。此前有报道称，PC 制造商惠普和宏碁已开始在美国以外地区销售的笔记本产品中少量使用长鑫内存。长鑫目前占据了约 7% 的内存市场份额，三星、SK海力士和美光占据了九成的市场份额。",
       "source": "Solidot",
-      "pub_date": "Mon, 03 Aug 2026 22:22:06 +0800",
-      "fetched_at": "2026-08-05T20:00:05.076249",
+      "pub_date": "Mon, 10 Aug 2026 16:38:43 +0800",
+      "fetched_at": "2026-08-11T12:00:06.467864",
       "categories": [
         "ai"
       ],
-      "ai_summary": "澳大利亚联邦银行、微软、 Uber 和凯悦酒店等公司正用自动化聊天和电话系统去处理以前需要人工完成的工作。AI 系统开始大幅削减客服人数。呼叫中心行业在美国、印度和菲律宾等地雇佣了数百万从业者。随着 AI 技术的进步以及高管面临拥抱新技术的压力，企业日益用生成式 AI 工具取代客服。美国的客服务人数...",
+      "ai_summary": "苹果正在 iPhone 和 MacBook 等产品上测试长鑫的内存芯片，以缓解 AI 热导致的内存短缺。苹果已与长鑫就供应内存芯片进行了初步磋商，目标是将其用于部分在中国销售的苹果设备。此前有报道称，PC 制造商惠普和宏碁已开始在美国以外地区销售的笔记本产品中少量使用长鑫内存。长鑫目前占据了约 7%...",
       "keywords": [
-        "ai",
-        "随着",
-        "开始大幅减少客服岗位",
-        "澳大利亚联邦银行",
-        "微软"
+        "苹果测试长鑫内存",
+        "苹果正在",
+        "iphone",
+        "macbook",
+        "等产品上测试长鑫的内存芯片"
       ],
       "importance": 0.5
     },
     {
-      "title": "114B参数、6B激活，Sand.ai刚刚开源全球首个千亿MoE视频生成模型",
-      "link": "https://www.qbitai.com/2026/08/466847.html",
-      "summary": "10秒1080P，成本只要5毛钱",
-      "source": "量子位",
-      "pub_date": "Wed, 05 Aug 2026 07:05:41 +0000",
-      "fetched_at": "2026-08-05T20:00:05.595408",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "10秒1080P，成本只要5毛钱",
-      "keywords": [
-        "参数",
-        "激活",
-        "sand",
-        "ai",
-        "刚刚开源全球首个千亿"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "微软叫停Tokenmaxxing！预算卡死，超限自负",
-      "link": "https://www.qbitai.com/2026/08/466739.html",
-      "summary": "内部默认用GPT-5.6",
-      "source": "量子位",
-      "pub_date": "Wed, 05 Aug 2026 06:33:40 +0000",
-      "fetched_at": "2026-08-05T20:00:05.595579",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "内部默认用GPT-5.6",
-      "keywords": [
-        "微软叫停",
-        "tokenmaxxing",
-        "预算卡死",
-        "超限自负",
-        "内部默认用"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”",
-      "link": "https://www.qbitai.com/2026/08/465792.html",
-      "summary": "第二天，就有一篇人类论文回应：AI提出的反例不成立",
-      "source": "量子位",
-      "pub_date": "Tue, 04 Aug 2026 09:22:46 +0000",
-      "fetched_at": "2026-08-05T20:00:05.596222",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "第二天，就有一篇人类论文回应：AI提出的反例不成立",
-      "keywords": [
-        "ai",
-        "数学家",
-        "小时驳回",
-        "openai",
-        "攻破的猜想"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "OpenAI天价网红公关活动，捅马蜂窝了",
-      "link": "https://www.qbitai.com/2026/08/466032.html",
-      "summary": "OpenAI+田园牧歌，画风属实太违和",
-      "source": "量子位",
-      "pub_date": "Tue, 04 Aug 2026 09:13:57 +0000",
-      "fetched_at": "2026-08-05T20:00:05.596475",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "OpenAI+田园牧歌，画风属实太违和",
-      "keywords": [
-        "openai",
-        "天价网红公关活动",
-        "捅马蜂窝了",
-        "田园牧歌",
-        "画风属实太违和"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "中国扫地机器人占据全球七成市场",
-      "link": "https://www.solidot.org/story?sid=85011",
-      "summary": "中国家用扫地机器人厂商正在全球市场形成寡头格局。中国厂商并非打价格战而是比拼开发自主功能的策略奏效，主要 5 家企业合计占据超过 7 成全球市场份额。在因低价竞争而陷入消耗战的中国产业界，实现了罕见增长。其中石头科技 2025 年下半年全球市场份额达到 27%，位居首位。在美国、德国和韩国等发达国家的主要市场位居第一。追觅第二，科沃斯第三，之后是小米和云鲸。在中国，投资集中在成长产业、产品同质化、激烈的价格竞争导致整体陷入消耗战的“内卷”现象已成为社会问题。扫地机器人能否成为例外？",
+      "title": "甲骨文对 OpenJDK 项目禁止 AI 生成代码",
+      "link": "https://www.solidot.org/story?sid=85041",
+      "summary": "甲骨文今年在数据中心扩建上投入了 700 亿美元，内部也在鼓励员工使用 AI 工具生成代码，但对于 JDK 开源版本 OpenJDK 项目，甲骨文以存在安全、隐私和知识产权风险的理由禁止 AI 生成代码。甲骨文表示，开发者可以私底下使用 LLM 进行代码调试（debug）和审查，但不能将 AI 生成的代码提交到代码库、pull request 或其它项目渠道。",
       "source": "Solidot",
-      "pub_date": "Wed, 05 Aug 2026 15:45:56 +0800",
-      "fetched_at": "2026-08-05T20:00:05.070658",
+      "pub_date": "Sat, 08 Aug 2026 23:36:46 +0800",
+      "fetched_at": "2026-08-11T12:00:06.471199",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "甲骨文今年在数据中心扩建上投入了 700 亿美元，内部也在鼓励员工使用 AI 工具生成代码，但对于 JDK 开源版本 OpenJDK 项目，甲骨文以存在安全、隐私和知识产权风险的理由禁止 AI 生成代码。甲骨文表示，开发者可以私底下使用 LLM 进行代码调试（debug）和审查，但不能将 AI 生成...",
+      "keywords": [
+        "ai",
+        "openjdk",
+        "生成代码",
+        "甲骨文对",
+        "项目禁止"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
+      "link": "https://www.qbitai.com/2026/08/469520.html",
+      "summary": "“我们90天就成了独角兽”",
+      "source": "量子位",
+      "pub_date": "Mon, 10 Aug 2026 06:58:58 +0000",
+      "fetched_at": "2026-08-11T12:00:06.953429",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "“我们90天就成了独角兽”",
+      "keywords": [
+        "对话郎咸朋",
+        "具身也会有",
+        "蔚小理",
+        "靠融资实现不了物理",
+        "agi"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "summary": "👍 418 | 💬 405",
+      "source": "HackerNews",
+      "pub_date": "2026-08-10T22:06:22",
+      "fetched_at": "2026-08-11T12:00:23.012878",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 418 | 💬 405",
+      "keywords": [
+        "mark",
+        "zuckerberg",
+        "attacks",
+        "closed",
+        "ai"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "审稿人人数跟不上大幅增长的新论文数量",
+      "link": "https://www.solidot.org/story?sid=85053",
+      "summary": "同行审议是学术出版流程的重要一环，然而随着在 AI 时代论文数稳步增长，审稿人数量逐渐跟不上了。以前一篇论文通常能找到两到三位审稿人，如今很多论文只能找到一名审稿人。研究人员表示，这种情况越来越普遍。同行审议成为科学的基石其实只有约 50 年历史，是 1970 年代美国科学基金会为了避免将科研项目的拨款决定置于国会议员手中。英国的情况类似。如今同行审议已成为标准流程。加快审稿的一种方法是引入 AI 审稿。未来 AI 生成的审稿意见可能会日益常见，今天的很多审稿人已经在使用 AI 工具。",
+      "source": "Solidot",
+      "pub_date": "Mon, 10 Aug 2026 21:39:09 +0800",
+      "fetched_at": "2026-08-11T12:00:06.467270",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "同行审议是学术出版流程的重要一环，然而随着在 AI 时代论文数稳步增长，审稿人数量逐渐跟不上了。以前一篇论文通常能找到两到三位审稿人，如今很多论文只能找到一名审稿人。研究人员表示，这种情况越来越普遍。同行审议成为科学的基石其实只有约 50 年历史，是 1970 年代美国科学基金会为了避免将科研项目的...",
+      "keywords": [
+        "ai",
+        "审稿人人数跟不上大幅增长的新论文数量",
+        "同行审议是学术出版流程的重要一环",
+        "然而随着在",
+        "时代论文数稳步增长"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "中国人形机器人出货量占全球的逾 97%",
+      "link": "https://www.solidot.org/story?sid=85051",
+      "summary": "最新行业数据显示，2026 年上半年，中国人形机器人制造商占全球出货量的 97% 以上，显示中国在这一新兴领域已领先美国。Smart Analytics Global 的数据显示，2026 年上半年，全球人形机器人出货量约 1 万 9100 台，是去年同期 5100 台的三倍多。总部位于上海的智元机器人超越总部位于杭州的宇树科技，跃居市场份额榜首。今年上半年，智元机器人出货量达 8400 台，占全球出货量的 44%，宇树科技则为 5900 台。",
+      "source": "Solidot",
+      "pub_date": "Mon, 10 Aug 2026 17:43:58 +0800",
+      "fetched_at": "2026-08-11T12:00:06.467684",
       "categories": [
         "robotics"
       ],
-      "ai_summary": "中国家用扫地机器人厂商正在全球市场形成寡头格局。中国厂商并非打价格战而是比拼开发自主功能的策略奏效，主要 5 家企业合计占据超过 7 成全球市场份额。在因低价竞争而陷入消耗战的中国产业界，实现了罕见增长。其中石头科技 2025 年下半年全球市场份额达到 27%，位居首位。在美国、德国和韩国等发达国家...",
+      "ai_summary": "最新行业数据显示，2026 年上半年，中国人形机器人制造商占全球出货量的 97% 以上，显示中国在这一新兴领域已领先美国。Smart Analytics Global 的数据显示，2026 年上半年，全球人形机器人出货量约 1 万 9100 台，是去年同期 5100 台的三倍多。总部位于上海的智元机...",
       "keywords": [
-        "中国扫地机器人占据全球七成市场",
-        "中国家用扫地机器人厂商正在全球市场形成寡头格局",
-        "中国厂商并非打价格战而是比拼开发自主功能的策略奏效",
-        "主要",
-        "家企业合计占据超过"
+        "年上半年",
+        "中国人形机器人出货量占全球的逾",
+        "最新行业数据显示",
+        "中国人形机器人制造商占全球出货量的",
+        "以上"
       ],
       "importance": 0
     }
   ],
   "latest": [
     {
-      "title": "An SLM trained on $8 ESP32-S3",
-      "link": "https://github.com/Carloscodix/qapla",
-      "summary": "👍 41 | 💬 15",
+      "title": "Humanising LLM Outputs Is Dumb",
+      "link": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+      "summary": "👍 177 | 💬 107",
       "source": "HackerNews",
-      "pub_date": "2026-08-05T12:07:27",
-      "fetched_at": "2026-08-05T20:00:34.716492",
+      "pub_date": "2026-08-10T21:35:40",
+      "fetched_at": "2026-08-11T12:00:36.558955",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 41 | 💬 15",
+      "ai_summary": "👍 177 | 💬 107",
       "keywords": [
-        "an",
-        "slm",
-        "trained",
-        "on",
-        "esp"
+        "humanising",
+        "llm",
+        "outputs",
+        "is",
+        "dumb"
       ],
       "importance": 0
     },
     {
-      "title": "Eight Myths on Software Engineering and GenAI",
-      "link": "https://queue.acm.org/detail.cfm?id=3807963",
-      "summary": "👍 231 | 💬 192",
+      "title": "Confessions of a Long-Distance Sailor",
+      "link": "https://arachnoid.com/lutusp/sailbook.html",
+      "summary": "👍 78 | 💬 20",
       "source": "HackerNews",
-      "pub_date": "2026-08-05T07:50:52",
-      "fetched_at": "2026-08-05T20:00:32.693272",
+      "pub_date": "2026-08-11T04:52:55",
+      "fetched_at": "2026-08-11T12:00:31.901579",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 231 | 💬 192",
+      "ai_summary": "👍 78 | 💬 20",
       "keywords": [
-        "eight",
-        "myths",
-        "on",
-        "software",
-        "engineering"
+        "confessions",
+        "of",
+        "long",
+        "distance",
+        "sailor"
       ],
       "importance": 0
     },
     {
-      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-      "link": "https://arxiv.org/abs/2607.29377",
-      "summary": "👍 58 | 💬 10",
+      "title": "World Train Map – 1247 train routes around the world",
+      "link": "https://worldtrainmap.com/",
+      "summary": "👍 69 | 💬 23",
       "source": "HackerNews",
-      "pub_date": "2026-08-05T12:36:44",
-      "fetched_at": "2026-08-05T20:00:25.446919",
+      "pub_date": "2026-08-11T06:42:14",
+      "fetched_at": "2026-08-11T12:00:26.141456",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 58 | 💬 10",
+      "ai_summary": "👍 69 | 💬 23",
       "keywords": [
-        "zero",
-        "mem",
-        "token",
-        "memory",
-        "operations"
+        "world",
+        "train",
+        "map",
+        "routes",
+        "around"
       ],
       "importance": 0
     },
     {
-      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-      "link": "https://toneyalexander.github.io/inclusive-color-space/",
-      "summary": "👍 551 | 💬 95",
+      "title": "Hyperspace",
+      "link": "https://hypercritical.co/hyperspace/",
+      "summary": "👍 13 | 💬 4",
       "source": "HackerNews",
-      "pub_date": "2026-08-04T23:16:22",
-      "fetched_at": "2026-08-05T20:00:23.253705",
+      "pub_date": "2026-08-11T10:04:35",
+      "fetched_at": "2026-08-11T12:00:23.919968",
       "categories": [
         "space"
       ],
-      "ai_summary": "👍 551 | 💬 95",
+      "ai_summary": "👍 13 | 💬 4",
+      "keywords": [
+        "hyperspace"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "summary": "👍 418 | 💬 405",
+      "source": "HackerNews",
+      "pub_date": "2026-08-10T22:06:22",
+      "fetched_at": "2026-08-11T12:00:23.012878",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 418 | 💬 405",
+      "keywords": [
+        "mark",
+        "zuckerberg",
+        "attacks",
+        "closed",
+        "ai"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "link": "https://cactuscompute.com/needle",
+      "summary": "👍 221 | 💬 91",
+      "source": "HackerNews",
+      "pub_date": "2026-08-11T01:22:07",
+      "fetched_at": "2026-08-11T12:00:16.172866",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "👍 221 | 💬 91",
       "keywords": [
         "show",
         "hn",
-        "simple",
-        "algorithm",
-        "and"
+        "needle",
+        "mb",
+        "agentic"
       ],
       "importance": 0
     },
     {
-      "title": "Position: LLMs Can't Jump",
-      "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
-      "summary": "👍 20 | 💬 7",
+      "title": "The “mechanical miracle” that ruined Mark Twain’s life",
+      "link": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+      "summary": "👍 78 | 💬 23",
       "source": "HackerNews",
-      "pub_date": "2026-08-05T19:01:37",
-      "fetched_at": "2026-08-05T20:00:07.999750",
+      "pub_date": "2026-08-05T23:22:23",
+      "fetched_at": "2026-08-11T12:00:14.022478",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 20 | 💬 7",
+      "ai_summary": "👍 78 | 💬 23",
       "keywords": [
-        "position",
-        "llms",
-        "can",
-        "jump"
+        "the",
+        "mechanical",
+        "miracle",
+        "that",
+        "ruined"
       ],
       "importance": 0
     },
     {
-      "title": "OpenAI天价网红公关活动，捅马蜂窝了",
-      "link": "https://www.qbitai.com/2026/08/466032.html",
-      "summary": "OpenAI+田园牧歌，画风属实太违和",
+      "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
+      "link": "https://www.qbitai.com/2026/08/469493.html",
+      "summary": "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台",
       "source": "量子位",
-      "pub_date": "Tue, 04 Aug 2026 09:13:57 +0000",
-      "fetched_at": "2026-08-05T20:00:05.596475",
+      "pub_date": "Mon, 10 Aug 2026 03:24:23 +0000",
+      "fetched_at": "2026-08-11T12:00:06.953765",
       "categories": [
         "ai"
       ],
-      "ai_summary": "OpenAI+田园牧歌，画风属实太违和",
+      "ai_summary": "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台",
       "keywords": [
-        "openai",
-        "天价网红公关活动",
-        "捅马蜂窝了",
-        "田园牧歌",
-        "画风属实太违和"
+        "meoo",
+        "秒悟团队版全量上线",
+        "接入",
+        "qwen",
+        "max"
       ],
-      "importance": 0.5
+      "importance": 0
     },
     {
-      "title": "数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”",
-      "link": "https://www.qbitai.com/2026/08/465792.html",
-      "summary": "第二天，就有一篇人类论文回应：AI提出的反例不成立",
+      "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
+      "link": "https://www.qbitai.com/2026/08/469500.html",
+      "summary": "会话越长，人的表现越差",
       "source": "量子位",
-      "pub_date": "Tue, 04 Aug 2026 09:22:46 +0000",
-      "fetched_at": "2026-08-05T20:00:05.596222",
+      "pub_date": "Mon, 10 Aug 2026 05:37:51 +0000",
+      "fetched_at": "2026-08-11T12:00:06.953575",
       "categories": [
         "ai"
       ],
-      "ai_summary": "第二天，就有一篇人类论文回应：AI提出的反例不成立",
+      "ai_summary": "会话越长，人的表现越差",
       "keywords": [
-        "ai",
-        "数学家",
-        "小时驳回",
-        "openai",
-        "攻破的猜想"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
-      "link": "https://www.qbitai.com/2026/08/466386.html",
-      "summary": "北京大学&元空AI Agent联合实验室",
-      "source": "量子位",
-      "pub_date": "Tue, 04 Aug 2026 13:14:27 +0000",
-      "fetched_at": "2026-08-05T20:00:05.596075",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "北京大学&元空AI Agent联合实验室",
-      "keywords": [
-        "开源版",
         "claude",
-        "science",
-        "来了",
-        "零依赖"
+        "code",
+        "倒计时",
+        "天默认自动模式",
+        "多花的钱"
       ],
       "importance": 0
     },
     {
-      "title": "倒卖英伟达GPU算力比火箭卫星来钱快！马斯克交出SpaceX首份财报",
-      "link": "https://www.qbitai.com/2026/08/466454.html",
-      "summary": "二季度AI收入暴涨247%",
+      "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
+      "link": "https://www.qbitai.com/2026/08/469520.html",
+      "summary": "“我们90天就成了独角兽”",
       "source": "量子位",
-      "pub_date": "Wed, 05 Aug 2026 04:28:31 +0000",
-      "fetched_at": "2026-08-05T20:00:05.595896",
+      "pub_date": "Mon, 10 Aug 2026 06:58:58 +0000",
+      "fetched_at": "2026-08-11T12:00:06.953429",
       "categories": [
-        "ai",
-        "space"
+        "ai"
       ],
-      "ai_summary": "二季度AI收入暴涨247%",
+      "ai_summary": "“我们90天就成了独角兽”",
       "keywords": [
-        "倒卖英伟达",
-        "gpu",
-        "算力比火箭卫星来钱快",
-        "马斯克交出",
-        "spacex"
+        "对话郎咸朋",
+        "具身也会有",
+        "蔚小理",
+        "靠融资实现不了物理",
+        "agi"
       ],
-      "importance": 1.5
+      "importance": 0.5
     },
     {
-      "title": "老黄垒20年的CUDA护城河，AI刚刚用10小时凿开了",
-      "link": "https://www.qbitai.com/2026/08/466553.html",
-      "summary": "CUDA又危了？",
+      "title": "模型路线趋同之后，Physical AI的胜负手变了",
+      "link": "https://www.qbitai.com/2026/08/469544.html",
+      "summary": "物理AI新瓶颈已出现",
       "source": "量子位",
-      "pub_date": "Wed, 05 Aug 2026 05:53:38 +0000",
-      "fetched_at": "2026-08-05T20:00:05.595740",
+      "pub_date": "Mon, 10 Aug 2026 09:20:50 +0000",
+      "fetched_at": "2026-08-11T12:00:06.953291",
       "categories": [
         "ai"
       ],
-      "ai_summary": "CUDA又危了？",
+      "ai_summary": "物理AI新瓶颈已出现",
       "keywords": [
-        "cuda",
-        "老黄垒",
-        "年的",
-        "护城河",
-        "ai"
+        "ai",
+        "模型路线趋同之后",
+        "physical",
+        "的胜负手变了",
+        "物理"
       ],
       "importance": 0
     },
     {
-      "title": "微软叫停Tokenmaxxing！预算卡死，超限自负",
-      "link": "https://www.qbitai.com/2026/08/466739.html",
-      "summary": "内部默认用GPT-5.6",
+      "title": "PDF当死，ARA该立！论文是时候Agent原生了",
+      "link": "https://www.qbitai.com/2026/08/469721.html",
+      "summary": "以后论文的第一读者不是人，而是AI？",
       "source": "量子位",
-      "pub_date": "Wed, 05 Aug 2026 06:33:40 +0000",
-      "fetched_at": "2026-08-05T20:00:05.595579",
+      "pub_date": "Mon, 10 Aug 2026 13:53:22 +0000",
+      "fetched_at": "2026-08-11T12:00:06.953132",
       "categories": [
         "ai"
       ],
-      "ai_summary": "内部默认用GPT-5.6",
+      "ai_summary": "以后论文的第一读者不是人，而是AI？",
       "keywords": [
-        "微软叫停",
-        "tokenmaxxing",
-        "预算卡死",
-        "超限自负",
-        "内部默认用"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "114B参数、6B激活，Sand.ai刚刚开源全球首个千亿MoE视频生成模型",
-      "link": "https://www.qbitai.com/2026/08/466847.html",
-      "summary": "10秒1080P，成本只要5毛钱",
-      "source": "量子位",
-      "pub_date": "Wed, 05 Aug 2026 07:05:41 +0000",
-      "fetched_at": "2026-08-05T20:00:05.595408",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "10秒1080P，成本只要5毛钱",
-      "keywords": [
-        "参数",
-        "激活",
-        "sand",
-        "ai",
-        "刚刚开源全球首个千亿"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "淘天开启2027届应届生招聘：AI技术类岗位占比超9成",
-      "link": "https://www.qbitai.com/2026/08/466998.html",
-      "summary": "阿里巴巴淘天集团开启2027届应届生招聘。",
-      "source": "量子位",
-      "pub_date": "Wed, 05 Aug 2026 09:38:49 +0000",
-      "fetched_at": "2026-08-05T20:00:05.595210",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "阿里巴巴淘天集团开启2027届应届生招聘。",
-      "keywords": [
-        "届应届生招聘",
-        "淘天开启",
-        "ai",
-        "技术类岗位占比超",
-        "阿里巴巴淘天集团开启"
+        "pdf",
+        "当死",
+        "ara",
+        "该立",
+        "论文是时候"
       ],
       "importance": 0
     },
     {
-      "title": "AI 开始大幅减少客服岗位",
-      "link": "https://www.solidot.org/story?sid=84994",
-      "summary": "澳大利亚联邦银行、微软、 Uber 和凯悦酒店等公司正用自动化聊天和电话系统去处理以前需要人工完成的工作。AI 系统开始大幅削减客服人数。呼叫中心行业在美国、印度和菲律宾等地雇佣了数百万从业者。随着 AI 技术的进步以及高管面临拥抱新技术的压力，企业日益用生成式 AI 工具取代客服。美国的客服务人数正在下降，未来这一趋势会继续下去。分析师估计到 2030 年近半客服岗位将受到影响。西方公司此前将客服外包到熟悉英语的菲律宾、印度等国，随着 AI 的普及，这些国家的客服人数预计会大量减少。澳大利亚最大银行——联邦银行（Commonwealth Bank of Australia）裁减了数百名客服，...",
-      "source": "Solidot",
-      "pub_date": "Mon, 03 Aug 2026 22:22:06 +0800",
-      "fetched_at": "2026-08-05T20:00:05.076249",
+      "title": "AI倒查论文100年！99.2%的顶刊都有问题…",
+      "link": "https://www.qbitai.com/2026/08/469795.html",
+      "summary": "科研人快来啊，天上掉选题了",
+      "source": "量子位",
+      "pub_date": "Mon, 10 Aug 2026 13:58:46 +0000",
+      "fetched_at": "2026-08-11T12:00:06.952964",
       "categories": [
         "ai"
       ],
-      "ai_summary": "澳大利亚联邦银行、微软、 Uber 和凯悦酒店等公司正用自动化聊天和电话系统去处理以前需要人工完成的工作。AI 系统开始大幅削减客服人数。呼叫中心行业在美国、印度和菲律宾等地雇佣了数百万从业者。随着 AI 技术的进步以及高管面临拥抱新技术的压力，企业日益用生成式 AI 工具取代客服。美国的客服务人数...",
+      "ai_summary": "科研人快来啊，天上掉选题了",
       "keywords": [
         "ai",
-        "随着",
-        "开始大幅减少客服岗位",
-        "澳大利亚联邦银行",
-        "微软"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "两颗戴森球候选天体被排除",
-      "link": "https://www.solidot.org/story?sid=85001",
-      "summary": "戴森球一直都被列为地外文明技术特征的典型标志，天文学家使用韦伯望远镜的中红外仪器（MIRI），对两颗因红外超出而被列为戴森球头号候选的 M 型矮星进行了复查，结果发现所谓异常根本不在恒星身上，而是来自天空中与恒星相距仅约 1 角秒的两颗毫无关联的遥远星系。这意味着两个最有希望的“外星文明巨型工程”均为天然天体物理源。戴森球概念由物理学家弗里曼·戴森在 1960 年提出，其认为一个足够先进的文明为突破行星能源瓶颈，会转向母恒星收集能量，而任何能量收集结构都无法隐藏废热，必然在中红外波段留下特征性辐射。正因如此，NASA 将戴森球列为地外文明典型技术特征之一，并通过望远镜寻找这一先进文明巨型工程的...",
-      "source": "Solidot",
-      "pub_date": "Tue, 04 Aug 2026 15:46:51 +0800",
-      "fetched_at": "2026-08-05T20:00:05.073350",
-      "categories": [
-        "space"
-      ],
-      "ai_summary": "戴森球一直都被列为地外文明技术特征的典型标志，天文学家使用韦伯望远镜的中红外仪器（MIRI），对两颗因红外超出而被列为戴森球头号候选的 M 型矮星进行了复查，结果发现所谓异常根本不在恒星身上，而是来自天空中与恒星相距仅约 1 角秒的两颗毫无关联的遥远星系。这意味着两个最有希望的“外星文明巨型工程”均...",
-      "keywords": [
-        "两颗戴森球候选天体被排除",
-        "戴森球一直都被列为地外文明技术特征的典型标志",
-        "天文学家使用韦伯望远镜的中红外仪器",
-        "miri",
-        "对两颗因红外超出而被列为戴森球头号候选的"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "淡水螺新种以神兽帝江命名",
-      "link": "https://www.solidot.org/story?sid=85003",
-      "summary": "云南玉溪的研究人员在玉溪红塔区的一个洞穴内发现了一种新的蜗牛，以《山海经》中的山神名字命名为帝江或 Erhaia dijiang。Erhaia dijiang 完美适应了终年无光的洞穴环境，是一种典型的洞穴专生物。它在长期演化过程中完全失去了眼睛，眼部结构已彻底退化。其贝壳小巧呈圆锥形，高度透明，身体柔软且没有色素，触角细长。实验室观察发现，该物种极度畏光，一旦受到光照便会迅速钻入岩石缝隙中躲避。Erhaia dijiang 生活在海拔2062米的洞穴中，刷新了洱海螺科所有已知洞穴物种的海拔分布纪录，证明洞穴淡水螺能够在海拔超过 2000 米的喀斯特洞穴中生存。该物种栖息于水深不足 1 米的洞...",
-      "source": "Solidot",
-      "pub_date": "Tue, 04 Aug 2026 17:52:32 +0800",
-      "fetched_at": "2026-08-05T20:00:05.072676",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "云南玉溪的研究人员在玉溪红塔区的一个洞穴内发现了一种新的蜗牛，以《山海经》中的山神名字命名为帝江或 Erhaia dijiang。Erhaia dijiang 完美适应了终年无光的洞穴环境，是一种典型的洞穴专生物。它在长期演化过程中完全失去了眼睛，眼部结构已彻底退化。其贝壳小巧呈圆锥形，高度透明，身...",
-      "keywords": [
-        "erhaia",
-        "dijiang",
-        "淡水螺新种以神兽帝江命名",
-        "云南玉溪的研究人员在玉溪红塔区的一个洞穴内发现了一种新的蜗牛",
-        "山海经"
+        "倒查论文",
+        "的顶刊都有问题",
+        "科研人快来啊",
+        "天上掉选题了"
       ],
       "importance": 0
     },
     {
-      "title": "中国扫地机器人占据全球七成市场",
-      "link": "https://www.solidot.org/story?sid=85011",
-      "summary": "中国家用扫地机器人厂商正在全球市场形成寡头格局。中国厂商并非打价格战而是比拼开发自主功能的策略奏效，主要 5 家企业合计占据超过 7 成全球市场份额。在因低价竞争而陷入消耗战的中国产业界，实现了罕见增长。其中石头科技 2025 年下半年全球市场份额达到 27%，位居首位。在美国、德国和韩国等发达国家的主要市场位居第一。追觅第二，科沃斯第三，之后是小米和云鲸。在中国，投资集中在成长产业、产品同质化、激烈的价格竞争导致整体陷入消耗战的“内卷”现象已成为社会问题。扫地机器人能否成为例外？",
-      "source": "Solidot",
-      "pub_date": "Wed, 05 Aug 2026 15:45:56 +0800",
-      "fetched_at": "2026-08-05T20:00:05.070658",
+      "title": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
+      "link": "https://www.qbitai.com/2026/08/469860.html",
+      "summary": "三视角世界模型谁更稳?",
+      "source": "量子位",
+      "pub_date": "Tue, 11 Aug 2026 00:46:23 +0000",
+      "fetched_at": "2026-08-11T12:00:06.952714",
       "categories": [
         "robotics"
       ],
-      "ai_summary": "中国家用扫地机器人厂商正在全球市场形成寡头格局。中国厂商并非打价格战而是比拼开发自主功能的策略奏效，主要 5 家企业合计占据超过 7 成全球市场份额。在因低价竞争而陷入消耗战的中国产业界，实现了罕见增长。其中石头科技 2025 年下半年全球市场份额达到 27%，位居首位。在美国、德国和韩国等发达国家...",
+      "ai_summary": "三视角世界模型谁更稳?",
       "keywords": [
-        "中国扫地机器人占据全球七成市场",
-        "中国家用扫地机器人厂商正在全球市场形成寡头格局",
-        "中国厂商并非打价格战而是比拼开发自主功能的策略奏效",
-        "主要",
-        "家企业合计占据超过"
+        "五大高校联手发榜",
+        "首份机器人三视角世界模型评测结果出炉",
+        "榜单持续更新中",
+        "三视角世界模型谁更稳"
       ],
       "importance": 0
     },
     {
-      "title": "美国据报将豁免中国开放权重模型",
-      "link": "https://www.solidot.org/story?sid=85012",
-      "summary": "白宫已向美国顶尖 AI 企业透露，在特朗普政府新出台的 AI 安全框架下，中国竞争对手正在开发的开放权重模型将被豁免，无需接受美国政府的安全测试。这项豁免决定是在星期二（4日）的一场白宫闭门会议上向行业代表宣布的。OpenAI、Anthropic PBC 以及 Alphabet 旗下的 Google 等硅谷巨头均派代表出席了此次会议。这一尚未公开的 AI 安全框架，源于美国总统特朗普今年 6 月签署的应对 AI 安全问题的行政令。该行政令提出了一项自愿性计划，鼓励 AI 企业将最前沿的模型交由美国审查。促使华盛顿加速推进安全倡议的导火索，是今年 4 月 Anthropic 警告 Mythos ...",
+      "title": "甲骨文对 OpenJDK 项目禁止 AI 生成代码",
+      "link": "https://www.solidot.org/story?sid=85041",
+      "summary": "甲骨文今年在数据中心扩建上投入了 700 亿美元，内部也在鼓励员工使用 AI 工具生成代码，但对于 JDK 开源版本 OpenJDK 项目，甲骨文以存在安全、隐私和知识产权风险的理由禁止 AI 生成代码。甲骨文表示，开发者可以私底下使用 LLM 进行代码调试（debug）和审查，但不能将 AI 生成的代码提交到代码库、pull request 或其它项目渠道。",
       "source": "Solidot",
-      "pub_date": "Wed, 05 Aug 2026 15:52:09 +0800",
-      "fetched_at": "2026-08-05T20:00:05.070358",
+      "pub_date": "Sat, 08 Aug 2026 23:36:46 +0800",
+      "fetched_at": "2026-08-11T12:00:06.471199",
       "categories": [
         "ai"
       ],
-      "ai_summary": "白宫已向美国顶尖 AI 企业透露，在特朗普政府新出台的 AI 安全框架下，中国竞争对手正在开发的开放权重模型将被豁免，无需接受美国政府的安全测试。这项豁免决定是在星期二（4日）的一场白宫闭门会议上向行业代表宣布的。OpenAI、Anthropic PBC 以及 Alphabet 旗下的 Google...",
+      "ai_summary": "甲骨文今年在数据中心扩建上投入了 700 亿美元，内部也在鼓励员工使用 AI 工具生成代码，但对于 JDK 开源版本 OpenJDK 项目，甲骨文以存在安全、隐私和知识产权风险的理由禁止 AI 生成代码。甲骨文表示，开发者可以私底下使用 LLM 进行代码调试（debug）和审查，但不能将 AI 生成...",
       "keywords": [
         "ai",
-        "anthropic",
-        "美国据报将豁免中国开放权重模型",
-        "白宫已向美国顶尖",
-        "企业透露"
+        "openjdk",
+        "生成代码",
+        "甲骨文对",
+        "项目禁止"
       ],
-      "importance": 1.5
+      "importance": 0.5
     },
     {
-      "title": "特斯拉在华销量持续下滑",
-      "link": "https://www.solidot.org/story?sid=85013",
-      "summary": "中国汽车流通协会乘用车市场信息联席分会（CPCA）的数据显示，特斯拉上海工厂 6 月产量创历史新高，当月生产了 93,579 辆汽车，相比去年同期增幅 38%。但高产量并未转化为中国市场的高销量：特斯拉在华销量连续一年多呈环比下滑趋势。特斯拉上海 6 月生产的电动汽车近 40% 用于出口。今年二季度特斯拉上海生产的汽车中逾五成或 128,394 辆销往欧洲、加拿大和其他亚洲市场，而中国市场销量为 126,157 辆。此前有报道称特斯拉正考虑摆脱对中国业务的依赖，但特斯拉随后否认了这一报道。问题在于特斯拉以及 SpaceX 的 CEO Elon Musk 想要合并两家公司，其中特斯拉已进入标普 ...",
+      "title": "DeepMind 的 WeatherNext 模型在飓风预测上取得突破",
+      "link": "https://www.solidot.org/story?sid=85042",
+      "summary": "2025 年 10 月，加勒比海上空酝酿着一场风暴。气象模型对其路径有不同的预测。它会保持弱势最终登陆海地，还是会增强并袭击牙买加？由 Google DeepMind 和 Google Research 联合开发的模型 WeatherNext 选择了后者。在风暴登陆前五天，该模型以 80% 的置信度预测它将以五级飓风的强度袭击牙买加。飓风梅丽莎（Melissa）给牙买加带来了灾难性的洪水和山体滑坡。但 AI 模型帮助预报员更早向沿途社区发出预警，使他们有时间做好充足准备。研究人员在《自然》上发表论文，称 WeatherNext AI 模型能以前所未有的精度预测飓风。它能比现有模型提前一天发出预...",
       "source": "Solidot",
-      "pub_date": "Wed, 05 Aug 2026 16:38:10 +0800",
-      "fetched_at": "2026-08-05T20:00:05.069989",
+      "pub_date": "Sun, 09 Aug 2026 01:05:07 +0800",
+      "fetched_at": "2026-08-11T12:00:06.470033",
       "categories": [
-        "space"
+        "ai"
       ],
-      "ai_summary": "中国汽车流通协会乘用车市场信息联席分会（CPCA）的数据显示，特斯拉上海工厂 6 月产量创历史新高，当月生产了 93,579 辆汽车，相比去年同期增幅 38%。但高产量并未转化为中国市场的高销量：特斯拉在华销量连续一年多呈环比下滑趋势。特斯拉上海 6 月生产的电动汽车近 40% 用于出口。今年二季度...",
+      "ai_summary": "2025 年 10 月，加勒比海上空酝酿着一场风暴。气象模型对其路径有不同的预测。它会保持弱势最终登陆海地，还是会增强并袭击牙买加？由 Google DeepMind 和 Google Research 联合开发的模型 WeatherNext 选择了后者。在风暴登陆前五天，该模型以 80% 的置信度...",
       "keywords": [
-        "特斯拉在华销量持续下滑",
-        "中国汽车流通协会乘用车市场信息联席分会",
-        "cpca",
-        "的数据显示",
-        "特斯拉上海工厂"
+        "weathernext",
+        "deepmind",
+        "google",
+        "ai",
+        "模型在飓风预测上取得突破"
       ],
       "importance": 1.0
+    },
+    {
+      "title": "微软 Google 亚马逊 Meta 甲骨文 2027 年负现金流将达到 1250 亿美元",
+      "link": "https://www.solidot.org/story?sid=85043",
+      "summary": "五大科技公司微软、Google、亚马逊、Meta 和甲骨文在 AI 的开发和交付上投入了巨资，因此到 2027 年它们的财务状况将会严重恶化。自由现金流是扣除各项支出和 AI 基础设施成本后的剩余款项，对 S&P Global Market Intelligence 的数据分析显示，五大公司在 2026 年的自由现金流合计几乎为零，而到 2027 年将会出现高达 1250 亿美元的负现金流。其中亚马逊和 Google 两大云计算公司过去三个月损失的现金超过其它任何美国公司。马斯克旗下的 SpaceX 公司情况估计会更严重。",
+      "source": "Solidot",
+      "pub_date": "Sun, 09 Aug 2026 21:24:37 +0800",
+      "fetched_at": "2026-08-11T12:00:06.469682",
+      "categories": [
+        "ai",
+        "space"
+      ],
+      "ai_summary": "五大科技公司微软、Google、亚马逊、Meta 和甲骨文在 AI 的开发和交付上投入了巨资，因此到 2027 年它们的财务状况将会严重恶化。自由现金流是扣除各项支出和 AI 基础设施成本后的剩余款项，对 S&P Global Market Intelligence 的数据分析显示，五大公司在 20...",
+      "keywords": [
+        "google",
+        "亚马逊",
+        "meta",
+        "ai",
+        "微软"
+      ],
+      "importance": 3.0
+    },
+    {
+      "title": "五分之一美国人在财务建议上咨询 AI，七成美国人不信任 AI",
+      "link": "https://www.solidot.org/story?sid=85047",
+      "summary": "盖洛普与金融服务公司 Edward Jones 合作展开的一项调查显示，过去一年有五分之一美国人在财务建议上咨询 AI，但只有三成美国人非常信任或部分信任 AI 的理财能力，3% 的人非常信任 AI， 七成美国人不信任 AI。随着 AI 的普及，金融专家表示，消费者应谨慎对待这些工具，切勿完全依赖它们。MIT 斯隆管理学院副教授 Taha Choukhmane 的建议是利用 AI 获取金融概念相关的解释和定义，如利用 AI 了解股市，了解共同基金和指数基金的区别，等等。研究显示，年轻一代更倾向于使用 AI 获取理财建议，而老年人则更倾向于寻求专业理财顾问的帮助。",
+      "source": "Solidot",
+      "pub_date": "Mon, 10 Aug 2026 14:49:27 +0800",
+      "fetched_at": "2026-08-11T12:00:06.468499",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "盖洛普与金融服务公司 Edward Jones 合作展开的一项调查显示，过去一年有五分之一美国人在财务建议上咨询 AI，但只有三成美国人非常信任或部分信任 AI 的理财能力，3% 的人非常信任 AI， 七成美国人不信任 AI。随着 AI 的普及，金融专家表示，消费者应谨慎对待这些工具，切勿完全依赖它...",
+      "keywords": [
+        "ai",
+        "七成美国人不信任",
+        "五分之一美国人在财务建议上咨询",
+        "盖洛普与金融服务公司",
+        "edward"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "果糖会帮助癌细胞扩散",
+      "link": "https://www.solidot.org/story?sid=85048",
+      "summary": "根据发表在《Nature Aging》期刊上的一项研究，科学家发现果糖会帮助癌细胞扩散。研究团队针对的是顺铂（cisplatin）治疗的卵巢癌，顺铂是一种强效铂类化疗药物，会诱导细胞衰老。多数患者最初对治疗反应良好，但复发很常见。研究人员想知道是什么导致了癌症复发——九成的癌症死亡都是由复发引起的。研究人员的代谢分析发现问题与果糖有关。研究人员分析了果糖触发的代谢级联反应，发现果糖不仅作为燃料，还会改变线粒体代谢，降低胆固醇的生成。胆固醇有助于稳定细胞膜，将细胞彼此连接并锚定到周围组织。胆固醇的减少，会降低癌细胞的黏附性，使其更容易脱落，从而帮助癌细胞在体内转移。实验显示抑制癌细胞代谢果糖的能...",
+      "source": "Solidot",
+      "pub_date": "Mon, 10 Aug 2026 16:04:39 +0800",
+      "fetched_at": "2026-08-11T12:00:06.468275",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "根据发表在《Nature Aging》期刊上的一项研究，科学家发现果糖会帮助癌细胞扩散。研究团队针对的是顺铂（cisplatin）治疗的卵巢癌，顺铂是一种强效铂类化疗药物，会诱导细胞衰老。多数患者最初对治疗反应良好，但复发很常见。研究人员想知道是什么导致了癌症复发——九成的癌症死亡都是由复发引起的。...",
+      "keywords": [
+        "果糖会帮助癌细胞扩散",
+        "根据发表在",
+        "nature",
+        "aging",
+        "期刊上的一项研究"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "苹果测试长鑫内存",
+      "link": "https://www.solidot.org/story?sid=85050",
+      "summary": "苹果正在 iPhone 和 MacBook 等产品上测试长鑫的内存芯片，以缓解 AI 热导致的内存短缺。苹果已与长鑫就供应内存芯片进行了初步磋商，目标是将其用于部分在中国销售的苹果设备。此前有报道称，PC 制造商惠普和宏碁已开始在美国以外地区销售的笔记本产品中少量使用长鑫内存。长鑫目前占据了约 7% 的内存市场份额，三星、SK海力士和美光占据了九成的市场份额。",
+      "source": "Solidot",
+      "pub_date": "Mon, 10 Aug 2026 16:38:43 +0800",
+      "fetched_at": "2026-08-11T12:00:06.467864",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "苹果正在 iPhone 和 MacBook 等产品上测试长鑫的内存芯片，以缓解 AI 热导致的内存短缺。苹果已与长鑫就供应内存芯片进行了初步磋商，目标是将其用于部分在中国销售的苹果设备。此前有报道称，PC 制造商惠普和宏碁已开始在美国以外地区销售的笔记本产品中少量使用长鑫内存。长鑫目前占据了约 7%...",
+      "keywords": [
+        "苹果测试长鑫内存",
+        "苹果正在",
+        "iphone",
+        "macbook",
+        "等产品上测试长鑫的内存芯片"
+      ],
+      "importance": 0.5
     }
   ],
-  "updated_at": "2026-08-05T20:00:34.762114"
+  "updated_at": "2026-08-11T12:00:37.437096"
 }

@@ -5,38 +5,38 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-08-11T12:00:37.437096",
-    "total_items": 24
+    "last_update": "2026-08-11T20:00:40.772045",
+    "total_items": 25
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 21
+      "count": 20
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 3
+      "count": 6
     },
     "space": {
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 3
+      "count": 2
     }
   },
   "stats": {
-    "total_items": 24,
-    "today_items": 24,
+    "total_items": 25,
+    "today_items": 25,
     "sources": {
-      "Solidot": 10,
-      "量子位": 7,
-      "HackerNews": 7
+      "Solidot": 12,
+      "HackerNews": 5,
+      "量子位": 8
     },
-    "last_update": "2026-08-11T12:00:37.437096"
+    "last_update": "2026-08-11T20:00:40.772045"
   },
   "trending": [
     {
@@ -45,7 +45,7 @@
       "summary": "五大科技公司微软、Google、亚马逊、Meta 和甲骨文在 AI 的开发和交付上投入了巨资，因此到 2027 年它们的财务状况将会严重恶化。自由现金流是扣除各项支出和 AI 基础设施成本后的剩余款项，对 S&P Global Market Intelligence 的数据分析显示，五大公司在 2026 年的自由现金流合计几乎为零，而到 2027 年将会出现高达 1250 亿美元的负现金流。其中亚马逊和 Google 两大云计算公司过去三个月损失的现金超过其它任何美国公司。马斯克旗下的 SpaceX 公司情况估计会更严重。",
       "source": "Solidot",
       "pub_date": "Sun, 09 Aug 2026 21:24:37 +0800",
-      "fetched_at": "2026-08-11T12:00:06.469682",
+      "fetched_at": "2026-08-11T20:00:04.866851",
       "categories": [
         "ai",
         "space"
@@ -61,12 +61,32 @@
       "importance": 3.0
     },
     {
+      "title": "Sergey Brin 投入 1 亿美元反对加州的亿万富翁税",
+      "link": "https://www.solidot.org/story?sid=85058",
+      "summary": "最新披露的文件显示，Google 联合创始人 Sergey Brin 向致力于反对加州亿万富翁税的 Build a Better California 组织捐赠了 2000 万美元。这意味着 Brin 为避免缴纳预计 133 亿美元的税而投入了逾亿美元反对拟议中的新税。加州的 Prop 40——即亿万富翁税——提议对居住在加州的约 200 位亿万富翁根据其净资产征收一次性 5% 的税，这笔税款将于用于资助加州的医保项目。特朗普政府正准备削减加州的联邦拨款，加州的 Medicaid 医保项目将面临 300 亿美元的亏空。加州选民将于 11 月对 Prop 40 进行投票。英伟达 CEO 黄仁勋公...",
+      "source": "Solidot",
+      "pub_date": "Tue, 11 Aug 2026 15:33:48 +0800",
+      "fetched_at": "2026-08-11T20:00:04.864690",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "最新披露的文件显示，Google 联合创始人 Sergey Brin 向致力于反对加州亿万富翁税的 Build a Better California 组织捐赠了 2000 万美元。这意味着 Brin 为避免缴纳预计 133 亿美元的税而投入了逾亿美元反对拟议中的新税。加州的 Prop 40——即亿...",
+      "keywords": [
+        "brin",
+        "sergey",
+        "加州的",
+        "prop",
+        "投入"
+      ],
+      "importance": 1.5
+    },
+    {
       "title": "Meta 推出 300 亿参数的开放权重模型 Muse Glimmer",
       "link": "https://www.solidot.org/story?sid=85054",
       "summary": "Meta 在 Apache 2.0 许可证下推出了 300 亿参数的开放权重模型 Muse Glimmer。Muse Glimmer 为本地运行的智能体工作流程进行了优化，能在配备了单个消费级 GPU 的 Mac 或 PC 上运行，支持从本地智能体和函数调用到本地编程和 LLM 自动化评估等多种应用场景。Meta 将在未来几天推出针对 llama.cpp、MLX 和 ExecuTorch 的集成。",
       "source": "Solidot",
       "pub_date": "Mon, 10 Aug 2026 22:01:22 +0800",
-      "fetched_at": "2026-08-11T12:00:06.467068",
+      "fetched_at": "2026-08-11T20:00:04.865316",
       "categories": [
         "ai"
       ],
@@ -86,7 +106,7 @@
       "summary": "2025 年 10 月，加勒比海上空酝酿着一场风暴。气象模型对其路径有不同的预测。它会保持弱势最终登陆海地，还是会增强并袭击牙买加？由 Google DeepMind 和 Google Research 联合开发的模型 WeatherNext 选择了后者。在风暴登陆前五天，该模型以 80% 的置信度预测它将以五级飓风的强度袭击牙买加。飓风梅丽莎（Melissa）给牙买加带来了灾难性的洪水和山体滑坡。但 AI 模型帮助预报员更早向沿途社区发出预警，使他们有时间做好充足准备。研究人员在《自然》上发表论文，称 WeatherNext AI 模型能以前所未有的精度预测飓风。它能比现有模型提前一天发出预...",
       "source": "Solidot",
       "pub_date": "Sun, 09 Aug 2026 01:05:07 +0800",
-      "fetched_at": "2026-08-11T12:00:06.470033",
+      "fetched_at": "2026-08-11T20:00:04.867003",
       "categories": [
         "ai"
       ],
@@ -106,7 +126,7 @@
       "summary": "国际团队在 2025 年 3 月至 4 月间，结合 NASA 的 IXPE (Imaging X-ray Polarimetry Explorer、NICER (Neutron Star Interior Composition Explorer) 以及澳洲联邦科学与工业研究组织（CSIRO）的 Murriyang 无线电望远镜，对磁星 1E 1547-5408 进行了超过 140 小时的联合观测。这是人类史上首次针对磁星进行同步的无线电与 X 射线偏振测量。这颗每 2 秒自转一周的磁星能持续发出明亮的无线电与 X 射线。观测显示，其光子偏振度是类似天体的三倍之多，远高于标准表面辐射模型的预期...",
       "source": "Solidot",
       "pub_date": "Mon, 10 Aug 2026 22:38:00 +0800",
-      "fetched_at": "2026-08-11T12:00:06.466676",
+      "fetched_at": "2026-08-11T20:00:04.865173",
       "categories": [
         "ai",
         "space"
@@ -127,7 +147,7 @@
       "summary": "苹果正在 iPhone 和 MacBook 等产品上测试长鑫的内存芯片，以缓解 AI 热导致的内存短缺。苹果已与长鑫就供应内存芯片进行了初步磋商，目标是将其用于部分在中国销售的苹果设备。此前有报道称，PC 制造商惠普和宏碁已开始在美国以外地区销售的笔记本产品中少量使用长鑫内存。长鑫目前占据了约 7% 的内存市场份额，三星、SK海力士和美光占据了九成的市场份额。",
       "source": "Solidot",
       "pub_date": "Mon, 10 Aug 2026 16:38:43 +0800",
-      "fetched_at": "2026-08-11T12:00:06.467864",
+      "fetched_at": "2026-08-11T20:00:04.865877",
       "categories": [
         "ai"
       ],
@@ -142,56 +162,16 @@
       "importance": 0.5
     },
     {
-      "title": "甲骨文对 OpenJDK 项目禁止 AI 生成代码",
-      "link": "https://www.solidot.org/story?sid=85041",
-      "summary": "甲骨文今年在数据中心扩建上投入了 700 亿美元，内部也在鼓励员工使用 AI 工具生成代码，但对于 JDK 开源版本 OpenJDK 项目，甲骨文以存在安全、隐私和知识产权风险的理由禁止 AI 生成代码。甲骨文表示，开发者可以私底下使用 LLM 进行代码调试（debug）和审查，但不能将 AI 生成的代码提交到代码库、pull request 或其它项目渠道。",
-      "source": "Solidot",
-      "pub_date": "Sat, 08 Aug 2026 23:36:46 +0800",
-      "fetched_at": "2026-08-11T12:00:06.471199",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "甲骨文今年在数据中心扩建上投入了 700 亿美元，内部也在鼓励员工使用 AI 工具生成代码，但对于 JDK 开源版本 OpenJDK 项目，甲骨文以存在安全、隐私和知识产权风险的理由禁止 AI 生成代码。甲骨文表示，开发者可以私底下使用 LLM 进行代码调试（debug）和审查，但不能将 AI 生成...",
-      "keywords": [
-        "ai",
-        "openjdk",
-        "生成代码",
-        "甲骨文对",
-        "项目禁止"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
-      "link": "https://www.qbitai.com/2026/08/469520.html",
-      "summary": "“我们90天就成了独角兽”",
-      "source": "量子位",
-      "pub_date": "Mon, 10 Aug 2026 06:58:58 +0000",
-      "fetched_at": "2026-08-11T12:00:06.953429",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "“我们90天就成了独角兽”",
-      "keywords": [
-        "对话郎咸朋",
-        "具身也会有",
-        "蔚小理",
-        "靠融资实现不了物理",
-        "agi"
-      ],
-      "importance": 0.5
-    },
-    {
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
       "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-      "summary": "👍 418 | 💬 405",
+      "summary": "👍 534 | 💬 487",
       "source": "HackerNews",
       "pub_date": "2026-08-10T22:06:22",
-      "fetched_at": "2026-08-11T12:00:23.012878",
+      "fetched_at": "2026-08-11T20:00:25.550186",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 418 | 💬 405",
+      "ai_summary": "👍 534 | 💬 487",
       "keywords": [
         "mark",
         "zuckerberg",
@@ -202,12 +182,52 @@
       "importance": 0.5
     },
     {
+      "title": "直接给现金能使贫困家庭长期受益",
+      "link": "https://www.solidot.org/story?sid=85061",
+      "summary": "贫困问题的一个潜在解决方案是：直接给穷人现金。越来越多的研究表明，现金转移支付能使贫困家庭受益。加州圣克鲁兹经济学家 Jonathan Robinson 的团队在美国国际开发署（USAID）的支持下分别在利比里亚和马拉维选择了 150 个村庄，向每户家庭提供一笔一次性的现金（250 美元或 500 美元、750 美元），在每个国家再选择 150 个对照村庄，不提供现金。在之后的两年时间里，研究人员每月实地调查和电话调查了数百名女性。结果显示，贫困家庭通常会很快花光钱，但这笔钱通常花在改善粮食安全等方面的投资上。在两年后，实验组家庭的粮食安全状况仍然高于对照组家庭，显示现金给贫困家庭带来了至少两...",
+      "source": "Solidot",
+      "pub_date": "Tue, 11 Aug 2026 18:28:24 +0800",
+      "fetched_at": "2026-08-11T20:00:04.864111",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "贫困问题的一个潜在解决方案是：直接给穷人现金。越来越多的研究表明，现金转移支付能使贫困家庭受益。加州圣克鲁兹经济学家 Jonathan Robinson 的团队在美国国际开发署（USAID）的支持下分别在利比里亚和马拉维选择了 150 个村庄，向每户家庭提供一笔一次性的现金（250 美元或 500 ...",
+      "keywords": [
+        "美元",
+        "直接给现金能使贫困家庭长期受益",
+        "贫困问题的一个潜在解决方案是",
+        "直接给穷人现金",
+        "越来越多的研究表明"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Tribar 机器人从 5.7 米高处坠落后能正常运行",
+      "link": "https://www.solidot.org/story?sid=85059",
+      "summary": "耶鲁、普林斯顿等大学的研究人员在《Nature Machine Intelligence》上报告，他们研发的 Tribar 机器人从 5.7 米高处坠落后能正常工作。这一工程学和机器人领域的双重突破，有望推动适用于行星表面、灾区等危险偏远环境的机器人开发。Tribar 属于张拉整体机器人。这类机器人最早源于建筑学家 Richard Buckminster Fuller 提出的“张拉整体”结构概念，即通过连续的张力元件与间断的压力元件共同维持结构稳定。这一概念应用于机器人领域后，其主体由弹性缆绳网络与刚性杆件构成，结构柔韧轻便，能够像弹簧一样吸收较大的外部载荷，即使受到撞击也不会轻易损坏。Tri...",
+      "source": "Solidot",
+      "pub_date": "Tue, 11 Aug 2026 16:20:43 +0800",
+      "fetched_at": "2026-08-11T20:00:04.864529",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "耶鲁、普林斯顿等大学的研究人员在《Nature Machine Intelligence》上报告，他们研发的 Tribar 机器人从 5.7 米高处坠落后能正常工作。这一工程学和机器人领域的双重突破，有望推动适用于行星表面、灾区等危险偏远环境的机器人开发。Tribar 属于张拉整体机器人。这类机器人...",
+      "keywords": [
+        "tribar",
+        "机器人从",
+        "米高处坠落后能正常运行",
+        "耶鲁",
+        "普林斯顿等大学的研究人员在"
+      ],
+      "importance": 0
+    },
+    {
       "title": "审稿人人数跟不上大幅增长的新论文数量",
       "link": "https://www.solidot.org/story?sid=85053",
       "summary": "同行审议是学术出版流程的重要一环，然而随着在 AI 时代论文数稳步增长，审稿人数量逐渐跟不上了。以前一篇论文通常能找到两到三位审稿人，如今很多论文只能找到一名审稿人。研究人员表示，这种情况越来越普遍。同行审议成为科学的基石其实只有约 50 年历史，是 1970 年代美国科学基金会为了避免将科研项目的拨款决定置于国会议员手中。英国的情况类似。如今同行审议已成为标准流程。加快审稿的一种方法是引入 AI 审稿。未来 AI 生成的审稿意见可能会日益常见，今天的很多审稿人已经在使用 AI 工具。",
       "source": "Solidot",
       "pub_date": "Mon, 10 Aug 2026 21:39:09 +0800",
-      "fetched_at": "2026-08-11T12:00:06.467270",
+      "fetched_at": "2026-08-11T20:00:04.865453",
       "categories": [
         "ai"
       ],
@@ -220,116 +240,60 @@
         "时代论文数稳步增长"
       ],
       "importance": 0
-    },
-    {
-      "title": "中国人形机器人出货量占全球的逾 97%",
-      "link": "https://www.solidot.org/story?sid=85051",
-      "summary": "最新行业数据显示，2026 年上半年，中国人形机器人制造商占全球出货量的 97% 以上，显示中国在这一新兴领域已领先美国。Smart Analytics Global 的数据显示，2026 年上半年，全球人形机器人出货量约 1 万 9100 台，是去年同期 5100 台的三倍多。总部位于上海的智元机器人超越总部位于杭州的宇树科技，跃居市场份额榜首。今年上半年，智元机器人出货量达 8400 台，占全球出货量的 44%，宇树科技则为 5900 台。",
-      "source": "Solidot",
-      "pub_date": "Mon, 10 Aug 2026 17:43:58 +0800",
-      "fetched_at": "2026-08-11T12:00:06.467684",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "最新行业数据显示，2026 年上半年，中国人形机器人制造商占全球出货量的 97% 以上，显示中国在这一新兴领域已领先美国。Smart Analytics Global 的数据显示，2026 年上半年，全球人形机器人出货量约 1 万 9100 台，是去年同期 5100 台的三倍多。总部位于上海的智元机...",
-      "keywords": [
-        "年上半年",
-        "中国人形机器人出货量占全球的逾",
-        "最新行业数据显示",
-        "中国人形机器人制造商占全球出货量的",
-        "以上"
-      ],
-      "importance": 0
     }
   ],
   "latest": [
     {
-      "title": "Humanising LLM Outputs Is Dumb",
-      "link": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
-      "summary": "👍 177 | 💬 107",
+      "title": "How Claude marks AI-generated content",
+      "link": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "summary": "👍 210 | 💬 171",
       "source": "HackerNews",
-      "pub_date": "2026-08-10T21:35:40",
-      "fetched_at": "2026-08-11T12:00:36.558955",
+      "pub_date": "2026-08-11T05:36:56",
+      "fetched_at": "2026-08-11T20:00:37.887924",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 177 | 💬 107",
+      "ai_summary": "👍 210 | 💬 171",
       "keywords": [
-        "humanising",
-        "llm",
-        "outputs",
-        "is",
-        "dumb"
+        "how",
+        "claude",
+        "marks",
+        "ai",
+        "generated"
       ],
       "importance": 0
     },
     {
-      "title": "Confessions of a Long-Distance Sailor",
-      "link": "https://arachnoid.com/lutusp/sailbook.html",
-      "summary": "👍 78 | 💬 20",
+      "title": "The “mechanical miracle” that ruined Mark Twain’s life",
+      "link": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+      "summary": "👍 149 | 💬 78",
       "source": "HackerNews",
-      "pub_date": "2026-08-11T04:52:55",
-      "fetched_at": "2026-08-11T12:00:31.901579",
+      "pub_date": "2026-08-05T23:22:23",
+      "fetched_at": "2026-08-11T20:00:27.593826",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 78 | 💬 20",
+      "ai_summary": "👍 149 | 💬 78",
       "keywords": [
-        "confessions",
-        "of",
-        "long",
-        "distance",
-        "sailor"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "World Train Map – 1247 train routes around the world",
-      "link": "https://worldtrainmap.com/",
-      "summary": "👍 69 | 💬 23",
-      "source": "HackerNews",
-      "pub_date": "2026-08-11T06:42:14",
-      "fetched_at": "2026-08-11T12:00:26.141456",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 69 | 💬 23",
-      "keywords": [
-        "world",
-        "train",
-        "map",
-        "routes",
-        "around"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Hyperspace",
-      "link": "https://hypercritical.co/hyperspace/",
-      "summary": "👍 13 | 💬 4",
-      "source": "HackerNews",
-      "pub_date": "2026-08-11T10:04:35",
-      "fetched_at": "2026-08-11T12:00:23.919968",
-      "categories": [
-        "space"
-      ],
-      "ai_summary": "👍 13 | 💬 4",
-      "keywords": [
-        "hyperspace"
+        "the",
+        "mechanical",
+        "miracle",
+        "that",
+        "ruined"
       ],
       "importance": 0
     },
     {
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
       "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-      "summary": "👍 418 | 💬 405",
+      "summary": "👍 534 | 💬 487",
       "source": "HackerNews",
       "pub_date": "2026-08-10T22:06:22",
-      "fetched_at": "2026-08-11T12:00:23.012878",
+      "fetched_at": "2026-08-11T20:00:25.550186",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 418 | 💬 405",
+      "ai_summary": "👍 534 | 💬 487",
       "keywords": [
         "mark",
         "zuckerberg",
@@ -342,15 +306,15 @@
     {
       "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "link": "https://cactuscompute.com/needle",
-      "summary": "👍 221 | 💬 91",
+      "summary": "👍 369 | 💬 136",
       "source": "HackerNews",
       "pub_date": "2026-08-11T01:22:07",
-      "fetched_at": "2026-08-11T12:00:16.172866",
+      "fetched_at": "2026-08-11T20:00:22.712237",
       "categories": [
         "ai",
         "robotics"
       ],
-      "ai_summary": "👍 221 | 💬 91",
+      "ai_summary": "👍 369 | 💬 136",
       "keywords": [
         "show",
         "hn",
@@ -361,102 +325,22 @@
       "importance": 0
     },
     {
-      "title": "The “mechanical miracle” that ruined Mark Twain’s life",
-      "link": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
-      "summary": "👍 78 | 💬 23",
+      "title": "As AI eats the web, the internet’s collective memory is disappearing",
+      "link": "https://thewalrus.ca/google-search-is-dying/",
+      "summary": "👍 375 | 💬 445",
       "source": "HackerNews",
-      "pub_date": "2026-08-05T23:22:23",
-      "fetched_at": "2026-08-11T12:00:14.022478",
+      "pub_date": "2026-08-11T06:36:30",
+      "fetched_at": "2026-08-11T20:00:11.999142",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 78 | 💬 23",
+      "ai_summary": "👍 375 | 💬 445",
       "keywords": [
         "the",
-        "mechanical",
-        "miracle",
-        "that",
-        "ruined"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
-      "link": "https://www.qbitai.com/2026/08/469493.html",
-      "summary": "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台",
-      "source": "量子位",
-      "pub_date": "Mon, 10 Aug 2026 03:24:23 +0000",
-      "fetched_at": "2026-08-11T12:00:06.953765",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台",
-      "keywords": [
-        "meoo",
-        "秒悟团队版全量上线",
-        "接入",
-        "qwen",
-        "max"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
-      "link": "https://www.qbitai.com/2026/08/469500.html",
-      "summary": "会话越长，人的表现越差",
-      "source": "量子位",
-      "pub_date": "Mon, 10 Aug 2026 05:37:51 +0000",
-      "fetched_at": "2026-08-11T12:00:06.953575",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "会话越长，人的表现越差",
-      "keywords": [
-        "claude",
-        "code",
-        "倒计时",
-        "天默认自动模式",
-        "多花的钱"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
-      "link": "https://www.qbitai.com/2026/08/469520.html",
-      "summary": "“我们90天就成了独角兽”",
-      "source": "量子位",
-      "pub_date": "Mon, 10 Aug 2026 06:58:58 +0000",
-      "fetched_at": "2026-08-11T12:00:06.953429",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "“我们90天就成了独角兽”",
-      "keywords": [
-        "对话郎咸朋",
-        "具身也会有",
-        "蔚小理",
-        "靠融资实现不了物理",
-        "agi"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "模型路线趋同之后，Physical AI的胜负手变了",
-      "link": "https://www.qbitai.com/2026/08/469544.html",
-      "summary": "物理AI新瓶颈已出现",
-      "source": "量子位",
-      "pub_date": "Mon, 10 Aug 2026 09:20:50 +0000",
-      "fetched_at": "2026-08-11T12:00:06.953291",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "物理AI新瓶颈已出现",
-      "keywords": [
+        "as",
         "ai",
-        "模型路线趋同之后",
-        "physical",
-        "的胜负手变了",
-        "物理"
+        "eats",
+        "web"
       ],
       "importance": 0
     },
@@ -466,7 +350,7 @@
       "summary": "以后论文的第一读者不是人，而是AI？",
       "source": "量子位",
       "pub_date": "Mon, 10 Aug 2026 13:53:22 +0000",
-      "fetched_at": "2026-08-11T12:00:06.953132",
+      "fetched_at": "2026-08-11T20:00:05.233982",
       "categories": [
         "ai"
       ],
@@ -486,7 +370,7 @@
       "summary": "科研人快来啊，天上掉选题了",
       "source": "量子位",
       "pub_date": "Mon, 10 Aug 2026 13:58:46 +0000",
-      "fetched_at": "2026-08-11T12:00:06.952964",
+      "fetched_at": "2026-08-11T20:00:05.233909",
       "categories": [
         "ai"
       ],
@@ -506,7 +390,7 @@
       "summary": "三视角世界模型谁更稳?",
       "source": "量子位",
       "pub_date": "Tue, 11 Aug 2026 00:46:23 +0000",
-      "fetched_at": "2026-08-11T12:00:06.952714",
+      "fetched_at": "2026-08-11T20:00:05.233835",
       "categories": [
         "robotics"
       ],
@@ -520,24 +404,102 @@
       "importance": 0
     },
     {
-      "title": "甲骨文对 OpenJDK 项目禁止 AI 生成代码",
-      "link": "https://www.solidot.org/story?sid=85041",
-      "summary": "甲骨文今年在数据中心扩建上投入了 700 亿美元，内部也在鼓励员工使用 AI 工具生成代码，但对于 JDK 开源版本 OpenJDK 项目，甲骨文以存在安全、隐私和知识产权风险的理由禁止 AI 生成代码。甲骨文表示，开发者可以私底下使用 LLM 进行代码调试（debug）和审查，但不能将 AI 生成的代码提交到代码库、pull request 或其它项目渠道。",
-      "source": "Solidot",
-      "pub_date": "Sat, 08 Aug 2026 23:36:46 +0800",
-      "fetched_at": "2026-08-11T12:00:06.471199",
+      "title": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
+      "link": "https://www.qbitai.com/2026/08/469869.html",
+      "summary": "全球AI安全实战化测评，中国方案DoGNAVY位列前三",
+      "source": "量子位",
+      "pub_date": "Tue, 11 Aug 2026 03:11:12 +0000",
+      "fetched_at": "2026-08-11T20:00:05.233756",
       "categories": [
         "ai"
       ],
-      "ai_summary": "甲骨文今年在数据中心扩建上投入了 700 亿美元，内部也在鼓励员工使用 AI 工具生成代码，但对于 JDK 开源版本 OpenJDK 项目，甲骨文以存在安全、隐私和知识产权风险的理由禁止 AI 生成代码。甲骨文表示，开发者可以私底下使用 LLM 进行代码调试（debug）和审查，但不能将 AI 生成...",
+      "ai_summary": "全球AI安全实战化测评，中国方案DoGNAVY位列前三",
       "keywords": [
         "ai",
-        "openjdk",
-        "生成代码",
-        "甲骨文对",
-        "项目禁止"
+        "全球",
+        "开始",
+        "自作主张",
+        "谁来为智能体戴上"
       ],
-      "importance": 0.5
+      "importance": 0
+    },
+    {
+      "title": "机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿",
+      "link": "https://www.qbitai.com/2026/08/469880.html",
+      "summary": "",
+      "source": "量子位",
+      "pub_date": "Tue, 11 Aug 2026 03:37:31 +0000",
+      "fetched_at": "2026-08-11T20:00:05.233681",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "",
+      "keywords": [
+        "机器人赛道新岗位",
+        "月入",
+        "元的",
+        "骨科大夫",
+        "专治缺胳膊断腿"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
+      "link": "https://www.qbitai.com/2026/08/470228.html",
+      "summary": "大水印时代来了",
+      "source": "量子位",
+      "pub_date": "Tue, 11 Aug 2026 03:51:24 +0000",
+      "fetched_at": "2026-08-11T20:00:05.233670",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "大水印时代来了",
+      "keywords": [
+        "claude",
+        "骂声中启动",
+        "隐形水印",
+        "新模型全量嵌入",
+        "标记所有文字"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "宇树会破发吗？王兴兴回应了",
+      "link": "https://www.qbitai.com/2026/08/470307.html",
+      "summary": "200问回应一切",
+      "source": "量子位",
+      "pub_date": "Tue, 11 Aug 2026 04:42:50 +0000",
+      "fetched_at": "2026-08-11T20:00:05.233499",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "200问回应一切",
+      "keywords": [
+        "宇树会破发吗",
+        "王兴兴回应了",
+        "问回应一切"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
+      "link": "https://www.qbitai.com/2026/08/470485.html",
+      "summary": "把下界推高了一大截",
+      "source": "量子位",
+      "pub_date": "Tue, 11 Aug 2026 05:12:20 +0000",
+      "fetched_at": "2026-08-11T20:00:05.233412",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "把下界推高了一大截",
+      "keywords": [
+        "百年黎曼猜想被",
+        "claude",
+        "破了新纪录",
+        "是个未公开新模型",
+        "把下界推高了一大截"
+      ],
+      "importance": 0
     },
     {
       "title": "DeepMind 的 WeatherNext 模型在飓风预测上取得突破",
@@ -545,7 +507,7 @@
       "summary": "2025 年 10 月，加勒比海上空酝酿着一场风暴。气象模型对其路径有不同的预测。它会保持弱势最终登陆海地，还是会增强并袭击牙买加？由 Google DeepMind 和 Google Research 联合开发的模型 WeatherNext 选择了后者。在风暴登陆前五天，该模型以 80% 的置信度预测它将以五级飓风的强度袭击牙买加。飓风梅丽莎（Melissa）给牙买加带来了灾难性的洪水和山体滑坡。但 AI 模型帮助预报员更早向沿途社区发出预警，使他们有时间做好充足准备。研究人员在《自然》上发表论文，称 WeatherNext AI 模型能以前所未有的精度预测飓风。它能比现有模型提前一天发出预...",
       "source": "Solidot",
       "pub_date": "Sun, 09 Aug 2026 01:05:07 +0800",
-      "fetched_at": "2026-08-11T12:00:06.470033",
+      "fetched_at": "2026-08-11T20:00:04.867003",
       "categories": [
         "ai"
       ],
@@ -565,7 +527,7 @@
       "summary": "五大科技公司微软、Google、亚马逊、Meta 和甲骨文在 AI 的开发和交付上投入了巨资，因此到 2027 年它们的财务状况将会严重恶化。自由现金流是扣除各项支出和 AI 基础设施成本后的剩余款项，对 S&P Global Market Intelligence 的数据分析显示，五大公司在 2026 年的自由现金流合计几乎为零，而到 2027 年将会出现高达 1250 亿美元的负现金流。其中亚马逊和 Google 两大云计算公司过去三个月损失的现金超过其它任何美国公司。马斯克旗下的 SpaceX 公司情况估计会更严重。",
       "source": "Solidot",
       "pub_date": "Sun, 09 Aug 2026 21:24:37 +0800",
-      "fetched_at": "2026-08-11T12:00:06.469682",
+      "fetched_at": "2026-08-11T20:00:04.866851",
       "categories": [
         "ai",
         "space"
@@ -586,7 +548,7 @@
       "summary": "盖洛普与金融服务公司 Edward Jones 合作展开的一项调查显示，过去一年有五分之一美国人在财务建议上咨询 AI，但只有三成美国人非常信任或部分信任 AI 的理财能力，3% 的人非常信任 AI， 七成美国人不信任 AI。随着 AI 的普及，金融专家表示，消费者应谨慎对待这些工具，切勿完全依赖它们。MIT 斯隆管理学院副教授 Taha Choukhmane 的建议是利用 AI 获取金融概念相关的解释和定义，如利用 AI 了解股市，了解共同基金和指数基金的区别，等等。研究显示，年轻一代更倾向于使用 AI 获取理财建议，而老年人则更倾向于寻求专业理财顾问的帮助。",
       "source": "Solidot",
       "pub_date": "Mon, 10 Aug 2026 14:49:27 +0800",
-      "fetched_at": "2026-08-11T12:00:06.468499",
+      "fetched_at": "2026-08-11T20:00:04.866298",
       "categories": [
         "ai"
       ],
@@ -606,7 +568,7 @@
       "summary": "根据发表在《Nature Aging》期刊上的一项研究，科学家发现果糖会帮助癌细胞扩散。研究团队针对的是顺铂（cisplatin）治疗的卵巢癌，顺铂是一种强效铂类化疗药物，会诱导细胞衰老。多数患者最初对治疗反应良好，但复发很常见。研究人员想知道是什么导致了癌症复发——九成的癌症死亡都是由复发引起的。研究人员的代谢分析发现问题与果糖有关。研究人员分析了果糖触发的代谢级联反应，发现果糖不仅作为燃料，还会改变线粒体代谢，降低胆固醇的生成。胆固醇有助于稳定细胞膜，将细胞彼此连接并锚定到周围组织。胆固醇的减少，会降低癌细胞的黏附性，使其更容易脱落，从而帮助癌细胞在体内转移。实验显示抑制癌细胞代谢果糖的能...",
       "source": "Solidot",
       "pub_date": "Mon, 10 Aug 2026 16:04:39 +0800",
-      "fetched_at": "2026-08-11T12:00:06.468275",
+      "fetched_at": "2026-08-11T20:00:04.866163",
       "categories": [
         "ai"
       ],
@@ -626,7 +588,7 @@
       "summary": "苹果正在 iPhone 和 MacBook 等产品上测试长鑫的内存芯片，以缓解 AI 热导致的内存短缺。苹果已与长鑫就供应内存芯片进行了初步磋商，目标是将其用于部分在中国销售的苹果设备。此前有报道称，PC 制造商惠普和宏碁已开始在美国以外地区销售的笔记本产品中少量使用长鑫内存。长鑫目前占据了约 7% 的内存市场份额，三星、SK海力士和美光占据了九成的市场份额。",
       "source": "Solidot",
       "pub_date": "Mon, 10 Aug 2026 16:38:43 +0800",
-      "fetched_at": "2026-08-11T12:00:06.467864",
+      "fetched_at": "2026-08-11T20:00:04.865877",
       "categories": [
         "ai"
       ],
@@ -639,7 +601,47 @@
         "等产品上测试长鑫的内存芯片"
       ],
       "importance": 0.5
+    },
+    {
+      "title": "中国人形机器人出货量占全球的逾 97%",
+      "link": "https://www.solidot.org/story?sid=85051",
+      "summary": "最新行业数据显示，2026 年上半年，中国人形机器人制造商占全球出货量的 97% 以上，显示中国在这一新兴领域已领先美国。Smart Analytics Global 的数据显示，2026 年上半年，全球人形机器人出货量约 1 万 9100 台，是去年同期 5100 台的三倍多。总部位于上海的智元机器人超越总部位于杭州的宇树科技，跃居市场份额榜首。今年上半年，智元机器人出货量达 8400 台，占全球出货量的 44%，宇树科技则为 5900 台。",
+      "source": "Solidot",
+      "pub_date": "Mon, 10 Aug 2026 17:43:58 +0800",
+      "fetched_at": "2026-08-11T20:00:04.865744",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "最新行业数据显示，2026 年上半年，中国人形机器人制造商占全球出货量的 97% 以上，显示中国在这一新兴领域已领先美国。Smart Analytics Global 的数据显示，2026 年上半年，全球人形机器人出货量约 1 万 9100 台，是去年同期 5100 台的三倍多。总部位于上海的智元机...",
+      "keywords": [
+        "年上半年",
+        "中国人形机器人出货量占全球的逾",
+        "最新行业数据显示",
+        "中国人形机器人制造商占全球出货量的",
+        "以上"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "审稿人人数跟不上大幅增长的新论文数量",
+      "link": "https://www.solidot.org/story?sid=85053",
+      "summary": "同行审议是学术出版流程的重要一环，然而随着在 AI 时代论文数稳步增长，审稿人数量逐渐跟不上了。以前一篇论文通常能找到两到三位审稿人，如今很多论文只能找到一名审稿人。研究人员表示，这种情况越来越普遍。同行审议成为科学的基石其实只有约 50 年历史，是 1970 年代美国科学基金会为了避免将科研项目的拨款决定置于国会议员手中。英国的情况类似。如今同行审议已成为标准流程。加快审稿的一种方法是引入 AI 审稿。未来 AI 生成的审稿意见可能会日益常见，今天的很多审稿人已经在使用 AI 工具。",
+      "source": "Solidot",
+      "pub_date": "Mon, 10 Aug 2026 21:39:09 +0800",
+      "fetched_at": "2026-08-11T20:00:04.865453",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "同行审议是学术出版流程的重要一环，然而随着在 AI 时代论文数稳步增长，审稿人数量逐渐跟不上了。以前一篇论文通常能找到两到三位审稿人，如今很多论文只能找到一名审稿人。研究人员表示，这种情况越来越普遍。同行审议成为科学的基石其实只有约 50 年历史，是 1970 年代美国科学基金会为了避免将科研项目的...",
+      "keywords": [
+        "ai",
+        "审稿人人数跟不上大幅增长的新论文数量",
+        "同行审议是学术出版流程的重要一环",
+        "然而随着在",
+        "时代论文数稳步增长"
+      ],
+      "importance": 0
     }
   ],
-  "updated_at": "2026-08-11T12:00:37.437096"
+  "updated_at": "2026-08-11T20:00:40.772045"
 }

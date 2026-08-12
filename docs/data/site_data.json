@@ -5,15 +5,15 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-08-12T12:00:33.840889",
-    "total_items": 24
+    "last_update": "2026-08-12T20:00:39.731007",
+    "total_items": 16
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 19
+      "count": 11
     },
     "robotics": {
       "name": "Robotics",
@@ -29,14 +29,13 @@
     }
   },
   "stats": {
-    "total_items": 24,
-    "today_items": 24,
+    "total_items": 16,
+    "today_items": 16,
     "sources": {
-      "Solidot": 12,
-      "量子位": 7,
-      "HackerNews": 5
+      "Solidot": 10,
+      "量子位": 6
     },
-    "last_update": "2026-08-12T12:00:33.840889"
+    "last_update": "2026-08-12T20:00:39.731007"
   },
   "trending": [
     {
@@ -45,7 +44,7 @@
       "summary": "最新披露的文件显示，Google 联合创始人 Sergey Brin 向致力于反对加州亿万富翁税的 Build a Better California 组织捐赠了 2000 万美元。这意味着 Brin 为避免缴纳预计 133 亿美元的税而投入了逾亿美元反对拟议中的新税。加州的 Prop 40——即亿万富翁税——提议对居住在加州的约 200 位亿万富翁根据其净资产征收一次性 5% 的税，这笔税款将于用于资助加州的医保项目。特朗普政府正准备削减加州的联邦拨款，加州的 Medicaid 医保项目将面临 300 亿美元的亏空。加州选民将于 11 月对 Prop 40 进行投票。英伟达 CEO 黄仁勋公...",
       "source": "Solidot",
       "pub_date": "Tue, 11 Aug 2026 15:33:48 +0800",
-      "fetched_at": "2026-08-12T12:00:07.566942",
+      "fetched_at": "2026-08-12T20:00:06.458094",
       "categories": [
         "ai"
       ],
@@ -60,12 +59,32 @@
       "importance": 1.5
     },
     {
+      "title": "Gemini 成为 Google 月活数最快突破 10 亿的产品",
+      "link": "https://www.solidot.org/story?sid=85067",
+      "summary": "Gemini 成为 Google 月活数最快突破 10 亿的产品。Gemini 已深度集成在 Google 几乎所有的产品和服务中， 为 Gmail 的邮件整理、云盘 Drive 的文档摘要等功能提供支持。Gemini 也是 Google 搜索体验的核心，AI Mode 和 AI Overviews 的背后都是 Gemini，但 10 亿用户数指标并不涉及这些集成 AI 功能的使用。Gemini 的月活数指的是用户过去一个月访问过 Gemini 应用、Gemini Web 端或 Gemini Live。",
+      "source": "Solidot",
+      "pub_date": "Wed, 12 Aug 2026 14:13:13 +0800",
+      "fetched_at": "2026-08-12T20:00:06.455896",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Gemini 成为 Google 月活数最快突破 10 亿的产品。Gemini 已深度集成在 Google 几乎所有的产品和服务中， 为 Gmail 的邮件整理、云盘 Drive 的文档摘要等功能提供支持。Gemini 也是 Google 搜索体验的核心，AI Mode 和 AI Overviews...",
+      "keywords": [
+        "gemini",
+        "google",
+        "ai",
+        "成为",
+        "月活数最快突破"
+      ],
+      "importance": 1.0
+    },
+    {
       "title": "科技公司高管称 AI 将会减少工作时间，实际上 AI 增加了工作时间",
       "link": "https://www.solidot.org/story?sid=85065",
       "summary": "四年前 Google 的一位工程总监宣称到 2025 年 AI 将推动企业实行四天工作制。OpenAI 今年早些时候也鼓励企业试行四天工作制，声称 AI 将能大幅提升人类劳动效率，业界应为此做好准备。OpenAI 的一位前员工称，该公司从未真正试行过四天工作制。前员工称 OpenAI 的工作文化令人精疲力竭，频繁举行危机会议，周末要加班，绩效考核残酷无情，同事会被突然解雇。科技公司员工称，他们的工作时长远超典型的每周五天 40 小时。前 OpenAI 员工表示，他们每周至少工作 70 小时。他现在在一家 AI 初创公司工作，每周工作时间接近 50-60 小时，在工作生活平衡上比 OpenAI ...",
       "source": "Solidot",
       "pub_date": "Tue, 11 Aug 2026 23:20:06 +0800",
-      "fetched_at": "2026-08-12T12:00:07.565400",
+      "fetched_at": "2026-08-12T20:00:06.456397",
       "categories": [
         "ai"
       ],
@@ -80,32 +99,12 @@
       "importance": 1.0
     },
     {
-      "title": "Meta 推出 300 亿参数的开放权重模型 Muse Glimmer",
-      "link": "https://www.solidot.org/story?sid=85054",
-      "summary": "Meta 在 Apache 2.0 许可证下推出了 300 亿参数的开放权重模型 Muse Glimmer。Muse Glimmer 为本地运行的智能体工作流程进行了优化，能在配备了单个消费级 GPU 的 Mac 或 PC 上运行，支持从本地智能体和函数调用到本地编程和 LLM 自动化评估等多种应用场景。Meta 将在未来几天推出针对 llama.cpp、MLX 和 ExecuTorch 的集成。",
-      "source": "Solidot",
-      "pub_date": "Mon, 10 Aug 2026 22:01:22 +0800",
-      "fetched_at": "2026-08-12T12:00:07.567768",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Meta 在 Apache 2.0 许可证下推出了 300 亿参数的开放权重模型 Muse Glimmer。Muse Glimmer 为本地运行的智能体工作流程进行了优化，能在配备了单个消费级 GPU 的 Mac 或 PC 上运行，支持从本地智能体和函数调用到本地编程和 LLM 自动化评估等多种应用...",
-      "keywords": [
-        "meta",
-        "muse",
-        "glimmer",
-        "亿参数的开放权重模型",
-        "推出"
-      ],
-      "importance": 1.0
-    },
-    {
       "title": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
       "link": "https://www.qbitai.com/2026/08/470674.html",
       "summary": "资本正从具身本体集体涌向触觉",
       "source": "量子位",
       "pub_date": "Tue, 11 Aug 2026 13:57:46 +0000",
-      "fetched_at": "2026-08-12T12:00:07.917493",
+      "fetched_at": "2026-08-12T20:00:06.807114",
       "categories": [
         "robotics"
       ],
@@ -120,12 +119,32 @@
       "importance": 1.0
     },
     {
+      "title": "微软八月例行更新修复 421 个 bug，包括正被朝鲜黑客利用的 0day",
+      "link": "https://www.solidot.org/story?sid=85071",
+      "summary": "微软本周二释出了八月例行安全更新，共修复 421 个 bug，比上个月少约 200 个，在 AI 辅助漏洞披露和修复时代，bug 修复数动辄数百已成为新常态。其中一个 bug CVE-2026-68820 正被朝鲜黑客组织 Lazarus Group 利用。它是 Windows Ancillary Function Driver for WinSock 的一个释放后使用 bug，攻击者能利用该 bug 以 SYSTEM 权限执行代码且无需用户交互。发现该 bug 的安全公司 Check Point 称，Lazarus Group 正通过钓鱼攻击利用该 bug，当受害者打开特制 PDF 文件后攻...",
+      "source": "Solidot",
+      "pub_date": "Wed, 12 Aug 2026 16:12:16 +0800",
+      "fetched_at": "2026-08-12T20:00:06.454895",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "微软本周二释出了八月例行安全更新，共修复 421 个 bug，比上个月少约 200 个，在 AI 辅助漏洞披露和修复时代，bug 修复数动辄数百已成为新常态。其中一个 bug CVE-2026-68820 正被朝鲜黑客组织 Lazarus Group 利用。它是 Windows Ancillary ...",
+      "keywords": [
+        "bug",
+        "lazarus",
+        "group",
+        "微软八月例行更新修复",
+        "包括正被朝鲜黑客利用的"
+      ],
+      "importance": 0.5
+    },
+    {
       "title": "Claude 生成的文本添加看不见的水印",
       "link": "https://www.solidot.org/story?sid=85063",
       "summary": "Anthropic 为其 AI 工具 Claude 生成的文本添加看不见但能被机器读取的水印。此举是为了遵守欧盟 AI Act 第 50 条关于 AI 生成文本透明度要求。Anthropic 表示，水印将适用于全球用户，而不仅仅是欧洲用户。Anthropic 的系统将对文本和支持的文件使用不同的技术，文本添加不可见水印，文件则包含签名的来源信息。用户在阅读文本时不会看到水印。当用户复制粘贴文本内容时，水印仍将保留。Anthropic 还预计部分水印在编辑后仍然有效。",
       "source": "Solidot",
       "pub_date": "Tue, 11 Aug 2026 21:48:03 +0800",
-      "fetched_at": "2026-08-12T12:00:07.565855",
+      "fetched_at": "2026-08-12T20:00:06.456858",
       "categories": [
         "ai"
       ],
@@ -140,65 +159,65 @@
       "importance": 0.5
     },
     {
-      "title": "对磁星的测量或证实了真空双折射理论",
-      "link": "https://www.solidot.org/story?sid=85055",
-      "summary": "国际团队在 2025 年 3 月至 4 月间，结合 NASA 的 IXPE (Imaging X-ray Polarimetry Explorer、NICER (Neutron Star Interior Composition Explorer) 以及澳洲联邦科学与工业研究组织（CSIRO）的 Murriyang 无线电望远镜，对磁星 1E 1547-5408 进行了超过 140 小时的联合观测。这是人类史上首次针对磁星进行同步的无线电与 X 射线偏振测量。这颗每 2 秒自转一周的磁星能持续发出明亮的无线电与 X 射线。观测显示，其光子偏振度是类似天体的三倍之多，远高于标准表面辐射模型的预期...",
+      "title": "农民因听从 AI 建议而导致 150 亩芝麻几乎全毁",
+      "link": "https://www.solidot.org/story?sid=85077",
+      "summary": "安徽滁州一名 67 岁农民疑因过度相信 AI 提供的建议，误用除草剂导致大批芝麻苗死亡，150 亩农田一夜之间几乎全毁，损失惨重。吴姓农民约 1 年前开始接触 AI 软件，从农时安排、施肥到农药使用，几乎大小事都会询问 AI。起初他对相关建议半信半疑，但长期使用后逐渐建立信任，甚至将 AI 提供的方案直接付诸实行。吴大伯 7 月 10 日向 AI 询问芝麻如何除草、除虫，AI 随即生成一套“百亩芝麻飞防除草＋除虫全套方案”，其中推荐使用“高效氟吡甲禾灵”及“氟磺胺草醚”除草，另搭配“噻虫嗪”及“甲维盐”等药剂。吴大伯未进一步向农技人员确认，便依照方案喷药。没想到隔天田里便出现严重异常，芝麻苗与...",
       "source": "Solidot",
-      "pub_date": "Mon, 10 Aug 2026 22:38:00 +0800",
-      "fetched_at": "2026-08-12T12:00:07.567608",
+      "pub_date": "Wed, 12 Aug 2026 19:03:17 +0800",
+      "fetched_at": "2026-08-12T20:00:06.453238",
       "categories": [
+        "ai"
+      ],
+      "ai_summary": "安徽滁州一名 67 岁农民疑因过度相信 AI 提供的建议，误用除草剂导致大批芝麻苗死亡，150 亩农田一夜之间几乎全毁，损失惨重。吴姓农民约 1 年前开始接触 AI 软件，从农时安排、施肥到农药使用，几乎大小事都会询问 AI。起初他对相关建议半信半疑，但长期使用后逐渐建立信任，甚至将 AI 提供的方...",
+      "keywords": [
         "ai",
+        "农民因听从",
+        "建议而导致",
+        "亩芝麻几乎全毁",
+        "安徽滁州一名"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "研究预测农村和城市之间的温差在缩小",
+      "link": "https://www.solidot.org/story?sid=85076",
+      "summary": "城市由于黑色沥青和混凝土吸收太阳辐射而变得比周边地区更热。这种被称为“城市热岛效应”的现象，是研究城市升温的基础。气象和卫星数据普遍显示，过去几十年来这一效应已不断加强。一项新研究发现，城市未来很快将不再比周围地区升温得更快。到 2050 年，尽管城市平均气温仍高于周边乡村，“但城市的农村周边地区升温速度更快”，除寒冷地区外，城市热岛效应正在减弱。此前的研究表明，随着气温升高导致乡村地区更加干燥，蒸发降温空气的能力下降，因此乡村的升温速度将加快，从而缩小与城市的温差。这一结果并不意味着气候变化对城市的升温影响会消失，只是说明城市与乡村之间的温差可能减小。",
+      "source": "Solidot",
+      "pub_date": "Wed, 12 Aug 2026 18:54:50 +0800",
+      "fetched_at": "2026-08-12T20:00:06.453637",
+      "categories": [
         "space"
       ],
-      "ai_summary": "国际团队在 2025 年 3 月至 4 月间，结合 NASA 的 IXPE (Imaging X-ray Polarimetry Explorer、NICER (Neutron Star Interior Composition Explorer) 以及澳洲联邦科学与工业研究组织（CSIRO）的 M...",
+      "ai_summary": "城市由于黑色沥青和混凝土吸收太阳辐射而变得比周边地区更热。这种被称为“城市热岛效应”的现象，是研究城市升温的基础。气象和卫星数据普遍显示，过去几十年来这一效应已不断加强。一项新研究发现，城市未来很快将不再比周围地区升温得更快。到 2050 年，尽管城市平均气温仍高于周边乡村，“但城市的农村周边地区升...",
       "keywords": [
-        "explorer",
-        "对磁星的测量或证实了真空双折射理论",
-        "国际团队在",
-        "月至",
-        "月间"
+        "研究预测农村和城市之间的温差在缩小",
+        "城市由于黑色沥青和混凝土吸收太阳辐射而变得比周边地区更热",
+        "这种被称为",
+        "城市热岛效应",
+        "的现象"
       ],
-      "importance": 0.5
+      "importance": 0
     },
     {
-      "title": "苹果测试长鑫内存",
-      "link": "https://www.solidot.org/story?sid=85050",
-      "summary": "苹果正在 iPhone 和 MacBook 等产品上测试长鑫的内存芯片，以缓解 AI 热导致的内存短缺。苹果已与长鑫就供应内存芯片进行了初步磋商，目标是将其用于部分在中国销售的苹果设备。此前有报道称，PC 制造商惠普和宏碁已开始在美国以外地区销售的笔记本产品中少量使用长鑫内存。长鑫目前占据了约 7% 的内存市场份额，三星、SK海力士和美光占据了九成的市场份额。",
+      "title": "Cloudflare 数据显示北美一工作日 Linux 桌面使用率飙升至 22%",
+      "link": "https://www.solidot.org/story?sid=85068",
+      "summary": "Cloudflare 数据显示 7 月 6 日星期一北美 Linux 桌面使用率飙升至 22%。Cloudflare 数据显示北美的 Linux 桌面使用率已从一年前的 4.1% 升至 6.4%。这一数据不涉及机器人，而只包含人类用户。如果将机器人和人类都包含在内，那么北美的 Linux 桌面使用率为 9.7%。分析师认为，Linux 桌面使用率增长的趋势是由 AI 开发者和 AI 智能体用户推动的。Windows 当然能本地运行 AI 工作负载，但 Linux 在管理多种 AI 工具和多个有不同依赖项的项目上更具有优势。Linux 被视为是 AI 智能体的首选操作系统。",
       "source": "Solidot",
-      "pub_date": "Mon, 10 Aug 2026 16:38:43 +0800",
-      "fetched_at": "2026-08-12T12:00:07.568727",
+      "pub_date": "Wed, 12 Aug 2026 14:35:44 +0800",
+      "fetched_at": "2026-08-12T20:00:06.455652",
       "categories": [
-        "ai"
+        "ai",
+        "robotics"
       ],
-      "ai_summary": "苹果正在 iPhone 和 MacBook 等产品上测试长鑫的内存芯片，以缓解 AI 热导致的内存短缺。苹果已与长鑫就供应内存芯片进行了初步磋商，目标是将其用于部分在中国销售的苹果设备。此前有报道称，PC 制造商惠普和宏碁已开始在美国以外地区销售的笔记本产品中少量使用长鑫内存。长鑫目前占据了约 7%...",
+      "ai_summary": "Cloudflare 数据显示 7 月 6 日星期一北美 Linux 桌面使用率飙升至 22%。Cloudflare 数据显示北美的 Linux 桌面使用率已从一年前的 4.1% 升至 6.4%。这一数据不涉及机器人，而只包含人类用户。如果将机器人和人类都包含在内，那么北美的 Linux 桌面使用率...",
       "keywords": [
-        "苹果测试长鑫内存",
-        "苹果正在",
-        "iphone",
-        "macbook",
-        "等产品上测试长鑫的内存芯片"
+        "linux",
+        "ai",
+        "cloudflare",
+        "桌面使用率飙升至",
+        "数据显示北美一工作日"
       ],
-      "importance": 0.5
-    },
-    {
-      "title": "OpenAI’s head of ethics leaves less than a year after joining",
-      "link": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-      "summary": "👍 330 | 💬 357",
-      "source": "HackerNews",
-      "pub_date": "2026-08-11T20:23:07",
-      "fetched_at": "2026-08-12T12:00:20.753545",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 330 | 💬 357",
-      "keywords": [
-        "openai",
-        "head",
-        "of",
-        "ethics",
-        "leaves"
-      ],
-      "importance": 0.5
+      "importance": 0
     },
     {
       "title": "直接给现金能使贫困家庭长期受益",
@@ -206,7 +225,7 @@
       "summary": "贫困问题的一个潜在解决方案是：直接给穷人现金。越来越多的研究表明，现金转移支付能使贫困家庭受益。加州圣克鲁兹经济学家 Jonathan Robinson 的团队在美国国际开发署（USAID）的支持下分别在利比里亚和马拉维选择了 150 个村庄，向每户家庭提供一笔一次性的现金（250 美元或 500 美元、750 美元），在每个国家再选择 150 个对照村庄，不提供现金。在之后的两年时间里，研究人员每月实地调查和电话调查了数百名女性。结果显示，贫困家庭通常会很快花光钱，但这笔钱通常花在改善粮食安全等方面的投资上。在两年后，实验组家庭的粮食安全状况仍然高于对照组家庭，显示现金给贫困家庭带来了至少两...",
       "source": "Solidot",
       "pub_date": "Tue, 11 Aug 2026 18:28:24 +0800",
-      "fetched_at": "2026-08-12T12:00:07.566348",
+      "fetched_at": "2026-08-12T20:00:06.457354",
       "categories": [
         "ai"
       ],
@@ -219,196 +238,16 @@
         "越来越多的研究表明"
       ],
       "importance": 0
-    },
-    {
-      "title": "Tribar 机器人从 5.7 米高处坠落后能正常运行",
-      "link": "https://www.solidot.org/story?sid=85059",
-      "summary": "耶鲁、普林斯顿等大学的研究人员在《Nature Machine Intelligence》上报告，他们研发的 Tribar 机器人从 5.7 米高处坠落后能正常工作。这一工程学和机器人领域的双重突破，有望推动适用于行星表面、灾区等危险偏远环境的机器人开发。Tribar 属于张拉整体机器人。这类机器人最早源于建筑学家 Richard Buckminster Fuller 提出的“张拉整体”结构概念，即通过连续的张力元件与间断的压力元件共同维持结构稳定。这一概念应用于机器人领域后，其主体由弹性缆绳网络与刚性杆件构成，结构柔韧轻便，能够像弹簧一样吸收较大的外部载荷，即使受到撞击也不会轻易损坏。Tri...",
-      "source": "Solidot",
-      "pub_date": "Tue, 11 Aug 2026 16:20:43 +0800",
-      "fetched_at": "2026-08-12T12:00:07.566729",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "耶鲁、普林斯顿等大学的研究人员在《Nature Machine Intelligence》上报告，他们研发的 Tribar 机器人从 5.7 米高处坠落后能正常工作。这一工程学和机器人领域的双重突破，有望推动适用于行星表面、灾区等危险偏远环境的机器人开发。Tribar 属于张拉整体机器人。这类机器人...",
-      "keywords": [
-        "tribar",
-        "机器人从",
-        "米高处坠落后能正常运行",
-        "耶鲁",
-        "普林斯顿等大学的研究人员在"
-      ],
-      "importance": 0
     }
   ],
   "latest": [
-    {
-      "title": "Go is an ideal language for AI-assisted software engineering",
-      "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-      "summary": "👍 305 | 💬 357",
-      "source": "HackerNews",
-      "pub_date": "2026-08-12T00:57:09",
-      "fetched_at": "2026-08-12T12:00:32.867133",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 305 | 💬 357",
-      "keywords": [
-        "go",
-        "is",
-        "an",
-        "ideal",
-        "language"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Show HN: Line9 – A Mermaid rendering engine with its own layout",
-      "link": "https://line9.ai/diagram",
-      "summary": "👍 39 | 💬 9",
-      "source": "HackerNews",
-      "pub_date": "2026-08-06T21:47:54",
-      "fetched_at": "2026-08-12T12:00:30.362766",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 39 | 💬 9",
-      "keywords": [
-        "show",
-        "hn",
-        "line",
-        "mermaid",
-        "rendering"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-      "link": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
-      "summary": "👍 44 | 💬 10",
-      "source": "HackerNews",
-      "pub_date": "2026-08-12T10:05:42",
-      "fetched_at": "2026-08-12T12:00:22.902072",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 44 | 💬 10",
-      "keywords": [
-        "ai",
-        "company",
-        "offering",
-        "human",
-        "written"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "OpenAI’s head of ethics leaves less than a year after joining",
-      "link": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-      "summary": "👍 330 | 💬 357",
-      "source": "HackerNews",
-      "pub_date": "2026-08-11T20:23:07",
-      "fetched_at": "2026-08-12T12:00:20.753545",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 330 | 💬 357",
-      "keywords": [
-        "openai",
-        "head",
-        "of",
-        "ethics",
-        "leaves"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "link": "https://stolen-thoughts.com/",
-      "summary": "👍 539 | 💬 228",
-      "source": "HackerNews",
-      "pub_date": "2026-08-11T21:22:00",
-      "fetched_at": "2026-08-12T12:00:17.126679",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 539 | 💬 228",
-      "keywords": [
-        "stealing",
-        "reasoning",
-        "traces",
-        "from",
-        "proprietary"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
-      "link": "https://www.qbitai.com/2026/08/469869.html",
-      "summary": "全球AI安全实战化测评，中国方案DoGNAVY位列前三",
-      "source": "量子位",
-      "pub_date": "Tue, 11 Aug 2026 03:11:12 +0000",
-      "fetched_at": "2026-08-12T12:00:07.918041",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "全球AI安全实战化测评，中国方案DoGNAVY位列前三",
-      "keywords": [
-        "ai",
-        "全球",
-        "开始",
-        "自作主张",
-        "谁来为智能体戴上"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿",
-      "link": "https://www.qbitai.com/2026/08/469880.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Tue, 11 Aug 2026 03:37:31 +0000",
-      "fetched_at": "2026-08-12T12:00:07.917965",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "机器人赛道新岗位",
-        "月入",
-        "元的",
-        "骨科大夫",
-        "专治缺胳膊断腿"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
-      "link": "https://www.qbitai.com/2026/08/470228.html",
-      "summary": "大水印时代来了",
-      "source": "量子位",
-      "pub_date": "Tue, 11 Aug 2026 03:51:24 +0000",
-      "fetched_at": "2026-08-12T12:00:07.917955",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "大水印时代来了",
-      "keywords": [
-        "claude",
-        "骂声中启动",
-        "隐形水印",
-        "新模型全量嵌入",
-        "标记所有文字"
-      ],
-      "importance": 0
-    },
     {
       "title": "宇树会破发吗？王兴兴回应了",
       "link": "https://www.qbitai.com/2026/08/470307.html",
       "summary": "200问回应一切",
       "source": "量子位",
       "pub_date": "Tue, 11 Aug 2026 04:42:50 +0000",
-      "fetched_at": "2026-08-12T12:00:07.917807",
+      "fetched_at": "2026-08-12T20:00:06.807414",
       "categories": [
         "robotics"
       ],
@@ -426,7 +265,7 @@
       "summary": "把下界推高了一大截",
       "source": "量子位",
       "pub_date": "Tue, 11 Aug 2026 05:12:20 +0000",
-      "fetched_at": "2026-08-12T12:00:07.917735",
+      "fetched_at": "2026-08-12T20:00:06.807341",
       "categories": [
         "ai"
       ],
@@ -446,7 +285,7 @@
       "summary": "算力竞赛的天平，正在向电力倾斜",
       "source": "量子位",
       "pub_date": "Tue, 11 Aug 2026 11:36:42 +0000",
-      "fetched_at": "2026-08-12T12:00:07.917586",
+      "fetched_at": "2026-08-12T20:00:06.807188",
       "categories": [
         "ai"
       ],
@@ -466,7 +305,7 @@
       "summary": "资本正从具身本体集体涌向触觉",
       "source": "量子位",
       "pub_date": "Tue, 11 Aug 2026 13:57:46 +0000",
-      "fetched_at": "2026-08-12T12:00:07.917493",
+      "fetched_at": "2026-08-12T20:00:06.807114",
       "categories": [
         "robotics"
       ],
@@ -481,145 +320,44 @@
       "importance": 1.0
     },
     {
-      "title": "五分之一美国人在财务建议上咨询 AI，七成美国人不信任 AI",
-      "link": "https://www.solidot.org/story?sid=85047",
-      "summary": "盖洛普与金融服务公司 Edward Jones 合作展开的一项调查显示，过去一年有五分之一美国人在财务建议上咨询 AI，但只有三成美国人非常信任或部分信任 AI 的理财能力，3% 的人非常信任 AI， 七成美国人不信任 AI。随着 AI 的普及，金融专家表示，消费者应谨慎对待这些工具，切勿完全依赖它们。MIT 斯隆管理学院副教授 Taha Choukhmane 的建议是利用 AI 获取金融概念相关的解释和定义，如利用 AI 了解股市，了解共同基金和指数基金的区别，等等。研究显示，年轻一代更倾向于使用 AI 获取理财建议，而老年人则更倾向于寻求专业理财顾问的帮助。",
-      "source": "Solidot",
-      "pub_date": "Mon, 10 Aug 2026 14:49:27 +0800",
-      "fetched_at": "2026-08-12T12:00:07.569480",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "盖洛普与金融服务公司 Edward Jones 合作展开的一项调查显示，过去一年有五分之一美国人在财务建议上咨询 AI，但只有三成美国人非常信任或部分信任 AI 的理财能力，3% 的人非常信任 AI， 七成美国人不信任 AI。随着 AI 的普及，金融专家表示，消费者应谨慎对待这些工具，切勿完全依赖它...",
-      "keywords": [
-        "ai",
-        "七成美国人不信任",
-        "五分之一美国人在财务建议上咨询",
-        "盖洛普与金融服务公司",
-        "edward"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "果糖会帮助癌细胞扩散",
-      "link": "https://www.solidot.org/story?sid=85048",
-      "summary": "根据发表在《Nature Aging》期刊上的一项研究，科学家发现果糖会帮助癌细胞扩散。研究团队针对的是顺铂（cisplatin）治疗的卵巢癌，顺铂是一种强效铂类化疗药物，会诱导细胞衰老。多数患者最初对治疗反应良好，但复发很常见。研究人员想知道是什么导致了癌症复发——九成的癌症死亡都是由复发引起的。研究人员的代谢分析发现问题与果糖有关。研究人员分析了果糖触发的代谢级联反应，发现果糖不仅作为燃料，还会改变线粒体代谢，降低胆固醇的生成。胆固醇有助于稳定细胞膜，将细胞彼此连接并锚定到周围组织。胆固醇的减少，会降低癌细胞的黏附性，使其更容易脱落，从而帮助癌细胞在体内转移。实验显示抑制癌细胞代谢果糖的能...",
-      "source": "Solidot",
-      "pub_date": "Mon, 10 Aug 2026 16:04:39 +0800",
-      "fetched_at": "2026-08-12T12:00:07.569278",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "根据发表在《Nature Aging》期刊上的一项研究，科学家发现果糖会帮助癌细胞扩散。研究团队针对的是顺铂（cisplatin）治疗的卵巢癌，顺铂是一种强效铂类化疗药物，会诱导细胞衰老。多数患者最初对治疗反应良好，但复发很常见。研究人员想知道是什么导致了癌症复发——九成的癌症死亡都是由复发引起的。...",
-      "keywords": [
-        "果糖会帮助癌细胞扩散",
-        "根据发表在",
-        "nature",
-        "aging",
-        "期刊上的一项研究"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "苹果测试长鑫内存",
-      "link": "https://www.solidot.org/story?sid=85050",
-      "summary": "苹果正在 iPhone 和 MacBook 等产品上测试长鑫的内存芯片，以缓解 AI 热导致的内存短缺。苹果已与长鑫就供应内存芯片进行了初步磋商，目标是将其用于部分在中国销售的苹果设备。此前有报道称，PC 制造商惠普和宏碁已开始在美国以外地区销售的笔记本产品中少量使用长鑫内存。长鑫目前占据了约 7% 的内存市场份额，三星、SK海力士和美光占据了九成的市场份额。",
-      "source": "Solidot",
-      "pub_date": "Mon, 10 Aug 2026 16:38:43 +0800",
-      "fetched_at": "2026-08-12T12:00:07.568727",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "苹果正在 iPhone 和 MacBook 等产品上测试长鑫的内存芯片，以缓解 AI 热导致的内存短缺。苹果已与长鑫就供应内存芯片进行了初步磋商，目标是将其用于部分在中国销售的苹果设备。此前有报道称，PC 制造商惠普和宏碁已开始在美国以外地区销售的笔记本产品中少量使用长鑫内存。长鑫目前占据了约 7%...",
-      "keywords": [
-        "苹果测试长鑫内存",
-        "苹果正在",
-        "iphone",
-        "macbook",
-        "等产品上测试长鑫的内存芯片"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "中国人形机器人出货量占全球的逾 97%",
-      "link": "https://www.solidot.org/story?sid=85051",
-      "summary": "最新行业数据显示，2026 年上半年，中国人形机器人制造商占全球出货量的 97% 以上，显示中国在这一新兴领域已领先美国。Smart Analytics Global 的数据显示，2026 年上半年，全球人形机器人出货量约 1 万 9100 台，是去年同期 5100 台的三倍多。总部位于上海的智元机器人超越总部位于杭州的宇树科技，跃居市场份额榜首。今年上半年，智元机器人出货量达 8400 台，占全球出货量的 44%，宇树科技则为 5900 台。",
-      "source": "Solidot",
-      "pub_date": "Mon, 10 Aug 2026 17:43:58 +0800",
-      "fetched_at": "2026-08-12T12:00:07.568367",
+      "title": "人形之外，擎羽把“身体”变成具身智能的新变量",
+      "link": "https://www.qbitai.com/2026/08/470874.html",
+      "summary": "从柔性本体走向跨本体基础智能，让任务与世界知识延续",
+      "source": "量子位",
+      "pub_date": "Wed, 12 Aug 2026 04:29:57 +0000",
+      "fetched_at": "2026-08-12T20:00:06.806927",
       "categories": [
         "robotics"
       ],
-      "ai_summary": "最新行业数据显示，2026 年上半年，中国人形机器人制造商占全球出货量的 97% 以上，显示中国在这一新兴领域已领先美国。Smart Analytics Global 的数据显示，2026 年上半年，全球人形机器人出货量约 1 万 9100 台，是去年同期 5100 台的三倍多。总部位于上海的智元机...",
+      "ai_summary": "从柔性本体走向跨本体基础智能，让任务与世界知识延续",
       "keywords": [
-        "年上半年",
-        "中国人形机器人出货量占全球的逾",
-        "最新行业数据显示",
-        "中国人形机器人制造商占全球出货量的",
-        "以上"
+        "人形之外",
+        "擎羽把",
+        "身体",
+        "变成具身智能的新变量",
+        "从柔性本体走向跨本体基础智能"
       ],
       "importance": 0
     },
     {
-      "title": "审稿人人数跟不上大幅增长的新论文数量",
-      "link": "https://www.solidot.org/story?sid=85053",
-      "summary": "同行审议是学术出版流程的重要一环，然而随着在 AI 时代论文数稳步增长，审稿人数量逐渐跟不上了。以前一篇论文通常能找到两到三位审稿人，如今很多论文只能找到一名审稿人。研究人员表示，这种情况越来越普遍。同行审议成为科学的基石其实只有约 50 年历史，是 1970 年代美国科学基金会为了避免将科研项目的拨款决定置于国会议员手中。英国的情况类似。如今同行审议已成为标准流程。加快审稿的一种方法是引入 AI 审稿。未来 AI 生成的审稿意见可能会日益常见，今天的很多审稿人已经在使用 AI 工具。",
-      "source": "Solidot",
-      "pub_date": "Mon, 10 Aug 2026 21:39:09 +0800",
-      "fetched_at": "2026-08-12T12:00:07.567915",
+      "title": "紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力",
+      "link": "https://www.qbitai.com/2026/08/471030.html",
+      "summary": "免训练、开箱即用！",
+      "source": "量子位",
+      "pub_date": "Wed, 12 Aug 2026 10:54:29 +0000",
+      "fetched_at": "2026-08-12T20:00:06.806708",
       "categories": [
         "ai"
       ],
-      "ai_summary": "同行审议是学术出版流程的重要一环，然而随着在 AI 时代论文数稳步增长，审稿人数量逐渐跟不上了。以前一篇论文通常能找到两到三位审稿人，如今很多论文只能找到一名审稿人。研究人员表示，这种情况越来越普遍。同行审议成为科学的基石其实只有约 50 年历史，是 1970 年代美国科学基金会为了避免将科研项目的...",
+      "ai_summary": "免训练、开箱即用！",
       "keywords": [
-        "ai",
-        "审稿人人数跟不上大幅增长的新论文数量",
-        "同行审议是学术出版流程的重要一环",
-        "然而随着在",
-        "时代论文数稳步增长"
+        "紫东太初推出",
+        "gmc",
+        "核心集剪枝方法",
+        "token",
+        "仍满血保真多模态能力"
       ],
       "importance": 0
-    },
-    {
-      "title": "Meta 推出 300 亿参数的开放权重模型 Muse Glimmer",
-      "link": "https://www.solidot.org/story?sid=85054",
-      "summary": "Meta 在 Apache 2.0 许可证下推出了 300 亿参数的开放权重模型 Muse Glimmer。Muse Glimmer 为本地运行的智能体工作流程进行了优化，能在配备了单个消费级 GPU 的 Mac 或 PC 上运行，支持从本地智能体和函数调用到本地编程和 LLM 自动化评估等多种应用场景。Meta 将在未来几天推出针对 llama.cpp、MLX 和 ExecuTorch 的集成。",
-      "source": "Solidot",
-      "pub_date": "Mon, 10 Aug 2026 22:01:22 +0800",
-      "fetched_at": "2026-08-12T12:00:07.567768",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Meta 在 Apache 2.0 许可证下推出了 300 亿参数的开放权重模型 Muse Glimmer。Muse Glimmer 为本地运行的智能体工作流程进行了优化，能在配备了单个消费级 GPU 的 Mac 或 PC 上运行，支持从本地智能体和函数调用到本地编程和 LLM 自动化评估等多种应用...",
-      "keywords": [
-        "meta",
-        "muse",
-        "glimmer",
-        "亿参数的开放权重模型",
-        "推出"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "对磁星的测量或证实了真空双折射理论",
-      "link": "https://www.solidot.org/story?sid=85055",
-      "summary": "国际团队在 2025 年 3 月至 4 月间，结合 NASA 的 IXPE (Imaging X-ray Polarimetry Explorer、NICER (Neutron Star Interior Composition Explorer) 以及澳洲联邦科学与工业研究组织（CSIRO）的 Murriyang 无线电望远镜，对磁星 1E 1547-5408 进行了超过 140 小时的联合观测。这是人类史上首次针对磁星进行同步的无线电与 X 射线偏振测量。这颗每 2 秒自转一周的磁星能持续发出明亮的无线电与 X 射线。观测显示，其光子偏振度是类似天体的三倍之多，远高于标准表面辐射模型的预期...",
-      "source": "Solidot",
-      "pub_date": "Mon, 10 Aug 2026 22:38:00 +0800",
-      "fetched_at": "2026-08-12T12:00:07.567608",
-      "categories": [
-        "ai",
-        "space"
-      ],
-      "ai_summary": "国际团队在 2025 年 3 月至 4 月间，结合 NASA 的 IXPE (Imaging X-ray Polarimetry Explorer、NICER (Neutron Star Interior Composition Explorer) 以及澳洲联邦科学与工业研究组织（CSIRO）的 M...",
-      "keywords": [
-        "explorer",
-        "对磁星的测量或证实了真空双折射理论",
-        "国际团队在",
-        "月至",
-        "月间"
-      ],
-      "importance": 0.5
     },
     {
       "title": "Sergey Brin 投入 1 亿美元反对加州的亿万富翁税",
@@ -627,7 +365,7 @@
       "summary": "最新披露的文件显示，Google 联合创始人 Sergey Brin 向致力于反对加州亿万富翁税的 Build a Better California 组织捐赠了 2000 万美元。这意味着 Brin 为避免缴纳预计 133 亿美元的税而投入了逾亿美元反对拟议中的新税。加州的 Prop 40——即亿万富翁税——提议对居住在加州的约 200 位亿万富翁根据其净资产征收一次性 5% 的税，这笔税款将于用于资助加州的医保项目。特朗普政府正准备削减加州的联邦拨款，加州的 Medicaid 医保项目将面临 300 亿美元的亏空。加州选民将于 11 月对 Prop 40 进行投票。英伟达 CEO 黄仁勋公...",
       "source": "Solidot",
       "pub_date": "Tue, 11 Aug 2026 15:33:48 +0800",
-      "fetched_at": "2026-08-12T12:00:07.566942",
+      "fetched_at": "2026-08-12T20:00:06.458094",
       "categories": [
         "ai"
       ],
@@ -640,7 +378,188 @@
         "投入"
       ],
       "importance": 1.5
+    },
+    {
+      "title": "Tribar 机器人从 5.7 米高处坠落后能正常运行",
+      "link": "https://www.solidot.org/story?sid=85059",
+      "summary": "耶鲁、普林斯顿等大学的研究人员在《Nature Machine Intelligence》上报告，他们研发的 Tribar 机器人从 5.7 米高处坠落后能正常工作。这一工程学和机器人领域的双重突破，有望推动适用于行星表面、灾区等危险偏远环境的机器人开发。Tribar 属于张拉整体机器人。这类机器人最早源于建筑学家 Richard Buckminster Fuller 提出的“张拉整体”结构概念，即通过连续的张力元件与间断的压力元件共同维持结构稳定。这一概念应用于机器人领域后，其主体由弹性缆绳网络与刚性杆件构成，结构柔韧轻便，能够像弹簧一样吸收较大的外部载荷，即使受到撞击也不会轻易损坏。Tri...",
+      "source": "Solidot",
+      "pub_date": "Tue, 11 Aug 2026 16:20:43 +0800",
+      "fetched_at": "2026-08-12T20:00:06.457840",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "耶鲁、普林斯顿等大学的研究人员在《Nature Machine Intelligence》上报告，他们研发的 Tribar 机器人从 5.7 米高处坠落后能正常工作。这一工程学和机器人领域的双重突破，有望推动适用于行星表面、灾区等危险偏远环境的机器人开发。Tribar 属于张拉整体机器人。这类机器人...",
+      "keywords": [
+        "tribar",
+        "机器人从",
+        "米高处坠落后能正常运行",
+        "耶鲁",
+        "普林斯顿等大学的研究人员在"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "直接给现金能使贫困家庭长期受益",
+      "link": "https://www.solidot.org/story?sid=85061",
+      "summary": "贫困问题的一个潜在解决方案是：直接给穷人现金。越来越多的研究表明，现金转移支付能使贫困家庭受益。加州圣克鲁兹经济学家 Jonathan Robinson 的团队在美国国际开发署（USAID）的支持下分别在利比里亚和马拉维选择了 150 个村庄，向每户家庭提供一笔一次性的现金（250 美元或 500 美元、750 美元），在每个国家再选择 150 个对照村庄，不提供现金。在之后的两年时间里，研究人员每月实地调查和电话调查了数百名女性。结果显示，贫困家庭通常会很快花光钱，但这笔钱通常花在改善粮食安全等方面的投资上。在两年后，实验组家庭的粮食安全状况仍然高于对照组家庭，显示现金给贫困家庭带来了至少两...",
+      "source": "Solidot",
+      "pub_date": "Tue, 11 Aug 2026 18:28:24 +0800",
+      "fetched_at": "2026-08-12T20:00:06.457354",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "贫困问题的一个潜在解决方案是：直接给穷人现金。越来越多的研究表明，现金转移支付能使贫困家庭受益。加州圣克鲁兹经济学家 Jonathan Robinson 的团队在美国国际开发署（USAID）的支持下分别在利比里亚和马拉维选择了 150 个村庄，向每户家庭提供一笔一次性的现金（250 美元或 500 ...",
+      "keywords": [
+        "美元",
+        "直接给现金能使贫困家庭长期受益",
+        "贫困问题的一个潜在解决方案是",
+        "直接给穷人现金",
+        "越来越多的研究表明"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Claude 生成的文本添加看不见的水印",
+      "link": "https://www.solidot.org/story?sid=85063",
+      "summary": "Anthropic 为其 AI 工具 Claude 生成的文本添加看不见但能被机器读取的水印。此举是为了遵守欧盟 AI Act 第 50 条关于 AI 生成文本透明度要求。Anthropic 表示，水印将适用于全球用户，而不仅仅是欧洲用户。Anthropic 的系统将对文本和支持的文件使用不同的技术，文本添加不可见水印，文件则包含签名的来源信息。用户在阅读文本时不会看到水印。当用户复制粘贴文本内容时，水印仍将保留。Anthropic 还预计部分水印在编辑后仍然有效。",
+      "source": "Solidot",
+      "pub_date": "Tue, 11 Aug 2026 21:48:03 +0800",
+      "fetched_at": "2026-08-12T20:00:06.456858",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Anthropic 为其 AI 工具 Claude 生成的文本添加看不见但能被机器读取的水印。此举是为了遵守欧盟 AI Act 第 50 条关于 AI 生成文本透明度要求。Anthropic 表示，水印将适用于全球用户，而不仅仅是欧洲用户。Anthropic 的系统将对文本和支持的文件使用不同的技术...",
+      "keywords": [
+        "anthropic",
+        "ai",
+        "claude",
+        "生成的文本添加看不见的水印",
+        "为其"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "科技公司高管称 AI 将会减少工作时间，实际上 AI 增加了工作时间",
+      "link": "https://www.solidot.org/story?sid=85065",
+      "summary": "四年前 Google 的一位工程总监宣称到 2025 年 AI 将推动企业实行四天工作制。OpenAI 今年早些时候也鼓励企业试行四天工作制，声称 AI 将能大幅提升人类劳动效率，业界应为此做好准备。OpenAI 的一位前员工称，该公司从未真正试行过四天工作制。前员工称 OpenAI 的工作文化令人精疲力竭，频繁举行危机会议，周末要加班，绩效考核残酷无情，同事会被突然解雇。科技公司员工称，他们的工作时长远超典型的每周五天 40 小时。前 OpenAI 员工表示，他们每周至少工作 70 小时。他现在在一家 AI 初创公司工作，每周工作时间接近 50-60 小时，在工作生活平衡上比 OpenAI ...",
+      "source": "Solidot",
+      "pub_date": "Tue, 11 Aug 2026 23:20:06 +0800",
+      "fetched_at": "2026-08-12T20:00:06.456397",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "四年前 Google 的一位工程总监宣称到 2025 年 AI 将推动企业实行四天工作制。OpenAI 今年早些时候也鼓励企业试行四天工作制，声称 AI 将能大幅提升人类劳动效率，业界应为此做好准备。OpenAI 的一位前员工称，该公司从未真正试行过四天工作制。前员工称 OpenAI 的工作文化令人...",
+      "keywords": [
+        "ai",
+        "openai",
+        "小时",
+        "科技公司高管称",
+        "将会减少工作时间"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "Gemini 成为 Google 月活数最快突破 10 亿的产品",
+      "link": "https://www.solidot.org/story?sid=85067",
+      "summary": "Gemini 成为 Google 月活数最快突破 10 亿的产品。Gemini 已深度集成在 Google 几乎所有的产品和服务中， 为 Gmail 的邮件整理、云盘 Drive 的文档摘要等功能提供支持。Gemini 也是 Google 搜索体验的核心，AI Mode 和 AI Overviews 的背后都是 Gemini，但 10 亿用户数指标并不涉及这些集成 AI 功能的使用。Gemini 的月活数指的是用户过去一个月访问过 Gemini 应用、Gemini Web 端或 Gemini Live。",
+      "source": "Solidot",
+      "pub_date": "Wed, 12 Aug 2026 14:13:13 +0800",
+      "fetched_at": "2026-08-12T20:00:06.455896",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Gemini 成为 Google 月活数最快突破 10 亿的产品。Gemini 已深度集成在 Google 几乎所有的产品和服务中， 为 Gmail 的邮件整理、云盘 Drive 的文档摘要等功能提供支持。Gemini 也是 Google 搜索体验的核心，AI Mode 和 AI Overviews...",
+      "keywords": [
+        "gemini",
+        "google",
+        "ai",
+        "成为",
+        "月活数最快突破"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "Cloudflare 数据显示北美一工作日 Linux 桌面使用率飙升至 22%",
+      "link": "https://www.solidot.org/story?sid=85068",
+      "summary": "Cloudflare 数据显示 7 月 6 日星期一北美 Linux 桌面使用率飙升至 22%。Cloudflare 数据显示北美的 Linux 桌面使用率已从一年前的 4.1% 升至 6.4%。这一数据不涉及机器人，而只包含人类用户。如果将机器人和人类都包含在内，那么北美的 Linux 桌面使用率为 9.7%。分析师认为，Linux 桌面使用率增长的趋势是由 AI 开发者和 AI 智能体用户推动的。Windows 当然能本地运行 AI 工作负载，但 Linux 在管理多种 AI 工具和多个有不同依赖项的项目上更具有优势。Linux 被视为是 AI 智能体的首选操作系统。",
+      "source": "Solidot",
+      "pub_date": "Wed, 12 Aug 2026 14:35:44 +0800",
+      "fetched_at": "2026-08-12T20:00:06.455652",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "Cloudflare 数据显示 7 月 6 日星期一北美 Linux 桌面使用率飙升至 22%。Cloudflare 数据显示北美的 Linux 桌面使用率已从一年前的 4.1% 升至 6.4%。这一数据不涉及机器人，而只包含人类用户。如果将机器人和人类都包含在内，那么北美的 Linux 桌面使用率...",
+      "keywords": [
+        "linux",
+        "ai",
+        "cloudflare",
+        "桌面使用率飙升至",
+        "数据显示北美一工作日"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "微软八月例行更新修复 421 个 bug，包括正被朝鲜黑客利用的 0day",
+      "link": "https://www.solidot.org/story?sid=85071",
+      "summary": "微软本周二释出了八月例行安全更新，共修复 421 个 bug，比上个月少约 200 个，在 AI 辅助漏洞披露和修复时代，bug 修复数动辄数百已成为新常态。其中一个 bug CVE-2026-68820 正被朝鲜黑客组织 Lazarus Group 利用。它是 Windows Ancillary Function Driver for WinSock 的一个释放后使用 bug，攻击者能利用该 bug 以 SYSTEM 权限执行代码且无需用户交互。发现该 bug 的安全公司 Check Point 称，Lazarus Group 正通过钓鱼攻击利用该 bug，当受害者打开特制 PDF 文件后攻...",
+      "source": "Solidot",
+      "pub_date": "Wed, 12 Aug 2026 16:12:16 +0800",
+      "fetched_at": "2026-08-12T20:00:06.454895",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "微软本周二释出了八月例行安全更新，共修复 421 个 bug，比上个月少约 200 个，在 AI 辅助漏洞披露和修复时代，bug 修复数动辄数百已成为新常态。其中一个 bug CVE-2026-68820 正被朝鲜黑客组织 Lazarus Group 利用。它是 Windows Ancillary ...",
+      "keywords": [
+        "bug",
+        "lazarus",
+        "group",
+        "微软八月例行更新修复",
+        "包括正被朝鲜黑客利用的"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "研究预测农村和城市之间的温差在缩小",
+      "link": "https://www.solidot.org/story?sid=85076",
+      "summary": "城市由于黑色沥青和混凝土吸收太阳辐射而变得比周边地区更热。这种被称为“城市热岛效应”的现象，是研究城市升温的基础。气象和卫星数据普遍显示，过去几十年来这一效应已不断加强。一项新研究发现，城市未来很快将不再比周围地区升温得更快。到 2050 年，尽管城市平均气温仍高于周边乡村，“但城市的农村周边地区升温速度更快”，除寒冷地区外，城市热岛效应正在减弱。此前的研究表明，随着气温升高导致乡村地区更加干燥，蒸发降温空气的能力下降，因此乡村的升温速度将加快，从而缩小与城市的温差。这一结果并不意味着气候变化对城市的升温影响会消失，只是说明城市与乡村之间的温差可能减小。",
+      "source": "Solidot",
+      "pub_date": "Wed, 12 Aug 2026 18:54:50 +0800",
+      "fetched_at": "2026-08-12T20:00:06.453637",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "城市由于黑色沥青和混凝土吸收太阳辐射而变得比周边地区更热。这种被称为“城市热岛效应”的现象，是研究城市升温的基础。气象和卫星数据普遍显示，过去几十年来这一效应已不断加强。一项新研究发现，城市未来很快将不再比周围地区升温得更快。到 2050 年，尽管城市平均气温仍高于周边乡村，“但城市的农村周边地区升...",
+      "keywords": [
+        "研究预测农村和城市之间的温差在缩小",
+        "城市由于黑色沥青和混凝土吸收太阳辐射而变得比周边地区更热",
+        "这种被称为",
+        "城市热岛效应",
+        "的现象"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "农民因听从 AI 建议而导致 150 亩芝麻几乎全毁",
+      "link": "https://www.solidot.org/story?sid=85077",
+      "summary": "安徽滁州一名 67 岁农民疑因过度相信 AI 提供的建议，误用除草剂导致大批芝麻苗死亡，150 亩农田一夜之间几乎全毁，损失惨重。吴姓农民约 1 年前开始接触 AI 软件，从农时安排、施肥到农药使用，几乎大小事都会询问 AI。起初他对相关建议半信半疑，但长期使用后逐渐建立信任，甚至将 AI 提供的方案直接付诸实行。吴大伯 7 月 10 日向 AI 询问芝麻如何除草、除虫，AI 随即生成一套“百亩芝麻飞防除草＋除虫全套方案”，其中推荐使用“高效氟吡甲禾灵”及“氟磺胺草醚”除草，另搭配“噻虫嗪”及“甲维盐”等药剂。吴大伯未进一步向农技人员确认，便依照方案喷药。没想到隔天田里便出现严重异常，芝麻苗与...",
+      "source": "Solidot",
+      "pub_date": "Wed, 12 Aug 2026 19:03:17 +0800",
+      "fetched_at": "2026-08-12T20:00:06.453238",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "安徽滁州一名 67 岁农民疑因过度相信 AI 提供的建议，误用除草剂导致大批芝麻苗死亡，150 亩农田一夜之间几乎全毁，损失惨重。吴姓农民约 1 年前开始接触 AI 软件，从农时安排、施肥到农药使用，几乎大小事都会询问 AI。起初他对相关建议半信半疑，但长期使用后逐渐建立信任，甚至将 AI 提供的方...",
+      "keywords": [
+        "ai",
+        "农民因听从",
+        "建议而导致",
+        "亩芝麻几乎全毁",
+        "安徽滁州一名"
+      ],
+      "importance": 0
     }
   ],
-  "updated_at": "2026-08-12T12:00:33.840889"
+  "updated_at": "2026-08-12T20:00:39.731007"
 }

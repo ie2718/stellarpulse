@@ -5,15 +5,15 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-08-13T08:00:28.763312",
-    "total_items": 17
+    "last_update": "2026-08-13T12:00:27.446772",
+    "total_items": 14
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 13
+      "count": 10
     },
     "robotics": {
       "name": "Robotics",
@@ -29,14 +29,13 @@
     }
   },
   "stats": {
-    "total_items": 17,
-    "today_items": 17,
+    "total_items": 14,
+    "today_items": 14,
     "sources": {
       "Solidot": 9,
-      "量子位": 5,
-      "HackerNews": 3
+      "量子位": 5
     },
-    "last_update": "2026-08-13T08:00:28.763312"
+    "last_update": "2026-08-13T12:00:27.446772"
   },
   "trending": [
     {
@@ -45,7 +44,7 @@
       "summary": "Gemini 成为 Google 月活数最快突破 10 亿的产品。Gemini 已深度集成在 Google 几乎所有的产品和服务中， 为 Gmail 的邮件整理、云盘 Drive 的文档摘要等功能提供支持。Gemini 也是 Google 搜索体验的核心，AI Mode 和 AI Overviews 的背后都是 Gemini，但 10 亿用户数指标并不涉及这些集成 AI 功能的使用。Gemini 的月活数指的是用户过去一个月访问过 Gemini 应用、Gemini Web 端或 Gemini Live。",
       "source": "Solidot",
       "pub_date": "Wed, 12 Aug 2026 14:13:13 +0800",
-      "fetched_at": "2026-08-13T08:00:09.355553",
+      "fetched_at": "2026-08-13T12:00:05.949095",
       "categories": [
         "ai"
       ],
@@ -65,7 +64,7 @@
       "summary": "四年前 Google 的一位工程总监宣称到 2025 年 AI 将推动企业实行四天工作制。OpenAI 今年早些时候也鼓励企业试行四天工作制，声称 AI 将能大幅提升人类劳动效率，业界应为此做好准备。OpenAI 的一位前员工称，该公司从未真正试行过四天工作制。前员工称 OpenAI 的工作文化令人精疲力竭，频繁举行危机会议，周末要加班，绩效考核残酷无情，同事会被突然解雇。科技公司员工称，他们的工作时长远超典型的每周五天 40 小时。前 OpenAI 员工表示，他们每周至少工作 70 小时。他现在在一家 AI 初创公司工作，每周工作时间接近 50-60 小时，在工作生活平衡上比 OpenAI ...",
       "source": "Solidot",
       "pub_date": "Tue, 11 Aug 2026 23:20:06 +0800",
-      "fetched_at": "2026-08-13T08:00:09.356150",
+      "fetched_at": "2026-08-13T12:00:05.949415",
       "categories": [
         "ai"
       ],
@@ -85,7 +84,7 @@
       "summary": "资本正从具身本体集体涌向触觉",
       "source": "量子位",
       "pub_date": "Tue, 11 Aug 2026 13:57:46 +0000",
-      "fetched_at": "2026-08-13T08:00:09.783938",
+      "fetched_at": "2026-08-13T12:00:06.502946",
       "categories": [
         "robotics"
       ],
@@ -105,7 +104,7 @@
       "summary": "微软本周二释出了八月例行安全更新，共修复 421 个 bug，比上个月少约 200 个，在 AI 辅助漏洞披露和修复时代，bug 修复数动辄数百已成为新常态。其中一个 bug CVE-2026-68820 正被朝鲜黑客组织 Lazarus Group 利用。它是 Windows Ancillary Function Driver for WinSock 的一个释放后使用 bug，攻击者能利用该 bug 以 SYSTEM 权限执行代码且无需用户交互。发现该 bug 的安全公司 Check Point 称，Lazarus Group 正通过钓鱼攻击利用该 bug，当受害者打开特制 PDF 文件后攻...",
       "source": "Solidot",
       "pub_date": "Wed, 12 Aug 2026 16:12:16 +0800",
-      "fetched_at": "2026-08-13T08:00:09.353619",
+      "fetched_at": "2026-08-13T12:00:05.948482",
       "categories": [
         "ai"
       ],
@@ -125,7 +124,7 @@
       "summary": "Anthropic 为其 AI 工具 Claude 生成的文本添加看不见但能被机器读取的水印。此举是为了遵守欧盟 AI Act 第 50 条关于 AI 生成文本透明度要求。Anthropic 表示，水印将适用于全球用户，而不仅仅是欧洲用户。Anthropic 的系统将对文本和支持的文件使用不同的技术，文本添加不可见水印，文件则包含签名的来源信息。用户在阅读文本时不会看到水印。当用户复制粘贴文本内容时，水印仍将保留。Anthropic 还预计部分水印在编辑后仍然有效。",
       "source": "Solidot",
       "pub_date": "Tue, 11 Aug 2026 21:48:03 +0800",
-      "fetched_at": "2026-08-13T08:00:09.356669",
+      "fetched_at": "2026-08-13T12:00:05.949887",
       "categories": [
         "ai"
       ],
@@ -145,7 +144,7 @@
       "summary": "安徽滁州一名 67 岁农民疑因过度相信 AI 提供的建议，误用除草剂导致大批芝麻苗死亡，150 亩农田一夜之间几乎全毁，损失惨重。吴姓农民约 1 年前开始接触 AI 软件，从农时安排、施肥到农药使用，几乎大小事都会询问 AI。起初他对相关建议半信半疑，但长期使用后逐渐建立信任，甚至将 AI 提供的方案直接付诸实行。吴大伯 7 月 10 日向 AI 询问芝麻如何除草、除虫，AI 随即生成一套“百亩芝麻飞防除草＋除虫全套方案”，其中推荐使用“高效氟吡甲禾灵”及“氟磺胺草醚”除草，另搭配“噻虫嗪”及“甲维盐”等药剂。吴大伯未进一步向农技人员确认，便依照方案喷药。没想到隔天田里便出现严重异常，芝麻苗与...",
       "source": "Solidot",
       "pub_date": "Wed, 12 Aug 2026 19:03:17 +0800",
-      "fetched_at": "2026-08-13T08:00:09.351020",
+      "fetched_at": "2026-08-13T12:00:05.947424",
       "categories": [
         "ai"
       ],
@@ -165,7 +164,7 @@
       "summary": "城市由于黑色沥青和混凝土吸收太阳辐射而变得比周边地区更热。这种被称为“城市热岛效应”的现象，是研究城市升温的基础。气象和卫星数据普遍显示，过去几十年来这一效应已不断加强。一项新研究发现，城市未来很快将不再比周围地区升温得更快。到 2050 年，尽管城市平均气温仍高于周边乡村，“但城市的农村周边地区升温速度更快”，除寒冷地区外，城市热岛效应正在减弱。此前的研究表明，随着气温升高导致乡村地区更加干燥，蒸发降温空气的能力下降，因此乡村的升温速度将加快，从而缩小与城市的温差。这一结果并不意味着气候变化对城市的升温影响会消失，只是说明城市与乡村之间的温差可能减小。",
       "source": "Solidot",
       "pub_date": "Wed, 12 Aug 2026 18:54:50 +0800",
-      "fetched_at": "2026-08-13T08:00:09.351515",
+      "fetched_at": "2026-08-13T12:00:05.947667",
       "categories": [
         "space"
       ],
@@ -185,7 +184,7 @@
       "summary": "Cloudflare 数据显示 7 月 6 日星期一北美 Linux 桌面使用率飙升至 22%。Cloudflare 数据显示北美的 Linux 桌面使用率已从一年前的 4.1% 升至 6.4%。这一数据不涉及机器人，而只包含人类用户。如果将机器人和人类都包含在内，那么北美的 Linux 桌面使用率为 9.7%。分析师认为，Linux 桌面使用率增长的趋势是由 AI 开发者和 AI 智能体用户推动的。Windows 当然能本地运行 AI 工作负载，但 Linux 在管理多种 AI 工具和多个有不同依赖项的项目上更具有优势。Linux 被视为是 AI 智能体的首选操作系统。",
       "source": "Solidot",
       "pub_date": "Wed, 12 Aug 2026 14:35:44 +0800",
-      "fetched_at": "2026-08-13T08:00:09.355263",
+      "fetched_at": "2026-08-13T12:00:05.948944",
       "categories": [
         "ai",
         "robotics"
@@ -206,7 +205,7 @@
       "summary": "贫困问题的一个潜在解决方案是：直接给穷人现金。越来越多的研究表明，现金转移支付能使贫困家庭受益。加州圣克鲁兹经济学家 Jonathan Robinson 的团队在美国国际开发署（USAID）的支持下分别在利比里亚和马拉维选择了 150 个村庄，向每户家庭提供一笔一次性的现金（250 美元或 500 美元、750 美元），在每个国家再选择 150 个对照村庄，不提供现金。在之后的两年时间里，研究人员每月实地调查和电话调查了数百名女性。结果显示，贫困家庭通常会很快花光钱，但这笔钱通常花在改善粮食安全等方面的投资上。在两年后，实验组家庭的粮食安全状况仍然高于对照组家庭，显示现金给贫困家庭带来了至少两...",
       "source": "Solidot",
       "pub_date": "Tue, 11 Aug 2026 18:28:24 +0800",
-      "fetched_at": "2026-08-13T08:00:09.357591",
+      "fetched_at": "2026-08-13T12:00:05.950228",
       "categories": [
         "ai"
       ],
@@ -226,7 +225,7 @@
       "summary": "耶鲁、普林斯顿等大学的研究人员在《Nature Machine Intelligence》上报告，他们研发的 Tribar 机器人从 5.7 米高处坠落后能正常工作。这一工程学和机器人领域的双重突破，有望推动适用于行星表面、灾区等危险偏远环境的机器人开发。Tribar 属于张拉整体机器人。这类机器人最早源于建筑学家 Richard Buckminster Fuller 提出的“张拉整体”结构概念，即通过连续的张力元件与间断的压力元件共同维持结构稳定。这一概念应用于机器人领域后，其主体由弹性缆绳网络与刚性杆件构成，结构柔韧轻便，能够像弹簧一样吸收较大的外部载荷，即使受到撞击也不会轻易损坏。Tri...",
       "source": "Solidot",
       "pub_date": "Tue, 11 Aug 2026 16:20:43 +0800",
-      "fetched_at": "2026-08-13T08:00:09.358522",
+      "fetched_at": "2026-08-13T12:00:05.950636",
       "categories": [
         "robotics"
       ],
@@ -243,72 +242,12 @@
   ],
   "latest": [
     {
-      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "link": "https://discoveredmaterials.com/research/",
-      "summary": "👍 111 | 💬 19",
-      "source": "HackerNews",
-      "pub_date": "2026-08-12T15:51:20",
-      "fetched_at": "2026-08-13T08:00:21.125367",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 111 | 💬 19",
-      "keywords": [
-        "materials",
-        "launch",
-        "hn",
-        "discovered",
-        "yc"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "link": "https://knownagents.com/insights",
-      "summary": "👍 220 | 💬 143",
-      "source": "HackerNews",
-      "pub_date": "2026-08-12T22:02:46",
-      "fetched_at": "2026-08-13T08:00:18.653220",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 220 | 💬 143",
-      "keywords": [
-        "someone",
-        "is",
-        "running",
-        "mass",
-        "vulnerability"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-      "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "summary": "👍 743 | 💬 121",
-      "source": "HackerNews",
-      "pub_date": "2026-08-12T22:22:30",
-      "fetched_at": "2026-08-13T08:00:13.377028",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 743 | 💬 121",
-      "keywords": [
-        "tailscale",
-        "traces",
-        "database",
-        "corruption",
-        "to"
-      ],
-      "importance": 0
-    },
-    {
       "title": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
       "link": "https://www.qbitai.com/2026/08/470621.html",
       "summary": "算力竞赛的天平，正在向电力倾斜",
       "source": "量子位",
       "pub_date": "Tue, 11 Aug 2026 11:36:42 +0000",
-      "fetched_at": "2026-08-13T08:00:09.784011",
+      "fetched_at": "2026-08-13T12:00:06.503078",
       "categories": [
         "ai"
       ],
@@ -328,7 +267,7 @@
       "summary": "资本正从具身本体集体涌向触觉",
       "source": "量子位",
       "pub_date": "Tue, 11 Aug 2026 13:57:46 +0000",
-      "fetched_at": "2026-08-13T08:00:09.783938",
+      "fetched_at": "2026-08-13T12:00:06.502946",
       "categories": [
         "robotics"
       ],
@@ -348,7 +287,7 @@
       "summary": "从柔性本体走向跨本体基础智能，让任务与世界知识延续",
       "source": "量子位",
       "pub_date": "Wed, 12 Aug 2026 04:29:57 +0000",
-      "fetched_at": "2026-08-13T08:00:09.783783",
+      "fetched_at": "2026-08-13T12:00:06.502593",
       "categories": [
         "robotics"
       ],
@@ -368,7 +307,7 @@
       "summary": "免训练、开箱即用！",
       "source": "量子位",
       "pub_date": "Wed, 12 Aug 2026 10:54:29 +0000",
-      "fetched_at": "2026-08-13T08:00:09.783603",
+      "fetched_at": "2026-08-13T12:00:06.502251",
       "categories": [
         "ai"
       ],
@@ -388,7 +327,7 @@
       "summary": "具身模型一小时狂拣1816件异形包裹",
       "source": "量子位",
       "pub_date": "Wed, 12 Aug 2026 13:10:55 +0000",
-      "fetched_at": "2026-08-13T08:00:09.783477",
+      "fetched_at": "2026-08-13T12:00:06.502129",
       "categories": [
         "ai",
         "robotics"
@@ -409,7 +348,7 @@
       "summary": "耶鲁、普林斯顿等大学的研究人员在《Nature Machine Intelligence》上报告，他们研发的 Tribar 机器人从 5.7 米高处坠落后能正常工作。这一工程学和机器人领域的双重突破，有望推动适用于行星表面、灾区等危险偏远环境的机器人开发。Tribar 属于张拉整体机器人。这类机器人最早源于建筑学家 Richard Buckminster Fuller 提出的“张拉整体”结构概念，即通过连续的张力元件与间断的压力元件共同维持结构稳定。这一概念应用于机器人领域后，其主体由弹性缆绳网络与刚性杆件构成，结构柔韧轻便，能够像弹簧一样吸收较大的外部载荷，即使受到撞击也不会轻易损坏。Tri...",
       "source": "Solidot",
       "pub_date": "Tue, 11 Aug 2026 16:20:43 +0800",
-      "fetched_at": "2026-08-13T08:00:09.358522",
+      "fetched_at": "2026-08-13T12:00:05.950636",
       "categories": [
         "robotics"
       ],
@@ -429,7 +368,7 @@
       "summary": "贫困问题的一个潜在解决方案是：直接给穷人现金。越来越多的研究表明，现金转移支付能使贫困家庭受益。加州圣克鲁兹经济学家 Jonathan Robinson 的团队在美国国际开发署（USAID）的支持下分别在利比里亚和马拉维选择了 150 个村庄，向每户家庭提供一笔一次性的现金（250 美元或 500 美元、750 美元），在每个国家再选择 150 个对照村庄，不提供现金。在之后的两年时间里，研究人员每月实地调查和电话调查了数百名女性。结果显示，贫困家庭通常会很快花光钱，但这笔钱通常花在改善粮食安全等方面的投资上。在两年后，实验组家庭的粮食安全状况仍然高于对照组家庭，显示现金给贫困家庭带来了至少两...",
       "source": "Solidot",
       "pub_date": "Tue, 11 Aug 2026 18:28:24 +0800",
-      "fetched_at": "2026-08-13T08:00:09.357591",
+      "fetched_at": "2026-08-13T12:00:05.950228",
       "categories": [
         "ai"
       ],
@@ -449,7 +388,7 @@
       "summary": "Anthropic 为其 AI 工具 Claude 生成的文本添加看不见但能被机器读取的水印。此举是为了遵守欧盟 AI Act 第 50 条关于 AI 生成文本透明度要求。Anthropic 表示，水印将适用于全球用户，而不仅仅是欧洲用户。Anthropic 的系统将对文本和支持的文件使用不同的技术，文本添加不可见水印，文件则包含签名的来源信息。用户在阅读文本时不会看到水印。当用户复制粘贴文本内容时，水印仍将保留。Anthropic 还预计部分水印在编辑后仍然有效。",
       "source": "Solidot",
       "pub_date": "Tue, 11 Aug 2026 21:48:03 +0800",
-      "fetched_at": "2026-08-13T08:00:09.356669",
+      "fetched_at": "2026-08-13T12:00:05.949887",
       "categories": [
         "ai"
       ],
@@ -469,7 +408,7 @@
       "summary": "四年前 Google 的一位工程总监宣称到 2025 年 AI 将推动企业实行四天工作制。OpenAI 今年早些时候也鼓励企业试行四天工作制，声称 AI 将能大幅提升人类劳动效率，业界应为此做好准备。OpenAI 的一位前员工称，该公司从未真正试行过四天工作制。前员工称 OpenAI 的工作文化令人精疲力竭，频繁举行危机会议，周末要加班，绩效考核残酷无情，同事会被突然解雇。科技公司员工称，他们的工作时长远超典型的每周五天 40 小时。前 OpenAI 员工表示，他们每周至少工作 70 小时。他现在在一家 AI 初创公司工作，每周工作时间接近 50-60 小时，在工作生活平衡上比 OpenAI ...",
       "source": "Solidot",
       "pub_date": "Tue, 11 Aug 2026 23:20:06 +0800",
-      "fetched_at": "2026-08-13T08:00:09.356150",
+      "fetched_at": "2026-08-13T12:00:05.949415",
       "categories": [
         "ai"
       ],
@@ -489,7 +428,7 @@
       "summary": "Gemini 成为 Google 月活数最快突破 10 亿的产品。Gemini 已深度集成在 Google 几乎所有的产品和服务中， 为 Gmail 的邮件整理、云盘 Drive 的文档摘要等功能提供支持。Gemini 也是 Google 搜索体验的核心，AI Mode 和 AI Overviews 的背后都是 Gemini，但 10 亿用户数指标并不涉及这些集成 AI 功能的使用。Gemini 的月活数指的是用户过去一个月访问过 Gemini 应用、Gemini Web 端或 Gemini Live。",
       "source": "Solidot",
       "pub_date": "Wed, 12 Aug 2026 14:13:13 +0800",
-      "fetched_at": "2026-08-13T08:00:09.355553",
+      "fetched_at": "2026-08-13T12:00:05.949095",
       "categories": [
         "ai"
       ],
@@ -509,7 +448,7 @@
       "summary": "Cloudflare 数据显示 7 月 6 日星期一北美 Linux 桌面使用率飙升至 22%。Cloudflare 数据显示北美的 Linux 桌面使用率已从一年前的 4.1% 升至 6.4%。这一数据不涉及机器人，而只包含人类用户。如果将机器人和人类都包含在内，那么北美的 Linux 桌面使用率为 9.7%。分析师认为，Linux 桌面使用率增长的趋势是由 AI 开发者和 AI 智能体用户推动的。Windows 当然能本地运行 AI 工作负载，但 Linux 在管理多种 AI 工具和多个有不同依赖项的项目上更具有优势。Linux 被视为是 AI 智能体的首选操作系统。",
       "source": "Solidot",
       "pub_date": "Wed, 12 Aug 2026 14:35:44 +0800",
-      "fetched_at": "2026-08-13T08:00:09.355263",
+      "fetched_at": "2026-08-13T12:00:05.948944",
       "categories": [
         "ai",
         "robotics"
@@ -530,7 +469,7 @@
       "summary": "微软本周二释出了八月例行安全更新，共修复 421 个 bug，比上个月少约 200 个，在 AI 辅助漏洞披露和修复时代，bug 修复数动辄数百已成为新常态。其中一个 bug CVE-2026-68820 正被朝鲜黑客组织 Lazarus Group 利用。它是 Windows Ancillary Function Driver for WinSock 的一个释放后使用 bug，攻击者能利用该 bug 以 SYSTEM 权限执行代码且无需用户交互。发现该 bug 的安全公司 Check Point 称，Lazarus Group 正通过钓鱼攻击利用该 bug，当受害者打开特制 PDF 文件后攻...",
       "source": "Solidot",
       "pub_date": "Wed, 12 Aug 2026 16:12:16 +0800",
-      "fetched_at": "2026-08-13T08:00:09.353619",
+      "fetched_at": "2026-08-13T12:00:05.948482",
       "categories": [
         "ai"
       ],
@@ -550,7 +489,7 @@
       "summary": "城市由于黑色沥青和混凝土吸收太阳辐射而变得比周边地区更热。这种被称为“城市热岛效应”的现象，是研究城市升温的基础。气象和卫星数据普遍显示，过去几十年来这一效应已不断加强。一项新研究发现，城市未来很快将不再比周围地区升温得更快。到 2050 年，尽管城市平均气温仍高于周边乡村，“但城市的农村周边地区升温速度更快”，除寒冷地区外，城市热岛效应正在减弱。此前的研究表明，随着气温升高导致乡村地区更加干燥，蒸发降温空气的能力下降，因此乡村的升温速度将加快，从而缩小与城市的温差。这一结果并不意味着气候变化对城市的升温影响会消失，只是说明城市与乡村之间的温差可能减小。",
       "source": "Solidot",
       "pub_date": "Wed, 12 Aug 2026 18:54:50 +0800",
-      "fetched_at": "2026-08-13T08:00:09.351515",
+      "fetched_at": "2026-08-13T12:00:05.947667",
       "categories": [
         "space"
       ],
@@ -570,7 +509,7 @@
       "summary": "安徽滁州一名 67 岁农民疑因过度相信 AI 提供的建议，误用除草剂导致大批芝麻苗死亡，150 亩农田一夜之间几乎全毁，损失惨重。吴姓农民约 1 年前开始接触 AI 软件，从农时安排、施肥到农药使用，几乎大小事都会询问 AI。起初他对相关建议半信半疑，但长期使用后逐渐建立信任，甚至将 AI 提供的方案直接付诸实行。吴大伯 7 月 10 日向 AI 询问芝麻如何除草、除虫，AI 随即生成一套“百亩芝麻飞防除草＋除虫全套方案”，其中推荐使用“高效氟吡甲禾灵”及“氟磺胺草醚”除草，另搭配“噻虫嗪”及“甲维盐”等药剂。吴大伯未进一步向农技人员确认，便依照方案喷药。没想到隔天田里便出现严重异常，芝麻苗与...",
       "source": "Solidot",
       "pub_date": "Wed, 12 Aug 2026 19:03:17 +0800",
-      "fetched_at": "2026-08-13T08:00:09.351020",
+      "fetched_at": "2026-08-13T12:00:05.947424",
       "categories": [
         "ai"
       ],
@@ -585,5 +524,5 @@
       "importance": 0
     }
   ],
-  "updated_at": "2026-08-13T08:00:28.763312"
+  "updated_at": "2026-08-13T12:00:27.446772"
 }

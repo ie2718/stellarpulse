@@ -5,38 +5,38 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-08-13T20:00:39.630881",
-    "total_items": 14
+    "last_update": "2026-08-14T12:00:31.542904",
+    "total_items": 17
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 11
+      "count": 13
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 3
+      "count": 1
     },
     "space": {
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 1
+      "count": 3
     }
   },
   "stats": {
-    "total_items": 14,
-    "today_items": 14,
+    "total_items": 17,
+    "today_items": 17,
     "sources": {
       "Solidot": 8,
-      "量子位": 4,
-      "HackerNews": 2
+      "量子位": 5,
+      "HackerNews": 4
     },
-    "last_update": "2026-08-13T20:00:39.630881"
+    "last_update": "2026-08-14T12:00:31.542904"
   },
   "trending": [
     {
@@ -45,7 +45,7 @@
       "summary": "Google 本月初重组了其 AI 部门 DeepMind 的领导层，知情人士表示此举旨在赶上竞争对手。Google 的 Gemini 模型去年 11 月一度短暂超越竞争对手，但 Anthropic 和 OpenAI 的新模型使其再次陷入追赶状态。Google 推迟了 Gemin 新模型的发布，原因是内部测试显示它在编程等领域仍然落后于竞争对手。Google 联合创始人 Sergey Brin 在今年 4 月的一次员工大会上督促加快 AI 研发。通过削弱 DeepMind 的自主权，Google 正集中更多精力在 Gemini 模型的开发上。",
       "source": "Solidot",
       "pub_date": "Thu, 13 Aug 2026 16:05:45 +0800",
-      "fetched_at": "2026-08-13T20:00:06.603963",
+      "fetched_at": "2026-08-14T12:00:07.139662",
       "categories": [
         "ai"
       ],
@@ -60,44 +60,64 @@
       "importance": 2.5
     },
     {
-      "title": "Gemini 成为 Google 月活数最快突破 10 亿的产品",
-      "link": "https://www.solidot.org/story?sid=85067",
-      "summary": "Gemini 成为 Google 月活数最快突破 10 亿的产品。Gemini 已深度集成在 Google 几乎所有的产品和服务中， 为 Gmail 的邮件整理、云盘 Drive 的文档摘要等功能提供支持。Gemini 也是 Google 搜索体验的核心，AI Mode 和 AI Overviews 的背后都是 Gemini，但 10 亿用户数指标并不涉及这些集成 AI 功能的使用。Gemini 的月活数指的是用户过去一个月访问过 Gemini 应用、Gemini Web 端或 Gemini Live。",
+      "title": "科技巨头想要收集你的思想",
+      "link": "https://www.solidot.org/story?sid=85088",
+      "summary": "消费级神经技术正从实验室迅速走向工作场所和家庭，包括苹果、Meta 和 Snap 在内的公司开发能监测或解读大脑活动的产品。研究人员警告，神经数据可能成为下一个隐私争夺焦点。部分神经学家开始呼吁“神经权利”以保护“精神隐私”、“身份”和个人“自主权”。过去二十年研究人员利用 fMRI 技术构建日益详细的哺乳动物脑皮层结构图谱和相关连接清单。得益于机器学习 AI 的巨大进步，fMRI 扫描现在可用来识别从抑郁情绪到嫉妒和幸灾乐祸等情绪。",
       "source": "Solidot",
-      "pub_date": "Wed, 12 Aug 2026 14:13:13 +0800",
-      "fetched_at": "2026-08-13T20:00:06.607945",
+      "pub_date": "Thu, 13 Aug 2026 23:46:10 +0800",
+      "fetched_at": "2026-08-14T12:00:07.138275",
       "categories": [
         "ai"
       ],
-      "ai_summary": "Gemini 成为 Google 月活数最快突破 10 亿的产品。Gemini 已深度集成在 Google 几乎所有的产品和服务中， 为 Gmail 的邮件整理、云盘 Drive 的文档摘要等功能提供支持。Gemini 也是 Google 搜索体验的核心，AI Mode 和 AI Overviews...",
+      "ai_summary": "消费级神经技术正从实验室迅速走向工作场所和家庭，包括苹果、Meta 和 Snap 在内的公司开发能监测或解读大脑活动的产品。研究人员警告，神经数据可能成为下一个隐私争夺焦点。部分神经学家开始呼吁“神经权利”以保护“精神隐私”、“身份”和个人“自主权”。过去二十年研究人员利用 fMRI 技术构建日益详...",
       "keywords": [
-        "gemini",
-        "google",
-        "ai",
-        "成为",
-        "月活数最快突破"
+        "fmri",
+        "科技巨头想要收集你的思想",
+        "消费级神经技术正从实验室迅速走向工作场所和家庭",
+        "包括苹果",
+        "meta"
       ],
       "importance": 1.0
     },
     {
-      "title": "科技公司高管称 AI 将会减少工作时间，实际上 AI 增加了工作时间",
-      "link": "https://www.solidot.org/story?sid=85065",
-      "summary": "四年前 Google 的一位工程总监宣称到 2025 年 AI 将推动企业实行四天工作制。OpenAI 今年早些时候也鼓励企业试行四天工作制，声称 AI 将能大幅提升人类劳动效率，业界应为此做好准备。OpenAI 的一位前员工称，该公司从未真正试行过四天工作制。前员工称 OpenAI 的工作文化令人精疲力竭，频繁举行危机会议，周末要加班，绩效考核残酷无情，同事会被突然解雇。科技公司员工称，他们的工作时长远超典型的每周五天 40 小时。前 OpenAI 员工表示，他们每周至少工作 70 小时。他现在在一家 AI 初创公司工作，每周工作时间接近 50-60 小时，在工作生活平衡上比 OpenAI ...",
+      "title": "火星岩石中发现刚玉",
+      "link": "https://www.solidot.org/story?sid=85086",
+      "summary": "2025 年 NASA 毅力号火星车利用激光对 Jezero 陨石坑周围浅色岩石进行分析时，意外发现了此前在火星上从未发现过的物质：刚玉。部分刚玉颗粒还含有铬——在地球上掺有铬的刚玉被称为红宝石。火星岩石中发现刚玉令人惊讶，因为火星条件很难解释它们是如何形成的。毅力号是在三块富含斜长石的岩石块中发现刚玉颗粒，这三块岩石分别被称为 Hampden River、Coffee Cove 和 Smiths Harbour，它们都是浮岩——即不再附着在形成它们的基岩上的岩石，它们可能来自其他地方。对于刚玉如何形成，研究人员猜测可能是几十亿年前火星表面遭到撞击后产生的，地球以及月球的撞击蚀变岩石中都发现了...",
       "source": "Solidot",
-      "pub_date": "Tue, 11 Aug 2026 23:20:06 +0800",
-      "fetched_at": "2026-08-13T20:00:06.608320",
+      "pub_date": "Thu, 13 Aug 2026 22:23:08 +0800",
+      "fetched_at": "2026-08-14T12:00:07.138858",
       "categories": [
-        "ai"
+        "space"
       ],
-      "ai_summary": "四年前 Google 的一位工程总监宣称到 2025 年 AI 将推动企业实行四天工作制。OpenAI 今年早些时候也鼓励企业试行四天工作制，声称 AI 将能大幅提升人类劳动效率，业界应为此做好准备。OpenAI 的一位前员工称，该公司从未真正试行过四天工作制。前员工称 OpenAI 的工作文化令人...",
+      "ai_summary": "2025 年 NASA 毅力号火星车利用激光对 Jezero 陨石坑周围浅色岩石进行分析时，意外发现了此前在火星上从未发现过的物质：刚玉。部分刚玉颗粒还含有铬——在地球上掺有铬的刚玉被称为红宝石。火星岩石中发现刚玉令人惊讶，因为火星条件很难解释它们是如何形成的。毅力号是在三块富含斜长石的岩石块中发现...",
       "keywords": [
-        "ai",
-        "openai",
-        "小时",
-        "科技公司高管称",
-        "将会减少工作时间"
+        "火星岩石中发现刚玉",
+        "nasa",
+        "毅力号火星车利用激光对",
+        "jezero",
+        "陨石坑周围浅色岩石进行分析时"
       ],
       "importance": 1.0
+    },
+    {
+      "title": "NASA 延长旅行者2号的科学使命",
+      "link": "https://www.solidot.org/story?sid=85089",
+      "summary": "NASA 工程师找到一个方法，可以释放旅行者 2 号探测器的额外电力，帮助这台服役将近 50 年的航天设备延长科学探测工作的时间。代号为“大爆炸”的调整工程由 NASA 喷气推进实验室完成。团队同步关闭部分耗电组件，替换为功耗更低的备选方案，同时保证旅行者2号维持足够温度，保障设备正常运转。旅行者2号及其姊妹探测器旅行者1号，依靠放射性同位素热电发生器供电。该装置利用钚元素衰变释放的热量产生电能。随着钚燃料不断消耗，两台探测器每年可用电力都会减少约 4 瓦。每台探测器原本搭载 10 个仪器。自2024 年起，由于电力持续下降，团队被迫在两台探测器上各自关闭两个科学仪器。其余仪器此前就已经关停，...",
+      "source": "Solidot",
+      "pub_date": "Fri, 14 Aug 2026 00:48:19 +0800",
+      "fetched_at": "2026-08-14T12:00:07.137897",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "NASA 工程师找到一个方法，可以释放旅行者 2 号探测器的额外电力，帮助这台服役将近 50 年的航天设备延长科学探测工作的时间。代号为“大爆炸”的调整工程由 NASA 喷气推进实验室完成。团队同步关闭部分耗电组件，替换为功耗更低的备选方案，同时保证旅行者2号维持足够温度，保障设备正常运转。旅行者2...",
+      "keywords": [
+        "nasa",
+        "延长旅行者",
+        "号的科学使命",
+        "工程师找到一个方法",
+        "可以释放旅行者"
+      ],
+      "importance": 0.5
     },
     {
       "title": "图书零售商怀疑 AI 公司购买然后销毁珍本图书",
@@ -105,7 +125,7 @@
       "summary": "扫描且不破坏珍本图书是一件费时费劲的工作。根据互联网档案馆 2021 年发表的一篇文章，该机构尝试过自动化图书扫描，但对于易碎珍本图书而言不可行，干净干燥的人手仍然是最佳的翻页方式。自 2010 年起就在互联网档案馆工作的图书扫描员 Eliza Zhang 表示这项工作需要高度集中注意力。她当时已扫描了逾 300 万页、14000 张折页和 18000 件物品。AI 公司如果要扫描图书显然不太可能使用这种方式。最近发表的多篇报道引发了对 AI 公司收购然后销毁珍本图书的担忧。《每日电讯报》称硅谷销毁了数百万册珍稀图书并“撕碎了原件”，404 Media 报道称名为 ISBNdb 的图书数据库公...",
       "source": "Solidot",
       "pub_date": "Thu, 13 Aug 2026 18:38:09 +0800",
-      "fetched_at": "2026-08-13T20:00:06.603773",
+      "fetched_at": "2026-08-14T12:00:07.139408",
       "categories": [
         "ai"
       ],
@@ -125,7 +145,7 @@
       "summary": "微软本周二释出了八月例行安全更新，共修复 421 个 bug，比上个月少约 200 个，在 AI 辅助漏洞披露和修复时代，bug 修复数动辄数百已成为新常态。其中一个 bug CVE-2026-68820 正被朝鲜黑客组织 Lazarus Group 利用。它是 Windows Ancillary Function Driver for WinSock 的一个释放后使用 bug，攻击者能利用该 bug 以 SYSTEM 权限执行代码且无需用户交互。发现该 bug 的安全公司 Check Point 称，Lazarus Group 正通过钓鱼攻击利用该 bug，当受害者打开特制 PDF 文件后攻...",
       "source": "Solidot",
       "pub_date": "Wed, 12 Aug 2026 16:12:16 +0800",
-      "fetched_at": "2026-08-13T20:00:06.606718",
+      "fetched_at": "2026-08-14T12:00:07.142585",
       "categories": [
         "ai"
       ],
@@ -140,12 +160,52 @@
       "importance": 0.5
     },
     {
+      "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
+      "link": "https://www.qbitai.com/2026/08/472059.html",
+      "summary": "首颗AI芯片已进入量产",
+      "source": "量子位",
+      "pub_date": "Thu, 13 Aug 2026 12:34:42 +0000",
+      "fetched_at": "2026-08-14T12:00:07.574319",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "首颗AI芯片已进入量产",
+      "keywords": [
+        "亿美元砸向端侧算力",
+        "agent",
+        "芯片新贵冲出重围",
+        "首颗",
+        "ai"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
+      "link": "https://www.qbitai.com/2026/08/472060.html",
+      "summary": "重新定义物理AI数据基础设施",
+      "source": "量子位",
+      "pub_date": "Thu, 13 Aug 2026 11:53:02 +0000",
+      "fetched_at": "2026-08-14T12:00:07.574651",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "重新定义物理AI数据基础设施",
+      "keywords": [
+        "ai",
+        "具身数据来了实战派",
+        "轮融资数千万",
+        "瞄准物理",
+        "基础设施"
+      ],
+      "importance": 0.5
+    },
+    {
       "title": "联想集团Q1再创史上最佳业绩，AI服务器业务迎来爆发期",
       "link": "https://www.qbitai.com/2026/08/471697.html",
       "summary": "当季实现营收1834亿元人民币，同比猛增43%，创历史新高",
       "source": "量子位",
       "pub_date": "Thu, 13 Aug 2026 06:33:52 +0000",
-      "fetched_at": "2026-08-13T20:00:06.984693",
+      "fetched_at": "2026-08-14T12:00:07.575317",
       "categories": [
         "ai"
       ],
@@ -165,7 +225,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Thu, 13 Aug 2026 05:10:50 +0000",
-      "fetched_at": "2026-08-13T20:00:06.984712",
+      "fetched_at": "2026-08-14T12:00:07.575340",
       "categories": [
         "robotics"
       ],
@@ -175,148 +235,87 @@
         "世界机器人大会主论坛议程发布"
       ],
       "importance": 0.5
-    },
-    {
-      "title": "360纳米大片流水线携手《知识就是力量》发布“知力·纳米”科普科幻AI大片创作平台",
-      "link": "https://www.qbitai.com/2026/08/471624.html",
-      "summary": "《知识就是力量》杂志社携手360科技集团举行“知力·纳米 科普科幻AI大片创作平台”发布暨AI创作交流活动",
-      "source": "量子位",
-      "pub_date": "Thu, 13 Aug 2026 03:11:48 +0000",
-      "fetched_at": "2026-08-13T20:00:06.984973",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "《知识就是力量》杂志社携手360科技集团举行“知力·纳米 科普科幻AI大片创作平台”发布暨AI创作交流活动",
-      "keywords": [
-        "ai",
-        "知识就是力量",
-        "知力",
-        "纳米",
-        "科普科幻"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "引领智能手机迈入具身交互时代 全球首款机器人手机荣耀Robot Phone发布",
-      "link": "https://www.qbitai.com/2026/08/471451.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Thu, 13 Aug 2026 03:00:41 +0000",
-      "fetched_at": "2026-08-13T20:00:06.984989",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "引领智能手机迈入具身交互时代",
-        "全球首款机器人手机荣耀",
-        "robot",
-        "phone",
-        "发布"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "农民因听从 AI 建议而导致 150 亩芝麻几乎全毁",
-      "link": "https://www.solidot.org/story?sid=85077",
-      "summary": "安徽滁州一名 67 岁农民疑因过度相信 AI 提供的建议，误用除草剂导致大批芝麻苗死亡，150 亩农田一夜之间几乎全毁，损失惨重。吴姓农民约 1 年前开始接触 AI 软件，从农时安排、施肥到农药使用，几乎大小事都会询问 AI。起初他对相关建议半信半疑，但长期使用后逐渐建立信任，甚至将 AI 提供的方案直接付诸实行。吴大伯 7 月 10 日向 AI 询问芝麻如何除草、除虫，AI 随即生成一套“百亩芝麻飞防除草＋除虫全套方案”，其中推荐使用“高效氟吡甲禾灵”及“氟磺胺草醚”除草，另搭配“噻虫嗪”及“甲维盐”等药剂。吴大伯未进一步向农技人员确认，便依照方案喷药。没想到隔天田里便出现严重异常，芝麻苗与...",
-      "source": "Solidot",
-      "pub_date": "Wed, 12 Aug 2026 19:03:17 +0800",
-      "fetched_at": "2026-08-13T20:00:06.604846",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "安徽滁州一名 67 岁农民疑因过度相信 AI 提供的建议，误用除草剂导致大批芝麻苗死亡，150 亩农田一夜之间几乎全毁，损失惨重。吴姓农民约 1 年前开始接触 AI 软件，从农时安排、施肥到农药使用，几乎大小事都会询问 AI。起初他对相关建议半信半疑，但长期使用后逐渐建立信任，甚至将 AI 提供的方...",
-      "keywords": [
-        "ai",
-        "农民因听从",
-        "建议而导致",
-        "亩芝麻几乎全毁",
-        "安徽滁州一名"
-      ],
-      "importance": 0
     }
   ],
   "latest": [
     {
-      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "link": "https://discoveredmaterials.com/research/",
-      "summary": "👍 143 | 💬 32",
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "summary": "👍 79 | 💬 48",
       "source": "HackerNews",
-      "pub_date": "2026-08-12T15:51:20",
-      "fetched_at": "2026-08-13T20:00:37.005402",
+      "pub_date": "2026-08-14T03:25:38",
+      "fetched_at": "2026-08-14T12:00:31.500068",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 143 | 💬 32",
+      "ai_summary": "👍 79 | 💬 48",
       "keywords": [
-        "materials",
-        "launch",
-        "hn",
-        "discovered",
-        "yc"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-      "link": "https://openai.com/codex/",
-      "summary": "👍 217 | 💬 132",
-      "source": "HackerNews",
-      "pub_date": "2026-08-13T12:53:41",
-      "fetched_at": "2026-08-13T20:00:09.583926",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 217 | 💬 132",
-      "keywords": [
-        "desktop",
-        "chatgpt",
-        "codex",
-        "for",
-        "linux"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "引领智能手机迈入具身交互时代 全球首款机器人手机荣耀Robot Phone发布",
-      "link": "https://www.qbitai.com/2026/08/471451.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Thu, 13 Aug 2026 03:00:41 +0000",
-      "fetched_at": "2026-08-13T20:00:06.984989",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "引领智能手机迈入具身交互时代",
-        "全球首款机器人手机荣耀",
-        "robot",
-        "phone",
-        "发布"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "360纳米大片流水线携手《知识就是力量》发布“知力·纳米”科普科幻AI大片创作平台",
-      "link": "https://www.qbitai.com/2026/08/471624.html",
-      "summary": "《知识就是力量》杂志社携手360科技集团举行“知力·纳米 科普科幻AI大片创作平台”发布暨AI创作交流活动",
-      "source": "量子位",
-      "pub_date": "Thu, 13 Aug 2026 03:11:48 +0000",
-      "fetched_at": "2026-08-13T20:00:06.984973",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "《知识就是力量》杂志社携手360科技集团举行“知力·纳米 科普科幻AI大片创作平台”发布暨AI创作交流活动",
-      "keywords": [
+        "how",
+        "organizations",
+        "use",
         "ai",
-        "知识就是力量",
-        "知力",
-        "纳米",
-        "科普科幻"
+        "evidence"
       ],
-      "importance": 0.5
+      "importance": 0
+    },
+    {
+      "title": "US conducted mass spying campaign against leftwing and anti-ICE protesters",
+      "link": "https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters",
+      "summary": "👍 112 | 💬 19",
+      "source": "HackerNews",
+      "pub_date": "2026-08-14T10:39:10",
+      "fetched_at": "2026-08-14T12:00:26.746708",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 112 | 💬 19",
+      "keywords": [
+        "us",
+        "conducted",
+        "mass",
+        "spying",
+        "campaign"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+      "link": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+      "summary": "👍 265 | 💬 153",
+      "source": "HackerNews",
+      "pub_date": "2026-08-13T21:14:12",
+      "fetched_at": "2026-08-14T12:00:25.764399",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 265 | 💬 153",
+      "keywords": [
+        "nine",
+        "pbs",
+        "sues",
+        "iron",
+        "mountain"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "summary": "👍 471 | 💬 202",
+      "source": "HackerNews",
+      "pub_date": "2026-08-14T02:10:02",
+      "fetched_at": "2026-08-14T12:00:11.445669",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 471 | 💬 202",
+      "keywords": [
+        "accelerating",
+        "gpt",
+        "sol",
+        "ultrafast"
+      ],
+      "importance": 0
     },
     {
       "title": "倒计时｜2026世界机器人大会主论坛议程发布！",
@@ -324,7 +323,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Thu, 13 Aug 2026 05:10:50 +0000",
-      "fetched_at": "2026-08-13T20:00:06.984712",
+      "fetched_at": "2026-08-14T12:00:07.575340",
       "categories": [
         "robotics"
       ],
@@ -341,7 +340,7 @@
       "summary": "当季实现营收1834亿元人民币，同比猛增43%，创历史新高",
       "source": "量子位",
       "pub_date": "Thu, 13 Aug 2026 06:33:52 +0000",
-      "fetched_at": "2026-08-13T20:00:06.984693",
+      "fetched_at": "2026-08-14T12:00:07.575317",
       "categories": [
         "ai"
       ],
@@ -356,65 +355,64 @@
       "importance": 0.5
     },
     {
-      "title": "科技公司高管称 AI 将会减少工作时间，实际上 AI 增加了工作时间",
-      "link": "https://www.solidot.org/story?sid=85065",
-      "summary": "四年前 Google 的一位工程总监宣称到 2025 年 AI 将推动企业实行四天工作制。OpenAI 今年早些时候也鼓励企业试行四天工作制，声称 AI 将能大幅提升人类劳动效率，业界应为此做好准备。OpenAI 的一位前员工称，该公司从未真正试行过四天工作制。前员工称 OpenAI 的工作文化令人精疲力竭，频繁举行危机会议，周末要加班，绩效考核残酷无情，同事会被突然解雇。科技公司员工称，他们的工作时长远超典型的每周五天 40 小时。前 OpenAI 员工表示，他们每周至少工作 70 小时。他现在在一家 AI 初创公司工作，每周工作时间接近 50-60 小时，在工作生活平衡上比 OpenAI ...",
-      "source": "Solidot",
-      "pub_date": "Tue, 11 Aug 2026 23:20:06 +0800",
-      "fetched_at": "2026-08-13T20:00:06.608320",
+      "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
+      "link": "https://www.qbitai.com/2026/08/472016.html",
+      "summary": "好数学家不挑AI模型",
+      "source": "量子位",
+      "pub_date": "Thu, 13 Aug 2026 11:29:04 +0000",
+      "fetched_at": "2026-08-14T12:00:07.574814",
       "categories": [
         "ai"
       ],
-      "ai_summary": "四年前 Google 的一位工程总监宣称到 2025 年 AI 将推动企业实行四天工作制。OpenAI 今年早些时候也鼓励企业试行四天工作制，声称 AI 将能大幅提升人类劳动效率，业界应为此做好准备。OpenAI 的一位前员工称，该公司从未真正试行过四天工作制。前员工称 OpenAI 的工作文化令人...",
+      "ai_summary": "好数学家不挑AI模型",
       "keywords": [
         "ai",
-        "openai",
-        "小时",
-        "科技公司高管称",
-        "将会减少工作时间"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "Gemini 成为 Google 月活数最快突破 10 亿的产品",
-      "link": "https://www.solidot.org/story?sid=85067",
-      "summary": "Gemini 成为 Google 月活数最快突破 10 亿的产品。Gemini 已深度集成在 Google 几乎所有的产品和服务中， 为 Gmail 的邮件整理、云盘 Drive 的文档摘要等功能提供支持。Gemini 也是 Google 搜索体验的核心，AI Mode 和 AI Overviews 的背后都是 Gemini，但 10 亿用户数指标并不涉及这些集成 AI 功能的使用。Gemini 的月活数指的是用户过去一个月访问过 Gemini 应用、Gemini Web 端或 Gemini Live。",
-      "source": "Solidot",
-      "pub_date": "Wed, 12 Aug 2026 14:13:13 +0800",
-      "fetched_at": "2026-08-13T20:00:06.607945",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Gemini 成为 Google 月活数最快突破 10 亿的产品。Gemini 已深度集成在 Google 几乎所有的产品和服务中， 为 Gmail 的邮件整理、云盘 Drive 的文档摘要等功能提供支持。Gemini 也是 Google 搜索体验的核心，AI Mode 和 AI Overviews...",
-      "keywords": [
-        "gemini",
-        "google",
-        "ai",
-        "成为",
-        "月活数最快突破"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "Cloudflare 数据显示北美一工作日 Linux 桌面使用率飙升至 22%",
-      "link": "https://www.solidot.org/story?sid=85068",
-      "summary": "Cloudflare 数据显示 7 月 6 日星期一北美 Linux 桌面使用率飙升至 22%。Cloudflare 数据显示北美的 Linux 桌面使用率已从一年前的 4.1% 升至 6.4%。这一数据不涉及机器人，而只包含人类用户。如果将机器人和人类都包含在内，那么北美的 Linux 桌面使用率为 9.7%。分析师认为，Linux 桌面使用率增长的趋势是由 AI 开发者和 AI 智能体用户推动的。Windows 当然能本地运行 AI 工作负载，但 Linux 在管理多种 AI 工具和多个有不同依赖项的项目上更具有优势。Linux 被视为是 AI 智能体的首选操作系统。",
-      "source": "Solidot",
-      "pub_date": "Wed, 12 Aug 2026 14:35:44 +0800",
-      "fetched_at": "2026-08-13T20:00:06.607714",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "Cloudflare 数据显示 7 月 6 日星期一北美 Linux 桌面使用率飙升至 22%。Cloudflare 数据显示北美的 Linux 桌面使用率已从一年前的 4.1% 升至 6.4%。这一数据不涉及机器人，而只包含人类用户。如果将机器人和人类都包含在内，那么北美的 Linux 桌面使用率...",
-      "keywords": [
-        "linux",
-        "ai",
-        "cloudflare",
-        "桌面使用率飙升至",
-        "数据显示北美一工作日"
+        "claude",
+        "一举扫清",
+        "阶以下哈达玛矩阵",
+        "开始清空数学待解列表"
       ],
       "importance": 0
+    },
+    {
+      "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
+      "link": "https://www.qbitai.com/2026/08/472060.html",
+      "summary": "重新定义物理AI数据基础设施",
+      "source": "量子位",
+      "pub_date": "Thu, 13 Aug 2026 11:53:02 +0000",
+      "fetched_at": "2026-08-14T12:00:07.574651",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "重新定义物理AI数据基础设施",
+      "keywords": [
+        "ai",
+        "具身数据来了实战派",
+        "轮融资数千万",
+        "瞄准物理",
+        "基础设施"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
+      "link": "https://www.qbitai.com/2026/08/472059.html",
+      "summary": "首颗AI芯片已进入量产",
+      "source": "量子位",
+      "pub_date": "Thu, 13 Aug 2026 12:34:42 +0000",
+      "fetched_at": "2026-08-14T12:00:07.574319",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "首颗AI芯片已进入量产",
+      "keywords": [
+        "亿美元砸向端侧算力",
+        "agent",
+        "芯片新贵冲出重围",
+        "首颗",
+        "ai"
+      ],
+      "importance": 0.5
     },
     {
       "title": "微软八月例行更新修复 421 个 bug，包括正被朝鲜黑客利用的 0day",
@@ -422,7 +420,7 @@
       "summary": "微软本周二释出了八月例行安全更新，共修复 421 个 bug，比上个月少约 200 个，在 AI 辅助漏洞披露和修复时代，bug 修复数动辄数百已成为新常态。其中一个 bug CVE-2026-68820 正被朝鲜黑客组织 Lazarus Group 利用。它是 Windows Ancillary Function Driver for WinSock 的一个释放后使用 bug，攻击者能利用该 bug 以 SYSTEM 权限执行代码且无需用户交互。发现该 bug 的安全公司 Check Point 称，Lazarus Group 正通过钓鱼攻击利用该 bug，当受害者打开特制 PDF 文件后攻...",
       "source": "Solidot",
       "pub_date": "Wed, 12 Aug 2026 16:12:16 +0800",
-      "fetched_at": "2026-08-13T20:00:06.606718",
+      "fetched_at": "2026-08-14T12:00:07.142585",
       "categories": [
         "ai"
       ],
@@ -442,7 +440,7 @@
       "summary": "城市由于黑色沥青和混凝土吸收太阳辐射而变得比周边地区更热。这种被称为“城市热岛效应”的现象，是研究城市升温的基础。气象和卫星数据普遍显示，过去几十年来这一效应已不断加强。一项新研究发现，城市未来很快将不再比周围地区升温得更快。到 2050 年，尽管城市平均气温仍高于周边乡村，“但城市的农村周边地区升温速度更快”，除寒冷地区外，城市热岛效应正在减弱。此前的研究表明，随着气温升高导致乡村地区更加干燥，蒸发降温空气的能力下降，因此乡村的升温速度将加快，从而缩小与城市的温差。这一结果并不意味着气候变化对城市的升温影响会消失，只是说明城市与乡村之间的温差可能减小。",
       "source": "Solidot",
       "pub_date": "Wed, 12 Aug 2026 18:54:50 +0800",
-      "fetched_at": "2026-08-13T20:00:06.604987",
+      "fetched_at": "2026-08-14T12:00:07.141311",
       "categories": [
         "space"
       ],
@@ -462,7 +460,7 @@
       "summary": "安徽滁州一名 67 岁农民疑因过度相信 AI 提供的建议，误用除草剂导致大批芝麻苗死亡，150 亩农田一夜之间几乎全毁，损失惨重。吴姓农民约 1 年前开始接触 AI 软件，从农时安排、施肥到农药使用，几乎大小事都会询问 AI。起初他对相关建议半信半疑，但长期使用后逐渐建立信任，甚至将 AI 提供的方案直接付诸实行。吴大伯 7 月 10 日向 AI 询问芝麻如何除草、除虫，AI 随即生成一套“百亩芝麻飞防除草＋除虫全套方案”，其中推荐使用“高效氟吡甲禾灵”及“氟磺胺草醚”除草，另搭配“噻虫嗪”及“甲维盐”等药剂。吴大伯未进一步向农技人员确认，便依照方案喷药。没想到隔天田里便出现严重异常，芝麻苗与...",
       "source": "Solidot",
       "pub_date": "Wed, 12 Aug 2026 19:03:17 +0800",
-      "fetched_at": "2026-08-13T20:00:06.604846",
+      "fetched_at": "2026-08-14T12:00:07.141079",
       "categories": [
         "ai"
       ],
@@ -482,7 +480,7 @@
       "summary": "Google 本月初重组了其 AI 部门 DeepMind 的领导层，知情人士表示此举旨在赶上竞争对手。Google 的 Gemini 模型去年 11 月一度短暂超越竞争对手，但 Anthropic 和 OpenAI 的新模型使其再次陷入追赶状态。Google 推迟了 Gemin 新模型的发布，原因是内部测试显示它在编程等领域仍然落后于竞争对手。Google 联合创始人 Sergey Brin 在今年 4 月的一次员工大会上督促加快 AI 研发。通过削弱 DeepMind 的自主权，Google 正集中更多精力在 Gemini 模型的开发上。",
       "source": "Solidot",
       "pub_date": "Thu, 13 Aug 2026 16:05:45 +0800",
-      "fetched_at": "2026-08-13T20:00:06.603963",
+      "fetched_at": "2026-08-14T12:00:07.139662",
       "categories": [
         "ai"
       ],
@@ -502,7 +500,7 @@
       "summary": "扫描且不破坏珍本图书是一件费时费劲的工作。根据互联网档案馆 2021 年发表的一篇文章，该机构尝试过自动化图书扫描，但对于易碎珍本图书而言不可行，干净干燥的人手仍然是最佳的翻页方式。自 2010 年起就在互联网档案馆工作的图书扫描员 Eliza Zhang 表示这项工作需要高度集中注意力。她当时已扫描了逾 300 万页、14000 张折页和 18000 件物品。AI 公司如果要扫描图书显然不太可能使用这种方式。最近发表的多篇报道引发了对 AI 公司收购然后销毁珍本图书的担忧。《每日电讯报》称硅谷销毁了数百万册珍稀图书并“撕碎了原件”，404 Media 报道称名为 ISBNdb 的图书数据库公...",
       "source": "Solidot",
       "pub_date": "Thu, 13 Aug 2026 18:38:09 +0800",
-      "fetched_at": "2026-08-13T20:00:06.603773",
+      "fetched_at": "2026-08-14T12:00:07.139408",
       "categories": [
         "ai"
       ],
@@ -515,7 +513,67 @@
         "根据互联网档案馆"
       ],
       "importance": 0.5
+    },
+    {
+      "title": "火星岩石中发现刚玉",
+      "link": "https://www.solidot.org/story?sid=85086",
+      "summary": "2025 年 NASA 毅力号火星车利用激光对 Jezero 陨石坑周围浅色岩石进行分析时，意外发现了此前在火星上从未发现过的物质：刚玉。部分刚玉颗粒还含有铬——在地球上掺有铬的刚玉被称为红宝石。火星岩石中发现刚玉令人惊讶，因为火星条件很难解释它们是如何形成的。毅力号是在三块富含斜长石的岩石块中发现刚玉颗粒，这三块岩石分别被称为 Hampden River、Coffee Cove 和 Smiths Harbour，它们都是浮岩——即不再附着在形成它们的基岩上的岩石，它们可能来自其他地方。对于刚玉如何形成，研究人员猜测可能是几十亿年前火星表面遭到撞击后产生的，地球以及月球的撞击蚀变岩石中都发现了...",
+      "source": "Solidot",
+      "pub_date": "Thu, 13 Aug 2026 22:23:08 +0800",
+      "fetched_at": "2026-08-14T12:00:07.138858",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "2025 年 NASA 毅力号火星车利用激光对 Jezero 陨石坑周围浅色岩石进行分析时，意外发现了此前在火星上从未发现过的物质：刚玉。部分刚玉颗粒还含有铬——在地球上掺有铬的刚玉被称为红宝石。火星岩石中发现刚玉令人惊讶，因为火星条件很难解释它们是如何形成的。毅力号是在三块富含斜长石的岩石块中发现...",
+      "keywords": [
+        "火星岩石中发现刚玉",
+        "nasa",
+        "毅力号火星车利用激光对",
+        "jezero",
+        "陨石坑周围浅色岩石进行分析时"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "科技巨头想要收集你的思想",
+      "link": "https://www.solidot.org/story?sid=85088",
+      "summary": "消费级神经技术正从实验室迅速走向工作场所和家庭，包括苹果、Meta 和 Snap 在内的公司开发能监测或解读大脑活动的产品。研究人员警告，神经数据可能成为下一个隐私争夺焦点。部分神经学家开始呼吁“神经权利”以保护“精神隐私”、“身份”和个人“自主权”。过去二十年研究人员利用 fMRI 技术构建日益详细的哺乳动物脑皮层结构图谱和相关连接清单。得益于机器学习 AI 的巨大进步，fMRI 扫描现在可用来识别从抑郁情绪到嫉妒和幸灾乐祸等情绪。",
+      "source": "Solidot",
+      "pub_date": "Thu, 13 Aug 2026 23:46:10 +0800",
+      "fetched_at": "2026-08-14T12:00:07.138275",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "消费级神经技术正从实验室迅速走向工作场所和家庭，包括苹果、Meta 和 Snap 在内的公司开发能监测或解读大脑活动的产品。研究人员警告，神经数据可能成为下一个隐私争夺焦点。部分神经学家开始呼吁“神经权利”以保护“精神隐私”、“身份”和个人“自主权”。过去二十年研究人员利用 fMRI 技术构建日益详...",
+      "keywords": [
+        "fmri",
+        "科技巨头想要收集你的思想",
+        "消费级神经技术正从实验室迅速走向工作场所和家庭",
+        "包括苹果",
+        "meta"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "NASA 延长旅行者2号的科学使命",
+      "link": "https://www.solidot.org/story?sid=85089",
+      "summary": "NASA 工程师找到一个方法，可以释放旅行者 2 号探测器的额外电力，帮助这台服役将近 50 年的航天设备延长科学探测工作的时间。代号为“大爆炸”的调整工程由 NASA 喷气推进实验室完成。团队同步关闭部分耗电组件，替换为功耗更低的备选方案，同时保证旅行者2号维持足够温度，保障设备正常运转。旅行者2号及其姊妹探测器旅行者1号，依靠放射性同位素热电发生器供电。该装置利用钚元素衰变释放的热量产生电能。随着钚燃料不断消耗，两台探测器每年可用电力都会减少约 4 瓦。每台探测器原本搭载 10 个仪器。自2024 年起，由于电力持续下降，团队被迫在两台探测器上各自关闭两个科学仪器。其余仪器此前就已经关停，...",
+      "source": "Solidot",
+      "pub_date": "Fri, 14 Aug 2026 00:48:19 +0800",
+      "fetched_at": "2026-08-14T12:00:07.137897",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "NASA 工程师找到一个方法，可以释放旅行者 2 号探测器的额外电力，帮助这台服役将近 50 年的航天设备延长科学探测工作的时间。代号为“大爆炸”的调整工程由 NASA 喷气推进实验室完成。团队同步关闭部分耗电组件，替换为功耗更低的备选方案，同时保证旅行者2号维持足够温度，保障设备正常运转。旅行者2...",
+      "keywords": [
+        "nasa",
+        "延长旅行者",
+        "号的科学使命",
+        "工程师找到一个方法",
+        "可以释放旅行者"
+      ],
+      "importance": 0.5
     }
   ],
-  "updated_at": "2026-08-13T20:00:39.630881"
+  "updated_at": "2026-08-14T12:00:31.542904"
 }

@@ -5,15 +5,15 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-08-14T12:00:31.542904",
-    "total_items": 17
+    "last_update": "2026-08-14T20:00:30.695957",
+    "total_items": 19
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 13
+      "count": 16
     },
     "robotics": {
       "name": "Robotics",
@@ -25,18 +25,18 @@
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 3
+      "count": 2
     }
   },
   "stats": {
-    "total_items": 17,
-    "today_items": 17,
+    "total_items": 19,
+    "today_items": 19,
     "sources": {
-      "Solidot": 8,
-      "量子位": 5,
-      "HackerNews": 4
+      "Solidot": 10,
+      "量子位": 6,
+      "HackerNews": 3
     },
-    "last_update": "2026-08-14T12:00:31.542904"
+    "last_update": "2026-08-14T20:00:30.695957"
   },
   "trending": [
     {
@@ -45,7 +45,7 @@
       "summary": "Google 本月初重组了其 AI 部门 DeepMind 的领导层，知情人士表示此举旨在赶上竞争对手。Google 的 Gemini 模型去年 11 月一度短暂超越竞争对手，但 Anthropic 和 OpenAI 的新模型使其再次陷入追赶状态。Google 推迟了 Gemin 新模型的发布，原因是内部测试显示它在编程等领域仍然落后于竞争对手。Google 联合创始人 Sergey Brin 在今年 4 月的一次员工大会上督促加快 AI 研发。通过削弱 DeepMind 的自主权，Google 正集中更多精力在 Gemini 模型的开发上。",
       "source": "Solidot",
       "pub_date": "Thu, 13 Aug 2026 16:05:45 +0800",
-      "fetched_at": "2026-08-14T12:00:07.139662",
+      "fetched_at": "2026-08-14T20:00:05.526603",
       "categories": [
         "ai"
       ],
@@ -60,12 +60,32 @@
       "importance": 2.5
     },
     {
+      "title": "VLC 因 Microsoft Defender 而启动缓慢",
+      "link": "https://www.solidot.org/story?sid=85093",
+      "summary": "《Braid》和《The Witness》作者 Jonathan Blow 在社媒上称，在 Windows 上使用 VLC 启动播放一个 MP3 文件需要 33 秒钟，他因此改用了微软官方的 Microsoft Media Player，批评开源软件问题太多。此事引发了广泛讨论。VLC 官方回应称，核心问题与它无关，是 Windows 11 / Microsoft Defender 的一次更新隔离了 VLC 的插件缓存导致的，重新安装 VLC 或清空缓存可解决该问题。Linux 用户称 VLC 启动播放一个 MP3 文件只需要 1-2 秒。其他 Windows 用户建议在 Microsoft ...",
+      "source": "Solidot",
+      "pub_date": "Fri, 14 Aug 2026 14:24:44 +0800",
+      "fetched_at": "2026-08-14T20:00:05.523977",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "《Braid》和《The Witness》作者 Jonathan Blow 在社媒上称，在 Windows 上使用 VLC 启动播放一个 MP3 文件需要 33 秒钟，他因此改用了微软官方的 Microsoft Media Player，批评开源软件问题太多。此事引发了广泛讨论。VLC 官方回应称，...",
+      "keywords": [
+        "vlc",
+        "microsoft",
+        "windows",
+        "defender",
+        "启动播放一个"
+      ],
+      "importance": 1.0
+    },
+    {
       "title": "科技巨头想要收集你的思想",
       "link": "https://www.solidot.org/story?sid=85088",
       "summary": "消费级神经技术正从实验室迅速走向工作场所和家庭，包括苹果、Meta 和 Snap 在内的公司开发能监测或解读大脑活动的产品。研究人员警告，神经数据可能成为下一个隐私争夺焦点。部分神经学家开始呼吁“神经权利”以保护“精神隐私”、“身份”和个人“自主权”。过去二十年研究人员利用 fMRI 技术构建日益详细的哺乳动物脑皮层结构图谱和相关连接清单。得益于机器学习 AI 的巨大进步，fMRI 扫描现在可用来识别从抑郁情绪到嫉妒和幸灾乐祸等情绪。",
       "source": "Solidot",
       "pub_date": "Thu, 13 Aug 2026 23:46:10 +0800",
-      "fetched_at": "2026-08-14T12:00:07.138275",
+      "fetched_at": "2026-08-14T20:00:05.525178",
       "categories": [
         "ai"
       ],
@@ -85,7 +105,7 @@
       "summary": "2025 年 NASA 毅力号火星车利用激光对 Jezero 陨石坑周围浅色岩石进行分析时，意外发现了此前在火星上从未发现过的物质：刚玉。部分刚玉颗粒还含有铬——在地球上掺有铬的刚玉被称为红宝石。火星岩石中发现刚玉令人惊讶，因为火星条件很难解释它们是如何形成的。毅力号是在三块富含斜长石的岩石块中发现刚玉颗粒，这三块岩石分别被称为 Hampden River、Coffee Cove 和 Smiths Harbour，它们都是浮岩——即不再附着在形成它们的基岩上的岩石，它们可能来自其他地方。对于刚玉如何形成，研究人员猜测可能是几十亿年前火星表面遭到撞击后产生的，地球以及月球的撞击蚀变岩石中都发现了...",
       "source": "Solidot",
       "pub_date": "Thu, 13 Aug 2026 22:23:08 +0800",
-      "fetched_at": "2026-08-14T12:00:07.138858",
+      "fetched_at": "2026-08-14T20:00:05.525699",
       "categories": [
         "space"
       ],
@@ -100,12 +120,72 @@
       "importance": 1.0
     },
     {
+      "title": "长鑫市值超越腾讯",
+      "link": "https://www.solidot.org/story?sid=85098",
+      "summary": "长鑫科技已超过互联网巨头腾讯控股，成为全球市值最大的中国企业，凸显 AI 热潮正推动投资者对存储晶片股的需求。截至周五 A 股收盘，长鑫科技最新市值约 3.58 万亿元人民币。港股方面，由于市场对腾讯不断增加的 AI 投资担忧加剧，腾讯周五最新市值约 4.0 万亿港元。分析认为，这一市值排名的逆转反映出，投资者继续青睐与 AI 相关的硬件企业，而非传统互联网巨头。总部位于安徽合肥的长鑫科技也是全球第四大 DRAM 供应商。DRAM 广泛应用于从手机到先进 AI 服务器等各种设备。",
+      "source": "Solidot",
+      "pub_date": "Fri, 14 Aug 2026 17:41:40 +0800",
+      "fetched_at": "2026-08-14T20:00:05.522389",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "长鑫科技已超过互联网巨头腾讯控股，成为全球市值最大的中国企业，凸显 AI 热潮正推动投资者对存储晶片股的需求。截至周五 A 股收盘，长鑫科技最新市值约 3.58 万亿元人民币。港股方面，由于市场对腾讯不断增加的 AI 投资担忧加剧，腾讯周五最新市值约 4.0 万亿港元。分析认为，这一市值排名的逆转反...",
+      "keywords": [
+        "ai",
+        "dram",
+        "长鑫市值超越腾讯",
+        "长鑫科技已超过互联网巨头腾讯控股",
+        "成为全球市值最大的中国企业"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "苹果与阿里巴巴合作为中国市场训练专用大模型",
+      "link": "https://www.solidot.org/story?sid=85095",
+      "summary": "苹果与阿里巴巴合作为中国市场训练了一个大模型。此前苹果倾向于使用中国合作伙伴的模型为在中国销售的 iPhone 等设备提供生成式 AI 功能。苹果的 AI 功能 Apple Intelligence 预计将在未来几个月通过 iOS 更新在中国推出。苹果推出专为中国市场定制的 AI 模型，使​​其在竞争最激烈的中国市场更好掌控 AI 体验。苹果在中国已被华为等本土竞争对手蚕食市场份额，竞争对手凭借 AI 手机迅速占据领先地位。网信办已经登记了苹果的生成式 AI 服务，为 Apple Intelligence 服务首次登陆国行 iPhone 铺平道路。",
+      "source": "Solidot",
+      "pub_date": "Fri, 14 Aug 2026 15:28:21 +0800",
+      "fetched_at": "2026-08-14T20:00:05.523380",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "苹果与阿里巴巴合作为中国市场训练了一个大模型。此前苹果倾向于使用中国合作伙伴的模型为在中国销售的 iPhone 等设备提供生成式 AI 功能。苹果的 AI 功能 Apple Intelligence 预计将在未来几个月通过 iOS 更新在中国推出。苹果推出专为中国市场定制的 AI 模型，使​​其在竞...",
+      "keywords": [
+        "ai",
+        "iphone",
+        "功能",
+        "apple",
+        "intelligence"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "微软正从中国撤退",
+      "link": "https://www.solidot.org/story?sid=85090",
+      "summary": "过去五年，随着中国更倾向于国产软件，微软一直在缩减在华业务，至少关闭了 15 家分支机构和合资企业。美国的出口管制也让微软云计算和 AI 业务的推广更困难，中国市场的经济增长空间变得相对有限。微软最终决定继续留在中国，是因为它开辟了一项盈利的业务，​​为字节跳动等中国企业提供服务，这些企业需要西方技术管理海外业务。微软认为，为了继续获得中国世界一流的工程人才，它需要在中国保留业务。微软前中国区负责人 Alain Crozier 表示微软与中国政府建立了深厚的关系，“由于地缘政治因素……有时情况会比较艰难，但我们从未遇到过危机。”微软发言人表示公司在“适用于所有国际供应商的监管环境”下运营，重申...",
+      "source": "Solidot",
+      "pub_date": "Fri, 14 Aug 2026 11:57:52 +0800",
+      "fetched_at": "2026-08-14T20:00:05.524563",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "过去五年，随着中国更倾向于国产软件，微软一直在缩减在华业务，至少关闭了 15 家分支机构和合资企业。美国的出口管制也让微软云计算和 AI 业务的推广更困难，中国市场的经济增长空间变得相对有限。微软最终决定继续留在中国，是因为它开辟了一项盈利的业务，​​为字节跳动等中国企业提供服务，这些企业需要西方技...",
+      "keywords": [
+        "微软正从中国撤退",
+        "过去五年",
+        "随着中国更倾向于国产软件",
+        "微软一直在缩减在华业务",
+        "至少关闭了"
+      ],
+      "importance": 0.5
+    },
+    {
       "title": "NASA 延长旅行者2号的科学使命",
       "link": "https://www.solidot.org/story?sid=85089",
       "summary": "NASA 工程师找到一个方法，可以释放旅行者 2 号探测器的额外电力，帮助这台服役将近 50 年的航天设备延长科学探测工作的时间。代号为“大爆炸”的调整工程由 NASA 喷气推进实验室完成。团队同步关闭部分耗电组件，替换为功耗更低的备选方案，同时保证旅行者2号维持足够温度，保障设备正常运转。旅行者2号及其姊妹探测器旅行者1号，依靠放射性同位素热电发生器供电。该装置利用钚元素衰变释放的热量产生电能。随着钚燃料不断消耗，两台探测器每年可用电力都会减少约 4 瓦。每台探测器原本搭载 10 个仪器。自2024 年起，由于电力持续下降，团队被迫在两台探测器上各自关闭两个科学仪器。其余仪器此前就已经关停，...",
       "source": "Solidot",
       "pub_date": "Fri, 14 Aug 2026 00:48:19 +0800",
-      "fetched_at": "2026-08-14T12:00:07.137897",
+      "fetched_at": "2026-08-14T20:00:05.524914",
       "categories": [
         "space"
       ],
@@ -125,7 +205,7 @@
       "summary": "扫描且不破坏珍本图书是一件费时费劲的工作。根据互联网档案馆 2021 年发表的一篇文章，该机构尝试过自动化图书扫描，但对于易碎珍本图书而言不可行，干净干燥的人手仍然是最佳的翻页方式。自 2010 年起就在互联网档案馆工作的图书扫描员 Eliza Zhang 表示这项工作需要高度集中注意力。她当时已扫描了逾 300 万页、14000 张折页和 18000 件物品。AI 公司如果要扫描图书显然不太可能使用这种方式。最近发表的多篇报道引发了对 AI 公司收购然后销毁珍本图书的担忧。《每日电讯报》称硅谷销毁了数百万册珍稀图书并“撕碎了原件”，404 Media 报道称名为 ISBNdb 的图书数据库公...",
       "source": "Solidot",
       "pub_date": "Thu, 13 Aug 2026 18:38:09 +0800",
-      "fetched_at": "2026-08-14T12:00:07.139408",
+      "fetched_at": "2026-08-14T20:00:05.526317",
       "categories": [
         "ai"
       ],
@@ -140,32 +220,12 @@
       "importance": 0.5
     },
     {
-      "title": "微软八月例行更新修复 421 个 bug，包括正被朝鲜黑客利用的 0day",
-      "link": "https://www.solidot.org/story?sid=85071",
-      "summary": "微软本周二释出了八月例行安全更新，共修复 421 个 bug，比上个月少约 200 个，在 AI 辅助漏洞披露和修复时代，bug 修复数动辄数百已成为新常态。其中一个 bug CVE-2026-68820 正被朝鲜黑客组织 Lazarus Group 利用。它是 Windows Ancillary Function Driver for WinSock 的一个释放后使用 bug，攻击者能利用该 bug 以 SYSTEM 权限执行代码且无需用户交互。发现该 bug 的安全公司 Check Point 称，Lazarus Group 正通过钓鱼攻击利用该 bug，当受害者打开特制 PDF 文件后攻...",
-      "source": "Solidot",
-      "pub_date": "Wed, 12 Aug 2026 16:12:16 +0800",
-      "fetched_at": "2026-08-14T12:00:07.142585",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "微软本周二释出了八月例行安全更新，共修复 421 个 bug，比上个月少约 200 个，在 AI 辅助漏洞披露和修复时代，bug 修复数动辄数百已成为新常态。其中一个 bug CVE-2026-68820 正被朝鲜黑客组织 Lazarus Group 利用。它是 Windows Ancillary ...",
-      "keywords": [
-        "bug",
-        "lazarus",
-        "group",
-        "微软八月例行更新修复",
-        "包括正被朝鲜黑客利用的"
-      ],
-      "importance": 0.5
-    },
-    {
       "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
       "link": "https://www.qbitai.com/2026/08/472059.html",
       "summary": "首颗AI芯片已进入量产",
       "source": "量子位",
       "pub_date": "Thu, 13 Aug 2026 12:34:42 +0000",
-      "fetched_at": "2026-08-14T12:00:07.574319",
+      "fetched_at": "2026-08-14T20:00:05.934481",
       "categories": [
         "ai"
       ],
@@ -178,117 +238,20 @@
         "ai"
       ],
       "importance": 0.5
-    },
-    {
-      "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
-      "link": "https://www.qbitai.com/2026/08/472060.html",
-      "summary": "重新定义物理AI数据基础设施",
-      "source": "量子位",
-      "pub_date": "Thu, 13 Aug 2026 11:53:02 +0000",
-      "fetched_at": "2026-08-14T12:00:07.574651",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "重新定义物理AI数据基础设施",
-      "keywords": [
-        "ai",
-        "具身数据来了实战派",
-        "轮融资数千万",
-        "瞄准物理",
-        "基础设施"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "联想集团Q1再创史上最佳业绩，AI服务器业务迎来爆发期",
-      "link": "https://www.qbitai.com/2026/08/471697.html",
-      "summary": "当季实现营收1834亿元人民币，同比猛增43%，创历史新高",
-      "source": "量子位",
-      "pub_date": "Thu, 13 Aug 2026 06:33:52 +0000",
-      "fetched_at": "2026-08-14T12:00:07.575317",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "当季实现营收1834亿元人民币，同比猛增43%，创历史新高",
-      "keywords": [
-        "联想集团",
-        "再创史上最佳业绩",
-        "ai",
-        "服务器业务迎来爆发期",
-        "当季实现营收"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "倒计时｜2026世界机器人大会主论坛议程发布！",
-      "link": "https://www.qbitai.com/2026/08/471668.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Thu, 13 Aug 2026 05:10:50 +0000",
-      "fetched_at": "2026-08-14T12:00:07.575340",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "倒计时",
-        "世界机器人大会主论坛议程发布"
-      ],
-      "importance": 0.5
     }
   ],
   "latest": [
     {
-      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-      "summary": "👍 79 | 💬 48",
-      "source": "HackerNews",
-      "pub_date": "2026-08-14T03:25:38",
-      "fetched_at": "2026-08-14T12:00:31.500068",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 79 | 💬 48",
-      "keywords": [
-        "how",
-        "organizations",
-        "use",
-        "ai",
-        "evidence"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "US conducted mass spying campaign against leftwing and anti-ICE protesters",
-      "link": "https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters",
-      "summary": "👍 112 | 💬 19",
-      "source": "HackerNews",
-      "pub_date": "2026-08-14T10:39:10",
-      "fetched_at": "2026-08-14T12:00:26.746708",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 112 | 💬 19",
-      "keywords": [
-        "us",
-        "conducted",
-        "mass",
-        "spying",
-        "campaign"
-      ],
-      "importance": 0
-    },
-    {
       "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
       "link": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
-      "summary": "👍 265 | 💬 153",
+      "summary": "👍 324 | 💬 185",
       "source": "HackerNews",
       "pub_date": "2026-08-13T21:14:12",
-      "fetched_at": "2026-08-14T12:00:25.764399",
+      "fetched_at": "2026-08-14T20:00:30.630645",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 265 | 💬 153",
+      "ai_summary": "👍 324 | 💬 185",
       "keywords": [
         "nine",
         "pbs",
@@ -299,16 +262,36 @@
       "importance": 0
     },
     {
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "summary": "👍 471 | 💬 202",
+      "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+      "link": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+      "summary": "👍 42 | 💬 10",
       "source": "HackerNews",
-      "pub_date": "2026-08-14T02:10:02",
-      "fetched_at": "2026-08-14T12:00:11.445669",
+      "pub_date": "2026-08-14T14:09:04",
+      "fetched_at": "2026-08-14T20:00:18.908984",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 471 | 💬 202",
+      "ai_summary": "👍 42 | 💬 10",
+      "keywords": [
+        "ruby",
+        "universal",
+        "rce",
+        "deserialization",
+        "gadget"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "summary": "👍 635 | 💬 251",
+      "source": "HackerNews",
+      "pub_date": "2026-08-14T02:10:02",
+      "fetched_at": "2026-08-14T20:00:14.274710",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 635 | 💬 251",
       "keywords": [
         "accelerating",
         "gpt",
@@ -318,49 +301,12 @@
       "importance": 0
     },
     {
-      "title": "倒计时｜2026世界机器人大会主论坛议程发布！",
-      "link": "https://www.qbitai.com/2026/08/471668.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Thu, 13 Aug 2026 05:10:50 +0000",
-      "fetched_at": "2026-08-14T12:00:07.575340",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "倒计时",
-        "世界机器人大会主论坛议程发布"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "联想集团Q1再创史上最佳业绩，AI服务器业务迎来爆发期",
-      "link": "https://www.qbitai.com/2026/08/471697.html",
-      "summary": "当季实现营收1834亿元人民币，同比猛增43%，创历史新高",
-      "source": "量子位",
-      "pub_date": "Thu, 13 Aug 2026 06:33:52 +0000",
-      "fetched_at": "2026-08-14T12:00:07.575317",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "当季实现营收1834亿元人民币，同比猛增43%，创历史新高",
-      "keywords": [
-        "联想集团",
-        "再创史上最佳业绩",
-        "ai",
-        "服务器业务迎来爆发期",
-        "当季实现营收"
-      ],
-      "importance": 0.5
-    },
-    {
       "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
       "link": "https://www.qbitai.com/2026/08/472016.html",
       "summary": "好数学家不挑AI模型",
       "source": "量子位",
       "pub_date": "Thu, 13 Aug 2026 11:29:04 +0000",
-      "fetched_at": "2026-08-14T12:00:07.574814",
+      "fetched_at": "2026-08-14T20:00:05.934835",
       "categories": [
         "ai"
       ],
@@ -380,7 +326,7 @@
       "summary": "重新定义物理AI数据基础设施",
       "source": "量子位",
       "pub_date": "Thu, 13 Aug 2026 11:53:02 +0000",
-      "fetched_at": "2026-08-14T12:00:07.574651",
+      "fetched_at": "2026-08-14T20:00:05.934708",
       "categories": [
         "ai"
       ],
@@ -400,7 +346,7 @@
       "summary": "首颗AI芯片已进入量产",
       "source": "量子位",
       "pub_date": "Thu, 13 Aug 2026 12:34:42 +0000",
-      "fetched_at": "2026-08-14T12:00:07.574319",
+      "fetched_at": "2026-08-14T20:00:05.934481",
       "categories": [
         "ai"
       ],
@@ -415,62 +361,62 @@
       "importance": 0.5
     },
     {
-      "title": "微软八月例行更新修复 421 个 bug，包括正被朝鲜黑客利用的 0day",
-      "link": "https://www.solidot.org/story?sid=85071",
-      "summary": "微软本周二释出了八月例行安全更新，共修复 421 个 bug，比上个月少约 200 个，在 AI 辅助漏洞披露和修复时代，bug 修复数动辄数百已成为新常态。其中一个 bug CVE-2026-68820 正被朝鲜黑客组织 Lazarus Group 利用。它是 Windows Ancillary Function Driver for WinSock 的一个释放后使用 bug，攻击者能利用该 bug 以 SYSTEM 权限执行代码且无需用户交互。发现该 bug 的安全公司 Check Point 称，Lazarus Group 正通过钓鱼攻击利用该 bug，当受害者打开特制 PDF 文件后攻...",
-      "source": "Solidot",
-      "pub_date": "Wed, 12 Aug 2026 16:12:16 +0800",
-      "fetched_at": "2026-08-14T12:00:07.142585",
+      "title": "算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」",
+      "link": "https://www.qbitai.com/2026/08/472722.html",
+      "summary": "少花一半成本，部署效率提升80%！机器人研发可以不用重复造轮子了。",
+      "source": "量子位",
+      "pub_date": "Fri, 14 Aug 2026 07:29:22 +0000",
+      "fetched_at": "2026-08-14T20:00:05.934230",
       "categories": [
-        "ai"
+        "robotics"
       ],
-      "ai_summary": "微软本周二释出了八月例行安全更新，共修复 421 个 bug，比上个月少约 200 个，在 AI 辅助漏洞披露和修复时代，bug 修复数动辄数百已成为新常态。其中一个 bug CVE-2026-68820 正被朝鲜黑客组织 Lazarus Group 利用。它是 Windows Ancillary ...",
+      "ai_summary": "少花一半成本，部署效率提升80%！机器人研发可以不用重复造轮子了。",
       "keywords": [
-        "bug",
-        "lazarus",
-        "group",
-        "微软八月例行更新修复",
-        "包括正被朝鲜黑客利用的"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "研究预测农村和城市之间的温差在缩小",
-      "link": "https://www.solidot.org/story?sid=85076",
-      "summary": "城市由于黑色沥青和混凝土吸收太阳辐射而变得比周边地区更热。这种被称为“城市热岛效应”的现象，是研究城市升温的基础。气象和卫星数据普遍显示，过去几十年来这一效应已不断加强。一项新研究发现，城市未来很快将不再比周围地区升温得更快。到 2050 年，尽管城市平均气温仍高于周边乡村，“但城市的农村周边地区升温速度更快”，除寒冷地区外，城市热岛效应正在减弱。此前的研究表明，随着气温升高导致乡村地区更加干燥，蒸发降温空气的能力下降，因此乡村的升温速度将加快，从而缩小与城市的温差。这一结果并不意味着气候变化对城市的升温影响会消失，只是说明城市与乡村之间的温差可能减小。",
-      "source": "Solidot",
-      "pub_date": "Wed, 12 Aug 2026 18:54:50 +0800",
-      "fetched_at": "2026-08-14T12:00:07.141311",
-      "categories": [
-        "space"
-      ],
-      "ai_summary": "城市由于黑色沥青和混凝土吸收太阳辐射而变得比周边地区更热。这种被称为“城市热岛效应”的现象，是研究城市升温的基础。气象和卫星数据普遍显示，过去几十年来这一效应已不断加强。一项新研究发现，城市未来很快将不再比周围地区升温得更快。到 2050 年，尽管城市平均气温仍高于周边乡村，“但城市的农村周边地区升...",
-      "keywords": [
-        "研究预测农村和城市之间的温差在缩小",
-        "城市由于黑色沥青和混凝土吸收太阳辐射而变得比周边地区更热",
-        "这种被称为",
-        "城市热岛效应",
-        "的现象"
+        "算力需求两年涨",
+        "机器人为了走进真实物理世界",
+        "正在疯狂",
+        "吃算力",
+        "少花一半成本"
       ],
       "importance": 0
     },
     {
-      "title": "农民因听从 AI 建议而导致 150 亩芝麻几乎全毁",
-      "link": "https://www.solidot.org/story?sid=85077",
-      "summary": "安徽滁州一名 67 岁农民疑因过度相信 AI 提供的建议，误用除草剂导致大批芝麻苗死亡，150 亩农田一夜之间几乎全毁，损失惨重。吴姓农民约 1 年前开始接触 AI 软件，从农时安排、施肥到农药使用，几乎大小事都会询问 AI。起初他对相关建议半信半疑，但长期使用后逐渐建立信任，甚至将 AI 提供的方案直接付诸实行。吴大伯 7 月 10 日向 AI 询问芝麻如何除草、除虫，AI 随即生成一套“百亩芝麻飞防除草＋除虫全套方案”，其中推荐使用“高效氟吡甲禾灵”及“氟磺胺草醚”除草，另搭配“噻虫嗪”及“甲维盐”等药剂。吴大伯未进一步向农技人员确认，便依照方案喷药。没想到隔天田里便出现严重异常，芝麻苗与...",
-      "source": "Solidot",
-      "pub_date": "Wed, 12 Aug 2026 19:03:17 +0800",
-      "fetched_at": "2026-08-14T12:00:07.141079",
+      "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
+      "link": "https://www.qbitai.com/2026/08/473144.html",
+      "summary": "",
+      "source": "量子位",
+      "pub_date": "Fri, 14 Aug 2026 08:36:00 +0000",
+      "fetched_at": "2026-08-14T20:00:05.934089",
       "categories": [
         "ai"
       ],
-      "ai_summary": "安徽滁州一名 67 岁农民疑因过度相信 AI 提供的建议，误用除草剂导致大批芝麻苗死亡，150 亩农田一夜之间几乎全毁，损失惨重。吴姓农民约 1 年前开始接触 AI 软件，从农时安排、施肥到农药使用，几乎大小事都会询问 AI。起初他对相关建议半信半疑，但长期使用后逐渐建立信任，甚至将 AI 提供的方...",
+      "ai_summary": "",
       "keywords": [
         "ai",
-        "农民因听从",
-        "建议而导致",
-        "亩芝麻几乎全毁",
-        "安徽滁州一名"
+        "百度文库网盘",
+        "库库",
+        "办公",
+        "mau"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
+      "link": "https://www.qbitai.com/2026/08/473149.html",
+      "summary": "",
+      "source": "量子位",
+      "pub_date": "Fri, 14 Aug 2026 10:25:36 +0000",
+      "fetched_at": "2026-08-14T20:00:05.933849",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "",
+      "keywords": [
+        "ai",
+        "太初元碁助力国家级",
+        "教育",
+        "大赛",
+        "加速卡模型适配赛道"
       ],
       "importance": 0
     },
@@ -480,7 +426,7 @@
       "summary": "Google 本月初重组了其 AI 部门 DeepMind 的领导层，知情人士表示此举旨在赶上竞争对手。Google 的 Gemini 模型去年 11 月一度短暂超越竞争对手，但 Anthropic 和 OpenAI 的新模型使其再次陷入追赶状态。Google 推迟了 Gemin 新模型的发布，原因是内部测试显示它在编程等领域仍然落后于竞争对手。Google 联合创始人 Sergey Brin 在今年 4 月的一次员工大会上督促加快 AI 研发。通过削弱 DeepMind 的自主权，Google 正集中更多精力在 Gemini 模型的开发上。",
       "source": "Solidot",
       "pub_date": "Thu, 13 Aug 2026 16:05:45 +0800",
-      "fetched_at": "2026-08-14T12:00:07.139662",
+      "fetched_at": "2026-08-14T20:00:05.526603",
       "categories": [
         "ai"
       ],
@@ -500,7 +446,7 @@
       "summary": "扫描且不破坏珍本图书是一件费时费劲的工作。根据互联网档案馆 2021 年发表的一篇文章，该机构尝试过自动化图书扫描，但对于易碎珍本图书而言不可行，干净干燥的人手仍然是最佳的翻页方式。自 2010 年起就在互联网档案馆工作的图书扫描员 Eliza Zhang 表示这项工作需要高度集中注意力。她当时已扫描了逾 300 万页、14000 张折页和 18000 件物品。AI 公司如果要扫描图书显然不太可能使用这种方式。最近发表的多篇报道引发了对 AI 公司收购然后销毁珍本图书的担忧。《每日电讯报》称硅谷销毁了数百万册珍稀图书并“撕碎了原件”，404 Media 报道称名为 ISBNdb 的图书数据库公...",
       "source": "Solidot",
       "pub_date": "Thu, 13 Aug 2026 18:38:09 +0800",
-      "fetched_at": "2026-08-14T12:00:07.139408",
+      "fetched_at": "2026-08-14T20:00:05.526317",
       "categories": [
         "ai"
       ],
@@ -520,7 +466,7 @@
       "summary": "2025 年 NASA 毅力号火星车利用激光对 Jezero 陨石坑周围浅色岩石进行分析时，意外发现了此前在火星上从未发现过的物质：刚玉。部分刚玉颗粒还含有铬——在地球上掺有铬的刚玉被称为红宝石。火星岩石中发现刚玉令人惊讶，因为火星条件很难解释它们是如何形成的。毅力号是在三块富含斜长石的岩石块中发现刚玉颗粒，这三块岩石分别被称为 Hampden River、Coffee Cove 和 Smiths Harbour，它们都是浮岩——即不再附着在形成它们的基岩上的岩石，它们可能来自其他地方。对于刚玉如何形成，研究人员猜测可能是几十亿年前火星表面遭到撞击后产生的，地球以及月球的撞击蚀变岩石中都发现了...",
       "source": "Solidot",
       "pub_date": "Thu, 13 Aug 2026 22:23:08 +0800",
-      "fetched_at": "2026-08-14T12:00:07.138858",
+      "fetched_at": "2026-08-14T20:00:05.525699",
       "categories": [
         "space"
       ],
@@ -540,7 +486,7 @@
       "summary": "消费级神经技术正从实验室迅速走向工作场所和家庭，包括苹果、Meta 和 Snap 在内的公司开发能监测或解读大脑活动的产品。研究人员警告，神经数据可能成为下一个隐私争夺焦点。部分神经学家开始呼吁“神经权利”以保护“精神隐私”、“身份”和个人“自主权”。过去二十年研究人员利用 fMRI 技术构建日益详细的哺乳动物脑皮层结构图谱和相关连接清单。得益于机器学习 AI 的巨大进步，fMRI 扫描现在可用来识别从抑郁情绪到嫉妒和幸灾乐祸等情绪。",
       "source": "Solidot",
       "pub_date": "Thu, 13 Aug 2026 23:46:10 +0800",
-      "fetched_at": "2026-08-14T12:00:07.138275",
+      "fetched_at": "2026-08-14T20:00:05.525178",
       "categories": [
         "ai"
       ],
@@ -560,7 +506,7 @@
       "summary": "NASA 工程师找到一个方法，可以释放旅行者 2 号探测器的额外电力，帮助这台服役将近 50 年的航天设备延长科学探测工作的时间。代号为“大爆炸”的调整工程由 NASA 喷气推进实验室完成。团队同步关闭部分耗电组件，替换为功耗更低的备选方案，同时保证旅行者2号维持足够温度，保障设备正常运转。旅行者2号及其姊妹探测器旅行者1号，依靠放射性同位素热电发生器供电。该装置利用钚元素衰变释放的热量产生电能。随着钚燃料不断消耗，两台探测器每年可用电力都会减少约 4 瓦。每台探测器原本搭载 10 个仪器。自2024 年起，由于电力持续下降，团队被迫在两台探测器上各自关闭两个科学仪器。其余仪器此前就已经关停，...",
       "source": "Solidot",
       "pub_date": "Fri, 14 Aug 2026 00:48:19 +0800",
-      "fetched_at": "2026-08-14T12:00:07.137897",
+      "fetched_at": "2026-08-14T20:00:05.524914",
       "categories": [
         "space"
       ],
@@ -573,7 +519,107 @@
         "可以释放旅行者"
       ],
       "importance": 0.5
+    },
+    {
+      "title": "微软正从中国撤退",
+      "link": "https://www.solidot.org/story?sid=85090",
+      "summary": "过去五年，随着中国更倾向于国产软件，微软一直在缩减在华业务，至少关闭了 15 家分支机构和合资企业。美国的出口管制也让微软云计算和 AI 业务的推广更困难，中国市场的经济增长空间变得相对有限。微软最终决定继续留在中国，是因为它开辟了一项盈利的业务，​​为字节跳动等中国企业提供服务，这些企业需要西方技术管理海外业务。微软认为，为了继续获得中国世界一流的工程人才，它需要在中国保留业务。微软前中国区负责人 Alain Crozier 表示微软与中国政府建立了深厚的关系，“由于地缘政治因素……有时情况会比较艰难，但我们从未遇到过危机。”微软发言人表示公司在“适用于所有国际供应商的监管环境”下运营，重申...",
+      "source": "Solidot",
+      "pub_date": "Fri, 14 Aug 2026 11:57:52 +0800",
+      "fetched_at": "2026-08-14T20:00:05.524563",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "过去五年，随着中国更倾向于国产软件，微软一直在缩减在华业务，至少关闭了 15 家分支机构和合资企业。美国的出口管制也让微软云计算和 AI 业务的推广更困难，中国市场的经济增长空间变得相对有限。微软最终决定继续留在中国，是因为它开辟了一项盈利的业务，​​为字节跳动等中国企业提供服务，这些企业需要西方技...",
+      "keywords": [
+        "微软正从中国撤退",
+        "过去五年",
+        "随着中国更倾向于国产软件",
+        "微软一直在缩减在华业务",
+        "至少关闭了"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "VLC 因 Microsoft Defender 而启动缓慢",
+      "link": "https://www.solidot.org/story?sid=85093",
+      "summary": "《Braid》和《The Witness》作者 Jonathan Blow 在社媒上称，在 Windows 上使用 VLC 启动播放一个 MP3 文件需要 33 秒钟，他因此改用了微软官方的 Microsoft Media Player，批评开源软件问题太多。此事引发了广泛讨论。VLC 官方回应称，核心问题与它无关，是 Windows 11 / Microsoft Defender 的一次更新隔离了 VLC 的插件缓存导致的，重新安装 VLC 或清空缓存可解决该问题。Linux 用户称 VLC 启动播放一个 MP3 文件只需要 1-2 秒。其他 Windows 用户建议在 Microsoft ...",
+      "source": "Solidot",
+      "pub_date": "Fri, 14 Aug 2026 14:24:44 +0800",
+      "fetched_at": "2026-08-14T20:00:05.523977",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "《Braid》和《The Witness》作者 Jonathan Blow 在社媒上称，在 Windows 上使用 VLC 启动播放一个 MP3 文件需要 33 秒钟，他因此改用了微软官方的 Microsoft Media Player，批评开源软件问题太多。此事引发了广泛讨论。VLC 官方回应称，...",
+      "keywords": [
+        "vlc",
+        "microsoft",
+        "windows",
+        "defender",
+        "启动播放一个"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "苹果与阿里巴巴合作为中国市场训练专用大模型",
+      "link": "https://www.solidot.org/story?sid=85095",
+      "summary": "苹果与阿里巴巴合作为中国市场训练了一个大模型。此前苹果倾向于使用中国合作伙伴的模型为在中国销售的 iPhone 等设备提供生成式 AI 功能。苹果的 AI 功能 Apple Intelligence 预计将在未来几个月通过 iOS 更新在中国推出。苹果推出专为中国市场定制的 AI 模型，使​​其在竞争最激烈的中国市场更好掌控 AI 体验。苹果在中国已被华为等本土竞争对手蚕食市场份额，竞争对手凭借 AI 手机迅速占据领先地位。网信办已经登记了苹果的生成式 AI 服务，为 Apple Intelligence 服务首次登陆国行 iPhone 铺平道路。",
+      "source": "Solidot",
+      "pub_date": "Fri, 14 Aug 2026 15:28:21 +0800",
+      "fetched_at": "2026-08-14T20:00:05.523380",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "苹果与阿里巴巴合作为中国市场训练了一个大模型。此前苹果倾向于使用中国合作伙伴的模型为在中国销售的 iPhone 等设备提供生成式 AI 功能。苹果的 AI 功能 Apple Intelligence 预计将在未来几个月通过 iOS 更新在中国推出。苹果推出专为中国市场定制的 AI 模型，使​​其在竞...",
+      "keywords": [
+        "ai",
+        "iphone",
+        "功能",
+        "apple",
+        "intelligence"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "小米 17 Ultra 手机相机错将太阳误认为是月亮",
+      "link": "https://www.solidot.org/story?sid=85097",
+      "summary": "2026 年 8 月 12 日，欧洲大陆经历了数十年以来首次日全食，白昼变成黑夜，或者“太阳被月亮吞了”？欧洲居民使用了多款智能手机去拍摄罕见的日全食照片，结果发现小米 17 Ultra 智能手机相机拍摄的一张照片极其反常，在这张照片里橙红色的太阳上出现了月亮照片中常看到的山脊、陨石坑和线条，也就是相机将太阳误认为是月亮。小米相机显然是利用了 AI 技术去重建照片中的细节，给太阳添加了根本不存在的月球特征。小米不是唯一这么做的手机厂商，此前三星也曝出过类似的丑闻。",
+      "source": "Solidot",
+      "pub_date": "Fri, 14 Aug 2026 17:23:20 +0800",
+      "fetched_at": "2026-08-14T20:00:05.522763",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "2026 年 8 月 12 日，欧洲大陆经历了数十年以来首次日全食，白昼变成黑夜，或者“太阳被月亮吞了”？欧洲居民使用了多款智能手机去拍摄罕见的日全食照片，结果发现小米 17 Ultra 智能手机相机拍摄的一张照片极其反常，在这张照片里橙红色的太阳上出现了月亮照片中常看到的山脊、陨石坑和线条，也就是...",
+      "keywords": [
+        "ultra",
+        "小米",
+        "手机相机错将太阳误认为是月亮",
+        "欧洲大陆经历了数十年以来首次日全食",
+        "白昼变成黑夜"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "长鑫市值超越腾讯",
+      "link": "https://www.solidot.org/story?sid=85098",
+      "summary": "长鑫科技已超过互联网巨头腾讯控股，成为全球市值最大的中国企业，凸显 AI 热潮正推动投资者对存储晶片股的需求。截至周五 A 股收盘，长鑫科技最新市值约 3.58 万亿元人民币。港股方面，由于市场对腾讯不断增加的 AI 投资担忧加剧，腾讯周五最新市值约 4.0 万亿港元。分析认为，这一市值排名的逆转反映出，投资者继续青睐与 AI 相关的硬件企业，而非传统互联网巨头。总部位于安徽合肥的长鑫科技也是全球第四大 DRAM 供应商。DRAM 广泛应用于从手机到先进 AI 服务器等各种设备。",
+      "source": "Solidot",
+      "pub_date": "Fri, 14 Aug 2026 17:41:40 +0800",
+      "fetched_at": "2026-08-14T20:00:05.522389",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "长鑫科技已超过互联网巨头腾讯控股，成为全球市值最大的中国企业，凸显 AI 热潮正推动投资者对存储晶片股的需求。截至周五 A 股收盘，长鑫科技最新市值约 3.58 万亿元人民币。港股方面，由于市场对腾讯不断增加的 AI 投资担忧加剧，腾讯周五最新市值约 4.0 万亿港元。分析认为，这一市值排名的逆转反...",
+      "keywords": [
+        "ai",
+        "dram",
+        "长鑫市值超越腾讯",
+        "长鑫科技已超过互联网巨头腾讯控股",
+        "成为全球市值最大的中国企业"
+      ],
+      "importance": 0.5
     }
   ],
-  "updated_at": "2026-08-14T12:00:31.542904"
+  "updated_at": "2026-08-14T20:00:30.695957"
 }

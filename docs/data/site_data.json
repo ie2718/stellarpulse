@@ -5,46 +5,67 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-08-21T12:00:22.408828",
-    "total_items": 15
+    "last_update": "2026-08-21T20:00:35.515774",
+    "total_items": 16
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 9
+      "count": 11
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 5
+      "count": 6
     },
     "space": {
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 3
+      "count": 2
     }
   },
   "stats": {
-    "total_items": 15,
-    "today_items": 15,
+    "total_items": 16,
+    "today_items": 16,
     "sources": {
-      "Solidot": 7,
-      "量子位": 8
+      "Solidot": 6,
+      "量子位": 7,
+      "HackerNews": 3
     },
-    "last_update": "2026-08-21T12:00:22.408828"
+    "last_update": "2026-08-21T20:00:35.515774"
   },
   "trending": [
+    {
+      "title": "微软调查部分用户在安装 Windows 11 八月安全更新后遭遇游戏崩溃的报告",
+      "link": "https://www.solidot.org/story?sid=85158",
+      "summary": "微软正在调查部分用户在安装 Windows 11 八月例行安全更新后遭遇游戏崩溃的报告。根据发布在 Release Health 上的声明，受影响的游戏可能会失去响应、意外关闭、引发“EXCEPTION_ACCESS_VIOLATION”错误或触发设备意外重启。不是所有游戏都受到影响，微软列出的受影响游戏包括了《ARC Raiders》、《MARVEL Tōkon: Fighting Souls》和《The Finals》。微软表示正在调查问题是否由它引起的，它请求受影响用户提供反馈。",
+      "source": "Solidot",
+      "pub_date": "Fri, 21 Aug 2026 16:37:03 +0800",
+      "fetched_at": "2026-08-21T20:00:04.946964",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "微软正在调查部分用户在安装 Windows 11 八月例行安全更新后遭遇游戏崩溃的报告。根据发布在 Release Health 上的声明，受影响的游戏可能会失去响应、意外关闭、引发“EXCEPTION_ACCESS_VIOLATION”错误或触发设备意外重启。不是所有游戏都受到影响，微软列出的受影...",
+      "keywords": [
+        "windows",
+        "微软调查部分用户在安装",
+        "八月安全更新后遭遇游戏崩溃的报告",
+        "微软正在调查部分用户在安装",
+        "八月例行安全更新后遭遇游戏崩溃的报告"
+      ],
+      "importance": 1.0
+    },
     {
       "title": "Stripe 以 75 亿美元收购 OpenRouter",
       "link": "https://www.solidot.org/story?sid=85144",
       "summary": "Stripe 以 75 亿美元收购了 AI 初创公司 OpenRouter，OpenRouter 创始人将从这笔交易中获得 15 亿美元。OpenRouter 成立于 2023 年，由 Alex Atallah 和 Louis Vichy 共同创办，总部位于纽约市。2026 年 5 月完成 B 轮融时该公司的估值还只有 13 亿美元。OpenRouter 平台提供了一个统一的 API，允许开发者根据价格和性能在不同模型之间切换。它提供了 400 多个模型的访问权限，其中包括大量开放权重模型。",
       "source": "Solidot",
       "pub_date": "Thu, 20 Aug 2026 15:02:24 +0800",
-      "fetched_at": "2026-08-21T12:00:06.928716",
+      "fetched_at": "2026-08-21T20:00:04.950924",
       "categories": [
         "ai"
       ],
@@ -59,32 +80,12 @@
       "importance": 1.0
     },
     {
-      "title": "网易有道2026Q2财报：Q2净收入14.7亿元，AI原生战略加速兑现商业价值",
-      "link": "https://www.qbitai.com/2026/08/476400.html",
-      "summary": "8月20日，网易有道（NYSE：DAO）发布了2026年第二季度未经审计的财务业绩。",
-      "source": "量子位",
-      "pub_date": "Fri, 21 Aug 2026 02:15:28 +0000",
-      "fetched_at": "2026-08-21T12:00:07.303673",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "8月20日，网易有道（NYSE：DAO）发布了2026年第二季度未经审计的财务业绩。",
-      "keywords": [
-        "网易有道",
-        "财报",
-        "净收入",
-        "亿元",
-        "ai"
-      ],
-      "importance": 1.0
-    },
-    {
       "title": "NASA 终止 Swift 天文台的拯救任务",
       "link": "https://www.solidot.org/story?sid=85142",
       "summary": "NASA 和 Katalyst Space Technologies 公司联合宣布放弃 Swift 伽马射线望远镜的拯救任务。这意味着轨道高度衰减中的 Swift 天文台将于今年晚些时候重返大气层。NASA 是在去年 9 月授予了 Katalyst Space Technologies 一份 3000 万美元的合同，用于开发和发射一艘与 Swift 对接并提升其轨道高度的卫星 LINK。LINK 于 7 月 3 日成功发射，原计划尝试用其三个机械臂抓住 Swift 启动推进器，将其送回 600 公里高度的安全轨道。然而 LINK 卫星自己也出现了问题，三个反作用轮中有两个没有正常工作。Kata...",
       "source": "Solidot",
       "pub_date": "Thu, 20 Aug 2026 13:10:21 +0800",
-      "fetched_at": "2026-08-21T12:00:06.929014",
+      "fetched_at": "2026-08-21T20:00:04.951426",
       "categories": [
         "robotics",
         "space"
@@ -100,12 +101,32 @@
       "importance": 0.5
     },
     {
+      "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
+      "link": "https://www.qbitai.com/2026/08/476628.html",
+      "summary": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会",
+      "source": "量子位",
+      "pub_date": "Fri, 21 Aug 2026 09:00:06 +0000",
+      "fetched_at": "2026-08-21T20:00:05.408374",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会",
+      "keywords": [
+        "雷鸟",
+        "ai",
+        "io",
+        "发布",
+        "两天续航"
+      ],
+      "importance": 0.5
+    },
+    {
       "title": "海冰消失巨型鲸鱼进入格陵兰",
       "link": "https://www.solidot.org/story?sid=85151",
       "summary": "由于海冰融化，巨型鲸鱼如座头鲸进入到了以前难以抵达的东格陵兰沿海地区。这是东格陵兰海洋生态系统发生重大转变的一部分。直到 2006 年该地区才首次记录到座头鲸的踪迹。2007 年记录到了 7 头座头鲸，2024 年船载设备就记录到了 150 头。研究人员结合卫星标记鲸鱼的追踪轨迹和因纽特猎人的证词，估计 2024 年夏天大约有 4000 头座头鲸、6000 头长须鲸和 6000 头小须鲸造访了格陵兰海。这三种鲸鱼在夏季觅食季节至少会消耗 80 万吨鱼类和磷虾。北极原有的鲸鱼要么被迫适应要么被迫离开。",
       "source": "Solidot",
       "pub_date": "Thu, 20 Aug 2026 23:57:12 +0800",
-      "fetched_at": "2026-08-21T12:00:06.927619",
+      "fetched_at": "2026-08-21T20:00:04.949075",
       "categories": [
         "space"
       ],
@@ -125,7 +146,7 @@
       "summary": "当 Rebecca Green 去看泌尿科医生时，医生询问是否可以用 AI 记录就诊经历，她同意了。但这一决定给她带来了巨大压力。因为 AI 抄写员捏造了她服用迷幻蘑菇的经历，她说自己从未碰过迷幻蘑菇。Green 女士直到三月肾结石手术后才发现这个错误，她阅读了专科医生发给她全科医生的术后信，信中称她曾服用过微剂量迷幻蘑菇，可能是之前肾脏周围出血的原因。在 Green 投诉之后，她的泌尿科医生回了封致歉信，猜测迷幻蘑菇的记录是 AI 听写错误的结果。Royal Australian College of GPs (RACGP)去年估计，四成的全科医生使用 AI 医疗记录员。这个比例数字还是一个...",
       "source": "Solidot",
       "pub_date": "Thu, 20 Aug 2026 19:03:54 +0800",
-      "fetched_at": "2026-08-21T12:00:06.928132",
+      "fetched_at": "2026-08-21T20:00:04.949933",
       "categories": [
         "ai"
       ],
@@ -145,7 +166,7 @@
       "summary": "根据发表在 PNAS 期刊上的一项研究，X 算法会向民主党用户推送更多激发愤怒（ragebait）的信息流。论文合作者、斯坦福大学博士后研究员 Ziv Epstein 说，和其它社媒网站类似，X 信息流算法的优化目标是提升用户参与度，但并非所有类型的参与度都一视同仁。X 的算法会向用户推送与其价值观相冲突的内容，尤其是当他们回复那些令其愤怒或挑衅的帖子时。尽管回复仅占互动的 6.8%，但它们承载了不成比例的权重：“这是一个愤怒诱饵（ragebait）的反馈循环。算法学会你会被激怒，然后继续为你推送更多此类内容。”目前不清楚为什么 X 更频繁向民主党用户而不是共和党用户推送激发愤怒的内容。这可能...",
       "source": "Solidot",
       "pub_date": "Thu, 20 Aug 2026 14:41:01 +0800",
-      "fetched_at": "2026-08-21T12:00:06.928859",
+      "fetched_at": "2026-08-21T20:00:04.951093",
       "categories": [
         "ai"
       ],
@@ -160,222 +181,124 @@
       "importance": 0
     },
     {
-      "title": "蓝箭航天成功回收朱雀三号火箭第一级",
-      "link": "https://www.solidot.org/story?sid=85134",
-      "summary": "蓝箭航天于 8 月 19 日 7 时 35 分在东风商业航天创新试验区发射了朱雀三号重复使用遥二运载火箭，将鸿擎科技的鸿鹄 03 星送入预定轨道；7 时 41 分火箭第一级按预定程序成功软着陆于甘肃省民勤县朱雀三号着陆场坪。这是朱雀三号火箭的第二次飞行，它成为继美国的 Falcon 9 和 New Glenn，以及中国的长征十号乙火箭之后第四种经过飞行验证的入轨级部分可重复使用火箭。本次任务是中国首次实现运载火箭一子级着陆支腿方式回收，也是中国首次实现入轨级运载火箭一子级陆地回收（长征十号乙火箭为海上网状回收）。朱雀三号高 66 米，直径 4.5 米，第一级使用了 9 台天鹊 12 引擎，第二...",
-      "source": "Solidot",
-      "pub_date": "Wed, 19 Aug 2026 15:08:48 +0800",
-      "fetched_at": "2026-08-21T12:00:06.930141",
+      "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
+      "link": "https://www.qbitai.com/2026/08/476733.html",
+      "summary": "明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。",
+      "source": "量子位",
+      "pub_date": "Fri, 21 Aug 2026 09:44:33 +0000",
+      "fetched_at": "2026-08-21T20:00:05.408224",
       "categories": [
-        "space"
+        "robotics"
       ],
-      "ai_summary": "蓝箭航天于 8 月 19 日 7 时 35 分在东风商业航天创新试验区发射了朱雀三号重复使用遥二运载火箭，将鸿擎科技的鸿鹄 03 星送入预定轨道；7 时 41 分火箭第一级按预定程序成功软着陆于甘肃省民勤县朱雀三号着陆场坪。这是朱雀三号火箭的第二次飞行，它成为继美国的 Falcon 9 和 New ...",
+      "ai_summary": "明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。",
       "keywords": [
-        "蓝箭航天成功回收朱雀三号火箭第一级",
-        "蓝箭航天于",
-        "分在东风商业航天创新试验区发射了朱雀三号重复使用遥二运载火箭",
-        "将鸿擎科技的鸿鹄",
-        "星送入预定轨道"
+        "明略科技携手海康机器人亮相世界机器人大会",
+        "agent",
+        "具身",
+        "联合进入商业机器人场景",
+        "明略科技"
       ],
       "importance": 0
     },
     {
-      "title": "DDR5 内存条价格在 12 个月内上涨 500%",
-      "link": "https://www.solidot.org/story?sid=85133",
-      "summary": "因为 AI 热，主要内存厂商都将产能集中到 AI 数据中心使用的 HBM 内存上，导致消费者使用的 DDR5 内存条供应短缺。过去 12 个月部分 DDR5 内存条价格上涨了 500%。今天一套 128GB 内存套装售价高达 3399 美元，是之前最低价的十倍多。一套 64GB（2x32GB）DDR5-5600 内存套装去年夏天售价不到 200 美元，如今超过 1100 美元。上一代 DDR4 内存条的价格也普遍上涨 120%-180%，虽然没有 DDR5 上涨的那么离谱。硬盘和固态硬盘的价格也普遍上涨了 125%。DRAM 芯片如今是按重量计算的全球价值最高的商品之一，主流 DRAM 芯片的...",
-      "source": "Solidot",
-      "pub_date": "Wed, 19 Aug 2026 14:35:15 +0800",
-      "fetched_at": "2026-08-21T12:00:06.930283",
+      "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
+      "link": "https://www.qbitai.com/2026/08/476596.html",
+      "summary": "机器人看3秒演示就能学会",
+      "source": "量子位",
+      "pub_date": "Fri, 21 Aug 2026 07:17:58 +0000",
+      "fetched_at": "2026-08-21T20:00:05.408499",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "机器人看3秒演示就能学会",
+      "keywords": [
+        "机器人的",
+        "gpt",
+        "时刻真",
+        "来了",
+        "卡卡西上身"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
+      "link": "https://www.qbitai.com/2026/08/476591.html",
+      "summary": "让科学家的时间回到科学创造",
+      "source": "量子位",
+      "pub_date": "Fri, 21 Aug 2026 06:40:34 +0000",
+      "fetched_at": "2026-08-21T20:00:05.408629",
       "categories": [
         "ai"
       ],
-      "ai_summary": "因为 AI 热，主要内存厂商都将产能集中到 AI 数据中心使用的 HBM 内存上，导致消费者使用的 DDR5 内存条供应短缺。过去 12 个月部分 DDR5 内存条价格上涨了 500%。今天一套 128GB 内存套装售价高达 3399 美元，是之前最低价的十倍多。一套 64GB（2x32GB）DDR...",
+      "ai_summary": "让科学家的时间回到科学创造",
       "keywords": [
-        "ddr",
-        "gb",
-        "美元",
+        "科学家只管提问题",
         "ai",
-        "dram"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "首批！优必选行者具身智能大模型完成生成式人工智能服务备案",
-      "link": "https://www.qbitai.com/2026/08/476406.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Fri, 21 Aug 2026 02:26:49 +0000",
-      "fetched_at": "2026-08-21T12:00:07.303519",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "首批",
-        "优必选行者具身智能大模型完成生成式人工智能服务备案"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "三箭齐发！优必选WRC2026全方位展示人形机器人工业、商用、家庭消费应用成果",
-      "link": "https://www.qbitai.com/2026/08/476403.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Fri, 21 Aug 2026 02:22:43 +0000",
-      "fetched_at": "2026-08-21T12:00:07.303526",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "三箭齐发",
-        "优必选",
-        "wrc",
-        "全方位展示人形机器人工业",
-        "商用"
+        "负责跑实验",
+        "深势科技把科研全流程搬进桌面",
+        "让科学家的时间回到科学创造"
       ],
       "importance": 0
     }
   ],
   "latest": [
     {
-      "title": "宇树科技上市首日大涨629%，世界机器人大会里谁是“下一个宇树”？",
-      "link": "https://www.qbitai.com/2026/08/476120.html",
-      "summary": "这几个玩家或可被“押注”",
-      "source": "量子位",
-      "pub_date": "Thu, 20 Aug 2026 06:17:10 +0000",
-      "fetched_at": "2026-08-21T12:00:07.304098",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "这几个玩家或可被“押注”",
-      "keywords": [
-        "宇树科技上市首日大涨",
-        "世界机器人大会里谁是",
-        "下一个宇树",
-        "这几个玩家或可被",
-        "押注"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "攻克行业级柔性操作难题！招商局狮子山人工智能实验室首次亮相WRC 2026",
-      "link": "https://www.qbitai.com/2026/08/476129.html",
-      "summary": "全栈自研，真机叠衣ICRA夺冠",
-      "source": "量子位",
-      "pub_date": "Thu, 20 Aug 2026 09:22:05 +0000",
-      "fetched_at": "2026-08-21T12:00:07.304026",
+      "title": "The case against a C alternative (2022)",
+      "link": "https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative",
+      "summary": "👍 48 | 💬 40",
+      "source": "HackerNews",
+      "pub_date": "2026-08-16T23:17:09",
+      "fetched_at": "2026-08-21T20:00:21.876979",
       "categories": [
         "ai"
       ],
-      "ai_summary": "全栈自研，真机叠衣ICRA夺冠",
+      "ai_summary": "👍 48 | 💬 40",
       "keywords": [
-        "攻克行业级柔性操作难题",
-        "招商局狮子山人工智能实验室首次亮相",
-        "wrc",
-        "全栈自研",
-        "真机叠衣"
+        "the",
+        "case",
+        "against",
+        "alternative"
       ],
       "importance": 0
     },
     {
-      "title": "今年WRC最大展台，预告具身智能未来",
-      "link": "https://www.qbitai.com/2026/08/476141.html",
-      "summary": "从自主泛化到真生产力",
-      "source": "量子位",
-      "pub_date": "Thu, 20 Aug 2026 09:42:44 +0000",
-      "fetched_at": "2026-08-21T12:00:07.303951",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "从自主泛化到真生产力",
-      "keywords": [
-        "今年",
-        "wrc",
-        "最大展台",
-        "预告具身智能未来",
-        "从自主泛化到真生产力"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界",
-      "link": "https://www.qbitai.com/2026/08/476281.html",
-      "summary": "韶音宣布与光帆科技达成AI技术合作，将上线基于光帆自研AI OS的效率功能合集——\"AI 实验室\"",
-      "source": "量子位",
-      "pub_date": "Thu, 20 Aug 2026 10:13:45 +0000",
-      "fetched_at": "2026-08-21T12:00:07.303779",
+      "title": "Flat Chair by Sara Paculdo",
+      "link": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
+      "summary": "👍 37 | 💬 11",
+      "source": "HackerNews",
+      "pub_date": "2026-08-17T22:01:37",
+      "fetched_at": "2026-08-21T20:00:20.392591",
       "categories": [
         "ai"
       ],
-      "ai_summary": "韶音宣布与光帆科技达成AI技术合作，将上线基于光帆自研AI OS的效率功能合集——\"AI 实验室\"",
+      "ai_summary": "👍 37 | 💬 11",
       "keywords": [
+        "flat",
+        "chair",
+        "by",
+        "sara",
+        "paculdo"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "link": "https://annas-archive.pk/blog/physical-destruction.html",
+      "summary": "👍 28 | 💬 3",
+      "source": "HackerNews",
+      "pub_date": "2026-08-21T18:05:46",
+      "fetched_at": "2026-08-21T20:00:10.538277",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 28 | 💬 3",
+      "keywords": [
+        "books",
         "ai",
-        "光帆",
-        "技术正式落地韶音",
-        "openfit",
-        "耳机"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家",
-      "link": "https://www.qbitai.com/2026/08/476280.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Thu, 20 Aug 2026 10:17:47 +0000",
-      "fetched_at": "2026-08-21T12:00:07.303684",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "这届",
-        "wrc",
-        "必看",
-        "全栈",
-        "ai"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "网易有道2026Q2财报：Q2净收入14.7亿元，AI原生战略加速兑现商业价值",
-      "link": "https://www.qbitai.com/2026/08/476400.html",
-      "summary": "8月20日，网易有道（NYSE：DAO）发布了2026年第二季度未经审计的财务业绩。",
-      "source": "量子位",
-      "pub_date": "Fri, 21 Aug 2026 02:15:28 +0000",
-      "fetched_at": "2026-08-21T12:00:07.303673",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "8月20日，网易有道（NYSE：DAO）发布了2026年第二季度未经审计的财务业绩。",
-      "keywords": [
-        "网易有道",
-        "财报",
-        "净收入",
-        "亿元",
-        "ai"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "三箭齐发！优必选WRC2026全方位展示人形机器人工业、商用、家庭消费应用成果",
-      "link": "https://www.qbitai.com/2026/08/476403.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Fri, 21 Aug 2026 02:22:43 +0000",
-      "fetched_at": "2026-08-21T12:00:07.303526",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "三箭齐发",
-        "优必选",
-        "wrc",
-        "全方位展示人形机器人工业",
-        "商用"
+        "companies",
+        "destroy",
+        "physical"
       ],
       "importance": 0
     },
@@ -385,7 +308,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Fri, 21 Aug 2026 02:26:49 +0000",
-      "fetched_at": "2026-08-21T12:00:07.303519",
+      "fetched_at": "2026-08-21T20:00:05.409371",
       "categories": [
         "ai",
         "robotics"
@@ -398,42 +321,123 @@
       "importance": 0
     },
     {
-      "title": "DDR5 内存条价格在 12 个月内上涨 500%",
-      "link": "https://www.solidot.org/story?sid=85133",
-      "summary": "因为 AI 热，主要内存厂商都将产能集中到 AI 数据中心使用的 HBM 内存上，导致消费者使用的 DDR5 内存条供应短缺。过去 12 个月部分 DDR5 内存条价格上涨了 500%。今天一套 128GB 内存套装售价高达 3399 美元，是之前最低价的十倍多。一套 64GB（2x32GB）DDR5-5600 内存套装去年夏天售价不到 200 美元，如今超过 1100 美元。上一代 DDR4 内存条的价格也普遍上涨 120%-180%，虽然没有 DDR5 上涨的那么离谱。硬盘和固态硬盘的价格也普遍上涨了 125%。DRAM 芯片如今是按重量计算的全球价值最高的商品之一，主流 DRAM 芯片的...",
-      "source": "Solidot",
-      "pub_date": "Wed, 19 Aug 2026 14:35:15 +0800",
-      "fetched_at": "2026-08-21T12:00:06.930283",
+      "title": "WRC最忙机器人：猛干15分钟家务，收纳、补货、叠衣服…",
+      "link": "https://www.qbitai.com/2026/08/476413.html",
+      "summary": "墨奇，开始加速了",
+      "source": "量子位",
+      "pub_date": "Fri, 21 Aug 2026 03:14:40 +0000",
+      "fetched_at": "2026-08-21T20:00:05.409333",
       "categories": [
-        "ai"
+        "robotics"
       ],
-      "ai_summary": "因为 AI 热，主要内存厂商都将产能集中到 AI 数据中心使用的 HBM 内存上，导致消费者使用的 DDR5 内存条供应短缺。过去 12 个月部分 DDR5 内存条价格上涨了 500%。今天一套 128GB 内存套装售价高达 3399 美元，是之前最低价的十倍多。一套 64GB（2x32GB）DDR...",
+      "ai_summary": "墨奇，开始加速了",
       "keywords": [
-        "ddr",
-        "gb",
-        "美元",
-        "ai",
-        "dram"
+        "wrc",
+        "最忙机器人",
+        "猛干",
+        "分钟家务",
+        "收纳"
       ],
       "importance": 0
     },
     {
-      "title": "蓝箭航天成功回收朱雀三号火箭第一级",
-      "link": "https://www.solidot.org/story?sid=85134",
-      "summary": "蓝箭航天于 8 月 19 日 7 时 35 分在东风商业航天创新试验区发射了朱雀三号重复使用遥二运载火箭，将鸿擎科技的鸿鹄 03 星送入预定轨道；7 时 41 分火箭第一级按预定程序成功软着陆于甘肃省民勤县朱雀三号着陆场坪。这是朱雀三号火箭的第二次飞行，它成为继美国的 Falcon 9 和 New Glenn，以及中国的长征十号乙火箭之后第四种经过飞行验证的入轨级部分可重复使用火箭。本次任务是中国首次实现运载火箭一子级着陆支腿方式回收，也是中国首次实现入轨级运载火箭一子级陆地回收（长征十号乙火箭为海上网状回收）。朱雀三号高 66 米，直径 4.5 米，第一级使用了 9 台天鹊 12 引擎，第二...",
-      "source": "Solidot",
-      "pub_date": "Wed, 19 Aug 2026 15:08:48 +0800",
-      "fetched_at": "2026-08-21T12:00:06.930141",
+      "title": "设计无边界！中坚科技旗下子公司桦之坚携巨型概念机器人ZERO惊艳2026世界机器人大会",
+      "link": "https://www.qbitai.com/2026/08/476525.html",
+      "summary": "中坚科技（002779.SZ）旗下桦之坚携概念人形机器人ZERO亮相2026世界机器人大会。",
+      "source": "量子位",
+      "pub_date": "Fri, 21 Aug 2026 05:09:33 +0000",
+      "fetched_at": "2026-08-21T20:00:05.408865",
       "categories": [
-        "space"
+        "robotics"
       ],
-      "ai_summary": "蓝箭航天于 8 月 19 日 7 时 35 分在东风商业航天创新试验区发射了朱雀三号重复使用遥二运载火箭，将鸿擎科技的鸿鹄 03 星送入预定轨道；7 时 41 分火箭第一级按预定程序成功软着陆于甘肃省民勤县朱雀三号着陆场坪。这是朱雀三号火箭的第二次飞行，它成为继美国的 Falcon 9 和 New ...",
+      "ai_summary": "中坚科技（002779.SZ）旗下桦之坚携概念人形机器人ZERO亮相2026世界机器人大会。",
       "keywords": [
-        "蓝箭航天成功回收朱雀三号火箭第一级",
-        "蓝箭航天于",
-        "分在东风商业航天创新试验区发射了朱雀三号重复使用遥二运载火箭",
-        "将鸿擎科技的鸿鹄",
-        "星送入预定轨道"
+        "zero",
+        "世界机器人大会",
+        "设计无边界",
+        "中坚科技旗下子公司桦之坚携巨型概念机器人",
+        "惊艳"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
+      "link": "https://www.qbitai.com/2026/08/476591.html",
+      "summary": "让科学家的时间回到科学创造",
+      "source": "量子位",
+      "pub_date": "Fri, 21 Aug 2026 06:40:34 +0000",
+      "fetched_at": "2026-08-21T20:00:05.408629",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "让科学家的时间回到科学创造",
+      "keywords": [
+        "科学家只管提问题",
+        "ai",
+        "负责跑实验",
+        "深势科技把科研全流程搬进桌面",
+        "让科学家的时间回到科学创造"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
+      "link": "https://www.qbitai.com/2026/08/476596.html",
+      "summary": "机器人看3秒演示就能学会",
+      "source": "量子位",
+      "pub_date": "Fri, 21 Aug 2026 07:17:58 +0000",
+      "fetched_at": "2026-08-21T20:00:05.408499",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "机器人看3秒演示就能学会",
+      "keywords": [
+        "机器人的",
+        "gpt",
+        "时刻真",
+        "来了",
+        "卡卡西上身"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
+      "link": "https://www.qbitai.com/2026/08/476628.html",
+      "summary": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会",
+      "source": "量子位",
+      "pub_date": "Fri, 21 Aug 2026 09:00:06 +0000",
+      "fetched_at": "2026-08-21T20:00:05.408374",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会",
+      "keywords": [
+        "雷鸟",
+        "ai",
+        "io",
+        "发布",
+        "两天续航"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
+      "link": "https://www.qbitai.com/2026/08/476733.html",
+      "summary": "明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。",
+      "source": "量子位",
+      "pub_date": "Fri, 21 Aug 2026 09:44:33 +0000",
+      "fetched_at": "2026-08-21T20:00:05.408224",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。",
+      "keywords": [
+        "明略科技携手海康机器人亮相世界机器人大会",
+        "agent",
+        "具身",
+        "联合进入商业机器人场景",
+        "明略科技"
       ],
       "importance": 0
     },
@@ -443,7 +447,7 @@
       "summary": "NASA 和 Katalyst Space Technologies 公司联合宣布放弃 Swift 伽马射线望远镜的拯救任务。这意味着轨道高度衰减中的 Swift 天文台将于今年晚些时候重返大气层。NASA 是在去年 9 月授予了 Katalyst Space Technologies 一份 3000 万美元的合同，用于开发和发射一艘与 Swift 对接并提升其轨道高度的卫星 LINK。LINK 于 7 月 3 日成功发射，原计划尝试用其三个机械臂抓住 Swift 启动推进器，将其送回 600 公里高度的安全轨道。然而 LINK 卫星自己也出现了问题，三个反作用轮中有两个没有正常工作。Kata...",
       "source": "Solidot",
       "pub_date": "Thu, 20 Aug 2026 13:10:21 +0800",
-      "fetched_at": "2026-08-21T12:00:06.929014",
+      "fetched_at": "2026-08-21T20:00:04.951426",
       "categories": [
         "robotics",
         "space"
@@ -464,7 +468,7 @@
       "summary": "根据发表在 PNAS 期刊上的一项研究，X 算法会向民主党用户推送更多激发愤怒（ragebait）的信息流。论文合作者、斯坦福大学博士后研究员 Ziv Epstein 说，和其它社媒网站类似，X 信息流算法的优化目标是提升用户参与度，但并非所有类型的参与度都一视同仁。X 的算法会向用户推送与其价值观相冲突的内容，尤其是当他们回复那些令其愤怒或挑衅的帖子时。尽管回复仅占互动的 6.8%，但它们承载了不成比例的权重：“这是一个愤怒诱饵（ragebait）的反馈循环。算法学会你会被激怒，然后继续为你推送更多此类内容。”目前不清楚为什么 X 更频繁向民主党用户而不是共和党用户推送激发愤怒的内容。这可能...",
       "source": "Solidot",
       "pub_date": "Thu, 20 Aug 2026 14:41:01 +0800",
-      "fetched_at": "2026-08-21T12:00:06.928859",
+      "fetched_at": "2026-08-21T20:00:04.951093",
       "categories": [
         "ai"
       ],
@@ -484,7 +488,7 @@
       "summary": "Stripe 以 75 亿美元收购了 AI 初创公司 OpenRouter，OpenRouter 创始人将从这笔交易中获得 15 亿美元。OpenRouter 成立于 2023 年，由 Alex Atallah 和 Louis Vichy 共同创办，总部位于纽约市。2026 年 5 月完成 B 轮融时该公司的估值还只有 13 亿美元。OpenRouter 平台提供了一个统一的 API，允许开发者根据价格和性能在不同模型之间切换。它提供了 400 多个模型的访问权限，其中包括大量开放权重模型。",
       "source": "Solidot",
       "pub_date": "Thu, 20 Aug 2026 15:02:24 +0800",
-      "fetched_at": "2026-08-21T12:00:06.928716",
+      "fetched_at": "2026-08-21T20:00:04.950924",
       "categories": [
         "ai"
       ],
@@ -504,7 +508,7 @@
       "summary": "当 Rebecca Green 去看泌尿科医生时，医生询问是否可以用 AI 记录就诊经历，她同意了。但这一决定给她带来了巨大压力。因为 AI 抄写员捏造了她服用迷幻蘑菇的经历，她说自己从未碰过迷幻蘑菇。Green 女士直到三月肾结石手术后才发现这个错误，她阅读了专科医生发给她全科医生的术后信，信中称她曾服用过微剂量迷幻蘑菇，可能是之前肾脏周围出血的原因。在 Green 投诉之后，她的泌尿科医生回了封致歉信，猜测迷幻蘑菇的记录是 AI 听写错误的结果。Royal Australian College of GPs (RACGP)去年估计，四成的全科医生使用 AI 医疗记录员。这个比例数字还是一个...",
       "source": "Solidot",
       "pub_date": "Thu, 20 Aug 2026 19:03:54 +0800",
-      "fetched_at": "2026-08-21T12:00:06.928132",
+      "fetched_at": "2026-08-21T20:00:04.949933",
       "categories": [
         "ai"
       ],
@@ -524,7 +528,7 @@
       "summary": "由于海冰融化，巨型鲸鱼如座头鲸进入到了以前难以抵达的东格陵兰沿海地区。这是东格陵兰海洋生态系统发生重大转变的一部分。直到 2006 年该地区才首次记录到座头鲸的踪迹。2007 年记录到了 7 头座头鲸，2024 年船载设备就记录到了 150 头。研究人员结合卫星标记鲸鱼的追踪轨迹和因纽特猎人的证词，估计 2024 年夏天大约有 4000 头座头鲸、6000 头长须鲸和 6000 头小须鲸造访了格陵兰海。这三种鲸鱼在夏季觅食季节至少会消耗 80 万吨鱼类和磷虾。北极原有的鲸鱼要么被迫适应要么被迫离开。",
       "source": "Solidot",
       "pub_date": "Thu, 20 Aug 2026 23:57:12 +0800",
-      "fetched_at": "2026-08-21T12:00:06.927619",
+      "fetched_at": "2026-08-21T20:00:04.949075",
       "categories": [
         "space"
       ],
@@ -537,7 +541,27 @@
         "这是东格陵兰海洋生态系统发生重大转变的一部分"
       ],
       "importance": 0
+    },
+    {
+      "title": "微软调查部分用户在安装 Windows 11 八月安全更新后遭遇游戏崩溃的报告",
+      "link": "https://www.solidot.org/story?sid=85158",
+      "summary": "微软正在调查部分用户在安装 Windows 11 八月例行安全更新后遭遇游戏崩溃的报告。根据发布在 Release Health 上的声明，受影响的游戏可能会失去响应、意外关闭、引发“EXCEPTION_ACCESS_VIOLATION”错误或触发设备意外重启。不是所有游戏都受到影响，微软列出的受影响游戏包括了《ARC Raiders》、《MARVEL Tōkon: Fighting Souls》和《The Finals》。微软表示正在调查问题是否由它引起的，它请求受影响用户提供反馈。",
+      "source": "Solidot",
+      "pub_date": "Fri, 21 Aug 2026 16:37:03 +0800",
+      "fetched_at": "2026-08-21T20:00:04.946964",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "微软正在调查部分用户在安装 Windows 11 八月例行安全更新后遭遇游戏崩溃的报告。根据发布在 Release Health 上的声明，受影响的游戏可能会失去响应、意外关闭、引发“EXCEPTION_ACCESS_VIOLATION”错误或触发设备意外重启。不是所有游戏都受到影响，微软列出的受影...",
+      "keywords": [
+        "windows",
+        "微软调查部分用户在安装",
+        "八月安全更新后遭遇游戏崩溃的报告",
+        "微软正在调查部分用户在安装",
+        "八月例行安全更新后遭遇游戏崩溃的报告"
+      ],
+      "importance": 1.0
     }
   ],
-  "updated_at": "2026-08-21T12:00:22.408828"
+  "updated_at": "2026-08-21T20:00:35.515774"
 }

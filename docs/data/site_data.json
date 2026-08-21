@@ -5,119 +5,159 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-08-20T08:00:41.873004",
-    "total_items": 14
+    "last_update": "2026-08-21T12:00:22.408828",
+    "total_items": 15
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 12
+      "count": 9
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 4
+      "count": 5
     },
     "space": {
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 1
+      "count": 3
     }
   },
   "stats": {
-    "total_items": 14,
-    "today_items": 14,
+    "total_items": 15,
+    "today_items": 15,
     "sources": {
-      "Solidot": 5,
-      "量子位": 6,
-      "HackerNews": 3
+      "Solidot": 7,
+      "量子位": 8
     },
-    "last_update": "2026-08-20T08:00:41.873004"
+    "last_update": "2026-08-21T12:00:22.408828"
   },
   "trending": [
     {
-      "title": "苹果开发配备摄像头的耳机 AirPods",
-      "link": "https://www.solidot.org/story?sid=85128",
-      "summary": "根据在 macOS Tahoe 26.7 RC 版本发现的一则视频，苹果正在研发配备摄像头的耳机 AirPods，该产品处于即将发布状态。AirPods 的摄像头可以在 AI 帮助进行目标识别，在演示视频中，苹果通过摄像头识别一本书的书名。摄像头会将信息传输给 Visual Intelligence‌，Siri 将能回答佩戴者周围环境的问题并记录信息。配备摄像头的 AirPods 代号为 B790，最早可能会在 9 月宣布。",
+      "title": "Stripe 以 75 亿美元收购 OpenRouter",
+      "link": "https://www.solidot.org/story?sid=85144",
+      "summary": "Stripe 以 75 亿美元收购了 AI 初创公司 OpenRouter，OpenRouter 创始人将从这笔交易中获得 15 亿美元。OpenRouter 成立于 2023 年，由 Alex Atallah 和 Louis Vichy 共同创办，总部位于纽约市。2026 年 5 月完成 B 轮融时该公司的估值还只有 13 亿美元。OpenRouter 平台提供了一个统一的 API，允许开发者根据价格和性能在不同模型之间切换。它提供了 400 多个模型的访问权限，其中包括大量开放权重模型。",
       "source": "Solidot",
-      "pub_date": "Tue, 18 Aug 2026 20:51:55 +0800",
-      "fetched_at": "2026-08-20T08:00:11.145319",
+      "pub_date": "Thu, 20 Aug 2026 15:02:24 +0800",
+      "fetched_at": "2026-08-21T12:00:06.928716",
       "categories": [
         "ai"
       ],
-      "ai_summary": "根据在 macOS Tahoe 26.7 RC 版本发现的一则视频，苹果正在研发配备摄像头的耳机 AirPods，该产品处于即将发布状态。AirPods 的摄像头可以在 AI 帮助进行目标识别，在演示视频中，苹果通过摄像头识别一本书的书名。摄像头会将信息传输给 Visual Intelligence...",
+      "ai_summary": "Stripe 以 75 亿美元收购了 AI 初创公司 OpenRouter，OpenRouter 创始人将从这笔交易中获得 15 亿美元。OpenRouter 成立于 2023 年，由 Alex Atallah 和 Louis Vichy 共同创办，总部位于纽约市。2026 年 5 月完成 B 轮融...",
       "keywords": [
-        "airpods",
-        "苹果开发配备摄像头的耳机",
-        "根据在",
-        "macos",
-        "tahoe"
+        "openrouter",
+        "stripe",
+        "亿美元",
+        "亿美元收购",
+        "亿美元收购了"
       ],
       "importance": 1.0
     },
     {
-      "title": "Anthropic CEO 称对 AI 的抵触根源在于信任危机",
-      "link": "https://www.solidot.org/story?sid=85122",
-      "summary": "Anthropic CEO Dario Amodei 表示，对 AI 日益高涨的抵触情绪根源在于企业、政府和科技行业普遍存在的信任危机。Amodei 承认公众对 AI 持负面看法，认同这是一个大问题。但他不同意这种负面看法主要是由他或其他任何 AI 行业领袖对 AI 风险的警告造成的，“我认为这从根本上来说是一场信任危机。我认为普通民众不信任公司、政府或科技行业，总是怀疑我们在谋划某种新方法去坑他们。”",
-      "source": "Solidot",
-      "pub_date": "Tue, 18 Aug 2026 15:44:02 +0800",
-      "fetched_at": "2026-08-20T08:00:11.146423",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Anthropic CEO Dario Amodei 表示，对 AI 日益高涨的抵触情绪根源在于企业、政府和科技行业普遍存在的信任危机。Amodei 承认公众对 AI 持负面看法，认同这是一个大问题。但他不同意这种负面看法主要是由他或其他任何 AI 行业领袖对 AI 风险的警告造成的，“我认为这从根...",
-      "keywords": [
-        "ai",
-        "anthropic",
-        "ceo",
-        "amodei",
-        "称对"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
-      "link": "https://www.qbitai.com/2026/08/475901.html",
-      "summary": "凭借企业级智能体与AI安全的全栈布局，360成为中国人工智能产业发展的代表企业之一。",
+      "title": "网易有道2026Q2财报：Q2净收入14.7亿元，AI原生战略加速兑现商业价值",
+      "link": "https://www.qbitai.com/2026/08/476400.html",
+      "summary": "8月20日，网易有道（NYSE：DAO）发布了2026年第二季度未经审计的财务业绩。",
       "source": "量子位",
-      "pub_date": "Wed, 19 Aug 2026 08:34:36 +0000",
-      "fetched_at": "2026-08-20T08:00:11.615687",
+      "pub_date": "Fri, 21 Aug 2026 02:15:28 +0000",
+      "fetched_at": "2026-08-21T12:00:07.303673",
       "categories": [
         "ai"
       ],
-      "ai_summary": "凭借企业级智能体与AI安全的全栈布局，360成为中国人工智能产业发展的代表企业之一。",
+      "ai_summary": "8月20日，网易有道（NYSE：DAO）发布了2026年第二季度未经审计的财务业绩。",
       "keywords": [
-        "ai",
-        "idc",
-        "发布",
-        "中国",
-        "智能体"
+        "网易有道",
+        "财报",
+        "净收入",
+        "亿元",
+        "ai"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "NASA 终止 Swift 天文台的拯救任务",
+      "link": "https://www.solidot.org/story?sid=85142",
+      "summary": "NASA 和 Katalyst Space Technologies 公司联合宣布放弃 Swift 伽马射线望远镜的拯救任务。这意味着轨道高度衰减中的 Swift 天文台将于今年晚些时候重返大气层。NASA 是在去年 9 月授予了 Katalyst Space Technologies 一份 3000 万美元的合同，用于开发和发射一艘与 Swift 对接并提升其轨道高度的卫星 LINK。LINK 于 7 月 3 日成功发射，原计划尝试用其三个机械臂抓住 Swift 启动推进器，将其送回 600 公里高度的安全轨道。然而 LINK 卫星自己也出现了问题，三个反作用轮中有两个没有正常工作。Kata...",
+      "source": "Solidot",
+      "pub_date": "Thu, 20 Aug 2026 13:10:21 +0800",
+      "fetched_at": "2026-08-21T12:00:06.929014",
+      "categories": [
+        "robotics",
+        "space"
+      ],
+      "ai_summary": "NASA 和 Katalyst Space Technologies 公司联合宣布放弃 Swift 伽马射线望远镜的拯救任务。这意味着轨道高度衰减中的 Swift 天文台将于今年晚些时候重返大气层。NASA 是在去年 9 月授予了 Katalyst Space Technologies 一份 300...",
+      "keywords": [
+        "swift",
+        "nasa",
+        "link",
+        "katalyst",
+        "space"
       ],
       "importance": 0.5
     },
     {
-      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
-      "link": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "summary": "👍 250 | 💬 92",
-      "source": "HackerNews",
-      "pub_date": "2026-08-20T01:47:29",
-      "fetched_at": "2026-08-20T08:00:17.193146",
+      "title": "海冰消失巨型鲸鱼进入格陵兰",
+      "link": "https://www.solidot.org/story?sid=85151",
+      "summary": "由于海冰融化，巨型鲸鱼如座头鲸进入到了以前难以抵达的东格陵兰沿海地区。这是东格陵兰海洋生态系统发生重大转变的一部分。直到 2006 年该地区才首次记录到座头鲸的踪迹。2007 年记录到了 7 头座头鲸，2024 年船载设备就记录到了 150 头。研究人员结合卫星标记鲸鱼的追踪轨迹和因纽特猎人的证词，估计 2024 年夏天大约有 4000 头座头鲸、6000 头长须鲸和 6000 头小须鲸造访了格陵兰海。这三种鲸鱼在夏季觅食季节至少会消耗 80 万吨鱼类和磷虾。北极原有的鲸鱼要么被迫适应要么被迫离开。",
+      "source": "Solidot",
+      "pub_date": "Thu, 20 Aug 2026 23:57:12 +0800",
+      "fetched_at": "2026-08-21T12:00:06.927619",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "由于海冰融化，巨型鲸鱼如座头鲸进入到了以前难以抵达的东格陵兰沿海地区。这是东格陵兰海洋生态系统发生重大转变的一部分。直到 2006 年该地区才首次记录到座头鲸的踪迹。2007 年记录到了 7 头座头鲸，2024 年船载设备就记录到了 150 头。研究人员结合卫星标记鲸鱼的追踪轨迹和因纽特猎人的证词，...",
+      "keywords": [
+        "头座头鲸",
+        "海冰消失巨型鲸鱼进入格陵兰",
+        "由于海冰融化",
+        "巨型鲸鱼如座头鲸进入到了以前难以抵达的东格陵兰沿海地区",
+        "这是东格陵兰海洋生态系统发生重大转变的一部分"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "AI 记录员捏造了患者服用迷幻蘑菇的经历",
+      "link": "https://www.solidot.org/story?sid=85148",
+      "summary": "当 Rebecca Green 去看泌尿科医生时，医生询问是否可以用 AI 记录就诊经历，她同意了。但这一决定给她带来了巨大压力。因为 AI 抄写员捏造了她服用迷幻蘑菇的经历，她说自己从未碰过迷幻蘑菇。Green 女士直到三月肾结石手术后才发现这个错误，她阅读了专科医生发给她全科医生的术后信，信中称她曾服用过微剂量迷幻蘑菇，可能是之前肾脏周围出血的原因。在 Green 投诉之后，她的泌尿科医生回了封致歉信，猜测迷幻蘑菇的记录是 AI 听写错误的结果。Royal Australian College of GPs (RACGP)去年估计，四成的全科医生使用 AI 医疗记录员。这个比例数字还是一个...",
+      "source": "Solidot",
+      "pub_date": "Thu, 20 Aug 2026 19:03:54 +0800",
+      "fetched_at": "2026-08-21T12:00:06.928132",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 250 | 💬 92",
+      "ai_summary": "当 Rebecca Green 去看泌尿科医生时，医生询问是否可以用 AI 记录就诊经历，她同意了。但这一决定给她带来了巨大压力。因为 AI 抄写员捏造了她服用迷幻蘑菇的经历，她说自己从未碰过迷幻蘑菇。Green 女士直到三月肾结石手术后才发现这个错误，她阅读了专科医生发给她全科医生的术后信，信中称...",
       "keywords": [
-        "google",
-        "replaced",
-        "git",
-        "tags",
-        "for"
+        "ai",
+        "green",
+        "记录员捏造了患者服用迷幻蘑菇的经历",
+        "rebecca",
+        "去看泌尿科医生时"
       ],
-      "importance": 0.5
+      "importance": 0
+    },
+    {
+      "title": "X 算法向民主党用户推送更多激发愤怒的内容",
+      "link": "https://www.solidot.org/story?sid=85143",
+      "summary": "根据发表在 PNAS 期刊上的一项研究，X 算法会向民主党用户推送更多激发愤怒（ragebait）的信息流。论文合作者、斯坦福大学博士后研究员 Ziv Epstein 说，和其它社媒网站类似，X 信息流算法的优化目标是提升用户参与度，但并非所有类型的参与度都一视同仁。X 的算法会向用户推送与其价值观相冲突的内容，尤其是当他们回复那些令其愤怒或挑衅的帖子时。尽管回复仅占互动的 6.8%，但它们承载了不成比例的权重：“这是一个愤怒诱饵（ragebait）的反馈循环。算法学会你会被激怒，然后继续为你推送更多此类内容。”目前不清楚为什么 X 更频繁向民主党用户而不是共和党用户推送激发愤怒的内容。这可能...",
+      "source": "Solidot",
+      "pub_date": "Thu, 20 Aug 2026 14:41:01 +0800",
+      "fetched_at": "2026-08-21T12:00:06.928859",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "根据发表在 PNAS 期刊上的一项研究，X 算法会向民主党用户推送更多激发愤怒（ragebait）的信息流。论文合作者、斯坦福大学博士后研究员 Ziv Epstein 说，和其它社媒网站类似，X 信息流算法的优化目标是提升用户参与度，但并非所有类型的参与度都一视同仁。X 的算法会向用户推送与其价值观...",
+      "keywords": [
+        "ragebait",
+        "算法向民主党用户推送更多激发愤怒的内容",
+        "根据发表在",
+        "pnas",
+        "期刊上的一项研究"
+      ],
+      "importance": 0
     },
     {
       "title": "蓝箭航天成功回收朱雀三号火箭第一级",
@@ -125,7 +165,7 @@
       "summary": "蓝箭航天于 8 月 19 日 7 时 35 分在东风商业航天创新试验区发射了朱雀三号重复使用遥二运载火箭，将鸿擎科技的鸿鹄 03 星送入预定轨道；7 时 41 分火箭第一级按预定程序成功软着陆于甘肃省民勤县朱雀三号着陆场坪。这是朱雀三号火箭的第二次飞行，它成为继美国的 Falcon 9 和 New Glenn，以及中国的长征十号乙火箭之后第四种经过飞行验证的入轨级部分可重复使用火箭。本次任务是中国首次实现运载火箭一子级着陆支腿方式回收，也是中国首次实现入轨级运载火箭一子级陆地回收（长征十号乙火箭为海上网状回收）。朱雀三号高 66 米，直径 4.5 米，第一级使用了 9 台天鹊 12 引擎，第二...",
       "source": "Solidot",
       "pub_date": "Wed, 19 Aug 2026 15:08:48 +0800",
-      "fetched_at": "2026-08-20T08:00:11.144382",
+      "fetched_at": "2026-08-21T12:00:06.930141",
       "categories": [
         "space"
       ],
@@ -145,7 +185,7 @@
       "summary": "因为 AI 热，主要内存厂商都将产能集中到 AI 数据中心使用的 HBM 内存上，导致消费者使用的 DDR5 内存条供应短缺。过去 12 个月部分 DDR5 内存条价格上涨了 500%。今天一套 128GB 内存套装售价高达 3399 美元，是之前最低价的十倍多。一套 64GB（2x32GB）DDR5-5600 内存套装去年夏天售价不到 200 美元，如今超过 1100 美元。上一代 DDR4 内存条的价格也普遍上涨 120%-180%，虽然没有 DDR5 上涨的那么离谱。硬盘和固态硬盘的价格也普遍上涨了 125%。DRAM 芯片如今是按重量计算的全球价值最高的商品之一，主流 DRAM 芯片的...",
       "source": "Solidot",
       "pub_date": "Wed, 19 Aug 2026 14:35:15 +0800",
-      "fetched_at": "2026-08-20T08:00:11.144551",
+      "fetched_at": "2026-08-21T12:00:06.930283",
       "categories": [
         "ai"
       ],
@@ -160,327 +200,200 @@
       "importance": 0
     },
     {
-      "title": "Firefox 154 释出",
-      "link": "https://www.solidot.org/story?sid=85130",
-      "summary": "Mozilla 释出了 Firefox 154。主要新特性包括：Local Network Access 保护支持 WebSocket 连接，当网站尝试与本地网络的一个设备建立 WebSocket 连接，它们需要先获得许可；Smart Window 能建议相关标签页分组，并为每个分组建议一个名称；Windows、Linux 和 macOS 都支持本地配置文件备份，能在所有三个平台上恢复备份；网站可设置在浏览器关闭时豁免清除其 Cookie 和网站数据；地址栏新增 Manage AI 快捷操作；修复 bug，等等。",
-      "source": "Solidot",
-      "pub_date": "Tue, 18 Aug 2026 22:49:10 +0800",
-      "fetched_at": "2026-08-20T08:00:11.145007",
+      "title": "首批！优必选行者具身智能大模型完成生成式人工智能服务备案",
+      "link": "https://www.qbitai.com/2026/08/476406.html",
+      "summary": "",
+      "source": "量子位",
+      "pub_date": "Fri, 21 Aug 2026 02:26:49 +0000",
+      "fetched_at": "2026-08-21T12:00:07.303519",
       "categories": [
-        "ai"
+        "ai",
+        "robotics"
       ],
-      "ai_summary": "Mozilla 释出了 Firefox 154。主要新特性包括：Local Network Access 保护支持 WebSocket 连接，当网站尝试与本地网络的一个设备建立 WebSocket 连接，它们需要先获得许可；Smart Window 能建议相关标签页分组，并为每个分组建议一个名称；W...",
+      "ai_summary": "",
       "keywords": [
-        "firefox",
-        "websocket",
-        "连接",
-        "释出",
-        "mozilla"
+        "首批",
+        "优必选行者具身智能大模型完成生成式人工智能服务备案"
       ],
       "importance": 0
     },
     {
-      "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
-      "link": "https://www.qbitai.com/2026/08/475931.html",
+      "title": "三箭齐发！优必选WRC2026全方位展示人形机器人工业、商用、家庭消费应用成果",
+      "link": "https://www.qbitai.com/2026/08/476403.html",
       "summary": "",
       "source": "量子位",
-      "pub_date": "Wed, 19 Aug 2026 10:54:07 +0000",
-      "fetched_at": "2026-08-20T08:00:11.615302",
+      "pub_date": "Fri, 21 Aug 2026 02:22:43 +0000",
+      "fetched_at": "2026-08-21T12:00:07.303526",
       "categories": [
         "robotics"
       ],
       "ai_summary": "",
       "keywords": [
-        "章鱼动力亮相",
+        "三箭齐发",
+        "优必选",
         "wrc",
-        "数据",
-        "技术体系探索具身智能未来范式"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
-      "link": "https://www.qbitai.com/2026/08/475907.html",
-      "summary": "超维动力KAI全栈具身智能硬核登场",
-      "source": "量子位",
-      "pub_date": "Wed, 19 Aug 2026 10:12:09 +0000",
-      "fetched_at": "2026-08-20T08:00:11.615534",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "超维动力KAI全栈具身智能硬核登场",
-      "keywords": [
-        "全球首个人形机器人自主乒乓球完整对局亮相",
-        "世界机器人大会",
-        "超维动力",
-        "kai",
-        "全栈具身智能硬核登场"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "具身数据底座开卖，首发5100元：机器人训练数据有了新解法",
-      "link": "https://www.qbitai.com/2026/08/475477.html",
-      "summary": "构建全栈物理AI基础设施",
-      "source": "量子位",
-      "pub_date": "Wed, 19 Aug 2026 07:42:27 +0000",
-      "fetched_at": "2026-08-20T08:00:11.616112",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "构建全栈物理AI基础设施",
-      "keywords": [
-        "具身数据底座开卖",
-        "首发",
-        "机器人训练数据有了新解法",
-        "构建全栈物理",
-        "ai"
+        "全方位展示人形机器人工业",
+        "商用"
       ],
       "importance": 0
     }
   ],
   "latest": [
     {
-      "title": "Mathematics in the age of AI",
-      "link": "https://arxiv.org/abs/2608.16753",
-      "summary": "👍 111 | 💬 102",
-      "source": "HackerNews",
-      "pub_date": "2026-08-19T23:14:25",
-      "fetched_at": "2026-08-20T08:00:35.951835",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 111 | 💬 102",
-      "keywords": [
-        "mathematics",
-        "in",
-        "the",
-        "age",
-        "of"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "link": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "summary": "👍 717 | 💬 110",
-      "source": "HackerNews",
-      "pub_date": "2026-08-19T19:21:50",
-      "fetched_at": "2026-08-20T08:00:24.311549",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 717 | 💬 110",
-      "keywords": [
-        "joke",
-        "domain",
-        "purchase",
-        "turned",
-        "in"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
-      "link": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "summary": "👍 250 | 💬 92",
-      "source": "HackerNews",
-      "pub_date": "2026-08-20T01:47:29",
-      "fetched_at": "2026-08-20T08:00:17.193146",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 250 | 💬 92",
-      "keywords": [
-        "google",
-        "replaced",
-        "git",
-        "tags",
-        "for"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "AI for Science开始“动手”了：机器人正式走进国家级实验室",
-      "link": "https://www.qbitai.com/2026/08/475332.html",
-      "summary": "源络科技，推动AI for Science走进实验室3.0",
+      "title": "宇树科技上市首日大涨629%，世界机器人大会里谁是“下一个宇树”？",
+      "link": "https://www.qbitai.com/2026/08/476120.html",
+      "summary": "这几个玩家或可被“押注”",
       "source": "量子位",
-      "pub_date": "Wed, 19 Aug 2026 06:29:57 +0000",
-      "fetched_at": "2026-08-20T08:00:11.617043",
+      "pub_date": "Thu, 20 Aug 2026 06:17:10 +0000",
+      "fetched_at": "2026-08-21T12:00:07.304098",
       "categories": [
-        "ai",
         "robotics"
       ],
-      "ai_summary": "源络科技，推动AI for Science走进实验室3.0",
+      "ai_summary": "这几个玩家或可被“押注”",
       "keywords": [
-        "ai",
-        "for",
-        "science",
-        "开始",
-        "动手"
+        "宇树科技上市首日大涨",
+        "世界机器人大会里谁是",
+        "下一个宇树",
+        "这几个玩家或可被",
+        "押注"
       ],
       "importance": 0
     },
     {
-      "title": "写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”",
-      "link": "https://www.qbitai.com/2026/08/475476.html",
-      "summary": "AI终于能听严格执行运镜需求",
+      "title": "攻克行业级柔性操作难题！招商局狮子山人工智能实验室首次亮相WRC 2026",
+      "link": "https://www.qbitai.com/2026/08/476129.html",
+      "summary": "全栈自研，真机叠衣ICRA夺冠",
       "source": "量子位",
-      "pub_date": "Wed, 19 Aug 2026 07:22:19 +0000",
-      "fetched_at": "2026-08-20T08:00:11.616789",
+      "pub_date": "Thu, 20 Aug 2026 09:22:05 +0000",
+      "fetched_at": "2026-08-21T12:00:07.304026",
       "categories": [
         "ai"
       ],
-      "ai_summary": "AI终于能听严格执行运镜需求",
+      "ai_summary": "全栈自研，真机叠衣ICRA夺冠",
       "keywords": [
-        "ai",
-        "字提示词",
-        "不如先生成",
-        "白模",
-        "视频创作进入"
+        "攻克行业级柔性操作难题",
+        "招商局狮子山人工智能实验室首次亮相",
+        "wrc",
+        "全栈自研",
+        "真机叠衣"
       ],
       "importance": 0
     },
     {
-      "title": "具身数据底座开卖，首发5100元：机器人训练数据有了新解法",
-      "link": "https://www.qbitai.com/2026/08/475477.html",
-      "summary": "构建全栈物理AI基础设施",
+      "title": "今年WRC最大展台，预告具身智能未来",
+      "link": "https://www.qbitai.com/2026/08/476141.html",
+      "summary": "从自主泛化到真生产力",
       "source": "量子位",
-      "pub_date": "Wed, 19 Aug 2026 07:42:27 +0000",
-      "fetched_at": "2026-08-20T08:00:11.616112",
+      "pub_date": "Thu, 20 Aug 2026 09:42:44 +0000",
+      "fetched_at": "2026-08-21T12:00:07.303951",
       "categories": [
-        "ai",
         "robotics"
       ],
-      "ai_summary": "构建全栈物理AI基础设施",
+      "ai_summary": "从自主泛化到真生产力",
       "keywords": [
-        "具身数据底座开卖",
-        "首发",
-        "机器人训练数据有了新解法",
-        "构建全栈物理",
-        "ai"
+        "今年",
+        "wrc",
+        "最大展台",
+        "预告具身智能未来",
+        "从自主泛化到真生产力"
       ],
       "importance": 0
     },
     {
-      "title": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
-      "link": "https://www.qbitai.com/2026/08/475901.html",
-      "summary": "凭借企业级智能体与AI安全的全栈布局，360成为中国人工智能产业发展的代表企业之一。",
+      "title": "光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界",
+      "link": "https://www.qbitai.com/2026/08/476281.html",
+      "summary": "韶音宣布与光帆科技达成AI技术合作，将上线基于光帆自研AI OS的效率功能合集——\"AI 实验室\"",
       "source": "量子位",
-      "pub_date": "Wed, 19 Aug 2026 08:34:36 +0000",
-      "fetched_at": "2026-08-20T08:00:11.615687",
+      "pub_date": "Thu, 20 Aug 2026 10:13:45 +0000",
+      "fetched_at": "2026-08-21T12:00:07.303779",
       "categories": [
         "ai"
       ],
-      "ai_summary": "凭借企业级智能体与AI安全的全栈布局，360成为中国人工智能产业发展的代表企业之一。",
+      "ai_summary": "韶音宣布与光帆科技达成AI技术合作，将上线基于光帆自研AI OS的效率功能合集——\"AI 实验室\"",
       "keywords": [
         "ai",
-        "idc",
-        "发布",
-        "中国",
-        "智能体"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
-      "link": "https://www.qbitai.com/2026/08/475907.html",
-      "summary": "超维动力KAI全栈具身智能硬核登场",
-      "source": "量子位",
-      "pub_date": "Wed, 19 Aug 2026 10:12:09 +0000",
-      "fetched_at": "2026-08-20T08:00:11.615534",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "超维动力KAI全栈具身智能硬核登场",
-      "keywords": [
-        "全球首个人形机器人自主乒乓球完整对局亮相",
-        "世界机器人大会",
-        "超维动力",
-        "kai",
-        "全栈具身智能硬核登场"
+        "光帆",
+        "技术正式落地韶音",
+        "openfit",
+        "耳机"
       ],
       "importance": 0
     },
     {
-      "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
-      "link": "https://www.qbitai.com/2026/08/475931.html",
+      "title": "这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家",
+      "link": "https://www.qbitai.com/2026/08/476280.html",
       "summary": "",
       "source": "量子位",
-      "pub_date": "Wed, 19 Aug 2026 10:54:07 +0000",
-      "fetched_at": "2026-08-20T08:00:11.615302",
+      "pub_date": "Thu, 20 Aug 2026 10:17:47 +0000",
+      "fetched_at": "2026-08-21T12:00:07.303684",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "",
+      "keywords": [
+        "这届",
+        "wrc",
+        "必看",
+        "全栈",
+        "ai"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "网易有道2026Q2财报：Q2净收入14.7亿元，AI原生战略加速兑现商业价值",
+      "link": "https://www.qbitai.com/2026/08/476400.html",
+      "summary": "8月20日，网易有道（NYSE：DAO）发布了2026年第二季度未经审计的财务业绩。",
+      "source": "量子位",
+      "pub_date": "Fri, 21 Aug 2026 02:15:28 +0000",
+      "fetched_at": "2026-08-21T12:00:07.303673",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "8月20日，网易有道（NYSE：DAO）发布了2026年第二季度未经审计的财务业绩。",
+      "keywords": [
+        "网易有道",
+        "财报",
+        "净收入",
+        "亿元",
+        "ai"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "三箭齐发！优必选WRC2026全方位展示人形机器人工业、商用、家庭消费应用成果",
+      "link": "https://www.qbitai.com/2026/08/476403.html",
+      "summary": "",
+      "source": "量子位",
+      "pub_date": "Fri, 21 Aug 2026 02:22:43 +0000",
+      "fetched_at": "2026-08-21T12:00:07.303526",
       "categories": [
         "robotics"
       ],
       "ai_summary": "",
       "keywords": [
-        "章鱼动力亮相",
+        "三箭齐发",
+        "优必选",
         "wrc",
-        "数据",
-        "技术体系探索具身智能未来范式"
+        "全方位展示人形机器人工业",
+        "商用"
       ],
       "importance": 0
     },
     {
-      "title": "Anthropic CEO 称对 AI 的抵触根源在于信任危机",
-      "link": "https://www.solidot.org/story?sid=85122",
-      "summary": "Anthropic CEO Dario Amodei 表示，对 AI 日益高涨的抵触情绪根源在于企业、政府和科技行业普遍存在的信任危机。Amodei 承认公众对 AI 持负面看法，认同这是一个大问题。但他不同意这种负面看法主要是由他或其他任何 AI 行业领袖对 AI 风险的警告造成的，“我认为这从根本上来说是一场信任危机。我认为普通民众不信任公司、政府或科技行业，总是怀疑我们在谋划某种新方法去坑他们。”",
-      "source": "Solidot",
-      "pub_date": "Tue, 18 Aug 2026 15:44:02 +0800",
-      "fetched_at": "2026-08-20T08:00:11.146423",
+      "title": "首批！优必选行者具身智能大模型完成生成式人工智能服务备案",
+      "link": "https://www.qbitai.com/2026/08/476406.html",
+      "summary": "",
+      "source": "量子位",
+      "pub_date": "Fri, 21 Aug 2026 02:26:49 +0000",
+      "fetched_at": "2026-08-21T12:00:07.303519",
       "categories": [
-        "ai"
-      ],
-      "ai_summary": "Anthropic CEO Dario Amodei 表示，对 AI 日益高涨的抵触情绪根源在于企业、政府和科技行业普遍存在的信任危机。Amodei 承认公众对 AI 持负面看法，认同这是一个大问题。但他不同意这种负面看法主要是由他或其他任何 AI 行业领袖对 AI 风险的警告造成的，“我认为这从根...",
-      "keywords": [
         "ai",
-        "anthropic",
-        "ceo",
-        "amodei",
-        "称对"
+        "robotics"
       ],
-      "importance": 0.5
-    },
-    {
-      "title": "苹果开发配备摄像头的耳机 AirPods",
-      "link": "https://www.solidot.org/story?sid=85128",
-      "summary": "根据在 macOS Tahoe 26.7 RC 版本发现的一则视频，苹果正在研发配备摄像头的耳机 AirPods，该产品处于即将发布状态。AirPods 的摄像头可以在 AI 帮助进行目标识别，在演示视频中，苹果通过摄像头识别一本书的书名。摄像头会将信息传输给 Visual Intelligence‌，Siri 将能回答佩戴者周围环境的问题并记录信息。配备摄像头的 AirPods 代号为 B790，最早可能会在 9 月宣布。",
-      "source": "Solidot",
-      "pub_date": "Tue, 18 Aug 2026 20:51:55 +0800",
-      "fetched_at": "2026-08-20T08:00:11.145319",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "根据在 macOS Tahoe 26.7 RC 版本发现的一则视频，苹果正在研发配备摄像头的耳机 AirPods，该产品处于即将发布状态。AirPods 的摄像头可以在 AI 帮助进行目标识别，在演示视频中，苹果通过摄像头识别一本书的书名。摄像头会将信息传输给 Visual Intelligence...",
+      "ai_summary": "",
       "keywords": [
-        "airpods",
-        "苹果开发配备摄像头的耳机",
-        "根据在",
-        "macos",
-        "tahoe"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "Firefox 154 释出",
-      "link": "https://www.solidot.org/story?sid=85130",
-      "summary": "Mozilla 释出了 Firefox 154。主要新特性包括：Local Network Access 保护支持 WebSocket 连接，当网站尝试与本地网络的一个设备建立 WebSocket 连接，它们需要先获得许可；Smart Window 能建议相关标签页分组，并为每个分组建议一个名称；Windows、Linux 和 macOS 都支持本地配置文件备份，能在所有三个平台上恢复备份；网站可设置在浏览器关闭时豁免清除其 Cookie 和网站数据；地址栏新增 Manage AI 快捷操作；修复 bug，等等。",
-      "source": "Solidot",
-      "pub_date": "Tue, 18 Aug 2026 22:49:10 +0800",
-      "fetched_at": "2026-08-20T08:00:11.145007",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Mozilla 释出了 Firefox 154。主要新特性包括：Local Network Access 保护支持 WebSocket 连接，当网站尝试与本地网络的一个设备建立 WebSocket 连接，它们需要先获得许可；Smart Window 能建议相关标签页分组，并为每个分组建议一个名称；W...",
-      "keywords": [
-        "firefox",
-        "websocket",
-        "连接",
-        "释出",
-        "mozilla"
+        "首批",
+        "优必选行者具身智能大模型完成生成式人工智能服务备案"
       ],
       "importance": 0
     },
@@ -490,7 +403,7 @@
       "summary": "因为 AI 热，主要内存厂商都将产能集中到 AI 数据中心使用的 HBM 内存上，导致消费者使用的 DDR5 内存条供应短缺。过去 12 个月部分 DDR5 内存条价格上涨了 500%。今天一套 128GB 内存套装售价高达 3399 美元，是之前最低价的十倍多。一套 64GB（2x32GB）DDR5-5600 内存套装去年夏天售价不到 200 美元，如今超过 1100 美元。上一代 DDR4 内存条的价格也普遍上涨 120%-180%，虽然没有 DDR5 上涨的那么离谱。硬盘和固态硬盘的价格也普遍上涨了 125%。DRAM 芯片如今是按重量计算的全球价值最高的商品之一，主流 DRAM 芯片的...",
       "source": "Solidot",
       "pub_date": "Wed, 19 Aug 2026 14:35:15 +0800",
-      "fetched_at": "2026-08-20T08:00:11.144551",
+      "fetched_at": "2026-08-21T12:00:06.930283",
       "categories": [
         "ai"
       ],
@@ -510,7 +423,7 @@
       "summary": "蓝箭航天于 8 月 19 日 7 时 35 分在东风商业航天创新试验区发射了朱雀三号重复使用遥二运载火箭，将鸿擎科技的鸿鹄 03 星送入预定轨道；7 时 41 分火箭第一级按预定程序成功软着陆于甘肃省民勤县朱雀三号着陆场坪。这是朱雀三号火箭的第二次飞行，它成为继美国的 Falcon 9 和 New Glenn，以及中国的长征十号乙火箭之后第四种经过飞行验证的入轨级部分可重复使用火箭。本次任务是中国首次实现运载火箭一子级着陆支腿方式回收，也是中国首次实现入轨级运载火箭一子级陆地回收（长征十号乙火箭为海上网状回收）。朱雀三号高 66 米，直径 4.5 米，第一级使用了 9 台天鹊 12 引擎，第二...",
       "source": "Solidot",
       "pub_date": "Wed, 19 Aug 2026 15:08:48 +0800",
-      "fetched_at": "2026-08-20T08:00:11.144382",
+      "fetched_at": "2026-08-21T12:00:06.930141",
       "categories": [
         "space"
       ],
@@ -523,7 +436,108 @@
         "星送入预定轨道"
       ],
       "importance": 0
+    },
+    {
+      "title": "NASA 终止 Swift 天文台的拯救任务",
+      "link": "https://www.solidot.org/story?sid=85142",
+      "summary": "NASA 和 Katalyst Space Technologies 公司联合宣布放弃 Swift 伽马射线望远镜的拯救任务。这意味着轨道高度衰减中的 Swift 天文台将于今年晚些时候重返大气层。NASA 是在去年 9 月授予了 Katalyst Space Technologies 一份 3000 万美元的合同，用于开发和发射一艘与 Swift 对接并提升其轨道高度的卫星 LINK。LINK 于 7 月 3 日成功发射，原计划尝试用其三个机械臂抓住 Swift 启动推进器，将其送回 600 公里高度的安全轨道。然而 LINK 卫星自己也出现了问题，三个反作用轮中有两个没有正常工作。Kata...",
+      "source": "Solidot",
+      "pub_date": "Thu, 20 Aug 2026 13:10:21 +0800",
+      "fetched_at": "2026-08-21T12:00:06.929014",
+      "categories": [
+        "robotics",
+        "space"
+      ],
+      "ai_summary": "NASA 和 Katalyst Space Technologies 公司联合宣布放弃 Swift 伽马射线望远镜的拯救任务。这意味着轨道高度衰减中的 Swift 天文台将于今年晚些时候重返大气层。NASA 是在去年 9 月授予了 Katalyst Space Technologies 一份 300...",
+      "keywords": [
+        "swift",
+        "nasa",
+        "link",
+        "katalyst",
+        "space"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "X 算法向民主党用户推送更多激发愤怒的内容",
+      "link": "https://www.solidot.org/story?sid=85143",
+      "summary": "根据发表在 PNAS 期刊上的一项研究，X 算法会向民主党用户推送更多激发愤怒（ragebait）的信息流。论文合作者、斯坦福大学博士后研究员 Ziv Epstein 说，和其它社媒网站类似，X 信息流算法的优化目标是提升用户参与度，但并非所有类型的参与度都一视同仁。X 的算法会向用户推送与其价值观相冲突的内容，尤其是当他们回复那些令其愤怒或挑衅的帖子时。尽管回复仅占互动的 6.8%，但它们承载了不成比例的权重：“这是一个愤怒诱饵（ragebait）的反馈循环。算法学会你会被激怒，然后继续为你推送更多此类内容。”目前不清楚为什么 X 更频繁向民主党用户而不是共和党用户推送激发愤怒的内容。这可能...",
+      "source": "Solidot",
+      "pub_date": "Thu, 20 Aug 2026 14:41:01 +0800",
+      "fetched_at": "2026-08-21T12:00:06.928859",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "根据发表在 PNAS 期刊上的一项研究，X 算法会向民主党用户推送更多激发愤怒（ragebait）的信息流。论文合作者、斯坦福大学博士后研究员 Ziv Epstein 说，和其它社媒网站类似，X 信息流算法的优化目标是提升用户参与度，但并非所有类型的参与度都一视同仁。X 的算法会向用户推送与其价值观...",
+      "keywords": [
+        "ragebait",
+        "算法向民主党用户推送更多激发愤怒的内容",
+        "根据发表在",
+        "pnas",
+        "期刊上的一项研究"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Stripe 以 75 亿美元收购 OpenRouter",
+      "link": "https://www.solidot.org/story?sid=85144",
+      "summary": "Stripe 以 75 亿美元收购了 AI 初创公司 OpenRouter，OpenRouter 创始人将从这笔交易中获得 15 亿美元。OpenRouter 成立于 2023 年，由 Alex Atallah 和 Louis Vichy 共同创办，总部位于纽约市。2026 年 5 月完成 B 轮融时该公司的估值还只有 13 亿美元。OpenRouter 平台提供了一个统一的 API，允许开发者根据价格和性能在不同模型之间切换。它提供了 400 多个模型的访问权限，其中包括大量开放权重模型。",
+      "source": "Solidot",
+      "pub_date": "Thu, 20 Aug 2026 15:02:24 +0800",
+      "fetched_at": "2026-08-21T12:00:06.928716",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Stripe 以 75 亿美元收购了 AI 初创公司 OpenRouter，OpenRouter 创始人将从这笔交易中获得 15 亿美元。OpenRouter 成立于 2023 年，由 Alex Atallah 和 Louis Vichy 共同创办，总部位于纽约市。2026 年 5 月完成 B 轮融...",
+      "keywords": [
+        "openrouter",
+        "stripe",
+        "亿美元",
+        "亿美元收购",
+        "亿美元收购了"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "AI 记录员捏造了患者服用迷幻蘑菇的经历",
+      "link": "https://www.solidot.org/story?sid=85148",
+      "summary": "当 Rebecca Green 去看泌尿科医生时，医生询问是否可以用 AI 记录就诊经历，她同意了。但这一决定给她带来了巨大压力。因为 AI 抄写员捏造了她服用迷幻蘑菇的经历，她说自己从未碰过迷幻蘑菇。Green 女士直到三月肾结石手术后才发现这个错误，她阅读了专科医生发给她全科医生的术后信，信中称她曾服用过微剂量迷幻蘑菇，可能是之前肾脏周围出血的原因。在 Green 投诉之后，她的泌尿科医生回了封致歉信，猜测迷幻蘑菇的记录是 AI 听写错误的结果。Royal Australian College of GPs (RACGP)去年估计，四成的全科医生使用 AI 医疗记录员。这个比例数字还是一个...",
+      "source": "Solidot",
+      "pub_date": "Thu, 20 Aug 2026 19:03:54 +0800",
+      "fetched_at": "2026-08-21T12:00:06.928132",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "当 Rebecca Green 去看泌尿科医生时，医生询问是否可以用 AI 记录就诊经历，她同意了。但这一决定给她带来了巨大压力。因为 AI 抄写员捏造了她服用迷幻蘑菇的经历，她说自己从未碰过迷幻蘑菇。Green 女士直到三月肾结石手术后才发现这个错误，她阅读了专科医生发给她全科医生的术后信，信中称...",
+      "keywords": [
+        "ai",
+        "green",
+        "记录员捏造了患者服用迷幻蘑菇的经历",
+        "rebecca",
+        "去看泌尿科医生时"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "海冰消失巨型鲸鱼进入格陵兰",
+      "link": "https://www.solidot.org/story?sid=85151",
+      "summary": "由于海冰融化，巨型鲸鱼如座头鲸进入到了以前难以抵达的东格陵兰沿海地区。这是东格陵兰海洋生态系统发生重大转变的一部分。直到 2006 年该地区才首次记录到座头鲸的踪迹。2007 年记录到了 7 头座头鲸，2024 年船载设备就记录到了 150 头。研究人员结合卫星标记鲸鱼的追踪轨迹和因纽特猎人的证词，估计 2024 年夏天大约有 4000 头座头鲸、6000 头长须鲸和 6000 头小须鲸造访了格陵兰海。这三种鲸鱼在夏季觅食季节至少会消耗 80 万吨鱼类和磷虾。北极原有的鲸鱼要么被迫适应要么被迫离开。",
+      "source": "Solidot",
+      "pub_date": "Thu, 20 Aug 2026 23:57:12 +0800",
+      "fetched_at": "2026-08-21T12:00:06.927619",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "由于海冰融化，巨型鲸鱼如座头鲸进入到了以前难以抵达的东格陵兰沿海地区。这是东格陵兰海洋生态系统发生重大转变的一部分。直到 2006 年该地区才首次记录到座头鲸的踪迹。2007 年记录到了 7 头座头鲸，2024 年船载设备就记录到了 150 头。研究人员结合卫星标记鲸鱼的追踪轨迹和因纽特猎人的证词，...",
+      "keywords": [
+        "头座头鲸",
+        "海冰消失巨型鲸鱼进入格陵兰",
+        "由于海冰融化",
+        "巨型鲸鱼如座头鲸进入到了以前难以抵达的东格陵兰沿海地区",
+        "这是东格陵兰海洋生态系统发生重大转变的一部分"
+      ],
+      "importance": 0
     }
   ],
-  "updated_at": "2026-08-20T08:00:41.873004"
+  "updated_at": "2026-08-21T12:00:22.408828"
 }

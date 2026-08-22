@@ -5,8 +5,8 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-08-21T20:00:35.515774",
-    "total_items": 16
+    "last_update": "2026-08-22T08:00:35.105676",
+    "total_items": 17
   },
   "categories": {
     "ai": {
@@ -19,24 +19,24 @@
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 6
+      "count": 5
     },
     "space": {
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 2
+      "count": 3
     }
   },
   "stats": {
-    "total_items": 16,
-    "today_items": 16,
+    "total_items": 17,
+    "today_items": 17,
     "sources": {
-      "Solidot": 6,
-      "量子位": 7,
-      "HackerNews": 3
+      "Solidot": 7,
+      "量子位": 6,
+      "HackerNews": 4
     },
-    "last_update": "2026-08-21T20:00:35.515774"
+    "last_update": "2026-08-22T08:00:35.105676"
   },
   "trending": [
     {
@@ -45,7 +45,7 @@
       "summary": "微软正在调查部分用户在安装 Windows 11 八月例行安全更新后遭遇游戏崩溃的报告。根据发布在 Release Health 上的声明，受影响的游戏可能会失去响应、意外关闭、引发“EXCEPTION_ACCESS_VIOLATION”错误或触发设备意外重启。不是所有游戏都受到影响，微软列出的受影响游戏包括了《ARC Raiders》、《MARVEL Tōkon: Fighting Souls》和《The Finals》。微软表示正在调查问题是否由它引起的，它请求受影响用户提供反馈。",
       "source": "Solidot",
       "pub_date": "Fri, 21 Aug 2026 16:37:03 +0800",
-      "fetched_at": "2026-08-21T20:00:04.946964",
+      "fetched_at": "2026-08-22T08:00:12.702358",
       "categories": [
         "ai"
       ],
@@ -65,7 +65,7 @@
       "summary": "Stripe 以 75 亿美元收购了 AI 初创公司 OpenRouter，OpenRouter 创始人将从这笔交易中获得 15 亿美元。OpenRouter 成立于 2023 年，由 Alex Atallah 和 Louis Vichy 共同创办，总部位于纽约市。2026 年 5 月完成 B 轮融时该公司的估值还只有 13 亿美元。OpenRouter 平台提供了一个统一的 API，允许开发者根据价格和性能在不同模型之间切换。它提供了 400 多个模型的访问权限，其中包括大量开放权重模型。",
       "source": "Solidot",
       "pub_date": "Thu, 20 Aug 2026 15:02:24 +0800",
-      "fetched_at": "2026-08-21T20:00:04.950924",
+      "fetched_at": "2026-08-22T08:00:12.706155",
       "categories": [
         "ai"
       ],
@@ -85,7 +85,7 @@
       "summary": "NASA 和 Katalyst Space Technologies 公司联合宣布放弃 Swift 伽马射线望远镜的拯救任务。这意味着轨道高度衰减中的 Swift 天文台将于今年晚些时候重返大气层。NASA 是在去年 9 月授予了 Katalyst Space Technologies 一份 3000 万美元的合同，用于开发和发射一艘与 Swift 对接并提升其轨道高度的卫星 LINK。LINK 于 7 月 3 日成功发射，原计划尝试用其三个机械臂抓住 Swift 启动推进器，将其送回 600 公里高度的安全轨道。然而 LINK 卫星自己也出现了问题，三个反作用轮中有两个没有正常工作。Kata...",
       "source": "Solidot",
       "pub_date": "Thu, 20 Aug 2026 13:10:21 +0800",
-      "fetched_at": "2026-08-21T20:00:04.951426",
+      "fetched_at": "2026-08-22T08:00:12.706775",
       "categories": [
         "robotics",
         "space"
@@ -106,7 +106,7 @@
       "summary": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会",
       "source": "量子位",
       "pub_date": "Fri, 21 Aug 2026 09:00:06 +0000",
-      "fetched_at": "2026-08-21T20:00:05.408374",
+      "fetched_at": "2026-08-22T08:00:13.191459",
       "categories": [
         "ai"
       ],
@@ -121,12 +121,32 @@
       "importance": 0.5
     },
     {
+      "title": "中国准备发射嫦娥七号，前往月球南极寻找水冰",
+      "link": "https://www.solidot.org/story?sid=85160",
+      "summary": "中国准备发射嫦娥七号，它将尝试首次直接在月球南极着陆，搜寻阴影区的陨石坑去寻找水冰。嫦娥七号使用的运载火箭为长征五号，计划从海南文昌航天发射场发射，发射窗口为 2026 年 8 月 24 日上午。嫦娥七号由一个轨道器和一个着陆器组成，而着陆器搭载了漫游的巡视器和飞跃器，其中飞跃器具备重复起飞着陆、月面飞行、月面行走功能。在阳照区完成探测并充电后，它将飞入有永久阴影区的撞击坑进行探测。嫦娥七号探测器将耗时时六天抵达月球轨道，随后将在轨道上展开为期两个月的准备工作，计划于 11 月着陆月球南极，预定着落地点为沙克尔顿撞击坑，它是一个直径 21 公里的环形山，边缘接近月球南极。月球两极被认为蕴藏了巨...",
+      "source": "Solidot",
+      "pub_date": "Fri, 21 Aug 2026 20:44:27 +0800",
+      "fetched_at": "2026-08-22T08:00:12.701757",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "中国准备发射嫦娥七号，它将尝试首次直接在月球南极着陆，搜寻阴影区的陨石坑去寻找水冰。嫦娥七号使用的运载火箭为长征五号，计划从海南文昌航天发射场发射，发射窗口为 2026 年 8 月 24 日上午。嫦娥七号由一个轨道器和一个着陆器组成，而着陆器搭载了漫游的巡视器和飞跃器，其中飞跃器具备重复起飞着陆、月...",
+      "keywords": [
+        "中国准备发射嫦娥七号",
+        "前往月球南极寻找水冰",
+        "它将尝试首次直接在月球南极着陆",
+        "搜寻阴影区的陨石坑去寻找水冰",
+        "嫦娥七号使用的运载火箭为长征五号"
+      ],
+      "importance": 0
+    },
+    {
       "title": "海冰消失巨型鲸鱼进入格陵兰",
       "link": "https://www.solidot.org/story?sid=85151",
       "summary": "由于海冰融化，巨型鲸鱼如座头鲸进入到了以前难以抵达的东格陵兰沿海地区。这是东格陵兰海洋生态系统发生重大转变的一部分。直到 2006 年该地区才首次记录到座头鲸的踪迹。2007 年记录到了 7 头座头鲸，2024 年船载设备就记录到了 150 头。研究人员结合卫星标记鲸鱼的追踪轨迹和因纽特猎人的证词，估计 2024 年夏天大约有 4000 头座头鲸、6000 头长须鲸和 6000 头小须鲸造访了格陵兰海。这三种鲸鱼在夏季觅食季节至少会消耗 80 万吨鱼类和磷虾。北极原有的鲸鱼要么被迫适应要么被迫离开。",
       "source": "Solidot",
       "pub_date": "Thu, 20 Aug 2026 23:57:12 +0800",
-      "fetched_at": "2026-08-21T20:00:04.949075",
+      "fetched_at": "2026-08-22T08:00:12.704474",
       "categories": [
         "space"
       ],
@@ -146,7 +166,7 @@
       "summary": "当 Rebecca Green 去看泌尿科医生时，医生询问是否可以用 AI 记录就诊经历，她同意了。但这一决定给她带来了巨大压力。因为 AI 抄写员捏造了她服用迷幻蘑菇的经历，她说自己从未碰过迷幻蘑菇。Green 女士直到三月肾结石手术后才发现这个错误，她阅读了专科医生发给她全科医生的术后信，信中称她曾服用过微剂量迷幻蘑菇，可能是之前肾脏周围出血的原因。在 Green 投诉之后，她的泌尿科医生回了封致歉信，猜测迷幻蘑菇的记录是 AI 听写错误的结果。Royal Australian College of GPs (RACGP)去年估计，四成的全科医生使用 AI 医疗记录员。这个比例数字还是一个...",
       "source": "Solidot",
       "pub_date": "Thu, 20 Aug 2026 19:03:54 +0800",
-      "fetched_at": "2026-08-21T20:00:04.949933",
+      "fetched_at": "2026-08-22T08:00:12.705250",
       "categories": [
         "ai"
       ],
@@ -166,7 +186,7 @@
       "summary": "根据发表在 PNAS 期刊上的一项研究，X 算法会向民主党用户推送更多激发愤怒（ragebait）的信息流。论文合作者、斯坦福大学博士后研究员 Ziv Epstein 说，和其它社媒网站类似，X 信息流算法的优化目标是提升用户参与度，但并非所有类型的参与度都一视同仁。X 的算法会向用户推送与其价值观相冲突的内容，尤其是当他们回复那些令其愤怒或挑衅的帖子时。尽管回复仅占互动的 6.8%，但它们承载了不成比例的权重：“这是一个愤怒诱饵（ragebait）的反馈循环。算法学会你会被激怒，然后继续为你推送更多此类内容。”目前不清楚为什么 X 更频繁向民主党用户而不是共和党用户推送激发愤怒的内容。这可能...",
       "source": "Solidot",
       "pub_date": "Thu, 20 Aug 2026 14:41:01 +0800",
-      "fetched_at": "2026-08-21T20:00:04.951093",
+      "fetched_at": "2026-08-22T08:00:12.706491",
       "categories": [
         "ai"
       ],
@@ -186,7 +206,7 @@
       "summary": "明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。",
       "source": "量子位",
       "pub_date": "Fri, 21 Aug 2026 09:44:33 +0000",
-      "fetched_at": "2026-08-21T20:00:05.408224",
+      "fetched_at": "2026-08-22T08:00:13.191329",
       "categories": [
         "robotics"
       ],
@@ -206,7 +226,7 @@
       "summary": "机器人看3秒演示就能学会",
       "source": "量子位",
       "pub_date": "Fri, 21 Aug 2026 07:17:58 +0000",
-      "fetched_at": "2026-08-21T20:00:05.408499",
+      "fetched_at": "2026-08-22T08:00:13.191575",
       "categories": [
         "ai",
         "robotics"
@@ -220,103 +240,86 @@
         "卡卡西上身"
       ],
       "importance": 0
-    },
-    {
-      "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
-      "link": "https://www.qbitai.com/2026/08/476591.html",
-      "summary": "让科学家的时间回到科学创造",
-      "source": "量子位",
-      "pub_date": "Fri, 21 Aug 2026 06:40:34 +0000",
-      "fetched_at": "2026-08-21T20:00:05.408629",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "让科学家的时间回到科学创造",
-      "keywords": [
-        "科学家只管提问题",
-        "ai",
-        "负责跑实验",
-        "深势科技把科研全流程搬进桌面",
-        "让科学家的时间回到科学创造"
-      ],
-      "importance": 0
     }
   ],
   "latest": [
     {
-      "title": "The case against a C alternative (2022)",
-      "link": "https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative",
-      "summary": "👍 48 | 💬 40",
+      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+      "link": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "summary": "👍 178 | 💬 127",
       "source": "HackerNews",
-      "pub_date": "2026-08-16T23:17:09",
-      "fetched_at": "2026-08-21T20:00:21.876979",
+      "pub_date": "2026-08-21T22:31:52",
+      "fetched_at": "2026-08-22T08:00:33.042405",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 48 | 💬 40",
+      "ai_summary": "👍 178 | 💬 127",
       "keywords": [
-        "the",
-        "case",
-        "against",
-        "alternative"
+        "claudette",
+        "make",
+        "claude",
+        "stop",
+        "talking"
       ],
       "importance": 0
     },
     {
-      "title": "Flat Chair by Sara Paculdo",
-      "link": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
-      "summary": "👍 37 | 💬 11",
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "link": "https://ozbrain.com",
+      "summary": "👍 11 | 💬 3",
       "source": "HackerNews",
-      "pub_date": "2026-08-17T22:01:37",
-      "fetched_at": "2026-08-21T20:00:20.392591",
+      "pub_date": "2026-08-22T07:09:06",
+      "fetched_at": "2026-08-22T08:00:28.078128",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 37 | 💬 11",
+      "ai_summary": "👍 11 | 💬 3",
       "keywords": [
-        "flat",
-        "chair",
-        "by",
-        "sara",
-        "paculdo"
+        "show",
+        "hn",
+        "ozbrain",
+        "shared",
+        "brain"
       ],
       "importance": 0
     },
     {
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "link": "https://annas-archive.pk/blog/physical-destruction.html",
-      "summary": "👍 28 | 💬 3",
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "link": "https://kagi.com/changelog#11296",
+      "summary": "👍 974 | 💬 331",
       "source": "HackerNews",
-      "pub_date": "2026-08-21T18:05:46",
-      "fetched_at": "2026-08-21T20:00:10.538277",
+      "pub_date": "2026-08-21T21:56:37",
+      "fetched_at": "2026-08-22T08:00:20.788854",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 28 | 💬 3",
+      "ai_summary": "👍 974 | 💬 331",
       "keywords": [
-        "books",
+        "kagi",
+        "added",
+        "setting",
+        "for",
+        "removing"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "link": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "summary": "👍 216 | 💬 276",
+      "source": "HackerNews",
+      "pub_date": "2026-08-19T14:13:31",
+      "fetched_at": "2026-08-22T08:00:19.742806",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 216 | 💬 276",
+      "keywords": [
+        "scores",
         "ai",
-        "companies",
-        "destroy",
-        "physical"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "首批！优必选行者具身智能大模型完成生成式人工智能服务备案",
-      "link": "https://www.qbitai.com/2026/08/476406.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Fri, 21 Aug 2026 02:26:49 +0000",
-      "fetched_at": "2026-08-21T20:00:05.409371",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "首批",
-        "优必选行者具身智能大模型完成生成式人工智能服务备案"
+        "boosted",
+        "homework",
+        "then"
       ],
       "importance": 0
     },
@@ -326,7 +329,7 @@
       "summary": "墨奇，开始加速了",
       "source": "量子位",
       "pub_date": "Fri, 21 Aug 2026 03:14:40 +0000",
-      "fetched_at": "2026-08-21T20:00:05.409333",
+      "fetched_at": "2026-08-22T08:00:13.192383",
       "categories": [
         "robotics"
       ],
@@ -346,7 +349,7 @@
       "summary": "中坚科技（002779.SZ）旗下桦之坚携概念人形机器人ZERO亮相2026世界机器人大会。",
       "source": "量子位",
       "pub_date": "Fri, 21 Aug 2026 05:09:33 +0000",
-      "fetched_at": "2026-08-21T20:00:05.408865",
+      "fetched_at": "2026-08-22T08:00:13.191930",
       "categories": [
         "robotics"
       ],
@@ -366,7 +369,7 @@
       "summary": "让科学家的时间回到科学创造",
       "source": "量子位",
       "pub_date": "Fri, 21 Aug 2026 06:40:34 +0000",
-      "fetched_at": "2026-08-21T20:00:05.408629",
+      "fetched_at": "2026-08-22T08:00:13.191687",
       "categories": [
         "ai"
       ],
@@ -386,7 +389,7 @@
       "summary": "机器人看3秒演示就能学会",
       "source": "量子位",
       "pub_date": "Fri, 21 Aug 2026 07:17:58 +0000",
-      "fetched_at": "2026-08-21T20:00:05.408499",
+      "fetched_at": "2026-08-22T08:00:13.191575",
       "categories": [
         "ai",
         "robotics"
@@ -407,7 +410,7 @@
       "summary": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会",
       "source": "量子位",
       "pub_date": "Fri, 21 Aug 2026 09:00:06 +0000",
-      "fetched_at": "2026-08-21T20:00:05.408374",
+      "fetched_at": "2026-08-22T08:00:13.191459",
       "categories": [
         "ai"
       ],
@@ -427,7 +430,7 @@
       "summary": "明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。",
       "source": "量子位",
       "pub_date": "Fri, 21 Aug 2026 09:44:33 +0000",
-      "fetched_at": "2026-08-21T20:00:05.408224",
+      "fetched_at": "2026-08-22T08:00:13.191329",
       "categories": [
         "robotics"
       ],
@@ -447,7 +450,7 @@
       "summary": "NASA 和 Katalyst Space Technologies 公司联合宣布放弃 Swift 伽马射线望远镜的拯救任务。这意味着轨道高度衰减中的 Swift 天文台将于今年晚些时候重返大气层。NASA 是在去年 9 月授予了 Katalyst Space Technologies 一份 3000 万美元的合同，用于开发和发射一艘与 Swift 对接并提升其轨道高度的卫星 LINK。LINK 于 7 月 3 日成功发射，原计划尝试用其三个机械臂抓住 Swift 启动推进器，将其送回 600 公里高度的安全轨道。然而 LINK 卫星自己也出现了问题，三个反作用轮中有两个没有正常工作。Kata...",
       "source": "Solidot",
       "pub_date": "Thu, 20 Aug 2026 13:10:21 +0800",
-      "fetched_at": "2026-08-21T20:00:04.951426",
+      "fetched_at": "2026-08-22T08:00:12.706775",
       "categories": [
         "robotics",
         "space"
@@ -468,7 +471,7 @@
       "summary": "根据发表在 PNAS 期刊上的一项研究，X 算法会向民主党用户推送更多激发愤怒（ragebait）的信息流。论文合作者、斯坦福大学博士后研究员 Ziv Epstein 说，和其它社媒网站类似，X 信息流算法的优化目标是提升用户参与度，但并非所有类型的参与度都一视同仁。X 的算法会向用户推送与其价值观相冲突的内容，尤其是当他们回复那些令其愤怒或挑衅的帖子时。尽管回复仅占互动的 6.8%，但它们承载了不成比例的权重：“这是一个愤怒诱饵（ragebait）的反馈循环。算法学会你会被激怒，然后继续为你推送更多此类内容。”目前不清楚为什么 X 更频繁向民主党用户而不是共和党用户推送激发愤怒的内容。这可能...",
       "source": "Solidot",
       "pub_date": "Thu, 20 Aug 2026 14:41:01 +0800",
-      "fetched_at": "2026-08-21T20:00:04.951093",
+      "fetched_at": "2026-08-22T08:00:12.706491",
       "categories": [
         "ai"
       ],
@@ -488,7 +491,7 @@
       "summary": "Stripe 以 75 亿美元收购了 AI 初创公司 OpenRouter，OpenRouter 创始人将从这笔交易中获得 15 亿美元。OpenRouter 成立于 2023 年，由 Alex Atallah 和 Louis Vichy 共同创办，总部位于纽约市。2026 年 5 月完成 B 轮融时该公司的估值还只有 13 亿美元。OpenRouter 平台提供了一个统一的 API，允许开发者根据价格和性能在不同模型之间切换。它提供了 400 多个模型的访问权限，其中包括大量开放权重模型。",
       "source": "Solidot",
       "pub_date": "Thu, 20 Aug 2026 15:02:24 +0800",
-      "fetched_at": "2026-08-21T20:00:04.950924",
+      "fetched_at": "2026-08-22T08:00:12.706155",
       "categories": [
         "ai"
       ],
@@ -508,7 +511,7 @@
       "summary": "当 Rebecca Green 去看泌尿科医生时，医生询问是否可以用 AI 记录就诊经历，她同意了。但这一决定给她带来了巨大压力。因为 AI 抄写员捏造了她服用迷幻蘑菇的经历，她说自己从未碰过迷幻蘑菇。Green 女士直到三月肾结石手术后才发现这个错误，她阅读了专科医生发给她全科医生的术后信，信中称她曾服用过微剂量迷幻蘑菇，可能是之前肾脏周围出血的原因。在 Green 投诉之后，她的泌尿科医生回了封致歉信，猜测迷幻蘑菇的记录是 AI 听写错误的结果。Royal Australian College of GPs (RACGP)去年估计，四成的全科医生使用 AI 医疗记录员。这个比例数字还是一个...",
       "source": "Solidot",
       "pub_date": "Thu, 20 Aug 2026 19:03:54 +0800",
-      "fetched_at": "2026-08-21T20:00:04.949933",
+      "fetched_at": "2026-08-22T08:00:12.705250",
       "categories": [
         "ai"
       ],
@@ -528,7 +531,7 @@
       "summary": "由于海冰融化，巨型鲸鱼如座头鲸进入到了以前难以抵达的东格陵兰沿海地区。这是东格陵兰海洋生态系统发生重大转变的一部分。直到 2006 年该地区才首次记录到座头鲸的踪迹。2007 年记录到了 7 头座头鲸，2024 年船载设备就记录到了 150 头。研究人员结合卫星标记鲸鱼的追踪轨迹和因纽特猎人的证词，估计 2024 年夏天大约有 4000 头座头鲸、6000 头长须鲸和 6000 头小须鲸造访了格陵兰海。这三种鲸鱼在夏季觅食季节至少会消耗 80 万吨鱼类和磷虾。北极原有的鲸鱼要么被迫适应要么被迫离开。",
       "source": "Solidot",
       "pub_date": "Thu, 20 Aug 2026 23:57:12 +0800",
-      "fetched_at": "2026-08-21T20:00:04.949075",
+      "fetched_at": "2026-08-22T08:00:12.704474",
       "categories": [
         "space"
       ],
@@ -548,7 +551,7 @@
       "summary": "微软正在调查部分用户在安装 Windows 11 八月例行安全更新后遭遇游戏崩溃的报告。根据发布在 Release Health 上的声明，受影响的游戏可能会失去响应、意外关闭、引发“EXCEPTION_ACCESS_VIOLATION”错误或触发设备意外重启。不是所有游戏都受到影响，微软列出的受影响游戏包括了《ARC Raiders》、《MARVEL Tōkon: Fighting Souls》和《The Finals》。微软表示正在调查问题是否由它引起的，它请求受影响用户提供反馈。",
       "source": "Solidot",
       "pub_date": "Fri, 21 Aug 2026 16:37:03 +0800",
-      "fetched_at": "2026-08-21T20:00:04.946964",
+      "fetched_at": "2026-08-22T08:00:12.702358",
       "categories": [
         "ai"
       ],
@@ -561,7 +564,27 @@
         "八月例行安全更新后遭遇游戏崩溃的报告"
       ],
       "importance": 1.0
+    },
+    {
+      "title": "中国准备发射嫦娥七号，前往月球南极寻找水冰",
+      "link": "https://www.solidot.org/story?sid=85160",
+      "summary": "中国准备发射嫦娥七号，它将尝试首次直接在月球南极着陆，搜寻阴影区的陨石坑去寻找水冰。嫦娥七号使用的运载火箭为长征五号，计划从海南文昌航天发射场发射，发射窗口为 2026 年 8 月 24 日上午。嫦娥七号由一个轨道器和一个着陆器组成，而着陆器搭载了漫游的巡视器和飞跃器，其中飞跃器具备重复起飞着陆、月面飞行、月面行走功能。在阳照区完成探测并充电后，它将飞入有永久阴影区的撞击坑进行探测。嫦娥七号探测器将耗时时六天抵达月球轨道，随后将在轨道上展开为期两个月的准备工作，计划于 11 月着陆月球南极，预定着落地点为沙克尔顿撞击坑，它是一个直径 21 公里的环形山，边缘接近月球南极。月球两极被认为蕴藏了巨...",
+      "source": "Solidot",
+      "pub_date": "Fri, 21 Aug 2026 20:44:27 +0800",
+      "fetched_at": "2026-08-22T08:00:12.701757",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "中国准备发射嫦娥七号，它将尝试首次直接在月球南极着陆，搜寻阴影区的陨石坑去寻找水冰。嫦娥七号使用的运载火箭为长征五号，计划从海南文昌航天发射场发射，发射窗口为 2026 年 8 月 24 日上午。嫦娥七号由一个轨道器和一个着陆器组成，而着陆器搭载了漫游的巡视器和飞跃器，其中飞跃器具备重复起飞着陆、月...",
+      "keywords": [
+        "中国准备发射嫦娥七号",
+        "前往月球南极寻找水冰",
+        "它将尝试首次直接在月球南极着陆",
+        "搜寻阴影区的陨石坑去寻找水冰",
+        "嫦娥七号使用的运载火箭为长征五号"
+      ],
+      "importance": 0
     }
   ],
-  "updated_at": "2026-08-21T20:00:35.515774"
+  "updated_at": "2026-08-22T08:00:35.105676"
 }

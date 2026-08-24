@@ -5,21 +5,21 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-08-24T08:00:26.497343",
-    "total_items": 20
+    "last_update": "2026-08-24T12:00:40.914351",
+    "total_items": 13
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 13
+      "count": 12
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 7
+      "count": 1
     },
     "space": {
       "name": "Space",
@@ -29,14 +29,13 @@
     }
   },
   "stats": {
-    "total_items": 20,
-    "today_items": 20,
+    "total_items": 13,
+    "today_items": 13,
     "sources": {
       "Solidot": 4,
-      "量子位": 8,
-      "HackerNews": 8
+      "HackerNews": 9
     },
-    "last_update": "2026-08-24T08:00:26.497343"
+    "last_update": "2026-08-24T12:00:40.914351"
   },
   "trending": [
     {
@@ -45,7 +44,7 @@
       "summary": "微软正在调查部分用户在安装 Windows 11 八月例行安全更新后遭遇游戏崩溃的报告。根据发布在 Release Health 上的声明，受影响的游戏可能会失去响应、意外关闭、引发“EXCEPTION_ACCESS_VIOLATION”错误或触发设备意外重启。不是所有游戏都受到影响，微软列出的受影响游戏包括了《ARC Raiders》、《MARVEL Tōkon: Fighting Souls》和《The Finals》。微软表示正在调查问题是否由它引起的，它请求受影响用户提供反馈。",
       "source": "Solidot",
       "pub_date": "Fri, 21 Aug 2026 16:37:03 +0800",
-      "fetched_at": "2026-08-24T08:00:09.126830",
+      "fetched_at": "2026-08-24T12:00:05.157586",
       "categories": [
         "ai"
       ],
@@ -60,57 +59,16 @@
       "importance": 1.0
     },
     {
-      "title": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
-      "link": "https://www.qbitai.com/2026/08/478164.html",
-      "summary": "内存成本飙升逼涨硬件",
-      "source": "量子位",
-      "pub_date": "Sun, 23 Aug 2026 09:51:49 +0000",
-      "fetched_at": "2026-08-24T08:00:09.460904",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "内存成本飙升逼涨硬件",
-      "keywords": [
-        "英伟达",
-        "ai",
-        "服务器将涨价",
-        "gw",
-        "数据中心成本激增"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "Google Workspace thinks my domain is an email provider (2025)",
-      "link": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-      "summary": "👍 138 | 💬 32",
-      "source": "HackerNews",
-      "pub_date": "2026-08-24T03:29:32",
-      "fetched_at": "2026-08-24T08:00:12.782497",
-      "categories": [
-        "ai",
-        "space"
-      ],
-      "ai_summary": "👍 138 | 💬 32",
-      "keywords": [
-        "google",
-        "workspace",
-        "thinks",
-        "my",
-        "domain"
-      ],
-      "importance": 0.5
-    },
-    {
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "summary": "👍 121 | 💬 105",
+      "summary": "👍 304 | 💬 259",
       "source": "HackerNews",
       "pub_date": "2026-08-24T02:16:37",
-      "fetched_at": "2026-08-24T08:00:13.691208",
+      "fetched_at": "2026-08-24T12:00:21.697415",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 121 | 💬 105",
+      "ai_summary": "👍 304 | 💬 259",
       "keywords": [
         "anthropic",
         "best",
@@ -121,12 +79,33 @@
       "importance": 0.5
     },
     {
+      "title": "Google Workspace thinks my domain is an email provider (2025)",
+      "link": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+      "summary": "👍 208 | 💬 54",
+      "source": "HackerNews",
+      "pub_date": "2026-08-24T03:29:32",
+      "fetched_at": "2026-08-24T12:00:24.519748",
+      "categories": [
+        "ai",
+        "space"
+      ],
+      "ai_summary": "👍 208 | 💬 54",
+      "keywords": [
+        "google",
+        "workspace",
+        "thinks",
+        "my",
+        "domain"
+      ],
+      "importance": 0.5
+    },
+    {
       "title": "机器人短跑超越人类，但刹住是问题",
       "link": "https://www.solidot.org/story?sid=85169",
       "summary": "为期五天的世界人形机器人运动会于周六在北京开幕。运动会共设 51 个项目，包括 30 项体育竞技和 21 项场景化竞赛。超过 40% 的项目要求机器人完全自主运行。在 8 月 22 日的首日赛事中，两台机器人跑出了比人类百米世界纪录(9.58秒)保持者博尔特(Usain Bolt)更快的成绩，相比去年百米短跑仍然耗时 20 秒以上的机器人，可谓进步巨大。另一台机器人则在 400 米短跑中实现了 39.7 秒的成绩，超越了南非运动员 Wayde van Niekerk 43.03 秒的世界纪录。不过，在冲过终点线后，这些机器人的制动能力依然存在很大缺陷。现场画面显示，机器人纷纷撞向十几米开外的巨...",
       "source": "Solidot",
       "pub_date": "Sun, 23 Aug 2026 23:48:05 +0800",
-      "fetched_at": "2026-08-24T08:00:09.124920",
+      "fetched_at": "2026-08-24T12:00:05.154075",
       "categories": [
         "ai",
         "robotics"
@@ -147,7 +126,7 @@
       "summary": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同。洛克菲勒大学的研究人员比较了人体对不同强度运动的反应。他们发现，六次 30 秒全力冲刺跑后，血液中近四分之一的蛋白质发生了变化。相比之下，90 分钟持续中等强度骑行仅改变了不到 0.25% 的蛋白质。中等强度的跑步机运动对蛋白质的影响比骑行更大，但仍然远小于短暂的冲刺跑。冲刺跑还改变了逾 200 种代谢物，迅速提升了参与血管生长、组织重塑和激素信号传导的蛋白质水平。部分蛋白质是通过一种名为胞外域脱落（ectodomain shedding）的快速细胞信号传导过程进入血液的——蛋白质并非新产生并释放，而是细胞表面已有的蛋白质片段被切...",
       "source": "Solidot",
       "pub_date": "Sat, 22 Aug 2026 23:59:22 +0800",
-      "fetched_at": "2026-08-24T08:00:09.125814",
+      "fetched_at": "2026-08-24T12:00:05.155792",
       "categories": [
         "ai"
       ],
@@ -167,7 +146,7 @@
       "summary": "中国准备发射嫦娥七号，它将尝试首次直接在月球南极着陆，搜寻阴影区的陨石坑去寻找水冰。嫦娥七号使用的运载火箭为长征五号，计划从海南文昌航天发射场发射，发射窗口为 2026 年 8 月 24 日上午。嫦娥七号由一个轨道器和一个着陆器组成，而着陆器搭载了漫游的巡视器和飞跃器，其中飞跃器具备重复起飞着陆、月面飞行、月面行走功能。在阳照区完成探测并充电后，它将飞入有永久阴影区的撞击坑进行探测。嫦娥七号探测器将耗时时六天抵达月球轨道，随后将在轨道上展开为期两个月的准备工作，计划于 11 月着陆月球南极，预定着落地点为沙克尔顿撞击坑，它是一个直径 21 公里的环形山，边缘接近月球南极。月球两极被认为蕴藏了巨...",
       "source": "Solidot",
       "pub_date": "Fri, 21 Aug 2026 20:44:27 +0800",
-      "fetched_at": "2026-08-24T08:00:09.126574",
+      "fetched_at": "2026-08-24T12:00:05.157256",
       "categories": [
         "space"
       ],
@@ -182,98 +161,116 @@
       "importance": 0
     },
     {
-      "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
-      "link": "https://www.qbitai.com/2026/08/478319.html",
-      "summary": "玩的就是真实",
-      "source": "量子位",
-      "pub_date": "Sun, 23 Aug 2026 13:20:00 +0000",
-      "fetched_at": "2026-08-24T08:00:09.460587",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "玩的就是真实",
-      "keywords": [
-        "wrc",
-        "唯一真",
-        "人机共生",
-        "展台",
-        "是家沉浸式机器人咖啡店"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
-      "link": "https://www.qbitai.com/2026/08/478234.html",
-      "summary": "多多支持像王兴兴这样优秀的具身机器人创业者",
-      "source": "量子位",
-      "pub_date": "Sun, 23 Aug 2026 11:17:22 +0000",
-      "fetched_at": "2026-08-24T08:00:09.460761",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "多多支持像王兴兴这样优秀的具身机器人创业者",
-      "keywords": [
-        "他给了王兴兴第一个",
-        "现在给下一个",
-        "宇树",
-        "当董事长",
-        "多多支持像王兴兴这样优秀的具身机器人创业者"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
-      "link": "https://www.qbitai.com/2026/08/478191.html",
-      "summary": "Tokenizer、视频编码、API报错全扒一遍",
-      "source": "量子位",
-      "pub_date": "Sun, 23 Aug 2026 09:56:12 +0000",
-      "fetched_at": "2026-08-24T08:00:09.460834",
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "link": "https://fabiensanglard.net/agent.md/index.html",
+      "summary": "👍 207 | 💬 89",
+      "source": "HackerNews",
+      "pub_date": "2026-08-24T01:59:52",
+      "fetched_at": "2026-08-24T12:00:23.536669",
       "categories": [
         "ai"
       ],
-      "ai_summary": "Tokenizer、视频编码、API报错全扒一遍",
+      "ai_summary": "👍 207 | 💬 89",
       "keywords": [
-        "匿名牛来大模型被扒出智谱血缘",
-        "也有人怀疑",
-        "cursor",
-        "拿开源",
-        "glm"
+        "my",
+        "agent",
+        "md",
+        "to",
+        "improve"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "How Complex Systems Fail (1998)",
+      "link": "https://how.complexsystems.fail/",
+      "summary": "👍 263 | 💬 63",
+      "source": "HackerNews",
+      "pub_date": "2026-08-23T23:13:31",
+      "fetched_at": "2026-08-24T12:00:26.514486",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 263 | 💬 63",
+      "keywords": [
+        "how",
+        "complex",
+        "systems",
+        "fail"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "link": "https://pantel.is/projects/ai-gaming-companion/",
+      "summary": "👍 14 | 💬 1",
+      "source": "HackerNews",
+      "pub_date": "2026-08-24T07:18:17",
+      "fetched_at": "2026-08-24T12:00:30.014082",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 14 | 💬 1",
+      "keywords": [
+        "built",
+        "low",
+        "latency",
+        "ai",
+        "companion"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Implementation of GPT-2 in pure CMake",
+      "link": "https://github.com/AlpinDale/gpt2.cmake",
+      "summary": "👍 47 | 💬 11",
+      "source": "HackerNews",
+      "pub_date": "2026-08-24T05:41:17",
+      "fetched_at": "2026-08-24T12:00:32.187942",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 47 | 💬 11",
+      "keywords": [
+        "implementation",
+        "of",
+        "gpt",
+        "in",
+        "pure"
       ],
       "importance": 0
     }
   ],
   "latest": [
     {
-      "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
-      "link": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
-      "summary": "👍 10 | 💬 1",
+      "title": "AI and Infrastructure Engineering",
+      "link": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
+      "summary": "👍 56 | 💬 18",
       "source": "HackerNews",
-      "pub_date": "2026-08-24T04:30:50",
-      "fetched_at": "2026-08-24T08:00:24.852501",
+      "pub_date": "2026-08-24T02:09:01",
+      "fetched_at": "2026-08-24T12:00:40.767198",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 10 | 💬 1",
+      "ai_summary": "👍 56 | 💬 18",
       "keywords": [
-        "rural",
-        "village",
-        "in",
-        "spain",
-        "is"
+        "ai",
+        "and",
+        "infrastructure",
+        "engineering"
       ],
       "importance": 0
     },
     {
       "title": "Explain it to me like I'm ten",
       "link": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
-      "summary": "👍 65 | 💬 28",
+      "summary": "👍 93 | 💬 42",
       "source": "HackerNews",
       "pub_date": "2026-08-24T02:08:13",
-      "fetched_at": "2026-08-24T08:00:22.468236",
+      "fetched_at": "2026-08-24T12:00:34.752900",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 65 | 💬 28",
+      "ai_summary": "👍 93 | 💬 42",
       "keywords": [
         "explain",
         "it",
@@ -284,16 +281,36 @@
       "importance": 0
     },
     {
-      "title": "Implementation of GPT-2 in pure CMake",
-      "link": "https://github.com/AlpinDale/gpt2.cmake",
-      "summary": "👍 14 | 💬 2",
+      "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
+      "link": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
+      "summary": "👍 42 | 💬 26",
       "source": "HackerNews",
-      "pub_date": "2026-08-24T05:41:17",
-      "fetched_at": "2026-08-24T08:00:18.446368",
+      "pub_date": "2026-08-24T04:30:50",
+      "fetched_at": "2026-08-24T12:00:32.961281",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 14 | 💬 2",
+      "ai_summary": "👍 42 | 💬 26",
+      "keywords": [
+        "rural",
+        "village",
+        "in",
+        "spain",
+        "is"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Implementation of GPT-2 in pure CMake",
+      "link": "https://github.com/AlpinDale/gpt2.cmake",
+      "summary": "👍 47 | 💬 11",
+      "source": "HackerNews",
+      "pub_date": "2026-08-24T05:41:17",
+      "fetched_at": "2026-08-24T12:00:32.187942",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 47 | 💬 11",
       "keywords": [
         "implementation",
         "of",
@@ -304,34 +321,36 @@
       "importance": 0
     },
     {
-      "title": "AI Chip Architectures",
-      "link": "https://www.jepeake.com/ai-chip-architectures",
-      "summary": "👍 12 | 💬 0",
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "link": "https://pantel.is/projects/ai-gaming-companion/",
+      "summary": "👍 14 | 💬 1",
       "source": "HackerNews",
-      "pub_date": "2026-08-23T10:25:10",
-      "fetched_at": "2026-08-24T08:00:16.854873",
+      "pub_date": "2026-08-24T07:18:17",
+      "fetched_at": "2026-08-24T12:00:30.014082",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 12 | 💬 0",
+      "ai_summary": "👍 14 | 💬 1",
       "keywords": [
+        "built",
+        "low",
+        "latency",
         "ai",
-        "chip",
-        "architectures"
+        "companion"
       ],
       "importance": 0
     },
     {
       "title": "How Complex Systems Fail (1998)",
       "link": "https://how.complexsystems.fail/",
-      "summary": "👍 222 | 💬 59",
+      "summary": "👍 263 | 💬 63",
       "source": "HackerNews",
       "pub_date": "2026-08-23T23:13:31",
-      "fetched_at": "2026-08-24T08:00:16.102893",
+      "fetched_at": "2026-08-24T12:00:26.514486",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 222 | 💬 59",
+      "ai_summary": "👍 263 | 💬 63",
       "keywords": [
         "how",
         "complex",
@@ -341,16 +360,37 @@
       "importance": 0
     },
     {
+      "title": "Google Workspace thinks my domain is an email provider (2025)",
+      "link": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+      "summary": "👍 208 | 💬 54",
+      "source": "HackerNews",
+      "pub_date": "2026-08-24T03:29:32",
+      "fetched_at": "2026-08-24T12:00:24.519748",
+      "categories": [
+        "ai",
+        "space"
+      ],
+      "ai_summary": "👍 208 | 💬 54",
+      "keywords": [
+        "google",
+        "workspace",
+        "thinks",
+        "my",
+        "domain"
+      ],
+      "importance": 0.5
+    },
+    {
       "title": "My agent.md to improve LLM-assisted code quality",
       "link": "https://fabiensanglard.net/agent.md/index.html",
-      "summary": "👍 121 | 💬 62",
+      "summary": "👍 207 | 💬 89",
       "source": "HackerNews",
       "pub_date": "2026-08-24T01:59:52",
-      "fetched_at": "2026-08-24T08:00:14.535896",
+      "fetched_at": "2026-08-24T12:00:23.536669",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 121 | 💬 62",
+      "ai_summary": "👍 207 | 💬 89",
       "keywords": [
         "my",
         "agent",
@@ -363,14 +403,14 @@
     {
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "summary": "👍 121 | 💬 105",
+      "summary": "👍 304 | 💬 259",
       "source": "HackerNews",
       "pub_date": "2026-08-24T02:16:37",
-      "fetched_at": "2026-08-24T08:00:13.691208",
+      "fetched_at": "2026-08-24T12:00:21.697415",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 121 | 💬 105",
+      "ai_summary": "👍 304 | 💬 259",
       "keywords": [
         "anthropic",
         "best",
@@ -381,190 +421,12 @@
       "importance": 0.5
     },
     {
-      "title": "Google Workspace thinks my domain is an email provider (2025)",
-      "link": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-      "summary": "👍 138 | 💬 32",
-      "source": "HackerNews",
-      "pub_date": "2026-08-24T03:29:32",
-      "fetched_at": "2026-08-24T08:00:12.782497",
-      "categories": [
-        "ai",
-        "space"
-      ],
-      "ai_summary": "👍 138 | 💬 32",
-      "keywords": [
-        "google",
-        "workspace",
-        "thinks",
-        "my",
-        "domain"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-      "link": "https://www.qbitai.com/2026/08/477253.html",
-      "summary": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？",
-      "source": "量子位",
-      "pub_date": "Sat, 22 Aug 2026 14:46:43 +0000",
-      "fetched_at": "2026-08-24T08:00:09.461139",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？",
-      "keywords": [
-        "不是",
-        "demo",
-        "优必选把客户产线",
-        "搬进",
-        "wrc"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "你的第一个个人机器人开启预订！上纬新材拉开家庭机器人消费时代序幕",
-      "link": "https://www.qbitai.com/2026/08/478017.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Sun, 23 Aug 2026 07:17:41 +0000",
-      "fetched_at": "2026-08-24T08:00:09.461063",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "你的第一个个人机器人开启预订",
-        "上纬新材拉开家庭机器人消费时代序幕"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "不做硅谷follower：几个读博的年轻人，押注双足人形的一体化大脑",
-      "link": "https://www.qbitai.com/2026/08/478020.html",
-      "summary": "机器人开卡丁车连续过弯，一镜到底全自主",
-      "source": "量子位",
-      "pub_date": "Sun, 23 Aug 2026 09:29:59 +0000",
-      "fetched_at": "2026-08-24T08:00:09.461054",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "机器人开卡丁车连续过弯，一镜到底全自主",
-      "keywords": [
-        "不做硅谷",
-        "follower",
-        "几个读博的年轻人",
-        "押注双足人形的一体化大脑",
-        "机器人开卡丁车连续过弯"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起",
-      "link": "https://www.qbitai.com/2026/08/478093.html",
-      "summary": "AstraTennis时刻背后的硬核技术",
-      "source": "量子位",
-      "pub_date": "Sun, 23 Aug 2026 09:45:27 +0000",
-      "fetched_at": "2026-08-24T08:00:09.460971",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "AstraTennis时刻背后的硬核技术",
-      "keywords": [
-        "全球首次",
-        "机器人迎战网球运动员",
-        "极限救球",
-        "摔倒光速弹起",
-        "astratennis"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
-      "link": "https://www.qbitai.com/2026/08/478164.html",
-      "summary": "内存成本飙升逼涨硬件",
-      "source": "量子位",
-      "pub_date": "Sun, 23 Aug 2026 09:51:49 +0000",
-      "fetched_at": "2026-08-24T08:00:09.460904",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "内存成本飙升逼涨硬件",
-      "keywords": [
-        "英伟达",
-        "ai",
-        "服务器将涨价",
-        "gw",
-        "数据中心成本激增"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
-      "link": "https://www.qbitai.com/2026/08/478191.html",
-      "summary": "Tokenizer、视频编码、API报错全扒一遍",
-      "source": "量子位",
-      "pub_date": "Sun, 23 Aug 2026 09:56:12 +0000",
-      "fetched_at": "2026-08-24T08:00:09.460834",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Tokenizer、视频编码、API报错全扒一遍",
-      "keywords": [
-        "匿名牛来大模型被扒出智谱血缘",
-        "也有人怀疑",
-        "cursor",
-        "拿开源",
-        "glm"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
-      "link": "https://www.qbitai.com/2026/08/478234.html",
-      "summary": "多多支持像王兴兴这样优秀的具身机器人创业者",
-      "source": "量子位",
-      "pub_date": "Sun, 23 Aug 2026 11:17:22 +0000",
-      "fetched_at": "2026-08-24T08:00:09.460761",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "多多支持像王兴兴这样优秀的具身机器人创业者",
-      "keywords": [
-        "他给了王兴兴第一个",
-        "现在给下一个",
-        "宇树",
-        "当董事长",
-        "多多支持像王兴兴这样优秀的具身机器人创业者"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
-      "link": "https://www.qbitai.com/2026/08/478319.html",
-      "summary": "玩的就是真实",
-      "source": "量子位",
-      "pub_date": "Sun, 23 Aug 2026 13:20:00 +0000",
-      "fetched_at": "2026-08-24T08:00:09.460587",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "玩的就是真实",
-      "keywords": [
-        "wrc",
-        "唯一真",
-        "人机共生",
-        "展台",
-        "是家沉浸式机器人咖啡店"
-      ],
-      "importance": 0
-    },
-    {
       "title": "微软调查部分用户在安装 Windows 11 八月安全更新后遭遇游戏崩溃的报告",
       "link": "https://www.solidot.org/story?sid=85158",
       "summary": "微软正在调查部分用户在安装 Windows 11 八月例行安全更新后遭遇游戏崩溃的报告。根据发布在 Release Health 上的声明，受影响的游戏可能会失去响应、意外关闭、引发“EXCEPTION_ACCESS_VIOLATION”错误或触发设备意外重启。不是所有游戏都受到影响，微软列出的受影响游戏包括了《ARC Raiders》、《MARVEL Tōkon: Fighting Souls》和《The Finals》。微软表示正在调查问题是否由它引起的，它请求受影响用户提供反馈。",
       "source": "Solidot",
       "pub_date": "Fri, 21 Aug 2026 16:37:03 +0800",
-      "fetched_at": "2026-08-24T08:00:09.126830",
+      "fetched_at": "2026-08-24T12:00:05.157586",
       "categories": [
         "ai"
       ],
@@ -584,7 +446,7 @@
       "summary": "中国准备发射嫦娥七号，它将尝试首次直接在月球南极着陆，搜寻阴影区的陨石坑去寻找水冰。嫦娥七号使用的运载火箭为长征五号，计划从海南文昌航天发射场发射，发射窗口为 2026 年 8 月 24 日上午。嫦娥七号由一个轨道器和一个着陆器组成，而着陆器搭载了漫游的巡视器和飞跃器，其中飞跃器具备重复起飞着陆、月面飞行、月面行走功能。在阳照区完成探测并充电后，它将飞入有永久阴影区的撞击坑进行探测。嫦娥七号探测器将耗时时六天抵达月球轨道，随后将在轨道上展开为期两个月的准备工作，计划于 11 月着陆月球南极，预定着落地点为沙克尔顿撞击坑，它是一个直径 21 公里的环形山，边缘接近月球南极。月球两极被认为蕴藏了巨...",
       "source": "Solidot",
       "pub_date": "Fri, 21 Aug 2026 20:44:27 +0800",
-      "fetched_at": "2026-08-24T08:00:09.126574",
+      "fetched_at": "2026-08-24T12:00:05.157256",
       "categories": [
         "space"
       ],
@@ -604,7 +466,7 @@
       "summary": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同。洛克菲勒大学的研究人员比较了人体对不同强度运动的反应。他们发现，六次 30 秒全力冲刺跑后，血液中近四分之一的蛋白质发生了变化。相比之下，90 分钟持续中等强度骑行仅改变了不到 0.25% 的蛋白质。中等强度的跑步机运动对蛋白质的影响比骑行更大，但仍然远小于短暂的冲刺跑。冲刺跑还改变了逾 200 种代谢物，迅速提升了参与血管生长、组织重塑和激素信号传导的蛋白质水平。部分蛋白质是通过一种名为胞外域脱落（ectodomain shedding）的快速细胞信号传导过程进入血液的——蛋白质并非新产生并释放，而是细胞表面已有的蛋白质片段被切...",
       "source": "Solidot",
       "pub_date": "Sat, 22 Aug 2026 23:59:22 +0800",
-      "fetched_at": "2026-08-24T08:00:09.125814",
+      "fetched_at": "2026-08-24T12:00:05.155792",
       "categories": [
         "ai"
       ],
@@ -624,7 +486,7 @@
       "summary": "为期五天的世界人形机器人运动会于周六在北京开幕。运动会共设 51 个项目，包括 30 项体育竞技和 21 项场景化竞赛。超过 40% 的项目要求机器人完全自主运行。在 8 月 22 日的首日赛事中，两台机器人跑出了比人类百米世界纪录(9.58秒)保持者博尔特(Usain Bolt)更快的成绩，相比去年百米短跑仍然耗时 20 秒以上的机器人，可谓进步巨大。另一台机器人则在 400 米短跑中实现了 39.7 秒的成绩，超越了南非运动员 Wayde van Niekerk 43.03 秒的世界纪录。不过，在冲过终点线后，这些机器人的制动能力依然存在很大缺陷。现场画面显示，机器人纷纷撞向十几米开外的巨...",
       "source": "Solidot",
       "pub_date": "Sun, 23 Aug 2026 23:48:05 +0800",
-      "fetched_at": "2026-08-24T08:00:09.124920",
+      "fetched_at": "2026-08-24T12:00:05.154075",
       "categories": [
         "ai",
         "robotics"
@@ -640,5 +502,5 @@
       "importance": 0
     }
   ],
-  "updated_at": "2026-08-24T08:00:26.497343"
+  "updated_at": "2026-08-24T12:00:40.914351"
 }

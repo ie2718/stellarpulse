@@ -5,21 +5,21 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-08-23T20:00:28.434846",
-    "total_items": 15
+    "last_update": "2026-08-24T08:00:26.497343",
+    "total_items": 20
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 8
+      "count": 13
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 5
+      "count": 7
     },
     "space": {
       "name": "Space",
@@ -29,14 +29,14 @@
     }
   },
   "stats": {
-    "total_items": 15,
-    "today_items": 15,
+    "total_items": 20,
+    "today_items": 20,
     "sources": {
-      "Solidot": 5,
+      "Solidot": 4,
       "量子位": 8,
-      "HackerNews": 2
+      "HackerNews": 8
     },
-    "last_update": "2026-08-23T20:00:28.434846"
+    "last_update": "2026-08-24T08:00:26.497343"
   },
   "trending": [
     {
@@ -45,7 +45,7 @@
       "summary": "微软正在调查部分用户在安装 Windows 11 八月例行安全更新后遭遇游戏崩溃的报告。根据发布在 Release Health 上的声明，受影响的游戏可能会失去响应、意外关闭、引发“EXCEPTION_ACCESS_VIOLATION”错误或触发设备意外重启。不是所有游戏都受到影响，微软列出的受影响游戏包括了《ARC Raiders》、《MARVEL Tōkon: Fighting Souls》和《The Finals》。微软表示正在调查问题是否由它引起的，它请求受影响用户提供反馈。",
       "source": "Solidot",
       "pub_date": "Fri, 21 Aug 2026 16:37:03 +0800",
-      "fetched_at": "2026-08-23T20:00:03.883200",
+      "fetched_at": "2026-08-24T08:00:09.126830",
       "categories": [
         "ai"
       ],
@@ -65,7 +65,7 @@
       "summary": "内存成本飙升逼涨硬件",
       "source": "量子位",
       "pub_date": "Sun, 23 Aug 2026 09:51:49 +0000",
-      "fetched_at": "2026-08-23T20:00:04.381460",
+      "fetched_at": "2026-08-24T08:00:09.460904",
       "categories": [
         "ai"
       ],
@@ -80,12 +80,74 @@
       "importance": 1.0
     },
     {
+      "title": "Google Workspace thinks my domain is an email provider (2025)",
+      "link": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+      "summary": "👍 138 | 💬 32",
+      "source": "HackerNews",
+      "pub_date": "2026-08-24T03:29:32",
+      "fetched_at": "2026-08-24T08:00:12.782497",
+      "categories": [
+        "ai",
+        "space"
+      ],
+      "ai_summary": "👍 138 | 💬 32",
+      "keywords": [
+        "google",
+        "workspace",
+        "thinks",
+        "my",
+        "domain"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "summary": "👍 121 | 💬 105",
+      "source": "HackerNews",
+      "pub_date": "2026-08-24T02:16:37",
+      "fetched_at": "2026-08-24T08:00:13.691208",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 121 | 💬 105",
+      "keywords": [
+        "anthropic",
+        "best",
+        "ai",
+        "model",
+        "struggles"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "机器人短跑超越人类，但刹住是问题",
+      "link": "https://www.solidot.org/story?sid=85169",
+      "summary": "为期五天的世界人形机器人运动会于周六在北京开幕。运动会共设 51 个项目，包括 30 项体育竞技和 21 项场景化竞赛。超过 40% 的项目要求机器人完全自主运行。在 8 月 22 日的首日赛事中，两台机器人跑出了比人类百米世界纪录(9.58秒)保持者博尔特(Usain Bolt)更快的成绩，相比去年百米短跑仍然耗时 20 秒以上的机器人，可谓进步巨大。另一台机器人则在 400 米短跑中实现了 39.7 秒的成绩，超越了南非运动员 Wayde van Niekerk 43.03 秒的世界纪录。不过，在冲过终点线后，这些机器人的制动能力依然存在很大缺陷。现场画面显示，机器人纷纷撞向十几米开外的巨...",
+      "source": "Solidot",
+      "pub_date": "Sun, 23 Aug 2026 23:48:05 +0800",
+      "fetched_at": "2026-08-24T08:00:09.124920",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "为期五天的世界人形机器人运动会于周六在北京开幕。运动会共设 51 个项目，包括 30 项体育竞技和 21 项场景化竞赛。超过 40% 的项目要求机器人完全自主运行。在 8 月 22 日的首日赛事中，两台机器人跑出了比人类百米世界纪录(9.58秒)保持者博尔特(Usain Bolt)更快的成绩，相比去...",
+      "keywords": [
+        "机器人短跑超越人类",
+        "但刹住是问题",
+        "为期五天的世界人形机器人运动会于周六在北京开幕",
+        "运动会共设",
+        "个项目"
+      ],
+      "importance": 0
+    },
+    {
       "title": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同",
       "link": "https://www.solidot.org/story?sid=85165",
       "summary": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同。洛克菲勒大学的研究人员比较了人体对不同强度运动的反应。他们发现，六次 30 秒全力冲刺跑后，血液中近四分之一的蛋白质发生了变化。相比之下，90 分钟持续中等强度骑行仅改变了不到 0.25% 的蛋白质。中等强度的跑步机运动对蛋白质的影响比骑行更大，但仍然远小于短暂的冲刺跑。冲刺跑还改变了逾 200 种代谢物，迅速提升了参与血管生长、组织重塑和激素信号传导的蛋白质水平。部分蛋白质是通过一种名为胞外域脱落（ectodomain shedding）的快速细胞信号传导过程进入血液的——蛋白质并非新产生并释放，而是细胞表面已有的蛋白质片段被切...",
       "source": "Solidot",
       "pub_date": "Sat, 22 Aug 2026 23:59:22 +0800",
-      "fetched_at": "2026-08-23T20:00:03.880983",
+      "fetched_at": "2026-08-24T08:00:09.125814",
       "categories": [
         "ai"
       ],
@@ -105,7 +167,7 @@
       "summary": "中国准备发射嫦娥七号，它将尝试首次直接在月球南极着陆，搜寻阴影区的陨石坑去寻找水冰。嫦娥七号使用的运载火箭为长征五号，计划从海南文昌航天发射场发射，发射窗口为 2026 年 8 月 24 日上午。嫦娥七号由一个轨道器和一个着陆器组成，而着陆器搭载了漫游的巡视器和飞跃器，其中飞跃器具备重复起飞着陆、月面飞行、月面行走功能。在阳照区完成探测并充电后，它将飞入有永久阴影区的撞击坑进行探测。嫦娥七号探测器将耗时时六天抵达月球轨道，随后将在轨道上展开为期两个月的准备工作，计划于 11 月着陆月球南极，预定着落地点为沙克尔顿撞击坑，它是一个直径 21 公里的环形山，边缘接近月球南极。月球两极被认为蕴藏了巨...",
       "source": "Solidot",
       "pub_date": "Fri, 21 Aug 2026 20:44:27 +0800",
-      "fetched_at": "2026-08-23T20:00:03.882766",
+      "fetched_at": "2026-08-24T08:00:09.126574",
       "categories": [
         "space"
       ],
@@ -120,42 +182,42 @@
       "importance": 0
     },
     {
-      "title": "海冰消失巨型鲸鱼进入格陵兰",
-      "link": "https://www.solidot.org/story?sid=85151",
-      "summary": "由于海冰融化，巨型鲸鱼如座头鲸进入到了以前难以抵达的东格陵兰沿海地区。这是东格陵兰海洋生态系统发生重大转变的一部分。直到 2006 年该地区才首次记录到座头鲸的踪迹。2007 年记录到了 7 头座头鲸，2024 年船载设备就记录到了 150 头。研究人员结合卫星标记鲸鱼的追踪轨迹和因纽特猎人的证词，估计 2024 年夏天大约有 4000 头座头鲸、6000 头长须鲸和 6000 头小须鲸造访了格陵兰海。这三种鲸鱼在夏季觅食季节至少会消耗 80 万吨鱼类和磷虾。北极原有的鲸鱼要么被迫适应要么被迫离开。",
-      "source": "Solidot",
-      "pub_date": "Thu, 20 Aug 2026 23:57:12 +0800",
-      "fetched_at": "2026-08-23T20:00:03.884798",
+      "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+      "link": "https://www.qbitai.com/2026/08/478319.html",
+      "summary": "玩的就是真实",
+      "source": "量子位",
+      "pub_date": "Sun, 23 Aug 2026 13:20:00 +0000",
+      "fetched_at": "2026-08-24T08:00:09.460587",
       "categories": [
-        "space"
+        "robotics"
       ],
-      "ai_summary": "由于海冰融化，巨型鲸鱼如座头鲸进入到了以前难以抵达的东格陵兰沿海地区。这是东格陵兰海洋生态系统发生重大转变的一部分。直到 2006 年该地区才首次记录到座头鲸的踪迹。2007 年记录到了 7 头座头鲸，2024 年船载设备就记录到了 150 头。研究人员结合卫星标记鲸鱼的追踪轨迹和因纽特猎人的证词，...",
+      "ai_summary": "玩的就是真实",
       "keywords": [
-        "头座头鲸",
-        "海冰消失巨型鲸鱼进入格陵兰",
-        "由于海冰融化",
-        "巨型鲸鱼如座头鲸进入到了以前难以抵达的东格陵兰沿海地区",
-        "这是东格陵兰海洋生态系统发生重大转变的一部分"
+        "wrc",
+        "唯一真",
+        "人机共生",
+        "展台",
+        "是家沉浸式机器人咖啡店"
       ],
       "importance": 0
     },
     {
-      "title": "AI 记录员捏造了患者服用迷幻蘑菇的经历",
-      "link": "https://www.solidot.org/story?sid=85148",
-      "summary": "当 Rebecca Green 去看泌尿科医生时，医生询问是否可以用 AI 记录就诊经历，她同意了。但这一决定给她带来了巨大压力。因为 AI 抄写员捏造了她服用迷幻蘑菇的经历，她说自己从未碰过迷幻蘑菇。Green 女士直到三月肾结石手术后才发现这个错误，她阅读了专科医生发给她全科医生的术后信，信中称她曾服用过微剂量迷幻蘑菇，可能是之前肾脏周围出血的原因。在 Green 投诉之后，她的泌尿科医生回了封致歉信，猜测迷幻蘑菇的记录是 AI 听写错误的结果。Royal Australian College of GPs (RACGP)去年估计，四成的全科医生使用 AI 医疗记录员。这个比例数字还是一个...",
-      "source": "Solidot",
-      "pub_date": "Thu, 20 Aug 2026 19:03:54 +0800",
-      "fetched_at": "2026-08-23T20:00:03.885480",
+      "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
+      "link": "https://www.qbitai.com/2026/08/478234.html",
+      "summary": "多多支持像王兴兴这样优秀的具身机器人创业者",
+      "source": "量子位",
+      "pub_date": "Sun, 23 Aug 2026 11:17:22 +0000",
+      "fetched_at": "2026-08-24T08:00:09.460761",
       "categories": [
-        "ai"
+        "robotics"
       ],
-      "ai_summary": "当 Rebecca Green 去看泌尿科医生时，医生询问是否可以用 AI 记录就诊经历，她同意了。但这一决定给她带来了巨大压力。因为 AI 抄写员捏造了她服用迷幻蘑菇的经历，她说自己从未碰过迷幻蘑菇。Green 女士直到三月肾结石手术后才发现这个错误，她阅读了专科医生发给她全科医生的术后信，信中称...",
+      "ai_summary": "多多支持像王兴兴这样优秀的具身机器人创业者",
       "keywords": [
-        "ai",
-        "green",
-        "记录员捏造了患者服用迷幻蘑菇的经历",
-        "rebecca",
-        "去看泌尿科医生时"
+        "他给了王兴兴第一个",
+        "现在给下一个",
+        "宇树",
+        "当董事长",
+        "多多支持像王兴兴这样优秀的具身机器人创业者"
       ],
       "importance": 0
     },
@@ -165,7 +227,7 @@
       "summary": "Tokenizer、视频编码、API报错全扒一遍",
       "source": "量子位",
       "pub_date": "Sun, 23 Aug 2026 09:56:12 +0000",
-      "fetched_at": "2026-08-23T20:00:04.381320",
+      "fetched_at": "2026-08-24T08:00:09.460834",
       "categories": [
         "ai"
       ],
@@ -178,143 +240,166 @@
         "glm"
       ],
       "importance": 0
-    },
-    {
-      "title": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起",
-      "link": "https://www.qbitai.com/2026/08/478093.html",
-      "summary": "AstraTennis时刻背后的硬核技术",
-      "source": "量子位",
-      "pub_date": "Sun, 23 Aug 2026 09:45:27 +0000",
-      "fetched_at": "2026-08-23T20:00:04.381578",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "AstraTennis时刻背后的硬核技术",
-      "keywords": [
-        "全球首次",
-        "机器人迎战网球运动员",
-        "极限救球",
-        "摔倒光速弹起",
-        "astratennis"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "不做硅谷follower：几个读博的年轻人，押注双足人形的一体化大脑",
-      "link": "https://www.qbitai.com/2026/08/478020.html",
-      "summary": "机器人开卡丁车连续过弯，一镜到底全自主",
-      "source": "量子位",
-      "pub_date": "Sun, 23 Aug 2026 09:29:59 +0000",
-      "fetched_at": "2026-08-23T20:00:04.381687",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "机器人开卡丁车连续过弯，一镜到底全自主",
-      "keywords": [
-        "不做硅谷",
-        "follower",
-        "几个读博的年轻人",
-        "押注双足人形的一体化大脑",
-        "机器人开卡丁车连续过弯"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "你的第一个个人机器人开启预订！上纬新材拉开家庭机器人消费时代序幕",
-      "link": "https://www.qbitai.com/2026/08/478017.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Sun, 23 Aug 2026 07:17:41 +0000",
-      "fetched_at": "2026-08-23T20:00:04.381702",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "你的第一个个人机器人开启预订",
-        "上纬新材拉开家庭机器人消费时代序幕"
-      ],
-      "importance": 0
     }
   ],
   "latest": [
     {
-      "title": "NanoGPT Speedrun Frontier",
-      "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "summary": "👍 114 | 💬 28",
+      "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
+      "link": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
+      "summary": "👍 10 | 💬 1",
       "source": "HackerNews",
-      "pub_date": "2026-08-23T06:14:27",
-      "fetched_at": "2026-08-23T20:00:24.942727",
+      "pub_date": "2026-08-24T04:30:50",
+      "fetched_at": "2026-08-24T08:00:24.852501",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 114 | 💬 28",
+      "ai_summary": "👍 10 | 💬 1",
       "keywords": [
-        "nanogpt",
-        "speedrun",
-        "frontier"
+        "rural",
+        "village",
+        "in",
+        "spain",
+        "is"
       ],
       "importance": 0
     },
     {
-      "title": "Why your local LLM feels dumber than it is",
-      "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "summary": "👍 383 | 💬 144",
+      "title": "Explain it to me like I'm ten",
+      "link": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
+      "summary": "👍 65 | 💬 28",
       "source": "HackerNews",
-      "pub_date": "2026-08-23T02:14:16",
-      "fetched_at": "2026-08-23T20:00:13.941515",
+      "pub_date": "2026-08-24T02:08:13",
+      "fetched_at": "2026-08-24T08:00:22.468236",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 383 | 💬 144",
+      "ai_summary": "👍 65 | 💬 28",
       "keywords": [
-        "why",
-        "your",
-        "local",
-        "llm",
-        "feels"
+        "explain",
+        "it",
+        "to",
+        "me",
+        "like"
       ],
       "importance": 0
     },
     {
-      "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
-      "link": "https://www.qbitai.com/2026/08/477155.html",
-      "summary": "一脑驱动多形落地",
-      "source": "量子位",
-      "pub_date": "Sat, 22 Aug 2026 14:11:20 +0000",
-      "fetched_at": "2026-08-23T20:00:04.382050",
+      "title": "Implementation of GPT-2 in pure CMake",
+      "link": "https://github.com/AlpinDale/gpt2.cmake",
+      "summary": "👍 14 | 💬 2",
+      "source": "HackerNews",
+      "pub_date": "2026-08-24T05:41:17",
+      "fetched_at": "2026-08-24T08:00:18.446368",
       "categories": [
         "ai"
       ],
-      "ai_summary": "一脑驱动多形落地",
+      "ai_summary": "👍 14 | 💬 2",
       "keywords": [
-        "魔法原子亮相",
-        "wrc",
-        "三大场景解决方案实景展示物理",
+        "implementation",
+        "of",
+        "gpt",
+        "in",
+        "pure"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "AI Chip Architectures",
+      "link": "https://www.jepeake.com/ai-chip-architectures",
+      "summary": "👍 12 | 💬 0",
+      "source": "HackerNews",
+      "pub_date": "2026-08-23T10:25:10",
+      "fetched_at": "2026-08-24T08:00:16.854873",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 12 | 💬 0",
+      "keywords": [
         "ai",
-        "上岗"
+        "chip",
+        "architectures"
       ],
       "importance": 0
     },
     {
-      "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
-      "link": "https://www.qbitai.com/2026/08/477246.html",
-      "summary": "直击WRC",
-      "source": "量子位",
-      "pub_date": "Sat, 22 Aug 2026 14:19:39 +0000",
-      "fetched_at": "2026-08-23T20:00:04.381942",
+      "title": "How Complex Systems Fail (1998)",
+      "link": "https://how.complexsystems.fail/",
+      "summary": "👍 222 | 💬 59",
+      "source": "HackerNews",
+      "pub_date": "2026-08-23T23:13:31",
+      "fetched_at": "2026-08-24T08:00:16.102893",
       "categories": [
-        "robotics"
+        "ai"
       ],
-      "ai_summary": "直击WRC",
+      "ai_summary": "👍 222 | 💬 59",
       "keywords": [
-        "伽利略机器人首发",
-        "陆行具身系统",
-        "打通轮车足底层技术壁垒",
-        "直击",
-        "wrc"
+        "how",
+        "complex",
+        "systems",
+        "fail"
       ],
       "importance": 0
+    },
+    {
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "link": "https://fabiensanglard.net/agent.md/index.html",
+      "summary": "👍 121 | 💬 62",
+      "source": "HackerNews",
+      "pub_date": "2026-08-24T01:59:52",
+      "fetched_at": "2026-08-24T08:00:14.535896",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 121 | 💬 62",
+      "keywords": [
+        "my",
+        "agent",
+        "md",
+        "to",
+        "improve"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "summary": "👍 121 | 💬 105",
+      "source": "HackerNews",
+      "pub_date": "2026-08-24T02:16:37",
+      "fetched_at": "2026-08-24T08:00:13.691208",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 121 | 💬 105",
+      "keywords": [
+        "anthropic",
+        "best",
+        "ai",
+        "model",
+        "struggles"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Google Workspace thinks my domain is an email provider (2025)",
+      "link": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+      "summary": "👍 138 | 💬 32",
+      "source": "HackerNews",
+      "pub_date": "2026-08-24T03:29:32",
+      "fetched_at": "2026-08-24T08:00:12.782497",
+      "categories": [
+        "ai",
+        "space"
+      ],
+      "ai_summary": "👍 138 | 💬 32",
+      "keywords": [
+        "google",
+        "workspace",
+        "thinks",
+        "my",
+        "domain"
+      ],
+      "importance": 0.5
     },
     {
       "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
@@ -322,7 +407,7 @@
       "summary": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？",
       "source": "量子位",
       "pub_date": "Sat, 22 Aug 2026 14:46:43 +0000",
-      "fetched_at": "2026-08-23T20:00:04.381838",
+      "fetched_at": "2026-08-24T08:00:09.461139",
       "categories": [
         "robotics"
       ],
@@ -342,7 +427,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Sun, 23 Aug 2026 07:17:41 +0000",
-      "fetched_at": "2026-08-23T20:00:04.381702",
+      "fetched_at": "2026-08-24T08:00:09.461063",
       "categories": [
         "robotics"
       ],
@@ -359,7 +444,7 @@
       "summary": "机器人开卡丁车连续过弯，一镜到底全自主",
       "source": "量子位",
       "pub_date": "Sun, 23 Aug 2026 09:29:59 +0000",
-      "fetched_at": "2026-08-23T20:00:04.381687",
+      "fetched_at": "2026-08-24T08:00:09.461054",
       "categories": [
         "robotics"
       ],
@@ -379,7 +464,7 @@
       "summary": "AstraTennis时刻背后的硬核技术",
       "source": "量子位",
       "pub_date": "Sun, 23 Aug 2026 09:45:27 +0000",
-      "fetched_at": "2026-08-23T20:00:04.381578",
+      "fetched_at": "2026-08-24T08:00:09.460971",
       "categories": [
         "robotics"
       ],
@@ -399,7 +484,7 @@
       "summary": "内存成本飙升逼涨硬件",
       "source": "量子位",
       "pub_date": "Sun, 23 Aug 2026 09:51:49 +0000",
-      "fetched_at": "2026-08-23T20:00:04.381460",
+      "fetched_at": "2026-08-24T08:00:09.460904",
       "categories": [
         "ai"
       ],
@@ -419,7 +504,7 @@
       "summary": "Tokenizer、视频编码、API报错全扒一遍",
       "source": "量子位",
       "pub_date": "Sun, 23 Aug 2026 09:56:12 +0000",
-      "fetched_at": "2026-08-23T20:00:04.381320",
+      "fetched_at": "2026-08-24T08:00:09.460834",
       "categories": [
         "ai"
       ],
@@ -434,42 +519,42 @@
       "importance": 0
     },
     {
-      "title": "AI 记录员捏造了患者服用迷幻蘑菇的经历",
-      "link": "https://www.solidot.org/story?sid=85148",
-      "summary": "当 Rebecca Green 去看泌尿科医生时，医生询问是否可以用 AI 记录就诊经历，她同意了。但这一决定给她带来了巨大压力。因为 AI 抄写员捏造了她服用迷幻蘑菇的经历，她说自己从未碰过迷幻蘑菇。Green 女士直到三月肾结石手术后才发现这个错误，她阅读了专科医生发给她全科医生的术后信，信中称她曾服用过微剂量迷幻蘑菇，可能是之前肾脏周围出血的原因。在 Green 投诉之后，她的泌尿科医生回了封致歉信，猜测迷幻蘑菇的记录是 AI 听写错误的结果。Royal Australian College of GPs (RACGP)去年估计，四成的全科医生使用 AI 医疗记录员。这个比例数字还是一个...",
-      "source": "Solidot",
-      "pub_date": "Thu, 20 Aug 2026 19:03:54 +0800",
-      "fetched_at": "2026-08-23T20:00:03.885480",
+      "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
+      "link": "https://www.qbitai.com/2026/08/478234.html",
+      "summary": "多多支持像王兴兴这样优秀的具身机器人创业者",
+      "source": "量子位",
+      "pub_date": "Sun, 23 Aug 2026 11:17:22 +0000",
+      "fetched_at": "2026-08-24T08:00:09.460761",
       "categories": [
-        "ai"
+        "robotics"
       ],
-      "ai_summary": "当 Rebecca Green 去看泌尿科医生时，医生询问是否可以用 AI 记录就诊经历，她同意了。但这一决定给她带来了巨大压力。因为 AI 抄写员捏造了她服用迷幻蘑菇的经历，她说自己从未碰过迷幻蘑菇。Green 女士直到三月肾结石手术后才发现这个错误，她阅读了专科医生发给她全科医生的术后信，信中称...",
+      "ai_summary": "多多支持像王兴兴这样优秀的具身机器人创业者",
       "keywords": [
-        "ai",
-        "green",
-        "记录员捏造了患者服用迷幻蘑菇的经历",
-        "rebecca",
-        "去看泌尿科医生时"
+        "他给了王兴兴第一个",
+        "现在给下一个",
+        "宇树",
+        "当董事长",
+        "多多支持像王兴兴这样优秀的具身机器人创业者"
       ],
       "importance": 0
     },
     {
-      "title": "海冰消失巨型鲸鱼进入格陵兰",
-      "link": "https://www.solidot.org/story?sid=85151",
-      "summary": "由于海冰融化，巨型鲸鱼如座头鲸进入到了以前难以抵达的东格陵兰沿海地区。这是东格陵兰海洋生态系统发生重大转变的一部分。直到 2006 年该地区才首次记录到座头鲸的踪迹。2007 年记录到了 7 头座头鲸，2024 年船载设备就记录到了 150 头。研究人员结合卫星标记鲸鱼的追踪轨迹和因纽特猎人的证词，估计 2024 年夏天大约有 4000 头座头鲸、6000 头长须鲸和 6000 头小须鲸造访了格陵兰海。这三种鲸鱼在夏季觅食季节至少会消耗 80 万吨鱼类和磷虾。北极原有的鲸鱼要么被迫适应要么被迫离开。",
-      "source": "Solidot",
-      "pub_date": "Thu, 20 Aug 2026 23:57:12 +0800",
-      "fetched_at": "2026-08-23T20:00:03.884798",
+      "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+      "link": "https://www.qbitai.com/2026/08/478319.html",
+      "summary": "玩的就是真实",
+      "source": "量子位",
+      "pub_date": "Sun, 23 Aug 2026 13:20:00 +0000",
+      "fetched_at": "2026-08-24T08:00:09.460587",
       "categories": [
-        "space"
+        "robotics"
       ],
-      "ai_summary": "由于海冰融化，巨型鲸鱼如座头鲸进入到了以前难以抵达的东格陵兰沿海地区。这是东格陵兰海洋生态系统发生重大转变的一部分。直到 2006 年该地区才首次记录到座头鲸的踪迹。2007 年记录到了 7 头座头鲸，2024 年船载设备就记录到了 150 头。研究人员结合卫星标记鲸鱼的追踪轨迹和因纽特猎人的证词，...",
+      "ai_summary": "玩的就是真实",
       "keywords": [
-        "头座头鲸",
-        "海冰消失巨型鲸鱼进入格陵兰",
-        "由于海冰融化",
-        "巨型鲸鱼如座头鲸进入到了以前难以抵达的东格陵兰沿海地区",
-        "这是东格陵兰海洋生态系统发生重大转变的一部分"
+        "wrc",
+        "唯一真",
+        "人机共生",
+        "展台",
+        "是家沉浸式机器人咖啡店"
       ],
       "importance": 0
     },
@@ -479,7 +564,7 @@
       "summary": "微软正在调查部分用户在安装 Windows 11 八月例行安全更新后遭遇游戏崩溃的报告。根据发布在 Release Health 上的声明，受影响的游戏可能会失去响应、意外关闭、引发“EXCEPTION_ACCESS_VIOLATION”错误或触发设备意外重启。不是所有游戏都受到影响，微软列出的受影响游戏包括了《ARC Raiders》、《MARVEL Tōkon: Fighting Souls》和《The Finals》。微软表示正在调查问题是否由它引起的，它请求受影响用户提供反馈。",
       "source": "Solidot",
       "pub_date": "Fri, 21 Aug 2026 16:37:03 +0800",
-      "fetched_at": "2026-08-23T20:00:03.883200",
+      "fetched_at": "2026-08-24T08:00:09.126830",
       "categories": [
         "ai"
       ],
@@ -499,7 +584,7 @@
       "summary": "中国准备发射嫦娥七号，它将尝试首次直接在月球南极着陆，搜寻阴影区的陨石坑去寻找水冰。嫦娥七号使用的运载火箭为长征五号，计划从海南文昌航天发射场发射，发射窗口为 2026 年 8 月 24 日上午。嫦娥七号由一个轨道器和一个着陆器组成，而着陆器搭载了漫游的巡视器和飞跃器，其中飞跃器具备重复起飞着陆、月面飞行、月面行走功能。在阳照区完成探测并充电后，它将飞入有永久阴影区的撞击坑进行探测。嫦娥七号探测器将耗时时六天抵达月球轨道，随后将在轨道上展开为期两个月的准备工作，计划于 11 月着陆月球南极，预定着落地点为沙克尔顿撞击坑，它是一个直径 21 公里的环形山，边缘接近月球南极。月球两极被认为蕴藏了巨...",
       "source": "Solidot",
       "pub_date": "Fri, 21 Aug 2026 20:44:27 +0800",
-      "fetched_at": "2026-08-23T20:00:03.882766",
+      "fetched_at": "2026-08-24T08:00:09.126574",
       "categories": [
         "space"
       ],
@@ -519,7 +604,7 @@
       "summary": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同。洛克菲勒大学的研究人员比较了人体对不同强度运动的反应。他们发现，六次 30 秒全力冲刺跑后，血液中近四分之一的蛋白质发生了变化。相比之下，90 分钟持续中等强度骑行仅改变了不到 0.25% 的蛋白质。中等强度的跑步机运动对蛋白质的影响比骑行更大，但仍然远小于短暂的冲刺跑。冲刺跑还改变了逾 200 种代谢物，迅速提升了参与血管生长、组织重塑和激素信号传导的蛋白质水平。部分蛋白质是通过一种名为胞外域脱落（ectodomain shedding）的快速细胞信号传导过程进入血液的——蛋白质并非新产生并释放，而是细胞表面已有的蛋白质片段被切...",
       "source": "Solidot",
       "pub_date": "Sat, 22 Aug 2026 23:59:22 +0800",
-      "fetched_at": "2026-08-23T20:00:03.880983",
+      "fetched_at": "2026-08-24T08:00:09.125814",
       "categories": [
         "ai"
       ],
@@ -532,7 +617,28 @@
         "六次"
       ],
       "importance": 0
+    },
+    {
+      "title": "机器人短跑超越人类，但刹住是问题",
+      "link": "https://www.solidot.org/story?sid=85169",
+      "summary": "为期五天的世界人形机器人运动会于周六在北京开幕。运动会共设 51 个项目，包括 30 项体育竞技和 21 项场景化竞赛。超过 40% 的项目要求机器人完全自主运行。在 8 月 22 日的首日赛事中，两台机器人跑出了比人类百米世界纪录(9.58秒)保持者博尔特(Usain Bolt)更快的成绩，相比去年百米短跑仍然耗时 20 秒以上的机器人，可谓进步巨大。另一台机器人则在 400 米短跑中实现了 39.7 秒的成绩，超越了南非运动员 Wayde van Niekerk 43.03 秒的世界纪录。不过，在冲过终点线后，这些机器人的制动能力依然存在很大缺陷。现场画面显示，机器人纷纷撞向十几米开外的巨...",
+      "source": "Solidot",
+      "pub_date": "Sun, 23 Aug 2026 23:48:05 +0800",
+      "fetched_at": "2026-08-24T08:00:09.124920",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "为期五天的世界人形机器人运动会于周六在北京开幕。运动会共设 51 个项目，包括 30 项体育竞技和 21 项场景化竞赛。超过 40% 的项目要求机器人完全自主运行。在 8 月 22 日的首日赛事中，两台机器人跑出了比人类百米世界纪录(9.58秒)保持者博尔特(Usain Bolt)更快的成绩，相比去...",
+      "keywords": [
+        "机器人短跑超越人类",
+        "但刹住是问题",
+        "为期五天的世界人形机器人运动会于周六在北京开幕",
+        "运动会共设",
+        "个项目"
+      ],
+      "importance": 0
     }
   ],
-  "updated_at": "2026-08-23T20:00:28.434846"
+  "updated_at": "2026-08-24T08:00:26.497343"
 }

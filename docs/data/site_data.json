@@ -5,21 +5,21 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-08-25T12:00:34.416985",
-    "total_items": 18
+    "last_update": "2026-09-04T12:00:31.832046",
+    "total_items": 20
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 14
+      "count": 18
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 3
+      "count": 0
     },
     "space": {
       "name": "Space",
@@ -29,580 +29,615 @@
     }
   },
   "stats": {
-    "total_items": 18,
-    "today_items": 18,
+    "total_items": 20,
+    "today_items": 20,
     "sources": {
-      "Solidot": 7,
-      "量子位": 8,
-      "HackerNews": 3
+      "Solidot": 9,
+      "量子位": 4,
+      "HackerNews": 7
     },
-    "last_update": "2026-08-25T12:00:34.416985"
+    "last_update": "2026-09-04T12:00:31.832046"
   },
   "trending": [
     {
-      "title": "Anthropic 最强模型难以吸引用户",
-      "link": "https://www.solidot.org/story?sid=85181",
-      "summary": "Anthropic 的美国客户正使用其最强大 AI 工具的更廉价替代品，引发了外界对其高投入商业模式的质疑，而市场普遍预计 Anthropic 即将进行史上规模最大的 IPO。根据支付服务集团 Ramp 收集的 7 万家公司支出数据，Anthropic 规模最大、成本最高的模型 Fable 5 发布两个多月后，其支出占该公司各类工具总支出的比例仍仅约为 11%，目前已趋于稳定。这打破了企业用户默认选择最强大模型的惯例。分析师和投资者表示，这一变化主要是由于 Fable 5 价格高昂，以及旧款模型能满足大部分企业需求。如果这一转变持续下去，可能会彻底改变前沿 AI 实验室的商业模式。前沿 AI ...",
+      "title": "LibreOffice 26.8 发布一周下载量突破 100 万次",
+      "link": "https://www.solidot.org/story?sid=85277",
+      "summary": "LibreOffice 26.8 于 8 月 26 日发布，根据官网的统计数据，在发布一周内其下载量达到了 1,031,162 次。负责 LibreOffice 项目的基金会 The Document Foundation 表示这是至今最高的首周下载次数数据。大多数 Linux 用户是通过 Snap Store、Flathub 等软件商店渠道进行更新，因此实际数字会更高。为什么这一版本会如此大获成功，也许是在 AI 时代它可能是少数没有引入任何 AI 功能的常用办公软件。微软的 MS Office、苹果的 iWork 甚至开源的 ONLYOFFICE 都在不断集成 AI 功能。",
       "source": "Solidot",
-      "pub_date": "Mon, 24 Aug 2026 20:27:02 +0800",
-      "fetched_at": "2026-08-25T12:00:04.682703",
+      "pub_date": "Thu, 03 Sep 2026 22:44:16 +0800",
+      "fetched_at": "2026-09-04T12:00:08.059008",
       "categories": [
         "ai"
       ],
-      "ai_summary": "Anthropic 的美国客户正使用其最强大 AI 工具的更廉价替代品，引发了外界对其高投入商业模式的质疑，而市场普遍预计 Anthropic 即将进行史上规模最大的 IPO。根据支付服务集团 Ramp 收集的 7 万家公司支出数据，Anthropic 规模最大、成本最高的模型 Fable 5 发布...",
+      "ai_summary": "LibreOffice 26.8 于 8 月 26 日发布，根据官网的统计数据，在发布一周内其下载量达到了 1,031,162 次。负责 LibreOffice 项目的基金会 The Document Foundation 表示这是至今最高的首周下载次数数据。大多数 Linux 用户是通过 Snap...",
       "keywords": [
-        "anthropic",
+        "libreoffice",
         "ai",
-        "fable",
-        "最强模型难以吸引用户",
-        "的美国客户正使用其最强大"
+        "发布一周下载量突破",
+        "万次",
+        "日发布"
+      ],
+      "importance": 1.5
+    },
+    {
+      "title": "NASA 选择 Blue Origin 作为火星通信网络供应商",
+      "link": "https://www.solidot.org/story?sid=85273",
+      "summary": "NASA 授予 Blue Origin 一份价值高达 7 亿美元的合同，用于建造和运营一个专门的火星通信网络，以支持当前和未来的火星探测任务。Blue Origin 预计于 2028 年底交付火星飞行器，预计 2030 年投入运行。Blue Origin 将负责设计、开发、集成、发射和运营该网络，作为 NASA 更广泛的太空通信和导航基础设施的一部分。该架构将包括一艘环绕火星运行的高性能通信飞行器，用于传输科学数据、图像、导航信息以及为在火星表面及周围运行的飞行器提供的关键任务通信。",
+      "source": "Solidot",
+      "pub_date": "Thu, 03 Sep 2026 16:35:33 +0800",
+      "fetched_at": "2026-09-04T12:00:08.059692",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "NASA 授予 Blue Origin 一份价值高达 7 亿美元的合同，用于建造和运营一个专门的火星通信网络，以支持当前和未来的火星探测任务。Blue Origin 预计于 2028 年底交付火星飞行器，预计 2030 年投入运行。Blue Origin 将负责设计、开发、集成、发射和运营该网络，作...",
+      "keywords": [
+        "blue",
+        "origin",
+        "nasa",
+        "选择",
+        "作为火星通信网络供应商"
       ],
       "importance": 1.0
     },
     {
-      "title": "调查显示三分之一英文网页有 AI 创作痕迹",
-      "link": "https://www.solidot.org/story?sid=85172",
-      "summary": "美国皮尤研究中心的数据科学家使用 AI 检测工具分析了过去五年的 50 万英文网页，估计其中 AI 撰写内容的比例。所有这些样本网页中，十分之一有明显 AI 创作痕迹。在 OpenAI 的 AI 工具 ChatGPT 于 2022 年底推出之后，AI 内容的比例在不断上升。2026 年 7 月的快照中，逾三分之一 ChatGPT 推出后发布的网页显示出 AI 创作的痕迹。在主要顶级域名中 AI 创作文本的分布并不均匀。ChatGPT 最初发布时 AI 语言模式在 .com、.org、.edu 和 .gov 等域名上的出现频率大致相同。但 2026 年的样本中十分之一的 .com 域名显示出 A...",
+      "title": "ChatGPT/Codex 应用捆绑了完整的 LibreOffice 副本",
+      "link": "https://www.solidot.org/story?sid=85263",
+      "summary": "OpenAI 的 ChatGPT/Codex 桌面应用被发现捆绑了完整的 LibreOffice 副本、完整的 Python 安装包、完整的 Node.js 安装包，以及 Poppler 和 git 等常用工具，这些文件位于名为 codex-primary-runtime 的文件夹内，占据了数 GB 的空间。此前 Anthropics 的 Claude 桌面应用被发现捆绑了 10GB 的虚拟机。",
       "source": "Solidot",
-      "pub_date": "Mon, 24 Aug 2026 15:06:36 +0800",
-      "fetched_at": "2026-08-25T12:00:04.685923",
+      "pub_date": "Wed, 02 Sep 2026 18:04:28 +0800",
+      "fetched_at": "2026-09-04T12:00:08.061041",
       "categories": [
         "ai"
       ],
-      "ai_summary": "美国皮尤研究中心的数据科学家使用 AI 检测工具分析了过去五年的 50 万英文网页，估计其中 AI 撰写内容的比例。所有这些样本网页中，十分之一有明显 AI 创作痕迹。在 OpenAI 的 AI 工具 ChatGPT 于 2022 年底推出之后，AI 内容的比例在不断上升。2026 年 7 月的快照...",
+      "ai_summary": "OpenAI 的 ChatGPT/Codex 桌面应用被发现捆绑了完整的 LibreOffice 副本、完整的 Python 安装包、完整的 Node.js 安装包，以及 Poppler 和 git 等常用工具，这些文件位于名为 codex-primary-runtime 的文件夹内，占据了数 GB...",
       "keywords": [
-        "ai",
+        "codex",
         "chatgpt",
-        "创作痕迹",
-        "com",
-        "调查显示三分之一英文网页有"
+        "libreoffice",
+        "副本",
+        "完整的"
       ],
       "importance": 1.0
     },
     {
-      "title": "极端磁场改变光传播方式",
-      "link": "https://www.solidot.org/story?sid=85170",
-      "summary": "天文学家首次利用天然极端磁场，即对磁星信号的观测研究，为 90 年前德国物理学家海森堡作出的量子电动力学预言提供了迄今最有力的证据：看似空无一物的真空，在极端磁场中会改变光的传播方式，产生真空双折射效应。研究人员利用 NASA 成像 X射 线偏振探测器，对编号 1E 1547.0-5408 的射电磁星进行了观测，并结合国际空间站 X 射线望远镜以及澳大利亚帕克斯射电望远镜的数据展开分析。磁星是大质量恒星爆炸后留下的致密残骸，拥有宇宙已知最强的磁场。理论认为，当磁场足够强时，真空不再是无性质的虚空，而是表现出类似晶体的光学性质，使不同偏振方向的光以不同速度传播，从而改变 X 射线偏振特征。1E1...",
-      "source": "Solidot",
-      "pub_date": "Mon, 24 Aug 2026 13:36:21 +0800",
-      "fetched_at": "2026-08-25T12:00:04.687151",
+      "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
+      "link": "https://www.qbitai.com/2026/09/483898.html",
+      "summary": "全球最强C",
+      "source": "量子位",
+      "pub_date": "Thu, 03 Sep 2026 21:50:07 +0000",
+      "fetched_at": "2026-09-04T12:00:08.413639",
       "categories": [
-        "space"
+        "ai"
       ],
-      "ai_summary": "天文学家首次利用天然极端磁场，即对磁星信号的观测研究，为 90 年前德国物理学家海森堡作出的量子电动力学预言提供了迄今最有力的证据：看似空无一物的真空，在极端磁场中会改变光的传播方式，产生真空双折射效应。研究人员利用 NASA 成像 X射 线偏振探测器，对编号 1E 1547.0-5408 的射电磁...",
+      "ai_summary": "全球最强C",
       "keywords": [
-        "极端磁场改变光传播方式",
-        "天文学家首次利用天然极端磁场",
-        "即对磁星信号的观测研究",
-        "年前德国物理学家海森堡作出的量子电动力学预言提供了迄今最有力的证据",
-        "看似空无一物的真空"
+        "刚刚",
+        "gpt",
+        "正式发布",
+        "openai",
+        "欢迎来到"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "Nexus Mods 收购 SteamDB",
+      "link": "https://www.solidot.org/story?sid=85274",
+      "summary": "最大 PC 游戏 Mod 分享托管平台 Nexus Mods 收购了 SteamDB。SteamDB 创始人退出的理由与 2025 年 6 月 Nexus Mods 创始人 Robin Scott 将网站出售给游戏公司 Chosen 的理由类似——筋疲力尽。SteamDB 的两位创始人 Pavel 和 Marlamin 于 2013 年创办了记录 Steam 游戏商店所有上架游戏相关信息的网站，和 Nexus Mods 一样，一开始是一个爱好性质的项目，但之后逐渐成为最大的 Steam 游戏信息平台，Marlamin 后来退出，新冠疫情之后 AI 时代来临，互联网已经不是以前的互联网，Pave...",
+      "source": "Solidot",
+      "pub_date": "Thu, 03 Sep 2026 17:44:12 +0800",
+      "fetched_at": "2026-09-04T12:00:08.059548",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "最大 PC 游戏 Mod 分享托管平台 Nexus Mods 收购了 SteamDB。SteamDB 创始人退出的理由与 2025 年 6 月 Nexus Mods 创始人 Robin Scott 将网站出售给游戏公司 Chosen 的理由类似——筋疲力尽。SteamDB 的两位创始人 Pavel ...",
+      "keywords": [
+        "nexus",
+        "mods",
+        "steamdb",
+        "marlamin",
+        "steam"
       ],
       "importance": 0.5
     },
     {
-      "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
-      "link": "https://www.qbitai.com/2026/08/478469.html",
-      "summary": "定义国产推理算力新范式 赋能万卡级AI推理算力规模化落地",
+      "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+      "link": "https://www.qbitai.com/2026/09/483598.html",
+      "summary": "吃下90%市场",
       "source": "量子位",
-      "pub_date": "Mon, 24 Aug 2026 07:04:36 +0000",
-      "fetched_at": "2026-08-25T12:00:05.334092",
+      "pub_date": "Fri, 04 Sep 2026 01:40:42 +0000",
+      "fetched_at": "2026-09-04T12:00:08.413372",
       "categories": [
         "ai"
       ],
-      "ai_summary": "定义国产推理算力新范式 赋能万卡级AI推理算力规模化落地",
+      "ai_summary": "吃下90%市场",
       "keywords": [
-        "单芯片到万卡集群体系化突破",
-        "中诚华隆",
-        "hl",
-        "推理芯片及超节点集群重磅发布",
-        "定义国产推理算力新范式"
+        "卡车自动驾驶里程超",
+        "亿公里",
+        "嬴彻科技定义",
+        "货运物理",
+        "ai"
       ],
       "importance": 0.5
     },
     {
-      "title": "嫦娥七号推迟到明年发射",
-      "link": "https://www.solidot.org/story?sid=85177",
-      "summary": "中国载人航天工程网周日发表一句话声明：“本着稳妥可靠、万无一失的原则，经综合研判，嫦娥七号任务不满足发射条件，不能在今年预定窗口实施。”官方没有解释原因。嫦娥七号原计划的发射窗口是 2026 年 8 月 24 日上午。下一个发射窗口可能是明年 2 月或 3 月。推迟发射的一个可能原因是台风娜拉的影响，娜拉正在海南文昌发射场附近海域徘徊，在发射窗口关闭前，天气状况不太可能好转。嫦娥七号将登陆月球南极，寻找水冰，探测器对登陆地区的日照条件要求较高。",
+      "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
+      "link": "https://www.qbitai.com/2026/09/483948.html",
+      "summary": "改进GPT Image 2的噪点问题",
+      "source": "量子位",
+      "pub_date": "Thu, 03 Sep 2026 21:57:08 +0000",
+      "fetched_at": "2026-09-04T12:00:08.413519",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "改进GPT Image 2的噪点问题",
+      "keywords": [
+        "gpt",
+        "image",
+        "新版",
+        "已经能伪造",
+        "发布会了"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "陈大年复出，入局大模型",
+      "link": "https://www.qbitai.com/2026/09/483600.html",
+      "summary": "首秀逼近DeepSeek万亿旗舰",
+      "source": "量子位",
+      "pub_date": "Thu, 03 Sep 2026 10:13:24 +0000",
+      "fetched_at": "2026-09-04T12:00:08.414111",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "首秀逼近DeepSeek万亿旗舰",
+      "keywords": [
+        "陈大年复出",
+        "入局大模型",
+        "首秀逼近",
+        "deepseek",
+        "万亿旗舰"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "纽约市禁止八年级以下公立学校学生使用生成式 AI",
+      "link": "https://www.solidot.org/story?sid=85281",
+      "summary": "纽约市长 Zohran Mamdani 周三宣布了一项为期一年的新政策，禁止从幼儿园到八年级的公立学校学生使用生成式 AI。纽约市同时还限制低年级学生的屏幕使用时间，为高中生开设 AI 素养课程。禁令将于 2026-2027 学年生效，将影响近 60 万名学生，占全市公立学校学生总数的 2/3。Mamdani 表示，“这项禁令体现了我们对未来负责的承诺，我们将拥抱新技术，但前提是它必须服务于我们的学生。”新政策引入了新的屏幕时间指导方针，包括限制低年级学生一对一使用电子设备，建议 3-5 年级学生每日使用时间上限为 30 分钟，6-8 年级学生每日使用时间上限为 45 分钟。",
       "source": "Solidot",
-      "pub_date": "Mon, 24 Aug 2026 17:18:10 +0800",
-      "fetched_at": "2026-08-25T12:00:04.684522",
+      "pub_date": "Thu, 03 Sep 2026 23:29:05 +0800",
+      "fetched_at": "2026-09-04T12:00:08.058329",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "纽约市长 Zohran Mamdani 周三宣布了一项为期一年的新政策，禁止从幼儿园到八年级的公立学校学生使用生成式 AI。纽约市同时还限制低年级学生的屏幕使用时间，为高中生开设 AI 素养课程。禁令将于 2026-2027 学年生效，将影响近 60 万名学生，占全市公立学校学生总数的 2/3。Ma...",
+      "keywords": [
+        "ai",
+        "mamdani",
+        "年级学生每日使用时间上限为",
+        "分钟",
+        "纽约市禁止八年级以下公立学校学生使用生成式"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Audacity 4.0 释出",
+      "link": "https://www.solidot.org/story?sid=85279",
+      "summary": "音频编辑器项目 Audacity 释出了 v4.0。主要变化包括：基于 Qt6 重构了 UI，支持原生高 DPI 渲染；能将 UI 布局保存为 Workspaces；工具栏和面板可移动、停靠、浮动、显示或隐藏；改进了音频片段的处理；新增 .aup4 项目格式；等等。Audacity 4.0 与 Audacity 3.x 不完全兼容，部分 Audacity 3 系列的功能尚未移植到 4.x 版本。",
+      "source": "Solidot",
+      "pub_date": "Thu, 03 Sep 2026 23:07:12 +0800",
+      "fetched_at": "2026-09-04T12:00:08.058655",
       "categories": [
         "space"
       ],
-      "ai_summary": "中国载人航天工程网周日发表一句话声明：“本着稳妥可靠、万无一失的原则，经综合研判，嫦娥七号任务不满足发射条件，不能在今年预定窗口实施。”官方没有解释原因。嫦娥七号原计划的发射窗口是 2026 年 8 月 24 日上午。下一个发射窗口可能是明年 2 月或 3 月。推迟发射的一个可能原因是台风娜拉的影响...",
+      "ai_summary": "音频编辑器项目 Audacity 释出了 v4.0。主要变化包括：基于 Qt6 重构了 UI，支持原生高 DPI 渲染；能将 UI 布局保存为 Workspaces；工具栏和面板可移动、停靠、浮动、显示或隐藏；改进了音频片段的处理；新增 .aup4 项目格式；等等。Audacity 4.0 与 Au...",
       "keywords": [
-        "嫦娥七号推迟到明年发射",
-        "中国载人航天工程网周日发表一句话声明",
-        "本着稳妥可靠",
-        "万无一失的原则",
-        "经综合研判"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "九成生物医学论文有 AI 辅助写作痕迹",
-      "link": "https://www.solidot.org/story?sid=85173",
-      "summary": "在论文写作中使用 AI 的情况可能比以前认为的更普遍。根据发表在 arXiv 上的一篇预印本，对 PubMed Central 数据库收录的 2025 年全年发表的英文论文的分析显示，LLM 的使用比例高达 77%，而 2024 年这一比例为 52%。这一结论与 2025 年进行的一项调查结果一致。调查显示，71% 的研究人员表示在使用 AI 辅助写作——实际使用率可能高于承认的水平。2025 年 12 月发表的论文有近九成出现了 AI 辅助写作的痕迹。最新研究还发现，AI 辅助写作在摘要、引言和讨论部分比在方法和结果部分更为常见。",
-      "source": "Solidot",
-      "pub_date": "Mon, 24 Aug 2026 15:26:30 +0800",
-      "fetched_at": "2026-08-25T12:00:04.685415",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "在论文写作中使用 AI 的情况可能比以前认为的更普遍。根据发表在 arXiv 上的一篇预印本，对 PubMed Central 数据库收录的 2025 年全年发表的英文论文的分析显示，LLM 的使用比例高达 77%，而 2024 年这一比例为 52%。这一结论与 2025 年进行的一项调查结果一致。...",
-      "keywords": [
-        "ai",
-        "九成生物医学论文有",
-        "辅助写作痕迹",
-        "在论文写作中使用",
-        "的情况可能比以前认为的更普遍"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "机器人短跑超越人类，但刹住是问题",
-      "link": "https://www.solidot.org/story?sid=85169",
-      "summary": "为期五天的世界人形机器人运动会于周六在北京开幕。运动会共设 51 个项目，包括 30 项体育竞技和 21 项场景化竞赛。超过 40% 的项目要求机器人完全自主运行。在 8 月 22 日的首日赛事中，两台机器人跑出了比人类百米世界纪录(9.58秒)保持者博尔特(Usain Bolt)更快的成绩，相比去年百米短跑仍然耗时 20 秒以上的机器人，可谓进步巨大。另一台机器人则在 400 米短跑中实现了 39.7 秒的成绩，超越了南非运动员 Wayde van Niekerk 43.03 秒的世界纪录。不过，在冲过终点线后，这些机器人的制动能力依然存在很大缺陷。现场画面显示，机器人纷纷撞向十几米开外的巨...",
-      "source": "Solidot",
-      "pub_date": "Sun, 23 Aug 2026 23:48:05 +0800",
-      "fetched_at": "2026-08-25T12:00:04.687684",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "为期五天的世界人形机器人运动会于周六在北京开幕。运动会共设 51 个项目，包括 30 项体育竞技和 21 项场景化竞赛。超过 40% 的项目要求机器人完全自主运行。在 8 月 22 日的首日赛事中，两台机器人跑出了比人类百米世界纪录(9.58秒)保持者博尔特(Usain Bolt)更快的成绩，相比去...",
-      "keywords": [
-        "机器人短跑超越人类",
-        "但刹住是问题",
-        "为期五天的世界人形机器人运动会于周六在北京开幕",
-        "运动会共设",
-        "个项目"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同",
-      "link": "https://www.solidot.org/story?sid=85165",
-      "summary": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同。洛克菲勒大学的研究人员比较了人体对不同强度运动的反应。他们发现，六次 30 秒全力冲刺跑后，血液中近四分之一的蛋白质发生了变化。相比之下，90 分钟持续中等强度骑行仅改变了不到 0.25% 的蛋白质。中等强度的跑步机运动对蛋白质的影响比骑行更大，但仍然远小于短暂的冲刺跑。冲刺跑还改变了逾 200 种代谢物，迅速提升了参与血管生长、组织重塑和激素信号传导的蛋白质水平。部分蛋白质是通过一种名为胞外域脱落（ectodomain shedding）的快速细胞信号传导过程进入血液的——蛋白质并非新产生并释放，而是细胞表面已有的蛋白质片段被切...",
-      "source": "Solidot",
-      "pub_date": "Sat, 22 Aug 2026 23:59:22 +0800",
-      "fetched_at": "2026-08-25T12:00:04.689514",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同。洛克菲勒大学的研究人员比较了人体对不同强度运动的反应。他们发现，六次 30 秒全力冲刺跑后，血液中近四分之一的蛋白质发生了变化。相比之下，90 分钟持续中等强度骑行仅改变了不到 0.25% 的蛋白质。中等强度的跑步机运动对蛋白质的影响比...",
-      "keywords": [
-        "分钟冲刺跑产生的分子反应与",
-        "分钟中等强度运动截然不同",
-        "洛克菲勒大学的研究人员比较了人体对不同强度运动的反应",
-        "他们发现",
-        "六次"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "具身大满贯还全开源！原力灵机DM0.5登顶RoboDojo，且clone且珍惜",
-      "link": "https://www.qbitai.com/2026/08/478791.html",
-      "summary": "机器人大脑新SOTA",
-      "source": "量子位",
-      "pub_date": "Tue, 25 Aug 2026 02:22:01 +0000",
-      "fetched_at": "2026-08-25T12:00:05.332828",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "机器人大脑新SOTA",
-      "keywords": [
-        "具身大满贯还全开源",
-        "原力灵机",
-        "dm",
-        "登顶",
-        "robodojo"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "VC开始靠AI预测未来了",
-      "link": "https://www.qbitai.com/2026/08/478774.html",
-      "summary": "FutureX榜单前十占了仨",
-      "source": "量子位",
-      "pub_date": "Tue, 25 Aug 2026 02:16:43 +0000",
-      "fetched_at": "2026-08-25T12:00:05.333048",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "FutureX榜单前十占了仨",
-      "keywords": [
-        "vc",
-        "开始靠",
-        "ai",
-        "预测未来了",
-        "futurex"
+        "audacity",
+        "ui",
+        "释出",
+        "音频编辑器项目",
+        "释出了"
       ],
       "importance": 0
     }
   ],
   "latest": [
     {
-      "title": "LLMs could control their host machines by exploiting inference engines",
-      "link": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "summary": "👍 111 | 💬 56",
+      "title": "Xanadu was waiting for agents",
+      "link": "https://zed.dev/blog/agentic-xanadu",
+      "summary": "👍 97 | 💬 39",
       "source": "HackerNews",
-      "pub_date": "2026-08-25T03:03:06",
-      "fetched_at": "2026-08-25T12:00:29.854520",
+      "pub_date": "2026-09-02T02:50:42",
+      "fetched_at": "2026-09-04T12:00:28.536837",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 111 | 💬 56",
+      "ai_summary": "👍 97 | 💬 39",
       "keywords": [
-        "llms",
-        "could",
-        "control",
-        "their",
-        "host"
+        "xanadu",
+        "was",
+        "waiting",
+        "for",
+        "agents"
       ],
       "importance": 0
     },
     {
-      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "link": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "summary": "👍 601 | 💬 239",
+      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+      "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+      "summary": "👍 219 | 💬 65",
       "source": "HackerNews",
-      "pub_date": "2026-08-24T23:28:04",
-      "fetched_at": "2026-08-25T12:00:12.193126",
+      "pub_date": "2026-09-03T09:11:22",
+      "fetched_at": "2026-09-04T12:00:27.631417",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 601 | 💬 239",
+      "ai_summary": "👍 219 | 💬 65",
       "keywords": [
-        "ms",
-        "paint",
-        "and",
-        "photos",
-        "inivisibly"
+        "go",
+        "grandmaster",
+        "shin",
+        "defeats",
+        "ai"
       ],
       "importance": 0
     },
     {
-      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "link": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "summary": "👍 294 | 💬 73",
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "link": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "summary": "👍 127 | 💬 48",
       "source": "HackerNews",
-      "pub_date": "2026-08-25T06:13:40",
-      "fetched_at": "2026-08-25T12:00:08.979716",
+      "pub_date": "2026-09-04T05:20:34",
+      "fetched_at": "2026-09-04T12:00:22.564979",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 294 | 💬 73",
+      "ai_summary": "👍 127 | 💬 48",
       "keywords": [
-        "icloud",
-        "hide",
+        "which",
+        "tools",
+        "do",
+        "claude",
+        "codex"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "link": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "summary": "👍 222 | 💬 66",
+      "source": "HackerNews",
+      "pub_date": "2026-09-03T22:28:18",
+      "fetched_at": "2026-09-04T12:00:20.642268",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 222 | 💬 66",
+      "keywords": [
+        "porting",
         "my",
-        "email",
-        "addresses"
+        "amiga",
+        "game",
+        "to"
       ],
       "importance": 0
     },
     {
-      "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
-      "link": "https://www.qbitai.com/2026/08/478427.html",
-      "summary": "8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。",
-      "source": "量子位",
-      "pub_date": "Mon, 24 Aug 2026 05:09:27 +0000",
-      "fetched_at": "2026-08-25T12:00:05.334405",
+      "title": "The largest electric aircraft just flew [video]",
+      "link": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "summary": "👍 229 | 💬 156",
+      "source": "HackerNews",
+      "pub_date": "2026-09-02T03:02:34",
+      "fetched_at": "2026-09-04T12:00:15.091771",
       "categories": [
         "ai"
       ],
-      "ai_summary": "8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。",
+      "ai_summary": "👍 229 | 💬 156",
       "keywords": [
-        "wan",
-        "正式上线",
-        "阿里视频大模型",
-        "行业评价",
-        "稳定"
+        "the",
+        "largest",
+        "electric",
+        "aircraft",
+        "just"
       ],
       "importance": 0
     },
     {
-      "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
-      "link": "https://www.qbitai.com/2026/08/478469.html",
-      "summary": "定义国产推理算力新范式 赋能万卡级AI推理算力规模化落地",
-      "source": "量子位",
-      "pub_date": "Mon, 24 Aug 2026 07:04:36 +0000",
-      "fetched_at": "2026-08-25T12:00:05.334092",
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "link": "https://inference-docs.cerebras.ai/models/overview",
+      "summary": "👍 483 | 💬 146",
+      "source": "HackerNews",
+      "pub_date": "2026-09-04T02:32:13",
+      "fetched_at": "2026-09-04T12:00:13.817247",
       "categories": [
         "ai"
       ],
-      "ai_summary": "定义国产推理算力新范式 赋能万卡级AI推理算力规模化落地",
+      "ai_summary": "👍 483 | 💬 146",
       "keywords": [
-        "单芯片到万卡集群体系化突破",
-        "中诚华隆",
-        "hl",
-        "推理芯片及超节点集群重磅发布",
-        "定义国产推理算力新范式"
+        "qwen",
+        "available",
+        "on",
+        "cerebras",
+        "at"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "GPT-6 Astra",
+      "link": "https://openai.com/index/gpt-6-astra/",
+      "summary": "👍 1449 | 💬 1208",
+      "source": "HackerNews",
+      "pub_date": "2026-09-04T02:41:05",
+      "fetched_at": "2026-09-04T12:00:10.526862",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 1449 | 💬 1208",
+      "keywords": [
+        "gpt",
+        "astra"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "陈大年复出，入局大模型",
+      "link": "https://www.qbitai.com/2026/09/483600.html",
+      "summary": "首秀逼近DeepSeek万亿旗舰",
+      "source": "量子位",
+      "pub_date": "Thu, 03 Sep 2026 10:13:24 +0000",
+      "fetched_at": "2026-09-04T12:00:08.414111",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "首秀逼近DeepSeek万亿旗舰",
+      "keywords": [
+        "陈大年复出",
+        "入局大模型",
+        "首秀逼近",
+        "deepseek",
+        "万亿旗舰"
       ],
       "importance": 0.5
     },
     {
-      "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
-      "link": "https://www.qbitai.com/2026/08/478473.html",
-      "summary": "8月24日消息，阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发出肝癌诊断AI模型DAMO LiON",
+      "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
+      "link": "https://www.qbitai.com/2026/09/483898.html",
+      "summary": "全球最强C",
       "source": "量子位",
-      "pub_date": "Mon, 24 Aug 2026 08:07:59 +0000",
-      "fetched_at": "2026-08-25T12:00:05.333922",
+      "pub_date": "Thu, 03 Sep 2026 21:50:07 +0000",
+      "fetched_at": "2026-09-04T12:00:08.413639",
       "categories": [
         "ai"
       ],
-      "ai_summary": "8月24日消息，阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发出肝癌诊断AI模型DAMO LiON",
+      "ai_summary": "全球最强C",
       "keywords": [
-        "ai",
-        "模型",
-        "阿里达摩院推出肝癌",
-        "精准识别",
-        "厘米微小肿瘤"
+        "刚刚",
+        "gpt",
+        "正式发布",
+        "openai",
+        "欢迎来到"
       ],
-      "importance": 0
+      "importance": 1.0
     },
     {
-      "title": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
-      "link": "https://www.qbitai.com/2026/08/478568.html",
-      "summary": "全球大厂开始押注的AI科研，终于有了统一标准",
+      "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
+      "link": "https://www.qbitai.com/2026/09/483948.html",
+      "summary": "改进GPT Image 2的噪点问题",
       "source": "量子位",
-      "pub_date": "Mon, 24 Aug 2026 13:21:22 +0000",
-      "fetched_at": "2026-08-25T12:00:05.333732",
+      "pub_date": "Thu, 03 Sep 2026 21:57:08 +0000",
+      "fetched_at": "2026-09-04T12:00:08.413519",
       "categories": [
         "ai"
       ],
-      "ai_summary": "全球大厂开始押注的AI科研，终于有了统一标准",
+      "ai_summary": "改进GPT Image 2的噪点问题",
       "keywords": [
-        "ai",
-        "一篇论文改写",
-        "科研评价规则",
-        "中国公司拿出实践数据",
-        "双榜第一"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊",
-      "link": "https://www.qbitai.com/2026/08/478670.html",
-      "summary": "Visa看到的AI未来",
-      "source": "量子位",
-      "pub_date": "Mon, 24 Aug 2026 13:32:13 +0000",
-      "fetched_at": "2026-08-25T12:00:05.333491",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Visa看到的AI未来",
-      "keywords": [
-        "ai",
-        "visa",
-        "重塑商业",
-        "信任决定未来商业能走多远丨",
-        "大中华区总裁张文翊"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "ResNet作者任少卿机器人创业！公司注册就独角兽了",
-      "link": "https://www.qbitai.com/2026/08/478675.html",
-      "summary": "虽然明确机器人创业，但依然在职蔚来",
-      "source": "量子位",
-      "pub_date": "Tue, 25 Aug 2026 00:35:54 +0000",
-      "fetched_at": "2026-08-25T12:00:05.333263",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "虽然明确机器人创业，但依然在职蔚来",
-      "keywords": [
-        "resnet",
-        "作者任少卿机器人创业",
-        "公司注册就独角兽了",
-        "虽然明确机器人创业",
-        "但依然在职蔚来"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "VC开始靠AI预测未来了",
-      "link": "https://www.qbitai.com/2026/08/478774.html",
-      "summary": "FutureX榜单前十占了仨",
-      "source": "量子位",
-      "pub_date": "Tue, 25 Aug 2026 02:16:43 +0000",
-      "fetched_at": "2026-08-25T12:00:05.333048",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "FutureX榜单前十占了仨",
-      "keywords": [
-        "vc",
-        "开始靠",
-        "ai",
-        "预测未来了",
-        "futurex"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "具身大满贯还全开源！原力灵机DM0.5登顶RoboDojo，且clone且珍惜",
-      "link": "https://www.qbitai.com/2026/08/478791.html",
-      "summary": "机器人大脑新SOTA",
-      "source": "量子位",
-      "pub_date": "Tue, 25 Aug 2026 02:22:01 +0000",
-      "fetched_at": "2026-08-25T12:00:05.332828",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "机器人大脑新SOTA",
-      "keywords": [
-        "具身大满贯还全开源",
-        "原力灵机",
-        "dm",
-        "登顶",
-        "robodojo"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同",
-      "link": "https://www.solidot.org/story?sid=85165",
-      "summary": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同。洛克菲勒大学的研究人员比较了人体对不同强度运动的反应。他们发现，六次 30 秒全力冲刺跑后，血液中近四分之一的蛋白质发生了变化。相比之下，90 分钟持续中等强度骑行仅改变了不到 0.25% 的蛋白质。中等强度的跑步机运动对蛋白质的影响比骑行更大，但仍然远小于短暂的冲刺跑。冲刺跑还改变了逾 200 种代谢物，迅速提升了参与血管生长、组织重塑和激素信号传导的蛋白质水平。部分蛋白质是通过一种名为胞外域脱落（ectodomain shedding）的快速细胞信号传导过程进入血液的——蛋白质并非新产生并释放，而是细胞表面已有的蛋白质片段被切...",
-      "source": "Solidot",
-      "pub_date": "Sat, 22 Aug 2026 23:59:22 +0800",
-      "fetched_at": "2026-08-25T12:00:04.689514",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同。洛克菲勒大学的研究人员比较了人体对不同强度运动的反应。他们发现，六次 30 秒全力冲刺跑后，血液中近四分之一的蛋白质发生了变化。相比之下，90 分钟持续中等强度骑行仅改变了不到 0.25% 的蛋白质。中等强度的跑步机运动对蛋白质的影响比...",
-      "keywords": [
-        "分钟冲刺跑产生的分子反应与",
-        "分钟中等强度运动截然不同",
-        "洛克菲勒大学的研究人员比较了人体对不同强度运动的反应",
-        "他们发现",
-        "六次"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "机器人短跑超越人类，但刹住是问题",
-      "link": "https://www.solidot.org/story?sid=85169",
-      "summary": "为期五天的世界人形机器人运动会于周六在北京开幕。运动会共设 51 个项目，包括 30 项体育竞技和 21 项场景化竞赛。超过 40% 的项目要求机器人完全自主运行。在 8 月 22 日的首日赛事中，两台机器人跑出了比人类百米世界纪录(9.58秒)保持者博尔特(Usain Bolt)更快的成绩，相比去年百米短跑仍然耗时 20 秒以上的机器人，可谓进步巨大。另一台机器人则在 400 米短跑中实现了 39.7 秒的成绩，超越了南非运动员 Wayde van Niekerk 43.03 秒的世界纪录。不过，在冲过终点线后，这些机器人的制动能力依然存在很大缺陷。现场画面显示，机器人纷纷撞向十几米开外的巨...",
-      "source": "Solidot",
-      "pub_date": "Sun, 23 Aug 2026 23:48:05 +0800",
-      "fetched_at": "2026-08-25T12:00:04.687684",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "为期五天的世界人形机器人运动会于周六在北京开幕。运动会共设 51 个项目，包括 30 项体育竞技和 21 项场景化竞赛。超过 40% 的项目要求机器人完全自主运行。在 8 月 22 日的首日赛事中，两台机器人跑出了比人类百米世界纪录(9.58秒)保持者博尔特(Usain Bolt)更快的成绩，相比去...",
-      "keywords": [
-        "机器人短跑超越人类",
-        "但刹住是问题",
-        "为期五天的世界人形机器人运动会于周六在北京开幕",
-        "运动会共设",
-        "个项目"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "极端磁场改变光传播方式",
-      "link": "https://www.solidot.org/story?sid=85170",
-      "summary": "天文学家首次利用天然极端磁场，即对磁星信号的观测研究，为 90 年前德国物理学家海森堡作出的量子电动力学预言提供了迄今最有力的证据：看似空无一物的真空，在极端磁场中会改变光的传播方式，产生真空双折射效应。研究人员利用 NASA 成像 X射 线偏振探测器，对编号 1E 1547.0-5408 的射电磁星进行了观测，并结合国际空间站 X 射线望远镜以及澳大利亚帕克斯射电望远镜的数据展开分析。磁星是大质量恒星爆炸后留下的致密残骸，拥有宇宙已知最强的磁场。理论认为，当磁场足够强时，真空不再是无性质的虚空，而是表现出类似晶体的光学性质，使不同偏振方向的光以不同速度传播，从而改变 X 射线偏振特征。1E1...",
-      "source": "Solidot",
-      "pub_date": "Mon, 24 Aug 2026 13:36:21 +0800",
-      "fetched_at": "2026-08-25T12:00:04.687151",
-      "categories": [
-        "space"
-      ],
-      "ai_summary": "天文学家首次利用天然极端磁场，即对磁星信号的观测研究，为 90 年前德国物理学家海森堡作出的量子电动力学预言提供了迄今最有力的证据：看似空无一物的真空，在极端磁场中会改变光的传播方式，产生真空双折射效应。研究人员利用 NASA 成像 X射 线偏振探测器，对编号 1E 1547.0-5408 的射电磁...",
-      "keywords": [
-        "极端磁场改变光传播方式",
-        "天文学家首次利用天然极端磁场",
-        "即对磁星信号的观测研究",
-        "年前德国物理学家海森堡作出的量子电动力学预言提供了迄今最有力的证据",
-        "看似空无一物的真空"
+        "gpt",
+        "image",
+        "新版",
+        "已经能伪造",
+        "发布会了"
       ],
       "importance": 0.5
     },
     {
-      "title": "调查显示三分之一英文网页有 AI 创作痕迹",
-      "link": "https://www.solidot.org/story?sid=85172",
-      "summary": "美国皮尤研究中心的数据科学家使用 AI 检测工具分析了过去五年的 50 万英文网页，估计其中 AI 撰写内容的比例。所有这些样本网页中，十分之一有明显 AI 创作痕迹。在 OpenAI 的 AI 工具 ChatGPT 于 2022 年底推出之后，AI 内容的比例在不断上升。2026 年 7 月的快照中，逾三分之一 ChatGPT 推出后发布的网页显示出 AI 创作的痕迹。在主要顶级域名中 AI 创作文本的分布并不均匀。ChatGPT 最初发布时 AI 语言模式在 .com、.org、.edu 和 .gov 等域名上的出现频率大致相同。但 2026 年的样本中十分之一的 .com 域名显示出 A...",
-      "source": "Solidot",
-      "pub_date": "Mon, 24 Aug 2026 15:06:36 +0800",
-      "fetched_at": "2026-08-25T12:00:04.685923",
+      "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+      "link": "https://www.qbitai.com/2026/09/483598.html",
+      "summary": "吃下90%市场",
+      "source": "量子位",
+      "pub_date": "Fri, 04 Sep 2026 01:40:42 +0000",
+      "fetched_at": "2026-09-04T12:00:08.413372",
       "categories": [
         "ai"
       ],
-      "ai_summary": "美国皮尤研究中心的数据科学家使用 AI 检测工具分析了过去五年的 50 万英文网页，估计其中 AI 撰写内容的比例。所有这些样本网页中，十分之一有明显 AI 创作痕迹。在 OpenAI 的 AI 工具 ChatGPT 于 2022 年底推出之后，AI 内容的比例在不断上升。2026 年 7 月的快照...",
+      "ai_summary": "吃下90%市场",
       "keywords": [
-        "ai",
+        "卡车自动驾驶里程超",
+        "亿公里",
+        "嬴彻科技定义",
+        "货运物理",
+        "ai"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "ChatGPT/Codex 应用捆绑了完整的 LibreOffice 副本",
+      "link": "https://www.solidot.org/story?sid=85263",
+      "summary": "OpenAI 的 ChatGPT/Codex 桌面应用被发现捆绑了完整的 LibreOffice 副本、完整的 Python 安装包、完整的 Node.js 安装包，以及 Poppler 和 git 等常用工具，这些文件位于名为 codex-primary-runtime 的文件夹内，占据了数 GB 的空间。此前 Anthropics 的 Claude 桌面应用被发现捆绑了 10GB 的虚拟机。",
+      "source": "Solidot",
+      "pub_date": "Wed, 02 Sep 2026 18:04:28 +0800",
+      "fetched_at": "2026-09-04T12:00:08.061041",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "OpenAI 的 ChatGPT/Codex 桌面应用被发现捆绑了完整的 LibreOffice 副本、完整的 Python 安装包、完整的 Node.js 安装包，以及 Poppler 和 git 等常用工具，这些文件位于名为 codex-primary-runtime 的文件夹内，占据了数 GB...",
+      "keywords": [
+        "codex",
         "chatgpt",
-        "创作痕迹",
-        "com",
-        "调查显示三分之一英文网页有"
+        "libreoffice",
+        "副本",
+        "完整的"
       ],
       "importance": 1.0
     },
     {
-      "title": "九成生物医学论文有 AI 辅助写作痕迹",
-      "link": "https://www.solidot.org/story?sid=85173",
-      "summary": "在论文写作中使用 AI 的情况可能比以前认为的更普遍。根据发表在 arXiv 上的一篇预印本，对 PubMed Central 数据库收录的 2025 年全年发表的英文论文的分析显示，LLM 的使用比例高达 77%，而 2024 年这一比例为 52%。这一结论与 2025 年进行的一项调查结果一致。调查显示，71% 的研究人员表示在使用 AI 辅助写作——实际使用率可能高于承认的水平。2025 年 12 月发表的论文有近九成出现了 AI 辅助写作的痕迹。最新研究还发现，AI 辅助写作在摘要、引言和讨论部分比在方法和结果部分更为常见。",
+      "title": "AI 时代 Linux 7.x 系列每个版本修复的漏洞数接近 2000 个",
+      "link": "https://www.solidot.org/story?sid=85265",
+      "summary": "根据稳定版内核维护者 Greg Kroah-Hartman 制作的幻灯片，Linux 7.x 系列的 CVE 数量已从 7.1 的逾千增加到 7.2 的逾 1500，按照这一趋势，下个版本 7.3 将会超过 2000。这一切并非是因为 Linux 内核安全性变差，而是因为 AI 辅助安全检测工具对内核源代码的自动扫描发现了大量 bug，大部分 bug 并不严重属于低危级别。AI 工具产生了大量报告，而要从这些报告中发现有用的信息需要维护者耗费大量精力和时间。内核网络系统的维护者 Jakub Kicinski 表示他们有点不堪重负了。为了减少旧代码的 bug 报告，内核维护者们开始移除大量基本上...",
       "source": "Solidot",
-      "pub_date": "Mon, 24 Aug 2026 15:26:30 +0800",
-      "fetched_at": "2026-08-25T12:00:04.685415",
+      "pub_date": "Thu, 03 Sep 2026 00:06:58 +0800",
+      "fetched_at": "2026-09-04T12:00:08.060763",
       "categories": [
         "ai"
       ],
-      "ai_summary": "在论文写作中使用 AI 的情况可能比以前认为的更普遍。根据发表在 arXiv 上的一篇预印本，对 PubMed Central 数据库收录的 2025 年全年发表的英文论文的分析显示，LLM 的使用比例高达 77%，而 2024 年这一比例为 52%。这一结论与 2025 年进行的一项调查结果一致。...",
+      "ai_summary": "根据稳定版内核维护者 Greg Kroah-Hartman 制作的幻灯片，Linux 7.x 系列的 CVE 数量已从 7.1 的逾千增加到 7.2 的逾 1500，按照这一趋势，下个版本 7.3 将会超过 2000。这一切并非是因为 Linux 内核安全性变差，而是因为 AI 辅助安全检测工具对内...",
       "keywords": [
         "ai",
-        "九成生物医学论文有",
-        "辅助写作痕迹",
-        "在论文写作中使用",
-        "的情况可能比以前认为的更普遍"
+        "linux",
+        "bug",
+        "时代",
+        "系列每个版本修复的漏洞数接近"
       ],
       "importance": 0
     },
     {
-      "title": "嫦娥七号推迟到明年发射",
-      "link": "https://www.solidot.org/story?sid=85177",
-      "summary": "中国载人航天工程网周日发表一句话声明：“本着稳妥可靠、万无一失的原则，经综合研判，嫦娥七号任务不满足发射条件，不能在今年预定窗口实施。”官方没有解释原因。嫦娥七号原计划的发射窗口是 2026 年 8 月 24 日上午。下一个发射窗口可能是明年 2 月或 3 月。推迟发射的一个可能原因是台风娜拉的影响，娜拉正在海南文昌发射场附近海域徘徊，在发射窗口关闭前，天气状况不太可能好转。嫦娥七号将登陆月球南极，寻找水冰，探测器对登陆地区的日照条件要求较高。",
+      "title": "Uber 裁员 3300 人",
+      "link": "https://www.solidot.org/story?sid=85269",
+      "summary": "Uber 宣布裁员 3300 人，大约占全球员工总数的 10%。与其它科技公司不同的是，Uber 不是以 AI 的借口裁员的，而是旨在精简管理层和降低成本。这是 Uber 2020 年 5 月以来最大规模的一轮裁员。CEO Dara Khosrowshahi 在一封内部邮件中宣布了裁员决定。该公司计划裁掉 20% 的管理人员，将向 CEO 汇报层级达到或超过七层的员工人数减少 20%，将只有一到两名成员的团队数量减少 50%，合并工程、科学和配送部门，整合餐饮、零售和直销部门的配送业务，取消远程办公岗位——Uber 目前仅允许不到 1% 的员工远程办公。",
       "source": "Solidot",
-      "pub_date": "Mon, 24 Aug 2026 17:18:10 +0800",
-      "fetched_at": "2026-08-25T12:00:04.684522",
+      "pub_date": "Thu, 03 Sep 2026 15:29:51 +0800",
+      "fetched_at": "2026-09-04T12:00:08.060144",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Uber 宣布裁员 3300 人，大约占全球员工总数的 10%。与其它科技公司不同的是，Uber 不是以 AI 的借口裁员的，而是旨在精简管理层和降低成本。这是 Uber 2020 年 5 月以来最大规模的一轮裁员。CEO Dara Khosrowshahi 在一封内部邮件中宣布了裁员决定。该公司计...",
+      "keywords": [
+        "uber",
+        "ceo",
+        "裁员",
+        "宣布裁员",
+        "大约占全球员工总数的"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "人体不同组织的结构衰老呈现三种模式",
+      "link": "https://www.solidot.org/story?sid=85272",
+      "summary": "研究人员开发出名为 PathStAR 的深度学习模型，将 40 种人体组织的 2.5 万余张活检图像分割成 3000 多万个小图像区域，从中提取反映组织结构的特征，以分析不同年龄阶段组织结构的变化。卵巢组织的分析显示，卵巢呈现出明显的“双相结构衰老”特征：35-40 岁期间衰老速度明显加快，这一时期恰逢女性生育能力下降；55-60 岁期间再次出现衰老加速，与绝经期相对应。研究人员将 PathStAR 应用于 15 种样本量较大且覆盖全年龄段的组织，发现不同组织的结构衰老主要呈现三种模式。第一种是早期衰老型，血管系统属于这一类，其结构衰老在30-39 岁期间明显加快，之后衰老速度下降。第二种是晚...",
+      "source": "Solidot",
+      "pub_date": "Thu, 03 Sep 2026 16:11:11 +0800",
+      "fetched_at": "2026-09-04T12:00:08.059852",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "研究人员开发出名为 PathStAR 的深度学习模型，将 40 种人体组织的 2.5 万余张活检图像分割成 3000 多万个小图像区域，从中提取反映组织结构的特征，以分析不同年龄阶段组织结构的变化。卵巢组织的分析显示，卵巢呈现出明显的“双相结构衰老”特征：35-40 岁期间衰老速度明显加快，这一时期...",
+      "keywords": [
+        "pathstar",
+        "人体不同组织的结构衰老呈现三种模式",
+        "研究人员开发出名为",
+        "的深度学习模型",
+        "种人体组织的"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "NASA 选择 Blue Origin 作为火星通信网络供应商",
+      "link": "https://www.solidot.org/story?sid=85273",
+      "summary": "NASA 授予 Blue Origin 一份价值高达 7 亿美元的合同，用于建造和运营一个专门的火星通信网络，以支持当前和未来的火星探测任务。Blue Origin 预计于 2028 年底交付火星飞行器，预计 2030 年投入运行。Blue Origin 将负责设计、开发、集成、发射和运营该网络，作为 NASA 更广泛的太空通信和导航基础设施的一部分。该架构将包括一艘环绕火星运行的高性能通信飞行器，用于传输科学数据、图像、导航信息以及为在火星表面及周围运行的飞行器提供的关键任务通信。",
+      "source": "Solidot",
+      "pub_date": "Thu, 03 Sep 2026 16:35:33 +0800",
+      "fetched_at": "2026-09-04T12:00:08.059692",
       "categories": [
         "space"
       ],
-      "ai_summary": "中国载人航天工程网周日发表一句话声明：“本着稳妥可靠、万无一失的原则，经综合研判，嫦娥七号任务不满足发射条件，不能在今年预定窗口实施。”官方没有解释原因。嫦娥七号原计划的发射窗口是 2026 年 8 月 24 日上午。下一个发射窗口可能是明年 2 月或 3 月。推迟发射的一个可能原因是台风娜拉的影响...",
+      "ai_summary": "NASA 授予 Blue Origin 一份价值高达 7 亿美元的合同，用于建造和运营一个专门的火星通信网络，以支持当前和未来的火星探测任务。Blue Origin 预计于 2028 年底交付火星飞行器，预计 2030 年投入运行。Blue Origin 将负责设计、开发、集成、发射和运营该网络，作...",
       "keywords": [
-        "嫦娥七号推迟到明年发射",
-        "中国载人航天工程网周日发表一句话声明",
-        "本着稳妥可靠",
-        "万无一失的原则",
-        "经综合研判"
+        "blue",
+        "origin",
+        "nasa",
+        "选择",
+        "作为火星通信网络供应商"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "Nexus Mods 收购 SteamDB",
+      "link": "https://www.solidot.org/story?sid=85274",
+      "summary": "最大 PC 游戏 Mod 分享托管平台 Nexus Mods 收购了 SteamDB。SteamDB 创始人退出的理由与 2025 年 6 月 Nexus Mods 创始人 Robin Scott 将网站出售给游戏公司 Chosen 的理由类似——筋疲力尽。SteamDB 的两位创始人 Pavel 和 Marlamin 于 2013 年创办了记录 Steam 游戏商店所有上架游戏相关信息的网站，和 Nexus Mods 一样，一开始是一个爱好性质的项目，但之后逐渐成为最大的 Steam 游戏信息平台，Marlamin 后来退出，新冠疫情之后 AI 时代来临，互联网已经不是以前的互联网，Pave...",
+      "source": "Solidot",
+      "pub_date": "Thu, 03 Sep 2026 17:44:12 +0800",
+      "fetched_at": "2026-09-04T12:00:08.059548",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "最大 PC 游戏 Mod 分享托管平台 Nexus Mods 收购了 SteamDB。SteamDB 创始人退出的理由与 2025 年 6 月 Nexus Mods 创始人 Robin Scott 将网站出售给游戏公司 Chosen 的理由类似——筋疲力尽。SteamDB 的两位创始人 Pavel ...",
+      "keywords": [
+        "nexus",
+        "mods",
+        "steamdb",
+        "marlamin",
+        "steam"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "LibreOffice 26.8 发布一周下载量突破 100 万次",
+      "link": "https://www.solidot.org/story?sid=85277",
+      "summary": "LibreOffice 26.8 于 8 月 26 日发布，根据官网的统计数据，在发布一周内其下载量达到了 1,031,162 次。负责 LibreOffice 项目的基金会 The Document Foundation 表示这是至今最高的首周下载次数数据。大多数 Linux 用户是通过 Snap Store、Flathub 等软件商店渠道进行更新，因此实际数字会更高。为什么这一版本会如此大获成功，也许是在 AI 时代它可能是少数没有引入任何 AI 功能的常用办公软件。微软的 MS Office、苹果的 iWork 甚至开源的 ONLYOFFICE 都在不断集成 AI 功能。",
+      "source": "Solidot",
+      "pub_date": "Thu, 03 Sep 2026 22:44:16 +0800",
+      "fetched_at": "2026-09-04T12:00:08.059008",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "LibreOffice 26.8 于 8 月 26 日发布，根据官网的统计数据，在发布一周内其下载量达到了 1,031,162 次。负责 LibreOffice 项目的基金会 The Document Foundation 表示这是至今最高的首周下载次数数据。大多数 Linux 用户是通过 Snap...",
+      "keywords": [
+        "libreoffice",
+        "ai",
+        "发布一周下载量突破",
+        "万次",
+        "日发布"
+      ],
+      "importance": 1.5
+    },
+    {
+      "title": "Audacity 4.0 释出",
+      "link": "https://www.solidot.org/story?sid=85279",
+      "summary": "音频编辑器项目 Audacity 释出了 v4.0。主要变化包括：基于 Qt6 重构了 UI，支持原生高 DPI 渲染；能将 UI 布局保存为 Workspaces；工具栏和面板可移动、停靠、浮动、显示或隐藏；改进了音频片段的处理；新增 .aup4 项目格式；等等。Audacity 4.0 与 Audacity 3.x 不完全兼容，部分 Audacity 3 系列的功能尚未移植到 4.x 版本。",
+      "source": "Solidot",
+      "pub_date": "Thu, 03 Sep 2026 23:07:12 +0800",
+      "fetched_at": "2026-09-04T12:00:08.058655",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "音频编辑器项目 Audacity 释出了 v4.0。主要变化包括：基于 Qt6 重构了 UI，支持原生高 DPI 渲染；能将 UI 布局保存为 Workspaces；工具栏和面板可移动、停靠、浮动、显示或隐藏；改进了音频片段的处理；新增 .aup4 项目格式；等等。Audacity 4.0 与 Au...",
+      "keywords": [
+        "audacity",
+        "ui",
+        "释出",
+        "音频编辑器项目",
+        "释出了"
       ],
       "importance": 0
     },
     {
-      "title": "Anthropic 最强模型难以吸引用户",
-      "link": "https://www.solidot.org/story?sid=85181",
-      "summary": "Anthropic 的美国客户正使用其最强大 AI 工具的更廉价替代品，引发了外界对其高投入商业模式的质疑，而市场普遍预计 Anthropic 即将进行史上规模最大的 IPO。根据支付服务集团 Ramp 收集的 7 万家公司支出数据，Anthropic 规模最大、成本最高的模型 Fable 5 发布两个多月后，其支出占该公司各类工具总支出的比例仍仅约为 11%，目前已趋于稳定。这打破了企业用户默认选择最强大模型的惯例。分析师和投资者表示，这一变化主要是由于 Fable 5 价格高昂，以及旧款模型能满足大部分企业需求。如果这一转变持续下去，可能会彻底改变前沿 AI 实验室的商业模式。前沿 AI ...",
+      "title": "纽约市禁止八年级以下公立学校学生使用生成式 AI",
+      "link": "https://www.solidot.org/story?sid=85281",
+      "summary": "纽约市长 Zohran Mamdani 周三宣布了一项为期一年的新政策，禁止从幼儿园到八年级的公立学校学生使用生成式 AI。纽约市同时还限制低年级学生的屏幕使用时间，为高中生开设 AI 素养课程。禁令将于 2026-2027 学年生效，将影响近 60 万名学生，占全市公立学校学生总数的 2/3。Mamdani 表示，“这项禁令体现了我们对未来负责的承诺，我们将拥抱新技术，但前提是它必须服务于我们的学生。”新政策引入了新的屏幕时间指导方针，包括限制低年级学生一对一使用电子设备，建议 3-5 年级学生每日使用时间上限为 30 分钟，6-8 年级学生每日使用时间上限为 45 分钟。",
       "source": "Solidot",
-      "pub_date": "Mon, 24 Aug 2026 20:27:02 +0800",
-      "fetched_at": "2026-08-25T12:00:04.682703",
+      "pub_date": "Thu, 03 Sep 2026 23:29:05 +0800",
+      "fetched_at": "2026-09-04T12:00:08.058329",
       "categories": [
         "ai"
       ],
-      "ai_summary": "Anthropic 的美国客户正使用其最强大 AI 工具的更廉价替代品，引发了外界对其高投入商业模式的质疑，而市场普遍预计 Anthropic 即将进行史上规模最大的 IPO。根据支付服务集团 Ramp 收集的 7 万家公司支出数据，Anthropic 规模最大、成本最高的模型 Fable 5 发布...",
+      "ai_summary": "纽约市长 Zohran Mamdani 周三宣布了一项为期一年的新政策，禁止从幼儿园到八年级的公立学校学生使用生成式 AI。纽约市同时还限制低年级学生的屏幕使用时间，为高中生开设 AI 素养课程。禁令将于 2026-2027 学年生效，将影响近 60 万名学生，占全市公立学校学生总数的 2/3。Ma...",
       "keywords": [
-        "anthropic",
         "ai",
-        "fable",
-        "最强模型难以吸引用户",
-        "的美国客户正使用其最强大"
+        "mamdani",
+        "年级学生每日使用时间上限为",
+        "分钟",
+        "纽约市禁止八年级以下公立学校学生使用生成式"
       ],
-      "importance": 1.0
+      "importance": 0
     }
   ],
-  "updated_at": "2026-08-25T12:00:34.416985"
+  "updated_at": "2026-09-04T12:00:31.832046"
 }

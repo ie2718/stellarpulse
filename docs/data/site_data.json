@@ -5,15 +5,15 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-09-06T20:00:41.978791",
-    "total_items": 19
+    "last_update": "2026-09-07T20:00:45.131561",
+    "total_items": 11
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 16
+      "count": 10
     },
     "robotics": {
       "name": "Robotics",
@@ -25,181 +25,79 @@
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 3
+      "count": 0
     }
   },
   "stats": {
-    "total_items": 19,
-    "today_items": 19,
+    "total_items": 11,
+    "today_items": 11,
     "sources": {
-      "Solidot": 6,
-      "量子位": 9,
-      "HackerNews": 4
+      "量子位": 6,
+      "Solidot": 2,
+      "HackerNews": 3
     },
-    "last_update": "2026-09-06T20:00:41.978791"
+    "last_update": "2026-09-07T20:00:45.131561"
   },
   "trending": [
     {
-      "title": "四大 AI 模型同时下线",
-      "link": "https://www.solidot.org/story?sid=85283",
-      "summary": "周四早晨 ChatGPT、Claude、Grok 和 Gemini 四大 AI 服务几乎在同一时间段内遭遇了严重故障。OpenAI 和 Anthropic 报告了高错误率；Downdetector.com 的监测显示 Gemini 可能也发生了故障，虽然 Google 并未公开承认。包括亚马逊 AWS、微软 Azure 和 Cloudflare 在内的主要互联网服务提供商都未报告任何重大故障，DownDetector 上的报告则显示这三家云服务商的故障数量都出现激增。虽然前沿模型时不时会发生故障，但四款 AI 服务同时在短时间内出现中断则相当罕见。",
-      "source": "Solidot",
-      "pub_date": "Fri, 04 Sep 2026 13:57:07 +0800",
-      "fetched_at": "2026-09-06T20:00:04.589309",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "周四早晨 ChatGPT、Claude、Grok 和 Gemini 四大 AI 服务几乎在同一时间段内遭遇了严重故障。OpenAI 和 Anthropic 报告了高错误率；Downdetector.com 的监测显示 Gemini 可能也发生了故障，虽然 Google 并未公开承认。包括亚马逊 AW...",
-      "keywords": [
-        "ai",
-        "四大",
-        "gemini",
-        "downdetector",
-        "模型同时下线"
-      ],
-      "importance": 2.0
-    },
-    {
-      "title": "英伟达发布开源工具将闲置算力连成个人数据中心",
-      "link": "https://www.solidot.org/story?sid=85284",
-      "summary": "英伟达发布开源工具 Personal AI Router(PAIR)，同步家庭网络中的兼容计算机，汇集闲置算力用于本地 AI 推理和智能体工作负载。PAIR 兼容设备包括了英伟达 GeForce RTX 20 及更新的显卡，以及 RTX Pro GPU 和 DGX Spark，此外还有苹果 M4 以上的芯片。PAIR 会根据用户家用电脑是否处于闲置状态去决定利用其算力，如果用户在电脑上玩游戏，那么该设备将会退出 PAIR 的网络。汇集多台设备的算力可避免单台设备的 GPU 出现算力瓶颈影响推理性能。PAIR 通过一个六位数代码配对所有设备，使用 mTLS(Mutual Transport La...",
-      "source": "Solidot",
-      "pub_date": "Fri, 04 Sep 2026 14:25:34 +0800",
-      "fetched_at": "2026-09-06T20:00:04.589086",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "英伟达发布开源工具 Personal AI Router(PAIR)，同步家庭网络中的兼容计算机，汇集闲置算力用于本地 AI 推理和智能体工作负载。PAIR 兼容设备包括了英伟达 GeForce RTX 20 及更新的显卡，以及 RTX Pro GPU 和 DGX Spark，此外还有苹果 M4 以...",
-      "keywords": [
-        "pair",
-        "ai",
-        "rtx",
-        "gpu",
-        "英伟达发布开源工具将闲置算力连成个人数据中心"
-      ],
-      "importance": 1.5
-    },
-    {
-      "title": "LibreOffice 26.8 发布一周下载量突破 100 万次",
-      "link": "https://www.solidot.org/story?sid=85277",
-      "summary": "LibreOffice 26.8 于 8 月 26 日发布，根据官网的统计数据，在发布一周内其下载量达到了 1,031,162 次。负责 LibreOffice 项目的基金会 The Document Foundation 表示这是至今最高的首周下载次数数据。大多数 Linux 用户是通过 Snap Store、Flathub 等软件商店渠道进行更新，因此实际数字会更高。为什么这一版本会如此大获成功，也许是在 AI 时代它可能是少数没有引入任何 AI 功能的常用办公软件。微软的 MS Office、苹果的 iWork 甚至开源的 ONLYOFFICE 都在不断集成 AI 功能。",
-      "source": "Solidot",
-      "pub_date": "Thu, 03 Sep 2026 22:44:16 +0800",
-      "fetched_at": "2026-09-06T20:00:04.590560",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "LibreOffice 26.8 于 8 月 26 日发布，根据官网的统计数据，在发布一周内其下载量达到了 1,031,162 次。负责 LibreOffice 项目的基金会 The Document Foundation 表示这是至今最高的首周下载次数数据。大多数 Linux 用户是通过 Snap...",
-      "keywords": [
-        "libreoffice",
-        "ai",
-        "发布一周下载量突破",
-        "万次",
-        "日发布"
-      ],
-      "importance": 1.5
-    },
-    {
-      "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
-      "link": "https://www.qbitai.com/2026/09/484683.html",
-      "summary": "当AI开始“预演”一场暴雨",
+      "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+      "link": "https://www.qbitai.com/2026/09/485431.html",
+      "summary": "OpenAI研究院人均带3个AI实习生",
       "source": "量子位",
-      "pub_date": "Sat, 05 Sep 2026 14:46:15 +0000",
-      "fetched_at": "2026-09-06T20:00:04.925435",
+      "pub_date": "Mon, 07 Sep 2026 09:04:06 +0000",
+      "fetched_at": "2026-09-07T20:00:06.851683",
       "categories": [
-        "ai",
-        "space"
-      ],
-      "ai_summary": "当AI开始“预演”一场暴雨",
-      "keywords": [
-        "押中",
-        "spacex",
-        "的硅谷老将",
-        "把票投给了一家中国世界模型公司",
         "ai"
       ],
-      "importance": 1.0
+      "ai_summary": "OpenAI研究院人均带3个AI实习生",
+      "keywords": [
+        "gpt",
+        "不只",
+        "astra",
+        "sol",
+        "内测结果曝光"
+      ],
+      "importance": 0.5
     },
     {
-      "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
-      "link": "https://www.qbitai.com/2026/09/484437.html",
-      "summary": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
+      "title": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
+      "link": "https://www.qbitai.com/2026/09/485056.html",
+      "summary": "",
       "source": "量子位",
-      "pub_date": "Fri, 04 Sep 2026 09:19:29 +0000",
-      "fetched_at": "2026-09-06T20:00:04.925954",
+      "pub_date": "Mon, 07 Sep 2026 06:03:34 +0000",
+      "fetched_at": "2026-09-07T20:00:06.851925",
       "categories": [
+        "ai"
+      ],
+      "ai_summary": "",
+      "keywords": [
+        "hidream",
+        "原生全模态技术战略闭环",
+        "智象",
         "ai",
-        "robotics"
-      ],
-      "ai_summary": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
-      "keywords": [
-        "smoothrl",
-        "机器人不能停下来等模型",
-        "星尘发布",
-        "让在线强化学习跟上大模型的异步推理",
-        "星尘智能"
+        "发布具身世界模型"
       ],
       "importance": 0.5
     },
     {
-      "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
-      "link": "https://www.qbitai.com/2026/09/484203.html",
-      "summary": "5000支队伍同台做题，写尽行业四年变化",
-      "source": "量子位",
-      "pub_date": "Fri, 04 Sep 2026 07:09:43 +0000",
-      "fetched_at": "2026-09-06T20:00:04.926111",
+      "title": "内存短缺将继续推动消费电子产品价格上涨",
+      "link": "https://www.solidot.org/story?sid=85302",
+      "summary": "在可预见的未来，消费者应预期日常电子产品价格将会上涨，因 AI 热正在逆转电子产品价格越来越低、性能越来越强的趋势。数十年来，消费者一直能以更低的价格享用性能日益提升的电子设备。AI 热推高了存储芯片及其他零部件的成本，从而逆转了上述趋势。Counterpoint 研究总监 MS Hwang 表示，几乎所有消费电子产品类别都受到短缺影响。IDC 称，制造商和零售商正将价格提高最多 20%。Counterpoint 的数据显示，过去一年 DRAM 价格上涨了五倍，合约价格每季度上涨 10%-20%。虽然 DRAM 供应短缺最为严重，但包括 GPU 和 CPU 在内的半导体也面临供应紧张。MS H...",
+      "source": "Solidot",
+      "pub_date": "Mon, 07 Sep 2026 13:55:13 +0800",
+      "fetched_at": "2026-09-07T20:00:06.537123",
       "categories": [
         "ai"
       ],
-      "ai_summary": "5000支队伍同台做题，写尽行业四年变化",
+      "ai_summary": "在可预见的未来，消费者应预期日常电子产品价格将会上涨，因 AI 热正在逆转电子产品价格越来越低、性能越来越强的趋势。数十年来，消费者一直能以更低的价格享用性能日益提升的电子设备。AI 热推高了存储芯片及其他零部件的成本，从而逆转了上述趋势。Counterpoint 研究总监 MS Hwang 表示，...",
       "keywords": [
-        "金融",
         "ai",
-        "的年度大考交卷了",
-        "万名选手",
-        "家机构"
+        "counterpoint",
+        "ms",
+        "dram",
+        "内存短缺将继续推动消费电子产品价格上涨"
       ],
-      "importance": 0.5
-    },
-    {
-      "title": "Discovery of a new OpenAI agent message board",
-      "link": "https://collusion.wiki/",
-      "summary": "👍 2201 | 💬 1553",
-      "source": "HackerNews",
-      "pub_date": "2026-09-04T19:54:53",
-      "fetched_at": "2026-09-06T20:00:31.685666",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 2201 | 💬 1553",
-      "keywords": [
-        "discovery",
-        "of",
-        "new",
-        "openai",
-        "agent"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "Chrome again exempts Google from user site data settings",
-      "link": "https://lapcatsoftware.com/articles/2026/9/1.html",
-      "summary": "👍 444 | 💬 66",
-      "source": "HackerNews",
-      "pub_date": "2026-09-06T07:39:47",
-      "fetched_at": "2026-09-06T20:00:37.406792",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 444 | 💬 66",
-      "keywords": [
-        "chrome",
-        "again",
-        "exempts",
-        "google",
-        "from"
-      ],
-      "importance": 0.5
+      "importance": 0
     },
     {
       "title": "F-Droid 考虑采用与 Debian 相同的 AI 政策",
@@ -207,7 +105,7 @@
       "summary": "一周前，Debian 项目经过投票允许以负责任的方式使用生成式 AI，Debian 项目表示，它既不反对也不支持在软件、包、文档等的开发和维护中使用生成式 AI 工具。但项目也认识到，如果能负责任的使用 AI 工具，将能显著提高贡献者的效率，使他们将有限的时间投入到需要技术专长、判断力、审核和协作的工作中。现在，Android 自由软件应用商店 F-Droid 考虑采用与 Debian 相同的 AI 政策，它的政策提议直接拷贝了 Debian 的政策全文，只是将 Debian 的名字替换为 F-Droid。",
       "source": "Solidot",
       "pub_date": "Sat, 05 Sep 2026 20:59:25 +0800",
-      "fetched_at": "2026-09-06T20:00:04.587012",
+      "fetched_at": "2026-09-07T20:00:06.538458",
       "categories": [
         "ai"
       ],
@@ -222,265 +120,62 @@
       "importance": 0
     },
     {
-      "title": "纽约市禁止八年级以下公立学校学生使用生成式 AI",
-      "link": "https://www.solidot.org/story?sid=85281",
-      "summary": "纽约市长 Zohran Mamdani 周三宣布了一项为期一年的新政策，禁止从幼儿园到八年级的公立学校学生使用生成式 AI。纽约市同时还限制低年级学生的屏幕使用时间，为高中生开设 AI 素养课程。禁令将于 2026-2027 学年生效，将影响近 60 万名学生，占全市公立学校学生总数的 2/3。Mamdani 表示，“这项禁令体现了我们对未来负责的承诺，我们将拥抱新技术，但前提是它必须服务于我们的学生。”新政策引入了新的屏幕时间指导方针，包括限制低年级学生一对一使用电子设备，建议 3-5 年级学生每日使用时间上限为 30 分钟，6-8 年级学生每日使用时间上限为 45 分钟。",
-      "source": "Solidot",
-      "pub_date": "Thu, 03 Sep 2026 23:29:05 +0800",
-      "fetched_at": "2026-09-06T20:00:04.589811",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "纽约市长 Zohran Mamdani 周三宣布了一项为期一年的新政策，禁止从幼儿园到八年级的公立学校学生使用生成式 AI。纽约市同时还限制低年级学生的屏幕使用时间，为高中生开设 AI 素养课程。禁令将于 2026-2027 学年生效，将影响近 60 万名学生，占全市公立学校学生总数的 2/3。Ma...",
-      "keywords": [
-        "ai",
-        "mamdani",
-        "年级学生每日使用时间上限为",
-        "分钟",
-        "纽约市禁止八年级以下公立学校学生使用生成式"
-      ],
-      "importance": 0
-    }
-  ],
-  "latest": [
-    {
-      "title": "Chrome again exempts Google from user site data settings",
-      "link": "https://lapcatsoftware.com/articles/2026/9/1.html",
-      "summary": "👍 444 | 💬 66",
-      "source": "HackerNews",
-      "pub_date": "2026-09-06T07:39:47",
-      "fetched_at": "2026-09-06T20:00:37.406792",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 444 | 💬 66",
-      "keywords": [
-        "chrome",
-        "again",
-        "exempts",
-        "google",
-        "from"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "Discovery of a new OpenAI agent message board",
-      "link": "https://collusion.wiki/",
-      "summary": "👍 2201 | 💬 1553",
-      "source": "HackerNews",
-      "pub_date": "2026-09-04T19:54:53",
-      "fetched_at": "2026-09-06T20:00:31.685666",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 2201 | 💬 1553",
-      "keywords": [
-        "discovery",
-        "of",
-        "new",
-        "openai",
-        "agent"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "AI, Tools and Transformation",
-      "link": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-      "summary": "👍 79 | 💬 33",
-      "source": "HackerNews",
-      "pub_date": "2026-09-06T10:12:46",
-      "fetched_at": "2026-09-06T20:00:25.425187",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 79 | 💬 33",
-      "keywords": [
-        "ai",
-        "tools",
-        "and",
-        "transformation"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-      "link": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
-      "summary": "👍 253 | 💬 54",
-      "source": "HackerNews",
-      "pub_date": "2026-09-06T15:21:06",
-      "fetched_at": "2026-09-06T20:00:09.291459",
-      "categories": [
-        "space"
-      ],
-      "ai_summary": "👍 253 | 💬 54",
-      "keywords": [
-        "isar",
-        "aerospace",
-        "reaches",
-        "orbit",
-        "and"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
-      "link": "https://www.qbitai.com/2026/09/484203.html",
-      "summary": "5000支队伍同台做题，写尽行业四年变化",
+      "title": "3秒变身！会合体的机器人，卖到全球50国",
+      "link": "https://www.qbitai.com/2026/09/485525.html",
+      "summary": "谁说现在机器人都长得差不多的！",
       "source": "量子位",
-      "pub_date": "Fri, 04 Sep 2026 07:09:43 +0000",
-      "fetched_at": "2026-09-06T20:00:04.926111",
+      "pub_date": "Mon, 07 Sep 2026 09:34:06 +0000",
+      "fetched_at": "2026-09-07T20:00:06.851580",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "谁说现在机器人都长得差不多的！",
+      "keywords": [
+        "秒变身",
+        "会合体的机器人",
+        "卖到全球",
+        "谁说现在机器人都长得差不多的"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+      "link": "https://www.qbitai.com/2026/09/485108.html",
+      "summary": "“在两个模型之间找到数学上的共同基础其实非常困难”",
+      "source": "量子位",
+      "pub_date": "Mon, 07 Sep 2026 08:36:30 +0000",
+      "fetched_at": "2026-09-07T20:00:06.851844",
       "categories": [
         "ai"
       ],
-      "ai_summary": "5000支队伍同台做题，写尽行业四年变化",
+      "ai_summary": "“在两个模型之间找到数学上的共同基础其实非常困难”",
       "keywords": [
-        "金融",
-        "ai",
-        "的年度大考交卷了",
-        "万名选手",
-        "家机构"
+        "菲尔兹奖得主入局大模型",
+        "手机",
+        "qwen",
+        "云端",
+        "glm"
       ],
-      "importance": 0.5
+      "importance": 0
     },
     {
-      "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
-      "link": "https://www.qbitai.com/2026/09/484437.html",
-      "summary": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
+      "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
+      "link": "https://www.qbitai.com/2026/09/484897.html",
+      "summary": "让机器人学会利用更长的多模态Context",
       "source": "量子位",
-      "pub_date": "Fri, 04 Sep 2026 09:19:29 +0000",
-      "fetched_at": "2026-09-06T20:00:04.925954",
+      "pub_date": "Sun, 06 Sep 2026 11:44:21 +0000",
+      "fetched_at": "2026-09-07T20:00:06.852080",
       "categories": [
         "ai",
         "robotics"
       ],
-      "ai_summary": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
+      "ai_summary": "让机器人学会利用更长的多模态Context",
       "keywords": [
-        "smoothrl",
-        "机器人不能停下来等模型",
-        "星尘发布",
-        "让在线强化学习跟上大模型的异步推理",
-        "星尘智能"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
-      "link": "https://www.qbitai.com/2026/09/484547.html",
-      "summary": "国产卡跑出高品质 AI Token 生产级性能",
-      "source": "量子位",
-      "pub_date": "Fri, 04 Sep 2026 09:23:24 +0000",
-      "fetched_at": "2026-09-06T20:00:04.925870",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "国产卡跑出高品质 AI Token 生产级性能",
-      "keywords": [
-        "ai",
-        "token",
-        "趋境科技与摩尔线程达成战略合作",
-        "高品质",
-        "国产异构方案性价比超越国际先进算力"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
-      "link": "https://www.qbitai.com/2026/09/484551.html",
-      "summary": "最后靠Harness救回来",
-      "source": "量子位",
-      "pub_date": "Sat, 05 Sep 2026 01:17:56 +0000",
-      "fetched_at": "2026-09-06T20:00:04.925771",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "最后靠Harness救回来",
-      "keywords": [
-        "姚班校友主导",
-        "claude",
-        "攻克费马大定理首个完整形式化证明",
-        "最后靠",
-        "harness"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
-      "link": "https://www.qbitai.com/2026/09/484611.html",
-      "summary": "如此“反骨”的方法，具体又是怎么实现的？",
-      "source": "量子位",
-      "pub_date": "Sat, 05 Sep 2026 04:18:54 +0000",
-      "fetched_at": "2026-09-06T20:00:04.925600",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "如此“反骨”的方法，具体又是怎么实现的？",
-      "keywords": [
-        "这个世界模型训练完就",
-        "退场",
-        "机器人反而更能干了",
-        "如此",
-        "反骨"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
-      "link": "https://www.qbitai.com/2026/09/484649.html",
-      "summary": "AI直接吐出正确答案，但最关键的可能不是答案",
-      "source": "量子位",
-      "pub_date": "Sat, 05 Sep 2026 04:24:25 +0000",
-      "fetched_at": "2026-09-06T20:00:04.925521",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "AI直接吐出正确答案，但最关键的可能不是答案",
-      "keywords": [
-        "陶哲轩吐槽",
-        "gpt",
-        "孪生素数新突破",
-        "令人无语的一幕",
-        "ai"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
-      "link": "https://www.qbitai.com/2026/09/484683.html",
-      "summary": "当AI开始“预演”一场暴雨",
-      "source": "量子位",
-      "pub_date": "Sat, 05 Sep 2026 14:46:15 +0000",
-      "fetched_at": "2026-09-06T20:00:04.925435",
-      "categories": [
-        "ai",
-        "space"
-      ],
-      "ai_summary": "当AI开始“预演”一场暴雨",
-      "keywords": [
-        "押中",
-        "spacex",
-        "的硅谷老将",
-        "把票投给了一家中国世界模型公司",
-        "ai"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "GPT-6带火循环Transformer，阿里早已布局",
-      "link": "https://www.qbitai.com/2026/09/484726.html",
-      "summary": "手握两篇顶会论文",
-      "source": "量子位",
-      "pub_date": "Sat, 05 Sep 2026 15:07:08 +0000",
-      "fetched_at": "2026-09-06T20:00:04.925317",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "手握两篇顶会论文",
-      "keywords": [
-        "gpt",
-        "带火循环",
-        "transformer",
-        "阿里早已布局",
-        "手握两篇顶会论文"
+        "具身",
+        "icl",
+        "来了创业玩家",
+        "上下文成",
+        "scaling"
       ],
       "importance": 0
     },
@@ -490,7 +185,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Sun, 06 Sep 2026 04:40:15 +0000",
-      "fetched_at": "2026-09-06T20:00:04.925101",
+      "fetched_at": "2026-09-07T20:00:06.852089",
       "categories": [
         "ai"
       ],
@@ -504,104 +199,225 @@
       "importance": 0
     },
     {
-      "title": "LibreOffice 26.8 发布一周下载量突破 100 万次",
-      "link": "https://www.solidot.org/story?sid=85277",
-      "summary": "LibreOffice 26.8 于 8 月 26 日发布，根据官网的统计数据，在发布一周内其下载量达到了 1,031,162 次。负责 LibreOffice 项目的基金会 The Document Foundation 表示这是至今最高的首周下载次数数据。大多数 Linux 用户是通过 Snap Store、Flathub 等软件商店渠道进行更新，因此实际数字会更高。为什么这一版本会如此大获成功，也许是在 AI 时代它可能是少数没有引入任何 AI 功能的常用办公软件。微软的 MS Office、苹果的 iWork 甚至开源的 ONLYOFFICE 都在不断集成 AI 功能。",
-      "source": "Solidot",
-      "pub_date": "Thu, 03 Sep 2026 22:44:16 +0800",
-      "fetched_at": "2026-09-06T20:00:04.590560",
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "link": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "summary": "👍 36 | 💬 9",
+      "source": "HackerNews",
+      "pub_date": "2026-09-07T17:26:41",
+      "fetched_at": "2026-09-07T20:00:13.670599",
       "categories": [
         "ai"
       ],
-      "ai_summary": "LibreOffice 26.8 于 8 月 26 日发布，根据官网的统计数据，在发布一周内其下载量达到了 1,031,162 次。负责 LibreOffice 项目的基金会 The Document Foundation 表示这是至今最高的首周下载次数数据。大多数 Linux 用户是通过 Snap...",
+      "ai_summary": "👍 36 | 💬 9",
       "keywords": [
-        "libreoffice",
-        "ai",
-        "发布一周下载量突破",
-        "万次",
-        "日发布"
-      ],
-      "importance": 1.5
-    },
-    {
-      "title": "Audacity 4.0 释出",
-      "link": "https://www.solidot.org/story?sid=85279",
-      "summary": "音频编辑器项目 Audacity 释出了 v4.0。主要变化包括：基于 Qt6 重构了 UI，支持原生高 DPI 渲染；能将 UI 布局保存为 Workspaces；工具栏和面板可移动、停靠、浮动、显示或隐藏；改进了音频片段的处理；新增 .aup4 项目格式；等等。Audacity 4.0 与 Audacity 3.x 不完全兼容，部分 Audacity 3 系列的功能尚未移植到 4.x 版本。",
-      "source": "Solidot",
-      "pub_date": "Thu, 03 Sep 2026 23:07:12 +0800",
-      "fetched_at": "2026-09-06T20:00:04.590251",
-      "categories": [
-        "space"
-      ],
-      "ai_summary": "音频编辑器项目 Audacity 释出了 v4.0。主要变化包括：基于 Qt6 重构了 UI，支持原生高 DPI 渲染；能将 UI 布局保存为 Workspaces；工具栏和面板可移动、停靠、浮动、显示或隐藏；改进了音频片段的处理；新增 .aup4 项目格式；等等。Audacity 4.0 与 Au...",
-      "keywords": [
-        "audacity",
-        "ui",
-        "释出",
-        "音频编辑器项目",
-        "释出了"
+        "speculative",
+        "decoding",
+        "in",
+        "vllm",
+        "on"
       ],
       "importance": 0
     },
     {
-      "title": "纽约市禁止八年级以下公立学校学生使用生成式 AI",
-      "link": "https://www.solidot.org/story?sid=85281",
-      "summary": "纽约市长 Zohran Mamdani 周三宣布了一项为期一年的新政策，禁止从幼儿园到八年级的公立学校学生使用生成式 AI。纽约市同时还限制低年级学生的屏幕使用时间，为高中生开设 AI 素养课程。禁令将于 2026-2027 学年生效，将影响近 60 万名学生，占全市公立学校学生总数的 2/3。Mamdani 表示，“这项禁令体现了我们对未来负责的承诺，我们将拥抱新技术，但前提是它必须服务于我们的学生。”新政策引入了新的屏幕时间指导方针，包括限制低年级学生一对一使用电子设备，建议 3-5 年级学生每日使用时间上限为 30 分钟，6-8 年级学生每日使用时间上限为 45 分钟。",
-      "source": "Solidot",
-      "pub_date": "Thu, 03 Sep 2026 23:29:05 +0800",
-      "fetched_at": "2026-09-06T20:00:04.589811",
+      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+      "link": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+      "summary": "👍 9 | 💬 0",
+      "source": "HackerNews",
+      "pub_date": "2026-09-07T19:46:37",
+      "fetched_at": "2026-09-07T20:00:21.822984",
       "categories": [
         "ai"
       ],
-      "ai_summary": "纽约市长 Zohran Mamdani 周三宣布了一项为期一年的新政策，禁止从幼儿园到八年级的公立学校学生使用生成式 AI。纽约市同时还限制低年级学生的屏幕使用时间，为高中生开设 AI 素养课程。禁令将于 2026-2027 学年生效，将影响近 60 万名学生，占全市公立学校学生总数的 2/3。Ma...",
+      "ai_summary": "👍 9 | 💬 0",
       "keywords": [
-        "ai",
-        "mamdani",
-        "年级学生每日使用时间上限为",
-        "分钟",
-        "纽约市禁止八年级以下公立学校学生使用生成式"
+        "smartphone",
+        "makers",
+        "don",
+        "bother",
+        "to"
+      ],
+      "importance": 0
+    }
+  ],
+  "latest": [
+    {
+      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+      "link": "https://github.com/timgordontg/engrim",
+      "summary": "👍 46 | 💬 11",
+      "source": "HackerNews",
+      "pub_date": "2026-09-07T12:49:36",
+      "fetched_at": "2026-09-07T20:00:37.715545",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 46 | 💬 11",
+      "keywords": [
+        "show",
+        "hn",
+        "engrim",
+        "universal",
+        "local"
       ],
       "importance": 0
     },
     {
-      "title": "四大 AI 模型同时下线",
-      "link": "https://www.solidot.org/story?sid=85283",
-      "summary": "周四早晨 ChatGPT、Claude、Grok 和 Gemini 四大 AI 服务几乎在同一时间段内遭遇了严重故障。OpenAI 和 Anthropic 报告了高错误率；Downdetector.com 的监测显示 Gemini 可能也发生了故障，虽然 Google 并未公开承认。包括亚马逊 AWS、微软 Azure 和 Cloudflare 在内的主要互联网服务提供商都未报告任何重大故障，DownDetector 上的报告则显示这三家云服务商的故障数量都出现激增。虽然前沿模型时不时会发生故障，但四款 AI 服务同时在短时间内出现中断则相当罕见。",
-      "source": "Solidot",
-      "pub_date": "Fri, 04 Sep 2026 13:57:07 +0800",
-      "fetched_at": "2026-09-06T20:00:04.589309",
+      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+      "link": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+      "summary": "👍 9 | 💬 0",
+      "source": "HackerNews",
+      "pub_date": "2026-09-07T19:46:37",
+      "fetched_at": "2026-09-07T20:00:21.822984",
       "categories": [
         "ai"
       ],
-      "ai_summary": "周四早晨 ChatGPT、Claude、Grok 和 Gemini 四大 AI 服务几乎在同一时间段内遭遇了严重故障。OpenAI 和 Anthropic 报告了高错误率；Downdetector.com 的监测显示 Gemini 可能也发生了故障，虽然 Google 并未公开承认。包括亚马逊 AW...",
+      "ai_summary": "👍 9 | 💬 0",
       "keywords": [
-        "ai",
-        "四大",
-        "gemini",
-        "downdetector",
-        "模型同时下线"
+        "smartphone",
+        "makers",
+        "don",
+        "bother",
+        "to"
       ],
-      "importance": 2.0
+      "importance": 0
     },
     {
-      "title": "英伟达发布开源工具将闲置算力连成个人数据中心",
-      "link": "https://www.solidot.org/story?sid=85284",
-      "summary": "英伟达发布开源工具 Personal AI Router(PAIR)，同步家庭网络中的兼容计算机，汇集闲置算力用于本地 AI 推理和智能体工作负载。PAIR 兼容设备包括了英伟达 GeForce RTX 20 及更新的显卡，以及 RTX Pro GPU 和 DGX Spark，此外还有苹果 M4 以上的芯片。PAIR 会根据用户家用电脑是否处于闲置状态去决定利用其算力，如果用户在电脑上玩游戏，那么该设备将会退出 PAIR 的网络。汇集多台设备的算力可避免单台设备的 GPU 出现算力瓶颈影响推理性能。PAIR 通过一个六位数代码配对所有设备，使用 mTLS(Mutual Transport La...",
-      "source": "Solidot",
-      "pub_date": "Fri, 04 Sep 2026 14:25:34 +0800",
-      "fetched_at": "2026-09-06T20:00:04.589086",
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "link": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "summary": "👍 36 | 💬 9",
+      "source": "HackerNews",
+      "pub_date": "2026-09-07T17:26:41",
+      "fetched_at": "2026-09-07T20:00:13.670599",
       "categories": [
         "ai"
       ],
-      "ai_summary": "英伟达发布开源工具 Personal AI Router(PAIR)，同步家庭网络中的兼容计算机，汇集闲置算力用于本地 AI 推理和智能体工作负载。PAIR 兼容设备包括了英伟达 GeForce RTX 20 及更新的显卡，以及 RTX Pro GPU 和 DGX Spark，此外还有苹果 M4 以...",
+      "ai_summary": "👍 36 | 💬 9",
       "keywords": [
-        "pair",
-        "ai",
-        "rtx",
-        "gpu",
-        "英伟达发布开源工具将闲置算力连成个人数据中心"
+        "speculative",
+        "decoding",
+        "in",
+        "vllm",
+        "on"
       ],
-      "importance": 1.5
+      "importance": 0
+    },
+    {
+      "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
+      "link": "https://www.qbitai.com/2026/09/484890.html",
+      "summary": "",
+      "source": "量子位",
+      "pub_date": "Sun, 06 Sep 2026 04:40:15 +0000",
+      "fetched_at": "2026-09-07T20:00:06.852089",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "",
+      "keywords": [
+        "站首届",
+        "ai",
+        "创造公开赛收官",
+        "超八成参赛者为一人团队"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
+      "link": "https://www.qbitai.com/2026/09/484897.html",
+      "summary": "让机器人学会利用更长的多模态Context",
+      "source": "量子位",
+      "pub_date": "Sun, 06 Sep 2026 11:44:21 +0000",
+      "fetched_at": "2026-09-07T20:00:06.852080",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "让机器人学会利用更长的多模态Context",
+      "keywords": [
+        "具身",
+        "icl",
+        "来了创业玩家",
+        "上下文成",
+        "scaling"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
+      "link": "https://www.qbitai.com/2026/09/485056.html",
+      "summary": "",
+      "source": "量子位",
+      "pub_date": "Mon, 07 Sep 2026 06:03:34 +0000",
+      "fetched_at": "2026-09-07T20:00:06.851925",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "",
+      "keywords": [
+        "hidream",
+        "原生全模态技术战略闭环",
+        "智象",
+        "ai",
+        "发布具身世界模型"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+      "link": "https://www.qbitai.com/2026/09/485108.html",
+      "summary": "“在两个模型之间找到数学上的共同基础其实非常困难”",
+      "source": "量子位",
+      "pub_date": "Mon, 07 Sep 2026 08:36:30 +0000",
+      "fetched_at": "2026-09-07T20:00:06.851844",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "“在两个模型之间找到数学上的共同基础其实非常困难”",
+      "keywords": [
+        "菲尔兹奖得主入局大模型",
+        "手机",
+        "qwen",
+        "云端",
+        "glm"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+      "link": "https://www.qbitai.com/2026/09/485431.html",
+      "summary": "OpenAI研究院人均带3个AI实习生",
+      "source": "量子位",
+      "pub_date": "Mon, 07 Sep 2026 09:04:06 +0000",
+      "fetched_at": "2026-09-07T20:00:06.851683",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "OpenAI研究院人均带3个AI实习生",
+      "keywords": [
+        "gpt",
+        "不只",
+        "astra",
+        "sol",
+        "内测结果曝光"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "3秒变身！会合体的机器人，卖到全球50国",
+      "link": "https://www.qbitai.com/2026/09/485525.html",
+      "summary": "谁说现在机器人都长得差不多的！",
+      "source": "量子位",
+      "pub_date": "Mon, 07 Sep 2026 09:34:06 +0000",
+      "fetched_at": "2026-09-07T20:00:06.851580",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "谁说现在机器人都长得差不多的！",
+      "keywords": [
+        "秒变身",
+        "会合体的机器人",
+        "卖到全球",
+        "谁说现在机器人都长得差不多的"
+      ],
+      "importance": 0
     },
     {
       "title": "F-Droid 考虑采用与 Debian 相同的 AI 政策",
@@ -609,7 +425,7 @@
       "summary": "一周前，Debian 项目经过投票允许以负责任的方式使用生成式 AI，Debian 项目表示，它既不反对也不支持在软件、包、文档等的开发和维护中使用生成式 AI 工具。但项目也认识到，如果能负责任的使用 AI 工具，将能显著提高贡献者的效率，使他们将有限的时间投入到需要技术专长、判断力、审核和协作的工作中。现在，Android 自由软件应用商店 F-Droid 考虑采用与 Debian 相同的 AI 政策，它的政策提议直接拷贝了 Debian 的政策全文，只是将 Debian 的名字替换为 F-Droid。",
       "source": "Solidot",
       "pub_date": "Sat, 05 Sep 2026 20:59:25 +0800",
-      "fetched_at": "2026-09-06T20:00:04.587012",
+      "fetched_at": "2026-09-07T20:00:06.538458",
       "categories": [
         "ai"
       ],
@@ -622,7 +438,27 @@
         "相同的"
       ],
       "importance": 0
+    },
+    {
+      "title": "内存短缺将继续推动消费电子产品价格上涨",
+      "link": "https://www.solidot.org/story?sid=85302",
+      "summary": "在可预见的未来，消费者应预期日常电子产品价格将会上涨，因 AI 热正在逆转电子产品价格越来越低、性能越来越强的趋势。数十年来，消费者一直能以更低的价格享用性能日益提升的电子设备。AI 热推高了存储芯片及其他零部件的成本，从而逆转了上述趋势。Counterpoint 研究总监 MS Hwang 表示，几乎所有消费电子产品类别都受到短缺影响。IDC 称，制造商和零售商正将价格提高最多 20%。Counterpoint 的数据显示，过去一年 DRAM 价格上涨了五倍，合约价格每季度上涨 10%-20%。虽然 DRAM 供应短缺最为严重，但包括 GPU 和 CPU 在内的半导体也面临供应紧张。MS H...",
+      "source": "Solidot",
+      "pub_date": "Mon, 07 Sep 2026 13:55:13 +0800",
+      "fetched_at": "2026-09-07T20:00:06.537123",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "在可预见的未来，消费者应预期日常电子产品价格将会上涨，因 AI 热正在逆转电子产品价格越来越低、性能越来越强的趋势。数十年来，消费者一直能以更低的价格享用性能日益提升的电子设备。AI 热推高了存储芯片及其他零部件的成本，从而逆转了上述趋势。Counterpoint 研究总监 MS Hwang 表示，...",
+      "keywords": [
+        "ai",
+        "counterpoint",
+        "ms",
+        "dram",
+        "内存短缺将继续推动消费电子产品价格上涨"
+      ],
+      "importance": 0
     }
   ],
-  "updated_at": "2026-09-06T20:00:41.978791"
+  "updated_at": "2026-09-07T20:00:45.131561"
 }

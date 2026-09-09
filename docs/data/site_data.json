@@ -5,8 +5,8 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-09-07T20:00:45.131561",
-    "total_items": 11
+    "last_update": "2026-09-09T20:00:25.094577",
+    "total_items": 13
   },
   "categories": {
     "ai": {
@@ -25,440 +25,481 @@
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 0
+      "count": 1
     }
   },
   "stats": {
-    "total_items": 11,
-    "today_items": 11,
+    "total_items": 13,
+    "today_items": 13,
     "sources": {
-      "量子位": 6,
-      "Solidot": 2,
-      "HackerNews": 3
+      "量子位": 8,
+      "Solidot": 5
     },
-    "last_update": "2026-09-07T20:00:45.131561"
+    "last_update": "2026-09-09T20:00:25.094577"
   },
   "trending": [
     {
-      "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
-      "link": "https://www.qbitai.com/2026/09/485431.html",
-      "summary": "OpenAI研究院人均带3个AI实习生",
+      "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
+      "link": "https://www.qbitai.com/2026/09/485784.html",
+      "summary": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。",
       "source": "量子位",
-      "pub_date": "Mon, 07 Sep 2026 09:04:06 +0000",
-      "fetched_at": "2026-09-07T20:00:06.851683",
+      "pub_date": "Tue, 08 Sep 2026 03:22:17 +0000",
+      "fetched_at": "2026-09-09T20:00:09.535187",
       "categories": [
         "ai"
       ],
-      "ai_summary": "OpenAI研究院人均带3个AI实习生",
+      "ai_summary": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。",
       "keywords": [
-        "gpt",
-        "不只",
-        "astra",
-        "sol",
-        "内测结果曝光"
+        "ai",
+        "深度智控获宁德时代",
+        "沙特阿美战投等重磅加码",
+        "加速打造物理",
+        "时代算力与能源底座"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "NVIDIA 创业企业展示半程活动10月苏州举行，30家科创企业路演+投资人对接",
+      "link": "https://www.solidot.org/story?sid=85330",
+      "summary": "NVIDIA 2026 年度创业企业展示活动的半程展示将于 10 月 15 日在苏州金鸡湖国际会议中心 A 馆举办。 半程展示将聚焦 AI 智能体、物理 AI、开放模型及 AI 应用等前沿方向。届时，30 余家 NVIDIA 初创加速计划会员企业将带来路演，NVIDIA 技术专家联合生态伙伴共同把脉 AI 产业趋势，现场设专属展区供近距离体验。 活动面向科创企业、投资人、大企业、云厂商、创业加速器等生态从业者开放报名，审核制确认，报名从速！ https://scrm.nvidia.cn/events/semi-final-20261015?pushId=8kJQ2pgiiMFxtKL7Gapg...",
+      "source": "Solidot",
+      "pub_date": "Wed, 09 Sep 2026 19:15:10 +0800",
+      "fetched_at": "2026-09-09T20:00:08.954348",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "NVIDIA 2026 年度创业企业展示活动的半程展示将于 10 月 15 日在苏州金鸡湖国际会议中心 A 馆举办。 半程展示将聚焦 AI 智能体、物理 AI、开放模型及 AI 应用等前沿方向。届时，30 余家 NVIDIA 初创加速计划会员企业将带来路演，NVIDIA...",
+      "keywords": [
+        "nvidia",
+        "ai",
+        "创业企业展示半程活动",
+        "月苏州举行",
+        "家科创企业路演"
       ],
       "importance": 0.5
     },
     {
-      "title": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
-      "link": "https://www.qbitai.com/2026/09/485056.html",
+      "title": "控制呼吸为何能控制焦虑？",
+      "link": "https://www.solidot.org/story?sid=85322",
+      "summary": "焦虑是人类最常见的精神疾病，全球约有 3.59 亿人受到影响。控制呼吸被认为有助于控制焦虑，根据发表在 PNAS 期刊上的一项研究，科学家基于小鼠研究揭示了这一现象背后的鼻脑回路（nose-to-brain circuit）机制。鼻脑回路始于嗅觉感觉神经元（OSN），OSN 感知鼻腔吸气并将信号传递给嗅球的僧帽细胞，信息随后从嗅球传输到海马旁皮层中的长投射中间神经元，最终到达杏仁体基底外侧核的谷氨酸能神经元。研究发现，鼻腔气流通过这条通路以频率依赖的方式调节类焦虑行为，这种效应可能取决于通过鼻腔吸气的频率。这种效应是双向的，意味着加快呼吸可能会加剧焦虑，而减慢呼吸则能缓解焦虑。",
+      "source": "Solidot",
+      "pub_date": "Tue, 08 Sep 2026 22:54:55 +0800",
+      "fetched_at": "2026-09-09T20:00:08.957122",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "焦虑是人类最常见的精神疾病，全球约有 3.59 亿人受到影响。控制呼吸被认为有助于控制焦虑，根据发表在 PNAS 期刊上的一项研究，科学家基于小鼠研究揭示了这一现象背后的鼻脑回路（nose-to-brain circuit）机制。鼻脑回路始于嗅觉感觉神经元（OSN），OSN 感知鼻腔吸气并将信号传递...",
+      "keywords": [
+        "osn",
+        "控制呼吸为何能控制焦虑",
+        "焦虑是人类最常见的精神疾病",
+        "全球约有",
+        "亿人受到影响"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+      "link": "https://www.qbitai.com/2026/09/486288.html",
+      "summary": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
+      "source": "量子位",
+      "pub_date": "Wed, 09 Sep 2026 05:02:30 +0000",
+      "fetched_at": "2026-09-09T20:00:09.534023",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
+      "keywords": [
+        "蚂蚁百灵发布首个金融增强模型",
+        "ai",
+        "开始进入真实投研工作流",
+        "蚂蚁集团百灵首个金融增强开放模型",
+        "ling"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Fermi Explorer Mission 项目考虑 2029 年向半人马座α星发射探测器",
+      "link": "https://www.solidot.org/story?sid=85328",
+      "summary": "非营利组织费米探索者任务（Fermi Explorer Mission）公布了一项低成本星际方案，计划 2029 年底前发射小型探测器，飞向约 4.4 光年外的半人马座α星系统。路线由 AI 规划，全程耗时约 8 万年，总预算低于 1500 万美元。项目联合创始人兼主席菲利普·约翰斯顿在声明中称，旅程结束时无人能亲见结果，而这正是意义所在：“这是在迈出人类能够做到的第一步，也是为了激励后代继续突破我们所继承下来的极限”。任务设四项硬指标：探测器应朝半人马座α星系统飞行，8 万年内至少完成整个旅程的 99%；有效载荷至少 1 公斤，封装在 10×10×10 厘米空间内；2029 年底前发射；全周...",
+      "source": "Solidot",
+      "pub_date": "Wed, 09 Sep 2026 16:35:01 +0800",
+      "fetched_at": "2026-09-09T20:00:08.955067",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "非营利组织费米探索者任务（Fermi Explorer Mission）公布了一项低成本星际方案，计划 2029 年底前发射小型探测器，飞向约 4.4 光年外的半人马座α星系统。路线由 AI 规划，全程耗时约 8 万年，总预算低于 1500 万美元。项目联合创始人兼主席菲利普·约翰斯顿在声明中称，旅...",
+      "keywords": [
+        "fermi",
+        "explorer",
+        "mission",
+        "项目考虑",
+        "年向半人马座"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "孕期记忆力下降背后的生物学机制",
+      "link": "https://www.solidot.org/story?sid=85325",
+      "summary": "许多女性在孕期或使用口服避孕药时，经常会有忘记物品摆放、难以集中注意力的经历。这种常被戏称为“孕傻” （Mom Brain）的现象，长期以来缺乏明确的生物学解释。发表在《Science Bulletin》上的一项研究揭示了持续水平高雌激素并非直接作用于记忆中枢，而是通过干扰一条特定的“下丘脑-海马”神经环路，从而暂时性损害记忆功能，从机制层面解答了高水平雌激素影响认知的生物学基础。研究人员首先构建了模拟孕期持续高雌激素水平的小鼠模型，发现高雌激素会引起可逆的记忆损伤，但并不影响情绪或探索动机，表明这是一种特异性的认知效应。在机制层面，研究团队发现，外侧下丘脑中占主导地位的雌激素受体集中在GAB...",
+      "source": "Solidot",
+      "pub_date": "Wed, 09 Sep 2026 13:42:13 +0800",
+      "fetched_at": "2026-09-09T20:00:08.956244",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "许多女性在孕期或使用口服避孕药时，经常会有忘记物品摆放、难以集中注意力的经历。这种常被戏称为“孕傻” （Mom Brain）的现象，长期以来缺乏明确的生物学解释。发表在《Science Bulletin》上的一项研究揭示了持续水平高雌激素并非直接作用于记忆中枢，而是通过干扰一条特定的“下丘脑-海马”...",
+      "keywords": [
+        "孕期记忆力下降背后的生物学机制",
+        "许多女性在孕期或使用口服避孕药时",
+        "经常会有忘记物品摆放",
+        "难以集中注意力的经历",
+        "这种常被戏称为"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Isar Aerospace 成为成功将火箭送入轨道的首个欧洲公司",
+      "link": "https://www.solidot.org/story?sid=85313",
+      "summary": "由德国 Isar Aerospace 公司制造的 Spectrum 运载火箭 9 月 6 日从位于挪威北极圈内的 Andoya 航天发射场发射升空。该公司表示，“我们已进入轨道！并创造了欧洲航天史上的里程碑：这是欧洲大陆首次有私营企业研发的火箭成功进入轨道。”Spectrum 火箭专为运载中小型有效载荷而设计。此次发射任务搭载了五颗小型卫星以及一项飞行技术实验。这是这家德国公司第二次尝试将 Spectrum 火箭发射升空。首次尝试发生在 18 个月前，但未能成功。Spectrum 火箭发射成功被认为使欧洲向在本土提供商业卫星发射服务迈出了重要一步。包括英国和瑞典在内的多个国家都对日益增长的商业...",
+      "source": "Solidot",
+      "pub_date": "Mon, 07 Sep 2026 22:23:44 +0800",
+      "fetched_at": "2026-09-09T20:00:08.959562",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "由德国 Isar Aerospace 公司制造的 Spectrum 运载火箭 9 月 6 日从位于挪威北极圈内的 Andoya 航天发射场发射升空。该公司表示，“我们已进入轨道！并创造了欧洲航天史上的里程碑：这是欧洲大陆首次有私营企业研发的火箭成功进入轨道。”Spectrum 火箭专为运载中小型有效...",
+      "keywords": [
+        "spectrum",
+        "isar",
+        "aerospace",
+        "成为成功将火箭送入轨道的首个欧洲公司",
+        "由德国"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+      "link": "https://www.qbitai.com/2026/09/486370.html",
       "summary": "",
       "source": "量子位",
-      "pub_date": "Mon, 07 Sep 2026 06:03:34 +0000",
-      "fetched_at": "2026-09-07T20:00:06.851925",
+      "pub_date": "Wed, 09 Sep 2026 09:57:54 +0000",
+      "fetched_at": "2026-09-09T20:00:09.533790",
       "categories": [
         "ai"
       ],
       "ai_summary": "",
       "keywords": [
-        "hidream",
-        "原生全模态技术战略闭环",
-        "智象",
+        "国产",
         "ai",
-        "发布具身世界模型"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "内存短缺将继续推动消费电子产品价格上涨",
-      "link": "https://www.solidot.org/story?sid=85302",
-      "summary": "在可预见的未来，消费者应预期日常电子产品价格将会上涨，因 AI 热正在逆转电子产品价格越来越低、性能越来越强的趋势。数十年来，消费者一直能以更低的价格享用性能日益提升的电子设备。AI 热推高了存储芯片及其他零部件的成本，从而逆转了上述趋势。Counterpoint 研究总监 MS Hwang 表示，几乎所有消费电子产品类别都受到短缺影响。IDC 称，制造商和零售商正将价格提高最多 20%。Counterpoint 的数据显示，过去一年 DRAM 价格上涨了五倍，合约价格每季度上涨 10%-20%。虽然 DRAM 供应短缺最为严重，但包括 GPU 和 CPU 在内的半导体也面临供应紧张。MS H...",
-      "source": "Solidot",
-      "pub_date": "Mon, 07 Sep 2026 13:55:13 +0800",
-      "fetched_at": "2026-09-07T20:00:06.537123",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "在可预见的未来，消费者应预期日常电子产品价格将会上涨，因 AI 热正在逆转电子产品价格越来越低、性能越来越强的趋势。数十年来，消费者一直能以更低的价格享用性能日益提升的电子设备。AI 热推高了存储芯片及其他零部件的成本，从而逆转了上述趋势。Counterpoint 研究总监 MS Hwang 表示，...",
-      "keywords": [
-        "ai",
-        "counterpoint",
-        "ms",
-        "dram",
-        "内存短缺将继续推动消费电子产品价格上涨"
+        "计算平台登场亮相",
+        "外滩大会",
+        "算力技术与人才布局双向发力"
       ],
       "importance": 0
     },
     {
-      "title": "F-Droid 考虑采用与 Debian 相同的 AI 政策",
-      "link": "https://www.solidot.org/story?sid=85294",
-      "summary": "一周前，Debian 项目经过投票允许以负责任的方式使用生成式 AI，Debian 项目表示，它既不反对也不支持在软件、包、文档等的开发和维护中使用生成式 AI 工具。但项目也认识到，如果能负责任的使用 AI 工具，将能显著提高贡献者的效率，使他们将有限的时间投入到需要技术专长、判断力、审核和协作的工作中。现在，Android 自由软件应用商店 F-Droid 考虑采用与 Debian 相同的 AI 政策，它的政策提议直接拷贝了 Debian 的政策全文，只是将 Debian 的名字替换为 F-Droid。",
-      "source": "Solidot",
-      "pub_date": "Sat, 05 Sep 2026 20:59:25 +0800",
-      "fetched_at": "2026-09-07T20:00:06.538458",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "一周前，Debian 项目经过投票允许以负责任的方式使用生成式 AI，Debian 项目表示，它既不反对也不支持在软件、包、文档等的开发和维护中使用生成式 AI 工具。但项目也认识到，如果能负责任的使用 AI 工具，将能显著提高贡献者的效率，使他们将有限的时间投入到需要技术专长、判断力、审核和协作的...",
-      "keywords": [
-        "debian",
-        "ai",
-        "droid",
-        "考虑采用与",
-        "相同的"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "3秒变身！会合体的机器人，卖到全球50国",
-      "link": "https://www.qbitai.com/2026/09/485525.html",
-      "summary": "谁说现在机器人都长得差不多的！",
+      "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
+      "link": "https://www.qbitai.com/2026/09/486280.html",
+      "summary": "从Demo到货架，这两家公司要让具身智能算得过账",
       "source": "量子位",
-      "pub_date": "Mon, 07 Sep 2026 09:34:06 +0000",
-      "fetched_at": "2026-09-07T20:00:06.851580",
+      "pub_date": "Wed, 09 Sep 2026 04:52:12 +0000",
+      "fetched_at": "2026-09-09T20:00:09.534191",
       "categories": [
         "robotics"
       ],
-      "ai_summary": "谁说现在机器人都长得差不多的！",
+      "ai_summary": "从Demo到货架，这两家公司要让具身智能算得过账",
       "keywords": [
-        "秒变身",
-        "会合体的机器人",
-        "卖到全球",
-        "谁说现在机器人都长得差不多的"
+        "具身机器人能搞定超市盘点吗",
+        "全球七万门店正在给出答案",
+        "demo",
+        "到货架",
+        "这两家公司要让具身智能算得过账"
       ],
       "importance": 0
     },
     {
-      "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
-      "link": "https://www.qbitai.com/2026/09/485108.html",
-      "summary": "“在两个模型之间找到数学上的共同基础其实非常困难”",
+      "title": "宜宾，一场机器人“招聘会”的产业雄心",
+      "link": "https://www.qbitai.com/2026/09/486038.html",
+      "summary": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。",
       "source": "量子位",
-      "pub_date": "Mon, 07 Sep 2026 08:36:30 +0000",
-      "fetched_at": "2026-09-07T20:00:06.851844",
+      "pub_date": "Wed, 09 Sep 2026 02:15:54 +0000",
+      "fetched_at": "2026-09-09T20:00:09.534650",
       "categories": [
-        "ai"
-      ],
-      "ai_summary": "“在两个模型之间找到数学上的共同基础其实非常困难”",
-      "keywords": [
-        "菲尔兹奖得主入局大模型",
-        "手机",
-        "qwen",
-        "云端",
-        "glm"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
-      "link": "https://www.qbitai.com/2026/09/484897.html",
-      "summary": "让机器人学会利用更长的多模态Context",
-      "source": "量子位",
-      "pub_date": "Sun, 06 Sep 2026 11:44:21 +0000",
-      "fetched_at": "2026-09-07T20:00:06.852080",
-      "categories": [
-        "ai",
         "robotics"
       ],
-      "ai_summary": "让机器人学会利用更长的多模态Context",
+      "ai_summary": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。",
       "keywords": [
-        "具身",
-        "icl",
-        "来了创业玩家",
-        "上下文成",
-        "scaling"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
-      "link": "https://www.qbitai.com/2026/09/484890.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Sun, 06 Sep 2026 04:40:15 +0000",
-      "fetched_at": "2026-09-07T20:00:06.852089",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "站首届",
-        "ai",
-        "创造公开赛收官",
-        "超八成参赛者为一人团队"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Speculative Decoding in vLLM on AMD GPUs",
-      "link": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-      "summary": "👍 36 | 💬 9",
-      "source": "HackerNews",
-      "pub_date": "2026-09-07T17:26:41",
-      "fetched_at": "2026-09-07T20:00:13.670599",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 36 | 💬 9",
-      "keywords": [
-        "speculative",
-        "decoding",
-        "in",
-        "vllm",
-        "on"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-      "link": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
-      "summary": "👍 9 | 💬 0",
-      "source": "HackerNews",
-      "pub_date": "2026-09-07T19:46:37",
-      "fetched_at": "2026-09-07T20:00:21.822984",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 9 | 💬 0",
-      "keywords": [
-        "smartphone",
-        "makers",
-        "don",
-        "bother",
-        "to"
+        "宜宾",
+        "一场机器人",
+        "招聘会",
+        "的产业雄心",
+        "宜宾国际会展中心"
       ],
       "importance": 0
     }
   ],
   "latest": [
     {
-      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-      "link": "https://github.com/timgordontg/engrim",
-      "summary": "👍 46 | 💬 11",
-      "source": "HackerNews",
-      "pub_date": "2026-09-07T12:49:36",
-      "fetched_at": "2026-09-07T20:00:37.715545",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 46 | 💬 11",
-      "keywords": [
-        "show",
-        "hn",
-        "engrim",
-        "universal",
-        "local"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-      "link": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
-      "summary": "👍 9 | 💬 0",
-      "source": "HackerNews",
-      "pub_date": "2026-09-07T19:46:37",
-      "fetched_at": "2026-09-07T20:00:21.822984",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 9 | 💬 0",
-      "keywords": [
-        "smartphone",
-        "makers",
-        "don",
-        "bother",
-        "to"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Speculative Decoding in vLLM on AMD GPUs",
-      "link": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-      "summary": "👍 36 | 💬 9",
-      "source": "HackerNews",
-      "pub_date": "2026-09-07T17:26:41",
-      "fetched_at": "2026-09-07T20:00:13.670599",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 36 | 💬 9",
-      "keywords": [
-        "speculative",
-        "decoding",
-        "in",
-        "vllm",
-        "on"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
-      "link": "https://www.qbitai.com/2026/09/484890.html",
-      "summary": "",
+      "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
+      "link": "https://www.qbitai.com/2026/09/485630.html",
+      "summary": "从看市场，到见场景；从认识伙伴，到寻找合作。",
       "source": "量子位",
-      "pub_date": "Sun, 06 Sep 2026 04:40:15 +0000",
-      "fetched_at": "2026-09-07T20:00:06.852089",
+      "pub_date": "Tue, 08 Sep 2026 02:42:24 +0000",
+      "fetched_at": "2026-09-09T20:00:09.535336",
       "categories": [
         "ai"
       ],
-      "ai_summary": "",
+      "ai_summary": "从看市场，到见场景；从认识伙伴，到寻找合作。",
       "keywords": [
-        "站首届",
+        "深入马来西亚",
         "ai",
-        "创造公开赛收官",
-        "超八成参赛者为一人团队"
+        "现场",
+        "waic",
+        "connect"
       ],
       "importance": 0
     },
     {
-      "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
-      "link": "https://www.qbitai.com/2026/09/484897.html",
-      "summary": "让机器人学会利用更长的多模态Context",
+      "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
+      "link": "https://www.qbitai.com/2026/09/485784.html",
+      "summary": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。",
       "source": "量子位",
-      "pub_date": "Sun, 06 Sep 2026 11:44:21 +0000",
-      "fetched_at": "2026-09-07T20:00:06.852080",
+      "pub_date": "Tue, 08 Sep 2026 03:22:17 +0000",
+      "fetched_at": "2026-09-09T20:00:09.535187",
       "categories": [
+        "ai"
+      ],
+      "ai_summary": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。",
+      "keywords": [
         "ai",
-        "robotics"
+        "深度智控获宁德时代",
+        "沙特阿美战投等重磅加码",
+        "加速打造物理",
+        "时代算力与能源底座"
       ],
-      "ai_summary": "让机器人学会利用更长的多模态Context",
-      "keywords": [
-        "具身",
-        "icl",
-        "来了创业玩家",
-        "上下文成",
-        "scaling"
-      ],
-      "importance": 0
+      "importance": 1.0
     },
     {
-      "title": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
-      "link": "https://www.qbitai.com/2026/09/485056.html",
-      "summary": "",
+      "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
+      "link": "https://www.qbitai.com/2026/09/485794.html",
+      "summary": "百万奖金、大厂直通、VC跟投",
       "source": "量子位",
-      "pub_date": "Mon, 07 Sep 2026 06:03:34 +0000",
-      "fetched_at": "2026-09-07T20:00:06.851925",
+      "pub_date": "Tue, 08 Sep 2026 05:05:03 +0000",
+      "fetched_at": "2026-09-09T20:00:09.535019",
       "categories": [
         "ai"
       ],
-      "ai_summary": "",
+      "ai_summary": "百万奖金、大厂直通、VC跟投",
       "keywords": [
-        "hidream",
-        "原生全模态技术战略闭环",
-        "智象",
+        "现场围观金融",
         "ai",
-        "发布具身世界模型"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
-      "link": "https://www.qbitai.com/2026/09/485108.html",
-      "summary": "“在两个模型之间找到数学上的共同基础其实非常困难”",
-      "source": "量子位",
-      "pub_date": "Mon, 07 Sep 2026 08:36:30 +0000",
-      "fetched_at": "2026-09-07T20:00:06.851844",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "“在两个模型之间找到数学上的共同基础其实非常困难”",
-      "keywords": [
-        "菲尔兹奖得主入局大模型",
-        "手机",
-        "qwen",
-        "云端",
-        "glm"
+        "决赛",
+        "大厂挑人的逻辑我悟了",
+        "百万奖金"
       ],
       "importance": 0
     },
     {
-      "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
-      "link": "https://www.qbitai.com/2026/09/485431.html",
-      "summary": "OpenAI研究院人均带3个AI实习生",
+      "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
+      "link": "https://www.qbitai.com/2026/09/485854.html",
+      "summary": "Blender也不用学了",
       "source": "量子位",
-      "pub_date": "Mon, 07 Sep 2026 09:04:06 +0000",
-      "fetched_at": "2026-09-07T20:00:06.851683",
+      "pub_date": "Tue, 08 Sep 2026 06:05:30 +0000",
+      "fetched_at": "2026-09-09T20:00:09.534846",
       "categories": [
         "ai"
       ],
-      "ai_summary": "OpenAI研究院人均带3个AI实习生",
+      "ai_summary": "Blender也不用学了",
       "keywords": [
+        "感谢用",
         "gpt",
-        "不只",
-        "astra",
-        "sol",
-        "内测结果曝光"
+        "燃烧自己的",
+        "token",
+        "换来一次全体重置"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "宜宾，一场机器人“招聘会”的产业雄心",
+      "link": "https://www.qbitai.com/2026/09/486038.html",
+      "summary": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。",
+      "source": "量子位",
+      "pub_date": "Wed, 09 Sep 2026 02:15:54 +0000",
+      "fetched_at": "2026-09-09T20:00:09.534650",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。",
+      "keywords": [
+        "宜宾",
+        "一场机器人",
+        "招聘会",
+        "的产业雄心",
+        "宜宾国际会展中心"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
+      "link": "https://www.qbitai.com/2026/09/486280.html",
+      "summary": "从Demo到货架，这两家公司要让具身智能算得过账",
+      "source": "量子位",
+      "pub_date": "Wed, 09 Sep 2026 04:52:12 +0000",
+      "fetched_at": "2026-09-09T20:00:09.534191",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "从Demo到货架，这两家公司要让具身智能算得过账",
+      "keywords": [
+        "具身机器人能搞定超市盘点吗",
+        "全球七万门店正在给出答案",
+        "demo",
+        "到货架",
+        "这两家公司要让具身智能算得过账"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+      "link": "https://www.qbitai.com/2026/09/486288.html",
+      "summary": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
+      "source": "量子位",
+      "pub_date": "Wed, 09 Sep 2026 05:02:30 +0000",
+      "fetched_at": "2026-09-09T20:00:09.534023",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
+      "keywords": [
+        "蚂蚁百灵发布首个金融增强模型",
+        "ai",
+        "开始进入真实投研工作流",
+        "蚂蚁集团百灵首个金融增强开放模型",
+        "ling"
       ],
       "importance": 0.5
     },
     {
-      "title": "3秒变身！会合体的机器人，卖到全球50国",
-      "link": "https://www.qbitai.com/2026/09/485525.html",
-      "summary": "谁说现在机器人都长得差不多的！",
+      "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+      "link": "https://www.qbitai.com/2026/09/486370.html",
+      "summary": "",
       "source": "量子位",
-      "pub_date": "Mon, 07 Sep 2026 09:34:06 +0000",
-      "fetched_at": "2026-09-07T20:00:06.851580",
+      "pub_date": "Wed, 09 Sep 2026 09:57:54 +0000",
+      "fetched_at": "2026-09-09T20:00:09.533790",
       "categories": [
-        "robotics"
+        "ai"
       ],
-      "ai_summary": "谁说现在机器人都长得差不多的！",
+      "ai_summary": "",
       "keywords": [
-        "秒变身",
-        "会合体的机器人",
-        "卖到全球",
-        "谁说现在机器人都长得差不多的"
+        "国产",
+        "ai",
+        "计算平台登场亮相",
+        "外滩大会",
+        "算力技术与人才布局双向发力"
       ],
       "importance": 0
     },
     {
-      "title": "F-Droid 考虑采用与 Debian 相同的 AI 政策",
-      "link": "https://www.solidot.org/story?sid=85294",
-      "summary": "一周前，Debian 项目经过投票允许以负责任的方式使用生成式 AI，Debian 项目表示，它既不反对也不支持在软件、包、文档等的开发和维护中使用生成式 AI 工具。但项目也认识到，如果能负责任的使用 AI 工具，将能显著提高贡献者的效率，使他们将有限的时间投入到需要技术专长、判断力、审核和协作的工作中。现在，Android 自由软件应用商店 F-Droid 考虑采用与 Debian 相同的 AI 政策，它的政策提议直接拷贝了 Debian 的政策全文，只是将 Debian 的名字替换为 F-Droid。",
+      "title": "Isar Aerospace 成为成功将火箭送入轨道的首个欧洲公司",
+      "link": "https://www.solidot.org/story?sid=85313",
+      "summary": "由德国 Isar Aerospace 公司制造的 Spectrum 运载火箭 9 月 6 日从位于挪威北极圈内的 Andoya 航天发射场发射升空。该公司表示，“我们已进入轨道！并创造了欧洲航天史上的里程碑：这是欧洲大陆首次有私营企业研发的火箭成功进入轨道。”Spectrum 火箭专为运载中小型有效载荷而设计。此次发射任务搭载了五颗小型卫星以及一项飞行技术实验。这是这家德国公司第二次尝试将 Spectrum 火箭发射升空。首次尝试发生在 18 个月前，但未能成功。Spectrum 火箭发射成功被认为使欧洲向在本土提供商业卫星发射服务迈出了重要一步。包括英国和瑞典在内的多个国家都对日益增长的商业...",
       "source": "Solidot",
-      "pub_date": "Sat, 05 Sep 2026 20:59:25 +0800",
-      "fetched_at": "2026-09-07T20:00:06.538458",
+      "pub_date": "Mon, 07 Sep 2026 22:23:44 +0800",
+      "fetched_at": "2026-09-09T20:00:08.959562",
       "categories": [
-        "ai"
+        "space"
       ],
-      "ai_summary": "一周前，Debian 项目经过投票允许以负责任的方式使用生成式 AI，Debian 项目表示，它既不反对也不支持在软件、包、文档等的开发和维护中使用生成式 AI 工具。但项目也认识到，如果能负责任的使用 AI 工具，将能显著提高贡献者的效率，使他们将有限的时间投入到需要技术专长、判断力、审核和协作的...",
+      "ai_summary": "由德国 Isar Aerospace 公司制造的 Spectrum 运载火箭 9 月 6 日从位于挪威北极圈内的 Andoya 航天发射场发射升空。该公司表示，“我们已进入轨道！并创造了欧洲航天史上的里程碑：这是欧洲大陆首次有私营企业研发的火箭成功进入轨道。”Spectrum 火箭专为运载中小型有效...",
       "keywords": [
-        "debian",
-        "ai",
-        "droid",
-        "考虑采用与",
-        "相同的"
+        "spectrum",
+        "isar",
+        "aerospace",
+        "成为成功将火箭送入轨道的首个欧洲公司",
+        "由德国"
       ],
       "importance": 0
     },
     {
-      "title": "内存短缺将继续推动消费电子产品价格上涨",
-      "link": "https://www.solidot.org/story?sid=85302",
-      "summary": "在可预见的未来，消费者应预期日常电子产品价格将会上涨，因 AI 热正在逆转电子产品价格越来越低、性能越来越强的趋势。数十年来，消费者一直能以更低的价格享用性能日益提升的电子设备。AI 热推高了存储芯片及其他零部件的成本，从而逆转了上述趋势。Counterpoint 研究总监 MS Hwang 表示，几乎所有消费电子产品类别都受到短缺影响。IDC 称，制造商和零售商正将价格提高最多 20%。Counterpoint 的数据显示，过去一年 DRAM 价格上涨了五倍，合约价格每季度上涨 10%-20%。虽然 DRAM 供应短缺最为严重，但包括 GPU 和 CPU 在内的半导体也面临供应紧张。MS H...",
+      "title": "控制呼吸为何能控制焦虑？",
+      "link": "https://www.solidot.org/story?sid=85322",
+      "summary": "焦虑是人类最常见的精神疾病，全球约有 3.59 亿人受到影响。控制呼吸被认为有助于控制焦虑，根据发表在 PNAS 期刊上的一项研究，科学家基于小鼠研究揭示了这一现象背后的鼻脑回路（nose-to-brain circuit）机制。鼻脑回路始于嗅觉感觉神经元（OSN），OSN 感知鼻腔吸气并将信号传递给嗅球的僧帽细胞，信息随后从嗅球传输到海马旁皮层中的长投射中间神经元，最终到达杏仁体基底外侧核的谷氨酸能神经元。研究发现，鼻腔气流通过这条通路以频率依赖的方式调节类焦虑行为，这种效应可能取决于通过鼻腔吸气的频率。这种效应是双向的，意味着加快呼吸可能会加剧焦虑，而减慢呼吸则能缓解焦虑。",
       "source": "Solidot",
-      "pub_date": "Mon, 07 Sep 2026 13:55:13 +0800",
-      "fetched_at": "2026-09-07T20:00:06.537123",
+      "pub_date": "Tue, 08 Sep 2026 22:54:55 +0800",
+      "fetched_at": "2026-09-09T20:00:08.957122",
       "categories": [
         "ai"
       ],
-      "ai_summary": "在可预见的未来，消费者应预期日常电子产品价格将会上涨，因 AI 热正在逆转电子产品价格越来越低、性能越来越强的趋势。数十年来，消费者一直能以更低的价格享用性能日益提升的电子设备。AI 热推高了存储芯片及其他零部件的成本，从而逆转了上述趋势。Counterpoint 研究总监 MS Hwang 表示，...",
+      "ai_summary": "焦虑是人类最常见的精神疾病，全球约有 3.59 亿人受到影响。控制呼吸被认为有助于控制焦虑，根据发表在 PNAS 期刊上的一项研究，科学家基于小鼠研究揭示了这一现象背后的鼻脑回路（nose-to-brain circuit）机制。鼻脑回路始于嗅觉感觉神经元（OSN），OSN 感知鼻腔吸气并将信号传递...",
       "keywords": [
-        "ai",
-        "counterpoint",
-        "ms",
-        "dram",
-        "内存短缺将继续推动消费电子产品价格上涨"
+        "osn",
+        "控制呼吸为何能控制焦虑",
+        "焦虑是人类最常见的精神疾病",
+        "全球约有",
+        "亿人受到影响"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "孕期记忆力下降背后的生物学机制",
+      "link": "https://www.solidot.org/story?sid=85325",
+      "summary": "许多女性在孕期或使用口服避孕药时，经常会有忘记物品摆放、难以集中注意力的经历。这种常被戏称为“孕傻” （Mom Brain）的现象，长期以来缺乏明确的生物学解释。发表在《Science Bulletin》上的一项研究揭示了持续水平高雌激素并非直接作用于记忆中枢，而是通过干扰一条特定的“下丘脑-海马”神经环路，从而暂时性损害记忆功能，从机制层面解答了高水平雌激素影响认知的生物学基础。研究人员首先构建了模拟孕期持续高雌激素水平的小鼠模型，发现高雌激素会引起可逆的记忆损伤，但并不影响情绪或探索动机，表明这是一种特异性的认知效应。在机制层面，研究团队发现，外侧下丘脑中占主导地位的雌激素受体集中在GAB...",
+      "source": "Solidot",
+      "pub_date": "Wed, 09 Sep 2026 13:42:13 +0800",
+      "fetched_at": "2026-09-09T20:00:08.956244",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "许多女性在孕期或使用口服避孕药时，经常会有忘记物品摆放、难以集中注意力的经历。这种常被戏称为“孕傻” （Mom Brain）的现象，长期以来缺乏明确的生物学解释。发表在《Science Bulletin》上的一项研究揭示了持续水平高雌激素并非直接作用于记忆中枢，而是通过干扰一条特定的“下丘脑-海马”...",
+      "keywords": [
+        "孕期记忆力下降背后的生物学机制",
+        "许多女性在孕期或使用口服避孕药时",
+        "经常会有忘记物品摆放",
+        "难以集中注意力的经历",
+        "这种常被戏称为"
       ],
       "importance": 0
+    },
+    {
+      "title": "Fermi Explorer Mission 项目考虑 2029 年向半人马座α星发射探测器",
+      "link": "https://www.solidot.org/story?sid=85328",
+      "summary": "非营利组织费米探索者任务（Fermi Explorer Mission）公布了一项低成本星际方案，计划 2029 年底前发射小型探测器，飞向约 4.4 光年外的半人马座α星系统。路线由 AI 规划，全程耗时约 8 万年，总预算低于 1500 万美元。项目联合创始人兼主席菲利普·约翰斯顿在声明中称，旅程结束时无人能亲见结果，而这正是意义所在：“这是在迈出人类能够做到的第一步，也是为了激励后代继续突破我们所继承下来的极限”。任务设四项硬指标：探测器应朝半人马座α星系统飞行，8 万年内至少完成整个旅程的 99%；有效载荷至少 1 公斤，封装在 10×10×10 厘米空间内；2029 年底前发射；全周...",
+      "source": "Solidot",
+      "pub_date": "Wed, 09 Sep 2026 16:35:01 +0800",
+      "fetched_at": "2026-09-09T20:00:08.955067",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "非营利组织费米探索者任务（Fermi Explorer Mission）公布了一项低成本星际方案，计划 2029 年底前发射小型探测器，飞向约 4.4 光年外的半人马座α星系统。路线由 AI 规划，全程耗时约 8 万年，总预算低于 1500 万美元。项目联合创始人兼主席菲利普·约翰斯顿在声明中称，旅...",
+      "keywords": [
+        "fermi",
+        "explorer",
+        "mission",
+        "项目考虑",
+        "年向半人马座"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "NVIDIA 创业企业展示半程活动10月苏州举行，30家科创企业路演+投资人对接",
+      "link": "https://www.solidot.org/story?sid=85330",
+      "summary": "NVIDIA 2026 年度创业企业展示活动的半程展示将于 10 月 15 日在苏州金鸡湖国际会议中心 A 馆举办。 半程展示将聚焦 AI 智能体、物理 AI、开放模型及 AI 应用等前沿方向。届时，30 余家 NVIDIA 初创加速计划会员企业将带来路演，NVIDIA 技术专家联合生态伙伴共同把脉 AI 产业趋势，现场设专属展区供近距离体验。 活动面向科创企业、投资人、大企业、云厂商、创业加速器等生态从业者开放报名，审核制确认，报名从速！ https://scrm.nvidia.cn/events/semi-final-20261015?pushId=8kJQ2pgiiMFxtKL7Gapg...",
+      "source": "Solidot",
+      "pub_date": "Wed, 09 Sep 2026 19:15:10 +0800",
+      "fetched_at": "2026-09-09T20:00:08.954348",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "NVIDIA 2026 年度创业企业展示活动的半程展示将于 10 月 15 日在苏州金鸡湖国际会议中心 A 馆举办。 半程展示将聚焦 AI 智能体、物理 AI、开放模型及 AI 应用等前沿方向。届时，30 余家 NVIDIA 初创加速计划会员企业将带来路演，NVIDIA...",
+      "keywords": [
+        "nvidia",
+        "ai",
+        "创业企业展示半程活动",
+        "月苏州举行",
+        "家科创企业路演"
+      ],
+      "importance": 0.5
     }
   ],
-  "updated_at": "2026-09-07T20:00:45.131561"
+  "updated_at": "2026-09-09T20:00:25.094577"
 }

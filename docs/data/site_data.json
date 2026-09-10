@@ -5,8 +5,8 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-09-10T12:00:37.413555",
-    "total_items": 21
+    "last_update": "2026-09-10T20:00:31.121201",
+    "total_items": 20
   },
   "categories": {
     "ai": {
@@ -29,14 +29,14 @@
     }
   },
   "stats": {
-    "total_items": 21,
-    "today_items": 21,
+    "total_items": 20,
+    "today_items": 20,
     "sources": {
-      "Solidot": 7,
+      "Solidot": 8,
       "量子位": 8,
-      "HackerNews": 6
+      "HackerNews": 4
     },
-    "last_update": "2026-09-10T12:00:37.413555"
+    "last_update": "2026-09-10T20:00:31.121201"
   },
   "trending": [
     {
@@ -45,7 +45,7 @@
       "summary": "美国国家安全局、联邦调查局及网络安全和基础设施安全局周二发表联合声明，称深度求索（DeepSeek）、月之暗面等六家中国 AI 企业至少从 2024 年起利用“蒸馏”技术，以“工业化规模”访问美国 AI 模型并提取信息。六家企业包括 DeepSeek、Kimi 开发商月之暗面、阿里巴巴、MiniMax、阶跃星辰和智谱，涉及的美国模型来自 Anthropic、OpenAI、Alphabet 旗下 Google 和 SpaceX。蒸馏是利用较大模型生成的内容训练其他模型的技术，可用于降低训练和运行成本。这项技术本身有正当用途，美方此次指控的重点是，中国企业未经授权使用美国模型，并刻意绕过相关使用限...",
       "source": "Solidot",
       "pub_date": "Wed, 09 Sep 2026 16:55:23 +0800",
-      "fetched_at": "2026-09-10T12:00:05.541121",
+      "fetched_at": "2026-09-10T20:00:02.914711",
       "categories": [
         "ai",
         "space"
@@ -61,12 +61,32 @@
       "importance": 2.5
     },
     {
+      "title": "苹果推出折叠屏手机 iPhone Duo",
+      "link": "https://www.solidot.org/story?sid=85335",
+      "summary": "苹果宣布了一系列新产品，包括 iPhone 18 Pro 与 iPhone 18 Pro Max、AirPods 5 以及其首款折叠屏手机 iPhone Duo。其中最引人瞩目的是其折叠屏手机。三星、Google 和华为等苹果竞争对手早就推出了折叠屏手机，在内存和存储器短缺导致价格飙升时代，苹果推出起售价 15,999 元的折叠屏手机，消费者是否接受还有待市场检验。iPhone Duo 配备了 7.6 英寸超视网膜 XDR 可折叠屏，5.4 英寸超视网膜 XDR 外屏，A20 Pro 芯片，10 月 16 日（星期五）起接受预购，10 月 23 日（星期五）起正式发售。",
+      "source": "Solidot",
+      "pub_date": "Thu, 10 Sep 2026 17:06:31 +0800",
+      "fetched_at": "2026-09-10T20:00:02.913173",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "苹果宣布了一系列新产品，包括 iPhone 18 Pro 与 iPhone 18 Pro Max、AirPods 5 以及其首款折叠屏手机 iPhone Duo。其中最引人瞩目的是其折叠屏手机。三星、Google 和华为等苹果竞争对手早就推出了折叠屏手机，在内存和存储器短缺导致价格飙升时代，苹果推出...",
+      "keywords": [
+        "iphone",
+        "duo",
+        "pro",
+        "英寸超视网膜",
+        "xdr"
+      ],
+      "importance": 1.0
+    },
+    {
       "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
       "link": "https://www.qbitai.com/2026/09/486450.html",
       "summary": "一比根号二的小胖折叠",
       "source": "量子位",
       "pub_date": "Wed, 09 Sep 2026 19:24:22 +0000",
-      "fetched_at": "2026-09-10T12:00:06.040059",
+      "fetched_at": "2026-09-10T20:00:03.334060",
       "categories": [
         "ai"
       ],
@@ -86,7 +106,7 @@
       "summary": "NVIDIA 2026 年度创业企业展示活动的半程展示将于 10 月 15 日在苏州金鸡湖国际会议中心 A 馆举办。 半程展示将聚焦 AI 智能体、物理 AI、开放模型及 AI 应用等前沿方向。届时，30 余家 NVIDIA 初创加速计划会员企业将带来路演，NVIDIA 技术专家联合生态伙伴共同把脉 AI 产业趋势，现场设专属展区供近距离体验。 活动面向科创企业、投资人、大企业、云厂商、创业加速器等生态从业者开放报名，审核制确认，报名从速！ https://scrm.nvidia.cn/events/semi-final-20261015?pushId=8kJQ2pgiiMFxtKL7Gapg...",
       "source": "Solidot",
       "pub_date": "Wed, 09 Sep 2026 19:15:10 +0800",
-      "fetched_at": "2026-09-10T12:00:05.540797",
+      "fetched_at": "2026-09-10T20:00:02.914475",
       "categories": [
         "ai"
       ],
@@ -106,7 +126,7 @@
       "summary": "焦虑是人类最常见的精神疾病，全球约有 3.59 亿人受到影响。控制呼吸被认为有助于控制焦虑，根据发表在 PNAS 期刊上的一项研究，科学家基于小鼠研究揭示了这一现象背后的鼻脑回路（nose-to-brain circuit）机制。鼻脑回路始于嗅觉感觉神经元（OSN），OSN 感知鼻腔吸气并将信号传递给嗅球的僧帽细胞，信息随后从嗅球传输到海马旁皮层中的长投射中间神经元，最终到达杏仁体基底外侧核的谷氨酸能神经元。研究发现，鼻腔气流通过这条通路以频率依赖的方式调节类焦虑行为，这种效应可能取决于通过鼻腔吸气的频率。这种效应是双向的，意味着加快呼吸可能会加剧焦虑，而减慢呼吸则能缓解焦虑。",
       "source": "Solidot",
       "pub_date": "Tue, 08 Sep 2026 22:54:55 +0800",
-      "fetched_at": "2026-09-10T12:00:05.543664",
+      "fetched_at": "2026-09-10T20:00:02.916805",
       "categories": [
         "ai"
       ],
@@ -121,12 +141,53 @@
       "importance": 0.5
     },
     {
+      "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
+      "link": "https://www.qbitai.com/2026/09/486900.html",
+      "summary": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。",
+      "source": "量子位",
+      "pub_date": "Thu, 10 Sep 2026 08:17:05 +0000",
+      "fetched_at": "2026-09-10T20:00:03.333109",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。",
+      "keywords": [
+        "原生城市世界模型",
+        "abot",
+        "earth",
+        "全球首个",
+        "发布"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
+      "link": "https://www.qbitai.com/2026/09/486747.html",
+      "summary": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R",
+      "source": "量子位",
+      "pub_date": "Thu, 10 Sep 2026 07:57:55 +0000",
+      "fetched_at": "2026-09-10T20:00:03.333257",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R",
+      "keywords": [
+        "hsimul",
+        "全球首个可仿真的人",
+        "场景交互重建框架",
+        "让人类视频真正成为机器人技能来源",
+        "大晓机器人联合南洋理工大学"
+      ],
+      "importance": 0.5
+    },
+    {
       "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
       "link": "https://www.qbitai.com/2026/09/486436.html",
       "summary": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
       "source": "量子位",
       "pub_date": "Thu, 10 Sep 2026 01:39:13 +0000",
-      "fetched_at": "2026-09-10T12:00:06.039846",
+      "fetched_at": "2026-09-10T20:00:03.333901",
       "categories": [
         "ai"
       ],
@@ -141,32 +202,12 @@
       "importance": 0.5
     },
     {
-      "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
-      "link": "https://www.qbitai.com/2026/09/486288.html",
-      "summary": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
-      "source": "量子位",
-      "pub_date": "Wed, 09 Sep 2026 05:02:30 +0000",
-      "fetched_at": "2026-09-10T12:00:06.040167",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
-      "keywords": [
-        "蚂蚁百灵发布首个金融增强模型",
-        "ai",
-        "开始进入真实投研工作流",
-        "蚂蚁集团百灵首个金融增强开放模型",
-        "ling"
-      ],
-      "importance": 0.5
-    },
-    {
       "title": "屏幕使用时长导致学生阅读得分大幅下降",
       "link": "https://www.solidot.org/story?sid=85333",
       "summary": "青少年的阅读、数学和科学成绩降至 2000 年国际 PISA 测试启动以来的最低水平，15 岁学生的阅读能力相当于过去低一岁学生的水平。经合组织（OECD）将成绩下滑归因于屏幕使用时长增加、出于兴趣的阅读减少以及数字设备带来的干扰。OECD 还发现，经常将 AI 聊天机器人用于起草论文或总结文本等任务的学生，其科学成绩平均低了 20分，相当于一年的学习差距。PISA 阅读成绩指数于 2012 年达到 501 分的最高值，到去年降至了 466 分。OECD 秘书长 Mathias Cormann 表示：“在阅读上，屏幕使用时长的增加和兴趣阅读的减少，与成绩下滑有着密切联系。我们还观察到更多‘仓促...",
       "source": "Solidot",
       "pub_date": "Thu, 10 Sep 2026 01:13:04 +0800",
-      "fetched_at": "2026-09-10T12:00:05.539724",
+      "fetched_at": "2026-09-10T20:00:02.913692",
       "categories": [
         "ai",
         "robotics"
@@ -187,7 +228,7 @@
       "summary": "1966 年 9 月 8 日，《星际迷航：原初系列》上映。60 年之后，《星际迷航》系列包含了 967 集电视剧、14 部电影，以及大量小说等其它媒介，形成了庞大的《星际迷航》宇宙，是史上最成功的科幻作品系列之一。《星际迷航》最著名的开头旁白是：“宇宙，终极的边疆。这里叙述的是星舰进取号的旅程，它的五年任务，是为了要探索这全然未知的新世界戏中，寻找新生命和新文明，勇踏前人未至之境。”以前被称为 Trekkies 的星际迷航粉丝可能只记住 James T. Kirk 这位进取号船长的名字，如今 Picard、Janeway 或 Sisko 等船长的名字对大部分粉丝而言都如雷贯耳。",
       "source": "Solidot",
       "pub_date": "Wed, 09 Sep 2026 19:49:10 +0800",
-      "fetched_at": "2026-09-10T12:00:05.540376",
+      "fetched_at": "2026-09-10T20:00:02.914174",
       "categories": [
         "space"
       ],
@@ -200,99 +241,36 @@
         "原初系列"
       ],
       "importance": 0
-    },
-    {
-      "title": "Fermi Explorer Mission 项目考虑 2029 年向半人马座α星发射探测器",
-      "link": "https://www.solidot.org/story?sid=85328",
-      "summary": "非营利组织费米探索者任务（Fermi Explorer Mission）公布了一项低成本星际方案，计划 2029 年底前发射小型探测器，飞向约 4.4 光年外的半人马座α星系统。路线由 AI 规划，全程耗时约 8 万年，总预算低于 1500 万美元。项目联合创始人兼主席菲利普·约翰斯顿在声明中称，旅程结束时无人能亲见结果，而这正是意义所在：“这是在迈出人类能够做到的第一步，也是为了激励后代继续突破我们所继承下来的极限”。任务设四项硬指标：探测器应朝半人马座α星系统飞行，8 万年内至少完成整个旅程的 99%；有效载荷至少 1 公斤，封装在 10×10×10 厘米空间内；2029 年底前发射；全周...",
-      "source": "Solidot",
-      "pub_date": "Wed, 09 Sep 2026 16:35:01 +0800",
-      "fetched_at": "2026-09-10T12:00:05.541406",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "非营利组织费米探索者任务（Fermi Explorer Mission）公布了一项低成本星际方案，计划 2029 年底前发射小型探测器，飞向约 4.4 光年外的半人马座α星系统。路线由 AI 规划，全程耗时约 8 万年，总预算低于 1500 万美元。项目联合创始人兼主席菲利普·约翰斯顿在声明中称，旅...",
-      "keywords": [
-        "fermi",
-        "explorer",
-        "mission",
-        "项目考虑",
-        "年向半人马座"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "孕期记忆力下降背后的生物学机制",
-      "link": "https://www.solidot.org/story?sid=85325",
-      "summary": "许多女性在孕期或使用口服避孕药时，经常会有忘记物品摆放、难以集中注意力的经历。这种常被戏称为“孕傻” （Mom Brain）的现象，长期以来缺乏明确的生物学解释。发表在《Science Bulletin》上的一项研究揭示了持续水平高雌激素并非直接作用于记忆中枢，而是通过干扰一条特定的“下丘脑-海马”神经环路，从而暂时性损害记忆功能，从机制层面解答了高水平雌激素影响认知的生物学基础。研究人员首先构建了模拟孕期持续高雌激素水平的小鼠模型，发现高雌激素会引起可逆的记忆损伤，但并不影响情绪或探索动机，表明这是一种特异性的认知效应。在机制层面，研究团队发现，外侧下丘脑中占主导地位的雌激素受体集中在GAB...",
-      "source": "Solidot",
-      "pub_date": "Wed, 09 Sep 2026 13:42:13 +0800",
-      "fetched_at": "2026-09-10T12:00:05.542378",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "许多女性在孕期或使用口服避孕药时，经常会有忘记物品摆放、难以集中注意力的经历。这种常被戏称为“孕傻” （Mom Brain）的现象，长期以来缺乏明确的生物学解释。发表在《Science Bulletin》上的一项研究揭示了持续水平高雌激素并非直接作用于记忆中枢，而是通过干扰一条特定的“下丘脑-海马”...",
-      "keywords": [
-        "孕期记忆力下降背后的生物学机制",
-        "许多女性在孕期或使用口服避孕药时",
-        "经常会有忘记物品摆放",
-        "难以集中注意力的经历",
-        "这种常被戏称为"
-      ],
-      "importance": 0
     }
   ],
   "latest": [
     {
-      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-      "link": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-      "summary": "👍 190 | 💬 77",
+      "title": "AirPods 5",
+      "link": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "summary": "👍 466 | 💬 398",
       "source": "HackerNews",
-      "pub_date": "2026-09-10T01:24:28",
-      "fetched_at": "2026-09-10T12:00:34.120069",
+      "pub_date": "2026-09-10T01:39:24",
+      "fetched_at": "2026-09-10T20:00:29.435435",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 190 | 💬 77",
+      "ai_summary": "👍 466 | 💬 398",
       "keywords": [
-        "qwen",
-        "follows",
-        "gpt",
-        "pro",
-        "reasoning"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Be Using Rootless Containers",
-      "link": "https://blog.miguelgrinberg.com/post/you-should-be-using-rootless-containers",
-      "summary": "👍 16 | 💬 10",
-      "source": "HackerNews",
-      "pub_date": "2026-09-08T23:36:11",
-      "fetched_at": "2026-09-10T12:00:29.576162",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 16 | 💬 10",
-      "keywords": [
-        "be",
-        "using",
-        "rootless",
-        "containers"
+        "airpods"
       ],
       "importance": 0
     },
     {
       "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
       "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-      "summary": "👍 370 | 💬 128",
+      "summary": "👍 450 | 💬 146",
       "source": "HackerNews",
       "pub_date": "2026-09-09T22:37:47",
-      "fetched_at": "2026-09-10T12:00:25.551059",
+      "fetched_at": "2026-09-10T20:00:26.663797",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 370 | 💬 128",
+      "ai_summary": "👍 450 | 💬 146",
       "keywords": [
         "gpt",
         "astra",
@@ -303,176 +281,40 @@
       "importance": 0
     },
     {
-      "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
-      "link": "https://hugovergnes.github.io/little-lm-3-8b/",
-      "summary": "👍 11 | 💬 1",
+      "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=12835",
+      "summary": "👍 30 | 💬 4",
       "source": "HackerNews",
-      "pub_date": "2026-09-10T10:04:11",
-      "fetched_at": "2026-09-10T12:00:24.683495",
+      "pub_date": "2026-09-07T12:27:29",
+      "fetched_at": "2026-09-10T20:00:24.653329",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 11 | 💬 1",
+      "ai_summary": "👍 30 | 💬 4",
       "keywords": [
-        "training",
-        "llm",
-        "to",
-        "core",
-        "for"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "AirPods 5",
-      "link": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "summary": "👍 401 | 💬 320",
-      "source": "HackerNews",
-      "pub_date": "2026-09-10T01:39:24",
-      "fetched_at": "2026-09-10T12:00:19.049357",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 401 | 💬 320",
-      "keywords": [
-        "airpods"
+        "samsung",
+        "debuts",
+        "zhbm",
+        "prototype",
+        "stacking"
       ],
       "importance": 0
     },
     {
       "title": "Shopify acquires Tailwind",
       "link": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-      "summary": "👍 930 | 💬 371",
+      "summary": "👍 1055 | 💬 406",
       "source": "HackerNews",
       "pub_date": "2026-09-09T21:27:11",
-      "fetched_at": "2026-09-10T12:00:14.148226",
+      "fetched_at": "2026-09-10T20:00:12.577405",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 930 | 💬 371",
+      "ai_summary": "👍 1055 | 💬 406",
       "keywords": [
         "shopify",
         "acquires",
         "tailwind"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
-      "link": "https://www.qbitai.com/2026/09/485794.html",
-      "summary": "百万奖金、大厂直通、VC跟投",
-      "source": "量子位",
-      "pub_date": "Tue, 08 Sep 2026 05:05:03 +0000",
-      "fetched_at": "2026-09-10T12:00:06.040590",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "百万奖金、大厂直通、VC跟投",
-      "keywords": [
-        "现场围观金融",
-        "ai",
-        "决赛",
-        "大厂挑人的逻辑我悟了",
-        "百万奖金"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
-      "link": "https://www.qbitai.com/2026/09/485854.html",
-      "summary": "Blender也不用学了",
-      "source": "量子位",
-      "pub_date": "Tue, 08 Sep 2026 06:05:30 +0000",
-      "fetched_at": "2026-09-10T12:00:06.040510",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Blender也不用学了",
-      "keywords": [
-        "感谢用",
-        "gpt",
-        "燃烧自己的",
-        "token",
-        "换来一次全体重置"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "宜宾，一场机器人“招聘会”的产业雄心",
-      "link": "https://www.qbitai.com/2026/09/486038.html",
-      "summary": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。",
-      "source": "量子位",
-      "pub_date": "Wed, 09 Sep 2026 02:15:54 +0000",
-      "fetched_at": "2026-09-10T12:00:06.040434",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。",
-      "keywords": [
-        "宜宾",
-        "一场机器人",
-        "招聘会",
-        "的产业雄心",
-        "宜宾国际会展中心"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
-      "link": "https://www.qbitai.com/2026/09/486280.html",
-      "summary": "从Demo到货架，这两家公司要让具身智能算得过账",
-      "source": "量子位",
-      "pub_date": "Wed, 09 Sep 2026 04:52:12 +0000",
-      "fetched_at": "2026-09-10T12:00:06.040259",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "从Demo到货架，这两家公司要让具身智能算得过账",
-      "keywords": [
-        "具身机器人能搞定超市盘点吗",
-        "全球七万门店正在给出答案",
-        "demo",
-        "到货架",
-        "这两家公司要让具身智能算得过账"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
-      "link": "https://www.qbitai.com/2026/09/486288.html",
-      "summary": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
-      "source": "量子位",
-      "pub_date": "Wed, 09 Sep 2026 05:02:30 +0000",
-      "fetched_at": "2026-09-10T12:00:06.040167",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
-      "keywords": [
-        "蚂蚁百灵发布首个金融增强模型",
-        "ai",
-        "开始进入真实投研工作流",
-        "蚂蚁集团百灵首个金融增强开放模型",
-        "ling"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
-      "link": "https://www.qbitai.com/2026/09/486370.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Wed, 09 Sep 2026 09:57:54 +0000",
-      "fetched_at": "2026-09-10T12:00:06.040070",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "国产",
-        "ai",
-        "计算平台登场亮相",
-        "外滩大会",
-        "算力技术与人才布局双向发力"
       ],
       "importance": 0
     },
@@ -482,7 +324,7 @@
       "summary": "一比根号二的小胖折叠",
       "source": "量子位",
       "pub_date": "Wed, 09 Sep 2026 19:24:22 +0000",
-      "fetched_at": "2026-09-10T12:00:06.040059",
+      "fetched_at": "2026-09-10T20:00:03.334060",
       "categories": [
         "ai"
       ],
@@ -502,7 +344,7 @@
       "summary": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
       "source": "量子位",
       "pub_date": "Thu, 10 Sep 2026 01:39:13 +0000",
-      "fetched_at": "2026-09-10T12:00:06.039846",
+      "fetched_at": "2026-09-10T20:00:03.333901",
       "categories": [
         "ai"
       ],
@@ -517,12 +359,133 @@
       "importance": 0.5
     },
     {
+      "title": "一周连发6个模型！这家公司把具身智能的闭环跑通了",
+      "link": "https://www.qbitai.com/2026/09/486625.html",
+      "summary": "模型可以开源，部署经验不能",
+      "source": "量子位",
+      "pub_date": "Thu, 10 Sep 2026 04:55:38 +0000",
+      "fetched_at": "2026-09-10T20:00:03.333778",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "模型可以开源，部署经验不能",
+      "keywords": [
+        "一周连发",
+        "个模型",
+        "这家公司把具身智能的闭环跑通了",
+        "模型可以开源",
+        "部署经验不能"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者",
+      "link": "https://www.qbitai.com/2026/09/486651.html",
+      "summary": "从一次投放到一套增长系统，AI 让海外达人营销可规模化复制",
+      "source": "量子位",
+      "pub_date": "Thu, 10 Sep 2026 06:25:22 +0000",
+      "fetched_at": "2026-09-10T20:00:03.333676",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "从一次投放到一套增长系统，AI 让海外达人营销可规模化复制",
+      "keywords": [
+        "ai",
+        "营销科技巨头蓝色光标与全球达人营销",
+        "平台",
+        "ahacreator",
+        "达成深度合作"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+      "link": "https://www.qbitai.com/2026/09/486684.html",
+      "summary": "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。",
+      "source": "量子位",
+      "pub_date": "Thu, 10 Sep 2026 07:25:39 +0000",
+      "fetched_at": "2026-09-10T20:00:03.333575",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。",
+      "keywords": [
+        "agi",
+        "时代的第一个生图模型",
+        "chatgpt",
+        "images",
+        "上线"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
+      "link": "https://www.qbitai.com/2026/09/486747.html",
+      "summary": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R",
+      "source": "量子位",
+      "pub_date": "Thu, 10 Sep 2026 07:57:55 +0000",
+      "fetched_at": "2026-09-10T20:00:03.333257",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R",
+      "keywords": [
+        "hsimul",
+        "全球首个可仿真的人",
+        "场景交互重建框架",
+        "让人类视频真正成为机器人技能来源",
+        "大晓机器人联合南洋理工大学"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
+      "link": "https://www.qbitai.com/2026/09/486900.html",
+      "summary": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。",
+      "source": "量子位",
+      "pub_date": "Thu, 10 Sep 2026 08:17:05 +0000",
+      "fetched_at": "2026-09-10T20:00:03.333109",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。",
+      "keywords": [
+        "原生城市世界模型",
+        "abot",
+        "earth",
+        "全球首个",
+        "发布"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
+      "link": "https://www.qbitai.com/2026/09/486934.html",
+      "summary": "多模态AI大牛轮番登台，全球64支团队组团解题",
+      "source": "量子位",
+      "pub_date": "Thu, 10 Sep 2026 10:17:46 +0000",
+      "fetched_at": "2026-09-10T20:00:03.332892",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "多模态AI大牛轮番登台，全球64支团队组团解题",
+      "keywords": [
+        "ai",
+        "eccv",
+        "顶尖学者们开始研究如何让",
+        "做生意了",
+        "多模态"
+      ],
+      "importance": 0
+    },
+    {
       "title": "控制呼吸为何能控制焦虑？",
       "link": "https://www.solidot.org/story?sid=85322",
       "summary": "焦虑是人类最常见的精神疾病，全球约有 3.59 亿人受到影响。控制呼吸被认为有助于控制焦虑，根据发表在 PNAS 期刊上的一项研究，科学家基于小鼠研究揭示了这一现象背后的鼻脑回路（nose-to-brain circuit）机制。鼻脑回路始于嗅觉感觉神经元（OSN），OSN 感知鼻腔吸气并将信号传递给嗅球的僧帽细胞，信息随后从嗅球传输到海马旁皮层中的长投射中间神经元，最终到达杏仁体基底外侧核的谷氨酸能神经元。研究发现，鼻腔气流通过这条通路以频率依赖的方式调节类焦虑行为，这种效应可能取决于通过鼻腔吸气的频率。这种效应是双向的，意味着加快呼吸可能会加剧焦虑，而减慢呼吸则能缓解焦虑。",
       "source": "Solidot",
       "pub_date": "Tue, 08 Sep 2026 22:54:55 +0800",
-      "fetched_at": "2026-09-10T12:00:05.543664",
+      "fetched_at": "2026-09-10T20:00:02.916805",
       "categories": [
         "ai"
       ],
@@ -542,7 +505,7 @@
       "summary": "许多女性在孕期或使用口服避孕药时，经常会有忘记物品摆放、难以集中注意力的经历。这种常被戏称为“孕傻” （Mom Brain）的现象，长期以来缺乏明确的生物学解释。发表在《Science Bulletin》上的一项研究揭示了持续水平高雌激素并非直接作用于记忆中枢，而是通过干扰一条特定的“下丘脑-海马”神经环路，从而暂时性损害记忆功能，从机制层面解答了高水平雌激素影响认知的生物学基础。研究人员首先构建了模拟孕期持续高雌激素水平的小鼠模型，发现高雌激素会引起可逆的记忆损伤，但并不影响情绪或探索动机，表明这是一种特异性的认知效应。在机制层面，研究团队发现，外侧下丘脑中占主导地位的雌激素受体集中在GAB...",
       "source": "Solidot",
       "pub_date": "Wed, 09 Sep 2026 13:42:13 +0800",
-      "fetched_at": "2026-09-10T12:00:05.542378",
+      "fetched_at": "2026-09-10T20:00:02.915851",
       "categories": [
         "ai"
       ],
@@ -562,7 +525,7 @@
       "summary": "非营利组织费米探索者任务（Fermi Explorer Mission）公布了一项低成本星际方案，计划 2029 年底前发射小型探测器，飞向约 4.4 光年外的半人马座α星系统。路线由 AI 规划，全程耗时约 8 万年，总预算低于 1500 万美元。项目联合创始人兼主席菲利普·约翰斯顿在声明中称，旅程结束时无人能亲见结果，而这正是意义所在：“这是在迈出人类能够做到的第一步，也是为了激励后代继续突破我们所继承下来的极限”。任务设四项硬指标：探测器应朝半人马座α星系统飞行，8 万年内至少完成整个旅程的 99%；有效载荷至少 1 公斤，封装在 10×10×10 厘米空间内；2029 年底前发射；全周...",
       "source": "Solidot",
       "pub_date": "Wed, 09 Sep 2026 16:35:01 +0800",
-      "fetched_at": "2026-09-10T12:00:05.541406",
+      "fetched_at": "2026-09-10T20:00:02.915033",
       "categories": [
         "ai"
       ],
@@ -582,7 +545,7 @@
       "summary": "美国国家安全局、联邦调查局及网络安全和基础设施安全局周二发表联合声明，称深度求索（DeepSeek）、月之暗面等六家中国 AI 企业至少从 2024 年起利用“蒸馏”技术，以“工业化规模”访问美国 AI 模型并提取信息。六家企业包括 DeepSeek、Kimi 开发商月之暗面、阿里巴巴、MiniMax、阶跃星辰和智谱，涉及的美国模型来自 Anthropic、OpenAI、Alphabet 旗下 Google 和 SpaceX。蒸馏是利用较大模型生成的内容训练其他模型的技术，可用于降低训练和运行成本。这项技术本身有正当用途，美方此次指控的重点是，中国企业未经授权使用美国模型，并刻意绕过相关使用限...",
       "source": "Solidot",
       "pub_date": "Wed, 09 Sep 2026 16:55:23 +0800",
-      "fetched_at": "2026-09-10T12:00:05.541121",
+      "fetched_at": "2026-09-10T20:00:02.914711",
       "categories": [
         "ai",
         "space"
@@ -603,7 +566,7 @@
       "summary": "NVIDIA 2026 年度创业企业展示活动的半程展示将于 10 月 15 日在苏州金鸡湖国际会议中心 A 馆举办。 半程展示将聚焦 AI 智能体、物理 AI、开放模型及 AI 应用等前沿方向。届时，30 余家 NVIDIA 初创加速计划会员企业将带来路演，NVIDIA 技术专家联合生态伙伴共同把脉 AI 产业趋势，现场设专属展区供近距离体验。 活动面向科创企业、投资人、大企业、云厂商、创业加速器等生态从业者开放报名，审核制确认，报名从速！ https://scrm.nvidia.cn/events/semi-final-20261015?pushId=8kJQ2pgiiMFxtKL7Gapg...",
       "source": "Solidot",
       "pub_date": "Wed, 09 Sep 2026 19:15:10 +0800",
-      "fetched_at": "2026-09-10T12:00:05.540797",
+      "fetched_at": "2026-09-10T20:00:02.914475",
       "categories": [
         "ai"
       ],
@@ -623,7 +586,7 @@
       "summary": "1966 年 9 月 8 日，《星际迷航：原初系列》上映。60 年之后，《星际迷航》系列包含了 967 集电视剧、14 部电影，以及大量小说等其它媒介，形成了庞大的《星际迷航》宇宙，是史上最成功的科幻作品系列之一。《星际迷航》最著名的开头旁白是：“宇宙，终极的边疆。这里叙述的是星舰进取号的旅程，它的五年任务，是为了要探索这全然未知的新世界戏中，寻找新生命和新文明，勇踏前人未至之境。”以前被称为 Trekkies 的星际迷航粉丝可能只记住 James T. Kirk 这位进取号船长的名字，如今 Picard、Janeway 或 Sisko 等船长的名字对大部分粉丝而言都如雷贯耳。",
       "source": "Solidot",
       "pub_date": "Wed, 09 Sep 2026 19:49:10 +0800",
-      "fetched_at": "2026-09-10T12:00:05.540376",
+      "fetched_at": "2026-09-10T20:00:02.914174",
       "categories": [
         "space"
       ],
@@ -636,7 +599,48 @@
         "原初系列"
       ],
       "importance": 0
+    },
+    {
+      "title": "屏幕使用时长导致学生阅读得分大幅下降",
+      "link": "https://www.solidot.org/story?sid=85333",
+      "summary": "青少年的阅读、数学和科学成绩降至 2000 年国际 PISA 测试启动以来的最低水平，15 岁学生的阅读能力相当于过去低一岁学生的水平。经合组织（OECD）将成绩下滑归因于屏幕使用时长增加、出于兴趣的阅读减少以及数字设备带来的干扰。OECD 还发现，经常将 AI 聊天机器人用于起草论文或总结文本等任务的学生，其科学成绩平均低了 20分，相当于一年的学习差距。PISA 阅读成绩指数于 2012 年达到 501 分的最高值，到去年降至了 466 分。OECD 秘书长 Mathias Cormann 表示：“在阅读上，屏幕使用时长的增加和兴趣阅读的减少，与成绩下滑有着密切联系。我们还观察到更多‘仓促...",
+      "source": "Solidot",
+      "pub_date": "Thu, 10 Sep 2026 01:13:04 +0800",
+      "fetched_at": "2026-09-10T20:00:02.913692",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "青少年的阅读、数学和科学成绩降至 2000 年国际 PISA 测试启动以来的最低水平，15 岁学生的阅读能力相当于过去低一岁学生的水平。经合组织（OECD）将成绩下滑归因于屏幕使用时长增加、出于兴趣的阅读减少以及数字设备带来的干扰。OECD 还发现，经常将 AI 聊天机器人用于起草论文或总结文本等任...",
+      "keywords": [
+        "oecd",
+        "pisa",
+        "屏幕使用时长导致学生阅读得分大幅下降",
+        "青少年的阅读",
+        "数学和科学成绩降至"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "苹果推出折叠屏手机 iPhone Duo",
+      "link": "https://www.solidot.org/story?sid=85335",
+      "summary": "苹果宣布了一系列新产品，包括 iPhone 18 Pro 与 iPhone 18 Pro Max、AirPods 5 以及其首款折叠屏手机 iPhone Duo。其中最引人瞩目的是其折叠屏手机。三星、Google 和华为等苹果竞争对手早就推出了折叠屏手机，在内存和存储器短缺导致价格飙升时代，苹果推出起售价 15,999 元的折叠屏手机，消费者是否接受还有待市场检验。iPhone Duo 配备了 7.6 英寸超视网膜 XDR 可折叠屏，5.4 英寸超视网膜 XDR 外屏，A20 Pro 芯片，10 月 16 日（星期五）起接受预购，10 月 23 日（星期五）起正式发售。",
+      "source": "Solidot",
+      "pub_date": "Thu, 10 Sep 2026 17:06:31 +0800",
+      "fetched_at": "2026-09-10T20:00:02.913173",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "苹果宣布了一系列新产品，包括 iPhone 18 Pro 与 iPhone 18 Pro Max、AirPods 5 以及其首款折叠屏手机 iPhone Duo。其中最引人瞩目的是其折叠屏手机。三星、Google 和华为等苹果竞争对手早就推出了折叠屏手机，在内存和存储器短缺导致价格飙升时代，苹果推出...",
+      "keywords": [
+        "iphone",
+        "duo",
+        "pro",
+        "英寸超视网膜",
+        "xdr"
+      ],
+      "importance": 1.0
     }
   ],
-  "updated_at": "2026-09-10T12:00:37.413555"
+  "updated_at": "2026-09-10T20:00:31.121201"
 }

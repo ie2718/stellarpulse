@@ -5,21 +5,21 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-09-11T20:00:36.260361",
-    "total_items": 23
+    "last_update": "2026-09-12T12:00:33.304107",
+    "total_items": 17
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 22
+      "count": 15
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 2
+      "count": 1
     },
     "space": {
       "name": "Space",
@@ -29,36 +29,55 @@
     }
   },
   "stats": {
-    "total_items": 23,
-    "today_items": 23,
+    "total_items": 17,
+    "today_items": 17,
     "sources": {
-      "Solidot": 10,
-      "量子位": 7,
+      "Solidot": 6,
+      "量子位": 5,
       "HackerNews": 6
     },
-    "last_update": "2026-09-11T20:00:36.260361"
+    "last_update": "2026-09-12T12:00:33.304107"
   },
   "trending": [
     {
-      "title": "美国政府指控中国公司系统性蒸馏美国 AI 模型",
-      "link": "https://www.solidot.org/story?sid=85329",
-      "summary": "美国国家安全局、联邦调查局及网络安全和基础设施安全局周二发表联合声明，称深度求索（DeepSeek）、月之暗面等六家中国 AI 企业至少从 2024 年起利用“蒸馏”技术，以“工业化规模”访问美国 AI 模型并提取信息。六家企业包括 DeepSeek、Kimi 开发商月之暗面、阿里巴巴、MiniMax、阶跃星辰和智谱，涉及的美国模型来自 Anthropic、OpenAI、Alphabet 旗下 Google 和 SpaceX。蒸馏是利用较大模型生成的内容训练其他模型的技术，可用于降低训练和运行成本。这项技术本身有正当用途，美方此次指控的重点是，中国企业未经授权使用美国模型，并刻意绕过相关使用限...",
+      "title": "因 NASA 削减预算 ESA 将独立完成金星探索项目",
+      "link": "https://www.solidot.org/story?sid=85357",
+      "summary": "因特朗普政府削减了 NASA 预算，难以兑现提供合成孔径雷达的承诺，欧洲 ESA 将独立推进金星探索项目 Envision。Envision 轨道探测器任务旨在对金星表面进行测绘，由于金星表面被厚厚的硫酸云层笼罩，需要使用雷达穿透云层。NASA 与 ESA 于 2024 年签署了一份谅解备忘录，NASA 提供美制合成孔径雷达，通过其深空网络提供跟踪与通信支持。作为交换，ESA 将把美国研究人员纳入其团队。然而 2026 年和 2027 年的 NASA 预算被特朗普政府提议大幅削减，虽然国会否决了大部分预算削减方案，但 NASA 的科学预算仍然减少了数亿美元。NASA 的国际合作任务是主要削减对...",
       "source": "Solidot",
-      "pub_date": "Wed, 09 Sep 2026 16:55:23 +0800",
-      "fetched_at": "2026-09-11T20:00:07.072094",
+      "pub_date": "Sat, 12 Sep 2026 00:57:44 +0800",
+      "fetched_at": "2026-09-12T12:00:06.925983",
       "categories": [
-        "ai",
         "space"
       ],
-      "ai_summary": "美国国家安全局、联邦调查局及网络安全和基础设施安全局周二发表联合声明，称深度求索（DeepSeek）、月之暗面等六家中国 AI 企业至少从 2024 年起利用“蒸馏”技术，以“工业化规模”访问美国 AI 模型并提取信息。六家企业包括 DeepSeek、Kimi 开发商月之暗面、阿里巴巴、MiniMa...",
+      "ai_summary": "因特朗普政府削减了 NASA 预算，难以兑现提供合成孔径雷达的承诺，欧洲 ESA 将独立推进金星探索项目 Envision。Envision 轨道探测器任务旨在对金星表面进行测绘，由于金星表面被厚厚的硫酸云层笼罩，需要使用雷达穿透云层。NASA 与 ESA 于 2024 年签署了一份谅解备忘录，NA...",
       "keywords": [
-        "ai",
-        "deepseek",
-        "美国政府指控中国公司系统性蒸馏美国",
-        "模型",
-        "美国国家安全局"
+        "nasa",
+        "esa",
+        "envision",
+        "削减预算",
+        "将独立完成金星探索项目"
       ],
-      "importance": 2.5
+      "importance": 1.0
+    },
+    {
+      "title": "Google 购买芬兰一核电站一半的发电量",
+      "link": "https://www.solidot.org/story?sid=85347",
+      "summary": "Google 宣布斥资 130 亿欧元在芬兰投资 AI 基础设施，其中包括购买一座核电站 50% 的发电量。这是 Google 在欧洲最大的单项投资。这笔投资将用于建设三个新数据中心、扩建现有设施，并持能源项目，以满足对 AI 服务日益增长的电力需求。作为协议的一部分，Google 与芬兰公用事业公司 Fortum 签署了一份为期 22 年的合同，将购买 Loviisa 核电站最多 50% 的发电量。本周早些时候，TikTok 也宣布投资 10 亿美元在芬兰 Kouvola 建设新数据中心，理由是该国拥有“强大的数字基础设施、清洁的能源结构、健全的数据治理体系以及高素质的技术人才”。",
+      "source": "Solidot",
+      "pub_date": "Fri, 11 Sep 2026 15:56:45 +0800",
+      "fetched_at": "2026-09-12T12:00:06.927642",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Google 宣布斥资 130 亿欧元在芬兰投资 AI 基础设施，其中包括购买一座核电站 50% 的发电量。这是 Google 在欧洲最大的单项投资。这笔投资将用于建设三个新数据中心、扩建现有设施，并持能源项目，以满足对 AI 服务日益增长的电力需求。作为协议的一部分，Google 与芬兰公用事业公...",
+      "keywords": [
+        "google",
+        "ai",
+        "的发电量",
+        "购买芬兰一核电站一半的发电量",
+        "宣布斥资"
+      ],
+      "importance": 1.0
     },
     {
       "title": "OpenAI 声称解决了 Navier-Stokes 问题，但引发了利用未发布成果的争议",
@@ -66,7 +85,7 @@
       "summary": "约 200 年前，法国物理学家克劳德-路易·纳维和爱尔兰物理学家乔治·斯托克斯提出了一组至今仍然广泛使用的、描述液体、空气等流体运动的偏微分方程。Navier-Stokes 方程并不保证适用于所有可能的情况。几十年来，数学家一直致力于寻求证明方程的普适性或导致方程失效的特例。2000 年克雷数学研究所将 Navier-Stokes 方程列为六大千禧年数学问题之一。OpenAI 本周宣布通过动用约 1 万个 AI 智能体进行长达 88 小时的攻坚，于 9 月 5 日发现了一个 Navier-Stokes 方程失效的特例。如果得到确认，将标志着 AI 首次解决了一个重大的数学难题。但此事在数学界引...",
       "source": "Solidot",
       "pub_date": "Thu, 10 Sep 2026 23:51:55 +0800",
-      "fetched_at": "2026-09-11T20:00:07.069596",
+      "fetched_at": "2026-09-12T12:00:06.928939",
       "categories": [
         "ai"
       ],
@@ -81,32 +100,12 @@
       "importance": 1.0
     },
     {
-      "title": "苹果推出折叠屏手机 iPhone Duo",
-      "link": "https://www.solidot.org/story?sid=85335",
-      "summary": "苹果宣布了一系列新产品，包括 iPhone 18 Pro 与 iPhone 18 Pro Max、AirPods 5 以及其首款折叠屏手机 iPhone Duo。其中最引人瞩目的是其折叠屏手机。三星、Google 和华为等苹果竞争对手早就推出了折叠屏手机，在内存和存储器短缺导致价格飙升时代，苹果推出起售价 15,999 元的折叠屏手机，消费者是否接受还有待市场检验。iPhone Duo 配备了 7.6 英寸超视网膜 XDR 可折叠屏，5.4 英寸超视网膜 XDR 外屏，A20 Pro 芯片，10 月 16 日（星期五）起接受预购，10 月 23 日（星期五）起正式发售。",
-      "source": "Solidot",
-      "pub_date": "Thu, 10 Sep 2026 17:06:31 +0800",
-      "fetched_at": "2026-09-11T20:00:07.070617",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "苹果宣布了一系列新产品，包括 iPhone 18 Pro 与 iPhone 18 Pro Max、AirPods 5 以及其首款折叠屏手机 iPhone Duo。其中最引人瞩目的是其折叠屏手机。三星、Google 和华为等苹果竞争对手早就推出了折叠屏手机，在内存和存储器短缺导致价格飙升时代，苹果推出...",
-      "keywords": [
-        "iphone",
-        "duo",
-        "pro",
-        "英寸超视网膜",
-        "xdr"
-      ],
-      "importance": 1.0
-    },
-    {
       "title": "微软九月例行更新修复近千个 Bug",
       "link": "https://www.solidot.org/story?sid=85338",
       "summary": "在 AI 辅助发现 bug 的时代，主要操作系统每个月修复的 bug 数都在飙升。微软周二释出了九月例行安全更新，总共修复了 974 个 bug，数量为史上最多，今年的安全补丁数已超过 2600。最新补丁包括了 2 个正被利用的提权 0day 漏洞 CVE-2026-81963 和 CVE-2026-85880，113 个 bug 被列为高危，438 个提权 bug，19 个安全功能绕过 bug，258 个远程代码执行 bug，173 个信息泄露 bug，56 个拒绝服务 bug，16 个欺骗 bug。比较严重的 bug 包括存在于 Windows Server 2012 以上版本 和 Win...",
       "source": "Solidot",
       "pub_date": "Thu, 10 Sep 2026 19:42:20 +0800",
-      "fetched_at": "2026-09-11T20:00:07.069888",
+      "fetched_at": "2026-09-12T12:00:06.929104",
       "categories": [
         "ai"
       ],
@@ -121,52 +120,12 @@
       "importance": 0.5
     },
     {
-      "title": "NVIDIA 创业企业展示半程活动10月苏州举行，30家科创企业路演+投资人对接",
-      "link": "https://www.solidot.org/story?sid=85330",
-      "summary": "NVIDIA 2026 年度创业企业展示活动的半程展示将于 10 月 15 日在苏州金鸡湖国际会议中心 A 馆举办。 半程展示将聚焦 AI 智能体、物理 AI、开放模型及 AI 应用等前沿方向。届时，30 余家 NVIDIA 初创加速计划会员企业将带来路演，NVIDIA 技术专家联合生态伙伴共同把脉 AI 产业趋势，现场设专属展区供近距离体验。 活动面向科创企业、投资人、大企业、云厂商、创业加速器等生态从业者开放报名，审核制确认，报名从速！ https://scrm.nvidia.cn/events/semi-final-20261015?pushId=8kJQ2pgiiMFxtKL7Gapg...",
-      "source": "Solidot",
-      "pub_date": "Wed, 09 Sep 2026 19:15:10 +0800",
-      "fetched_at": "2026-09-11T20:00:07.071864",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "NVIDIA 2026 年度创业企业展示活动的半程展示将于 10 月 15 日在苏州金鸡湖国际会议中心 A 馆举办。 半程展示将聚焦 AI 智能体、物理 AI、开放模型及 AI 应用等前沿方向。届时，30 余家 NVIDIA 初创加速计划会员企业将带来路演，NVIDIA...",
-      "keywords": [
-        "nvidia",
-        "ai",
-        "创业企业展示半程活动",
-        "月苏州举行",
-        "家科创企业路演"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "控制呼吸为何能控制焦虑？",
-      "link": "https://www.solidot.org/story?sid=85322",
-      "summary": "焦虑是人类最常见的精神疾病，全球约有 3.59 亿人受到影响。控制呼吸被认为有助于控制焦虑，根据发表在 PNAS 期刊上的一项研究，科学家基于小鼠研究揭示了这一现象背后的鼻脑回路（nose-to-brain circuit）机制。鼻脑回路始于嗅觉感觉神经元（OSN），OSN 感知鼻腔吸气并将信号传递给嗅球的僧帽细胞，信息随后从嗅球传输到海马旁皮层中的长投射中间神经元，最终到达杏仁体基底外侧核的谷氨酸能神经元。研究发现，鼻腔气流通过这条通路以频率依赖的方式调节类焦虑行为，这种效应可能取决于通过鼻腔吸气的频率。这种效应是双向的，意味着加快呼吸可能会加剧焦虑，而减慢呼吸则能缓解焦虑。",
-      "source": "Solidot",
-      "pub_date": "Tue, 08 Sep 2026 22:54:55 +0800",
-      "fetched_at": "2026-09-11T20:00:07.073647",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "焦虑是人类最常见的精神疾病，全球约有 3.59 亿人受到影响。控制呼吸被认为有助于控制焦虑，根据发表在 PNAS 期刊上的一项研究，科学家基于小鼠研究揭示了这一现象背后的鼻脑回路（nose-to-brain circuit）机制。鼻脑回路始于嗅觉感觉神经元（OSN），OSN 感知鼻腔吸气并将信号传递...",
-      "keywords": [
-        "osn",
-        "控制呼吸为何能控制焦虑",
-        "焦虑是人类最常见的精神疾病",
-        "全球约有",
-        "亿人受到影响"
-      ],
-      "importance": 0.5
-    },
-    {
       "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
       "link": "https://www.qbitai.com/2026/09/487092.html",
       "summary": "爆料直指霍奇猜想",
       "source": "量子位",
       "pub_date": "Fri, 11 Sep 2026 01:46:55 +0000",
-      "fetched_at": "2026-09-11T20:00:07.481858",
+      "fetched_at": "2026-09-12T12:00:07.257225",
       "categories": [
         "ai"
       ],
@@ -181,224 +140,227 @@
       "importance": 0.5
     },
     {
-      "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
-      "link": "https://www.qbitai.com/2026/09/486900.html",
-      "summary": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。",
-      "source": "量子位",
-      "pub_date": "Thu, 10 Sep 2026 08:17:05 +0000",
-      "fetched_at": "2026-09-11T20:00:07.482256",
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "summary": "👍 378 | 💬 194",
+      "source": "HackerNews",
+      "pub_date": "2026-09-12T02:24:55",
+      "fetched_at": "2026-09-12T12:00:10.970248",
       "categories": [
-        "ai"
-      ],
-      "ai_summary": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。",
-      "keywords": [
-        "原生城市世界模型",
-        "abot",
-        "earth",
-        "全球首个",
-        "发布"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
-      "link": "https://www.qbitai.com/2026/09/486747.html",
-      "summary": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R",
-      "source": "量子位",
-      "pub_date": "Thu, 10 Sep 2026 07:57:55 +0000",
-      "fetched_at": "2026-09-11T20:00:07.482384",
-      "categories": [
-        "ai",
         "robotics"
       ],
-      "ai_summary": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R",
+      "ai_summary": "👍 378 | 💬 194",
       "keywords": [
-        "hsimul",
-        "全球首个可仿真的人",
-        "场景交互重建框架",
-        "让人类视频真正成为机器人技能来源",
-        "大晓机器人联合南洋理工大学"
+        "spent",
+        "on",
+        "google",
+        "app",
+        "ads"
       ],
       "importance": 0.5
     },
     {
-      "title": "OpenAI Agents API",
-      "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "summary": "👍 277 | 💬 155",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "link": "https://www.rubyhack.ai/",
+      "summary": "👍 453 | 💬 264",
       "source": "HackerNews",
-      "pub_date": "2026-09-11T03:43:22",
-      "fetched_at": "2026-09-11T20:00:21.224987",
+      "pub_date": "2026-09-12T07:17:42",
+      "fetched_at": "2026-09-12T12:00:14.249053",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 277 | 💬 155",
+      "ai_summary": "👍 453 | 💬 264",
       "keywords": [
         "openai",
         "agents",
-        "api"
+        "carried",
+        "out",
+        "an"
       ],
       "importance": 0.5
+    },
+    {
+      "title": "儿童因经常将笔记本电脑放在腹部而出现烤肤症",
+      "link": "https://www.solidot.org/story?sid=85352",
+      "summary": "《BMJ Case Reports》报告了一起奇特的病例，一名儿童因腹部皮肤出现奇怪斑痕而送去急症。医生查找许久未发现病因，因此开了抗生素让他回家，叮嘱父母如果病情变化立即来复诊。两周后，这名儿童再次入院，他的病情出现恶化。皮肤斑块变大，颜色变深，且有触痛。这名儿童透露了一个情况，他是在家上学，经常使用笔记本电脑，他习惯将笔电放在腹部，有时一用就是八个小时，还经常在电脑充电时使用。医生终于明白了他的病因，诊断他患有 Erythema ab igne（EAI），也被称为烤肤综合征（toasted skin syndrome），一种因反复、长时间接触低强度热源而引发的皮肤病，多见于成年人，常见诱因...",
+      "source": "Solidot",
+      "pub_date": "Fri, 11 Sep 2026 20:46:03 +0800",
+      "fetched_at": "2026-09-12T12:00:06.926897",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "《BMJ Case Reports》报告了一起奇特的病例，一名儿童因腹部皮肤出现奇怪斑痕而送去急症。医生查找许久未发现病因，因此开了抗生素让他回家，叮嘱父母如果病情变化立即来复诊。两周后，这名儿童再次入院，他的病情出现恶化。皮肤斑块变大，颜色变深，且有触痛。这名儿童透露了一个情况，他是在家上学，经常...",
+      "keywords": [
+        "儿童因经常将笔记本电脑放在腹部而出现烤肤症",
+        "bmj",
+        "case",
+        "reports",
+        "报告了一起奇特的病例"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "中国留学生因 AI 制作深度伪造色情被判刑",
+      "link": "https://www.solidot.org/story?sid=85343",
+      "summary": "一名 30 岁的在韩中国留学生 A 某因涉嫌利用深度伪造技术制作 1000 余条淫秽色情内容，于 9 月 10 日被一审法院判处有期徒刑 1 年零 6 个月，并责令其接受 40 小时的性暴力防治教育，今后 5 年禁止其在儿童和青少年相关设施和残疾人福利设施就业。A 某涉嫌自去年11月起利用 AI 将研究室同事等 7 名受害者的面容合成到不雅视频和照片中，制作 1141 条淫秽色情内容。检方提出 3 年量刑建议，并请求法庭判令公开被告人身份信息，责令其接受性暴力防治教育。法院就量刑理由表示，被告人的犯罪情节恶劣，且未能取得被害人谅解，罪责较重。但被告人认罪悔过态度良好、无犯罪前科、无证据证明涉案...",
+      "source": "Solidot",
+      "pub_date": "Fri, 11 Sep 2026 14:11:10 +0800",
+      "fetched_at": "2026-09-12T12:00:06.928217",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "一名 30 岁的在韩中国留学生 A 某因涉嫌利用深度伪造技术制作 1000 余条淫秽色情内容，于 9 月 10 日被一审法院判处有期徒刑 1 年零 6 个月，并责令其接受 40 小时的性暴力防治教育，今后 5 年禁止其在儿童和青少年相关设施和残疾人福利设施就业。A 某涉嫌自去年11月起利用 AI 将...",
+      "keywords": [
+        "ai",
+        "中国留学生因",
+        "制作深度伪造色情被判刑",
+        "一名",
+        "岁的在韩中国留学生"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "不简单，“吃货快乐榜”也全面AI化了",
+      "link": "https://www.qbitai.com/2026/09/487282.html",
+      "summary": "",
+      "source": "量子位",
+      "pub_date": "Fri, 11 Sep 2026 08:59:28 +0000",
+      "fetched_at": "2026-09-12T12:00:07.256966",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "",
+      "keywords": [
+        "不简单",
+        "吃货快乐榜",
+        "也全面",
+        "ai",
+        "化了"
+      ],
+      "importance": 0
     }
   ],
   "latest": [
     {
-      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "link": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-      "summary": "👍 825 | 💬 758",
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "link": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "summary": "👍 67 | 💬 57",
       "source": "HackerNews",
-      "pub_date": "2026-09-10T14:49:43",
-      "fetched_at": "2026-09-11T20:00:36.173866",
+      "pub_date": "2026-09-12T05:35:29",
+      "fetched_at": "2026-09-12T12:00:32.321874",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 825 | 💬 758",
+      "ai_summary": "👍 67 | 💬 57",
       "keywords": [
-        "more",
-        "questions",
-        "about",
-        "whether",
-        "researchers"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "GPT‑Live‑1 in the API",
-      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
-      "summary": "👍 43 | 💬 35",
-      "source": "HackerNews",
-      "pub_date": "2026-09-11T13:45:19",
-      "fetched_at": "2026-09-11T20:00:28.816344",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 43 | 💬 35",
-      "keywords": [
-        "gpt",
-        "live",
-        "in",
-        "the",
-        "api"
+        "ai",
+        "researchers",
+        "debate",
+        "how",
+        "close"
       ],
       "importance": 0
     },
     {
-      "title": "OpenAI Agents API",
-      "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "summary": "👍 277 | 💬 155",
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "link": "https://github.com/kennethwolters/litelm",
+      "summary": "👍 109 | 💬 39",
       "source": "HackerNews",
-      "pub_date": "2026-09-11T03:43:22",
-      "fetched_at": "2026-09-11T20:00:21.224987",
+      "pub_date": "2026-09-12T02:10:20",
+      "fetched_at": "2026-09-12T12:00:17.470551",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 277 | 💬 155",
+      "ai_summary": "👍 109 | 💬 39",
+      "keywords": [
+        "litelm",
+        "litellm",
+        "without",
+        "the",
+        "bloat"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "link": "https://www.rubyhack.ai/",
+      "summary": "👍 453 | 💬 264",
+      "source": "HackerNews",
+      "pub_date": "2026-09-12T07:17:42",
+      "fetched_at": "2026-09-12T12:00:14.249053",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 453 | 💬 264",
       "keywords": [
         "openai",
         "agents",
-        "api"
+        "carried",
+        "out",
+        "an"
       ],
       "importance": 0.5
     },
     {
-      "title": "Working with Git Worktrees in Magit",
-      "link": "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/",
-      "summary": "👍 65 | 💬 22",
+      "title": "A Design Space Exploration of Async/Await",
+      "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "summary": "👍 187 | 💬 39",
       "source": "HackerNews",
-      "pub_date": "2026-09-08T14:31:59",
-      "fetched_at": "2026-09-11T20:00:17.915241",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 65 | 💬 22",
-      "keywords": [
-        "working",
-        "with",
-        "git",
-        "worktrees",
-        "in"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Claude is no longer available for minors",
-      "link": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-      "summary": "👍 94 | 💬 115",
-      "source": "HackerNews",
-      "pub_date": "2026-09-11T18:48:00",
-      "fetched_at": "2026-09-11T20:00:12.988438",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 94 | 💬 115",
-      "keywords": [
-        "claude",
-        "is",
-        "no",
-        "longer",
-        "available"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "The Waymo effect: how AI is quietly making research less collaborative",
-      "link": "https://www.researchagenda.news/articles/the-waymo-effect.html",
-      "summary": "👍 45 | 💬 18",
-      "source": "HackerNews",
-      "pub_date": "2026-09-11T19:17:50",
-      "fetched_at": "2026-09-11T20:00:09.609808",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 45 | 💬 18",
-      "keywords": [
-        "the",
-        "waymo",
-        "effect",
-        "how",
-        "ai"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
-      "link": "https://www.qbitai.com/2026/09/486747.html",
-      "summary": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R",
-      "source": "量子位",
-      "pub_date": "Thu, 10 Sep 2026 07:57:55 +0000",
-      "fetched_at": "2026-09-11T20:00:07.482384",
+      "pub_date": "2026-09-09T21:59:50",
+      "fetched_at": "2026-09-12T12:00:13.270612",
       "categories": [
         "ai",
+        "space"
+      ],
+      "ai_summary": "👍 187 | 💬 39",
+      "keywords": [
+        "design",
+        "space",
+        "exploration",
+        "of",
+        "async"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "summary": "👍 378 | 💬 194",
+      "source": "HackerNews",
+      "pub_date": "2026-09-12T02:24:55",
+      "fetched_at": "2026-09-12T12:00:10.970248",
+      "categories": [
         "robotics"
       ],
-      "ai_summary": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R",
+      "ai_summary": "👍 378 | 💬 194",
       "keywords": [
-        "hsimul",
-        "全球首个可仿真的人",
-        "场景交互重建框架",
-        "让人类视频真正成为机器人技能来源",
-        "大晓机器人联合南洋理工大学"
+        "spent",
+        "on",
+        "google",
+        "app",
+        "ads"
       ],
       "importance": 0.5
     },
     {
-      "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
-      "link": "https://www.qbitai.com/2026/09/486900.html",
-      "summary": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。",
-      "source": "量子位",
-      "pub_date": "Thu, 10 Sep 2026 08:17:05 +0000",
-      "fetched_at": "2026-09-11T20:00:07.482256",
+      "title": "A misalignment of AI in mathematics",
+      "link": "https://mathandai.org/",
+      "summary": "👍 746 | 💬 748",
+      "source": "HackerNews",
+      "pub_date": "2026-09-12T01:45:12",
+      "fetched_at": "2026-09-12T12:00:10.045218",
       "categories": [
         "ai"
       ],
-      "ai_summary": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。",
+      "ai_summary": "👍 746 | 💬 748",
       "keywords": [
-        "原生城市世界模型",
-        "abot",
-        "earth",
-        "全球首个",
-        "发布"
+        "misalignment",
+        "of",
+        "ai",
+        "in",
+        "mathematics"
       ],
-      "importance": 0.5
+      "importance": 0
     },
     {
       "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
@@ -406,7 +368,7 @@
       "summary": "多模态AI大牛轮番登台，全球64支团队组团解题",
       "source": "量子位",
       "pub_date": "Thu, 10 Sep 2026 10:17:46 +0000",
-      "fetched_at": "2026-09-11T20:00:07.482117",
+      "fetched_at": "2026-09-12T12:00:07.257379",
       "categories": [
         "ai"
       ],
@@ -426,7 +388,7 @@
       "summary": "爆料直指霍奇猜想",
       "source": "量子位",
       "pub_date": "Fri, 11 Sep 2026 01:46:55 +0000",
-      "fetched_at": "2026-09-11T20:00:07.481858",
+      "fetched_at": "2026-09-12T12:00:07.257225",
       "categories": [
         "ai"
       ],
@@ -446,7 +408,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Fri, 11 Sep 2026 02:50:47 +0000",
-      "fetched_at": "2026-09-11T20:00:07.481732",
+      "fetched_at": "2026-09-12T12:00:07.257140",
       "categories": [
         "ai"
       ],
@@ -464,7 +426,7 @@
       "summary": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。",
       "source": "量子位",
       "pub_date": "Fri, 11 Sep 2026 06:19:03 +0000",
-      "fetched_at": "2026-09-11T20:00:07.481565",
+      "fetched_at": "2026-09-12T12:00:07.257052",
       "categories": [
         "ai"
       ],
@@ -484,7 +446,7 @@
       "summary": "",
       "source": "量子位",
       "pub_date": "Fri, 11 Sep 2026 08:59:28 +0000",
-      "fetched_at": "2026-09-11T20:00:07.481330",
+      "fetched_at": "2026-09-12T12:00:07.256966",
       "categories": [
         "ai"
       ],
@@ -499,147 +461,125 @@
       "importance": 0
     },
     {
-      "title": "控制呼吸为何能控制焦虑？",
-      "link": "https://www.solidot.org/story?sid=85322",
-      "summary": "焦虑是人类最常见的精神疾病，全球约有 3.59 亿人受到影响。控制呼吸被认为有助于控制焦虑，根据发表在 PNAS 期刊上的一项研究，科学家基于小鼠研究揭示了这一现象背后的鼻脑回路（nose-to-brain circuit）机制。鼻脑回路始于嗅觉感觉神经元（OSN），OSN 感知鼻腔吸气并将信号传递给嗅球的僧帽细胞，信息随后从嗅球传输到海马旁皮层中的长投射中间神经元，最终到达杏仁体基底外侧核的谷氨酸能神经元。研究发现，鼻腔气流通过这条通路以频率依赖的方式调节类焦虑行为，这种效应可能取决于通过鼻腔吸气的频率。这种效应是双向的，意味着加快呼吸可能会加剧焦虑，而减慢呼吸则能缓解焦虑。",
+      "title": "微软九月例行更新修复近千个 Bug",
+      "link": "https://www.solidot.org/story?sid=85338",
+      "summary": "在 AI 辅助发现 bug 的时代，主要操作系统每个月修复的 bug 数都在飙升。微软周二释出了九月例行安全更新，总共修复了 974 个 bug，数量为史上最多，今年的安全补丁数已超过 2600。最新补丁包括了 2 个正被利用的提权 0day 漏洞 CVE-2026-81963 和 CVE-2026-85880，113 个 bug 被列为高危，438 个提权 bug，19 个安全功能绕过 bug，258 个远程代码执行 bug，173 个信息泄露 bug，56 个拒绝服务 bug，16 个欺骗 bug。比较严重的 bug 包括存在于 Windows Server 2012 以上版本 和 Win...",
       "source": "Solidot",
-      "pub_date": "Tue, 08 Sep 2026 22:54:55 +0800",
-      "fetched_at": "2026-09-11T20:00:07.073647",
+      "pub_date": "Thu, 10 Sep 2026 19:42:20 +0800",
+      "fetched_at": "2026-09-12T12:00:06.929104",
       "categories": [
         "ai"
       ],
-      "ai_summary": "焦虑是人类最常见的精神疾病，全球约有 3.59 亿人受到影响。控制呼吸被认为有助于控制焦虑，根据发表在 PNAS 期刊上的一项研究，科学家基于小鼠研究揭示了这一现象背后的鼻脑回路（nose-to-brain circuit）机制。鼻脑回路始于嗅觉感觉神经元（OSN），OSN 感知鼻腔吸气并将信号传递...",
+      "ai_summary": "在 AI 辅助发现 bug 的时代，主要操作系统每个月修复的 bug 数都在飙升。微软周二释出了九月例行安全更新，总共修复了 974 个 bug，数量为史上最多，今年的安全补丁数已超过 2600。最新补丁包括了 2 个正被利用的提权 0day 漏洞 CVE-2026-81963 和 CVE-2026...",
       "keywords": [
-        "osn",
-        "控制呼吸为何能控制焦虑",
-        "焦虑是人类最常见的精神疾病",
-        "全球约有",
-        "亿人受到影响"
+        "bug",
+        "cve",
+        "微软九月例行更新修复近千个",
+        "ai",
+        "辅助发现"
       ],
       "importance": 0.5
     },
     {
-      "title": "孕期记忆力下降背后的生物学机制",
-      "link": "https://www.solidot.org/story?sid=85325",
-      "summary": "许多女性在孕期或使用口服避孕药时，经常会有忘记物品摆放、难以集中注意力的经历。这种常被戏称为“孕傻” （Mom Brain）的现象，长期以来缺乏明确的生物学解释。发表在《Science Bulletin》上的一项研究揭示了持续水平高雌激素并非直接作用于记忆中枢，而是通过干扰一条特定的“下丘脑-海马”神经环路，从而暂时性损害记忆功能，从机制层面解答了高水平雌激素影响认知的生物学基础。研究人员首先构建了模拟孕期持续高雌激素水平的小鼠模型，发现高雌激素会引起可逆的记忆损伤，但并不影响情绪或探索动机，表明这是一种特异性的认知效应。在机制层面，研究团队发现，外侧下丘脑中占主导地位的雌激素受体集中在GAB...",
+      "title": "OpenAI 声称解决了 Navier-Stokes 问题，但引发了利用未发布成果的争议",
+      "link": "https://www.solidot.org/story?sid=85339",
+      "summary": "约 200 年前，法国物理学家克劳德-路易·纳维和爱尔兰物理学家乔治·斯托克斯提出了一组至今仍然广泛使用的、描述液体、空气等流体运动的偏微分方程。Navier-Stokes 方程并不保证适用于所有可能的情况。几十年来，数学家一直致力于寻求证明方程的普适性或导致方程失效的特例。2000 年克雷数学研究所将 Navier-Stokes 方程列为六大千禧年数学问题之一。OpenAI 本周宣布通过动用约 1 万个 AI 智能体进行长达 88 小时的攻坚，于 9 月 5 日发现了一个 Navier-Stokes 方程失效的特例。如果得到确认，将标志着 AI 首次解决了一个重大的数学难题。但此事在数学界引...",
       "source": "Solidot",
-      "pub_date": "Wed, 09 Sep 2026 13:42:13 +0800",
-      "fetched_at": "2026-09-11T20:00:07.072981",
+      "pub_date": "Thu, 10 Sep 2026 23:51:55 +0800",
+      "fetched_at": "2026-09-12T12:00:06.928939",
       "categories": [
         "ai"
       ],
-      "ai_summary": "许多女性在孕期或使用口服避孕药时，经常会有忘记物品摆放、难以集中注意力的经历。这种常被戏称为“孕傻” （Mom Brain）的现象，长期以来缺乏明确的生物学解释。发表在《Science Bulletin》上的一项研究揭示了持续水平高雌激素并非直接作用于记忆中枢，而是通过干扰一条特定的“下丘脑-海马”...",
+      "ai_summary": "约 200 年前，法国物理学家克劳德-路易·纳维和爱尔兰物理学家乔治·斯托克斯提出了一组至今仍然广泛使用的、描述液体、空气等流体运动的偏微分方程。Navier-Stokes 方程并不保证适用于所有可能的情况。几十年来，数学家一直致力于寻求证明方程的普适性或导致方程失效的特例。2000 年克雷数学研究...",
       "keywords": [
-        "孕期记忆力下降背后的生物学机制",
-        "许多女性在孕期或使用口服避孕药时",
-        "经常会有忘记物品摆放",
-        "难以集中注意力的经历",
-        "这种常被戏称为"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Fermi Explorer Mission 项目考虑 2029 年向半人马座α星发射探测器",
-      "link": "https://www.solidot.org/story?sid=85328",
-      "summary": "非营利组织费米探索者任务（Fermi Explorer Mission）公布了一项低成本星际方案，计划 2029 年底前发射小型探测器，飞向约 4.4 光年外的半人马座α星系统。路线由 AI 规划，全程耗时约 8 万年，总预算低于 1500 万美元。项目联合创始人兼主席菲利普·约翰斯顿在声明中称，旅程结束时无人能亲见结果，而这正是意义所在：“这是在迈出人类能够做到的第一步，也是为了激励后代继续突破我们所继承下来的极限”。任务设四项硬指标：探测器应朝半人马座α星系统飞行，8 万年内至少完成整个旅程的 99%；有效载荷至少 1 公斤，封装在 10×10×10 厘米空间内；2029 年底前发射；全周...",
-      "source": "Solidot",
-      "pub_date": "Wed, 09 Sep 2026 16:35:01 +0800",
-      "fetched_at": "2026-09-11T20:00:07.072315",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "非营利组织费米探索者任务（Fermi Explorer Mission）公布了一项低成本星际方案，计划 2029 年底前发射小型探测器，飞向约 4.4 光年外的半人马座α星系统。路线由 AI 规划，全程耗时约 8 万年，总预算低于 1500 万美元。项目联合创始人兼主席菲利普·约翰斯顿在声明中称，旅...",
-      "keywords": [
-        "fermi",
-        "explorer",
-        "mission",
-        "项目考虑",
-        "年向半人马座"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "美国政府指控中国公司系统性蒸馏美国 AI 模型",
-      "link": "https://www.solidot.org/story?sid=85329",
-      "summary": "美国国家安全局、联邦调查局及网络安全和基础设施安全局周二发表联合声明，称深度求索（DeepSeek）、月之暗面等六家中国 AI 企业至少从 2024 年起利用“蒸馏”技术，以“工业化规模”访问美国 AI 模型并提取信息。六家企业包括 DeepSeek、Kimi 开发商月之暗面、阿里巴巴、MiniMax、阶跃星辰和智谱，涉及的美国模型来自 Anthropic、OpenAI、Alphabet 旗下 Google 和 SpaceX。蒸馏是利用较大模型生成的内容训练其他模型的技术，可用于降低训练和运行成本。这项技术本身有正当用途，美方此次指控的重点是，中国企业未经授权使用美国模型，并刻意绕过相关使用限...",
-      "source": "Solidot",
-      "pub_date": "Wed, 09 Sep 2026 16:55:23 +0800",
-      "fetched_at": "2026-09-11T20:00:07.072094",
-      "categories": [
+        "navier",
+        "stokes",
+        "openai",
         "ai",
+        "声称解决了"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "中国留学生因 AI 制作深度伪造色情被判刑",
+      "link": "https://www.solidot.org/story?sid=85343",
+      "summary": "一名 30 岁的在韩中国留学生 A 某因涉嫌利用深度伪造技术制作 1000 余条淫秽色情内容，于 9 月 10 日被一审法院判处有期徒刑 1 年零 6 个月，并责令其接受 40 小时的性暴力防治教育，今后 5 年禁止其在儿童和青少年相关设施和残疾人福利设施就业。A 某涉嫌自去年11月起利用 AI 将研究室同事等 7 名受害者的面容合成到不雅视频和照片中，制作 1141 条淫秽色情内容。检方提出 3 年量刑建议，并请求法庭判令公开被告人身份信息，责令其接受性暴力防治教育。法院就量刑理由表示，被告人的犯罪情节恶劣，且未能取得被害人谅解，罪责较重。但被告人认罪悔过态度良好、无犯罪前科、无证据证明涉案...",
+      "source": "Solidot",
+      "pub_date": "Fri, 11 Sep 2026 14:11:10 +0800",
+      "fetched_at": "2026-09-12T12:00:06.928217",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "一名 30 岁的在韩中国留学生 A 某因涉嫌利用深度伪造技术制作 1000 余条淫秽色情内容，于 9 月 10 日被一审法院判处有期徒刑 1 年零 6 个月，并责令其接受 40 小时的性暴力防治教育，今后 5 年禁止其在儿童和青少年相关设施和残疾人福利设施就业。A 某涉嫌自去年11月起利用 AI 将...",
+      "keywords": [
+        "ai",
+        "中国留学生因",
+        "制作深度伪造色情被判刑",
+        "一名",
+        "岁的在韩中国留学生"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Google 购买芬兰一核电站一半的发电量",
+      "link": "https://www.solidot.org/story?sid=85347",
+      "summary": "Google 宣布斥资 130 亿欧元在芬兰投资 AI 基础设施，其中包括购买一座核电站 50% 的发电量。这是 Google 在欧洲最大的单项投资。这笔投资将用于建设三个新数据中心、扩建现有设施，并持能源项目，以满足对 AI 服务日益增长的电力需求。作为协议的一部分，Google 与芬兰公用事业公司 Fortum 签署了一份为期 22 年的合同，将购买 Loviisa 核电站最多 50% 的发电量。本周早些时候，TikTok 也宣布投资 10 亿美元在芬兰 Kouvola 建设新数据中心，理由是该国拥有“强大的数字基础设施、清洁的能源结构、健全的数据治理体系以及高素质的技术人才”。",
+      "source": "Solidot",
+      "pub_date": "Fri, 11 Sep 2026 15:56:45 +0800",
+      "fetched_at": "2026-09-12T12:00:06.927642",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Google 宣布斥资 130 亿欧元在芬兰投资 AI 基础设施，其中包括购买一座核电站 50% 的发电量。这是 Google 在欧洲最大的单项投资。这笔投资将用于建设三个新数据中心、扩建现有设施，并持能源项目，以满足对 AI 服务日益增长的电力需求。作为协议的一部分，Google 与芬兰公用事业公...",
+      "keywords": [
+        "google",
+        "ai",
+        "的发电量",
+        "购买芬兰一核电站一半的发电量",
+        "宣布斥资"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "儿童因经常将笔记本电脑放在腹部而出现烤肤症",
+      "link": "https://www.solidot.org/story?sid=85352",
+      "summary": "《BMJ Case Reports》报告了一起奇特的病例，一名儿童因腹部皮肤出现奇怪斑痕而送去急症。医生查找许久未发现病因，因此开了抗生素让他回家，叮嘱父母如果病情变化立即来复诊。两周后，这名儿童再次入院，他的病情出现恶化。皮肤斑块变大，颜色变深，且有触痛。这名儿童透露了一个情况，他是在家上学，经常使用笔记本电脑，他习惯将笔电放在腹部，有时一用就是八个小时，还经常在电脑充电时使用。医生终于明白了他的病因，诊断他患有 Erythema ab igne（EAI），也被称为烤肤综合征（toasted skin syndrome），一种因反复、长时间接触低强度热源而引发的皮肤病，多见于成年人，常见诱因...",
+      "source": "Solidot",
+      "pub_date": "Fri, 11 Sep 2026 20:46:03 +0800",
+      "fetched_at": "2026-09-12T12:00:06.926897",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "《BMJ Case Reports》报告了一起奇特的病例，一名儿童因腹部皮肤出现奇怪斑痕而送去急症。医生查找许久未发现病因，因此开了抗生素让他回家，叮嘱父母如果病情变化立即来复诊。两周后，这名儿童再次入院，他的病情出现恶化。皮肤斑块变大，颜色变深，且有触痛。这名儿童透露了一个情况，他是在家上学，经常...",
+      "keywords": [
+        "儿童因经常将笔记本电脑放在腹部而出现烤肤症",
+        "bmj",
+        "case",
+        "reports",
+        "报告了一起奇特的病例"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "因 NASA 削减预算 ESA 将独立完成金星探索项目",
+      "link": "https://www.solidot.org/story?sid=85357",
+      "summary": "因特朗普政府削减了 NASA 预算，难以兑现提供合成孔径雷达的承诺，欧洲 ESA 将独立推进金星探索项目 Envision。Envision 轨道探测器任务旨在对金星表面进行测绘，由于金星表面被厚厚的硫酸云层笼罩，需要使用雷达穿透云层。NASA 与 ESA 于 2024 年签署了一份谅解备忘录，NASA 提供美制合成孔径雷达，通过其深空网络提供跟踪与通信支持。作为交换，ESA 将把美国研究人员纳入其团队。然而 2026 年和 2027 年的 NASA 预算被特朗普政府提议大幅削减，虽然国会否决了大部分预算削减方案，但 NASA 的科学预算仍然减少了数亿美元。NASA 的国际合作任务是主要削减对...",
+      "source": "Solidot",
+      "pub_date": "Sat, 12 Sep 2026 00:57:44 +0800",
+      "fetched_at": "2026-09-12T12:00:06.925983",
+      "categories": [
         "space"
       ],
-      "ai_summary": "美国国家安全局、联邦调查局及网络安全和基础设施安全局周二发表联合声明，称深度求索（DeepSeek）、月之暗面等六家中国 AI 企业至少从 2024 年起利用“蒸馏”技术，以“工业化规模”访问美国 AI 模型并提取信息。六家企业包括 DeepSeek、Kimi 开发商月之暗面、阿里巴巴、MiniMa...",
+      "ai_summary": "因特朗普政府削减了 NASA 预算，难以兑现提供合成孔径雷达的承诺，欧洲 ESA 将独立推进金星探索项目 Envision。Envision 轨道探测器任务旨在对金星表面进行测绘，由于金星表面被厚厚的硫酸云层笼罩，需要使用雷达穿透云层。NASA 与 ESA 于 2024 年签署了一份谅解备忘录，NA...",
       "keywords": [
-        "ai",
-        "deepseek",
-        "美国政府指控中国公司系统性蒸馏美国",
-        "模型",
-        "美国国家安全局"
+        "nasa",
+        "esa",
+        "envision",
+        "削减预算",
+        "将独立完成金星探索项目"
       ],
-      "importance": 2.5
-    },
-    {
-      "title": "NVIDIA 创业企业展示半程活动10月苏州举行，30家科创企业路演+投资人对接",
-      "link": "https://www.solidot.org/story?sid=85330",
-      "summary": "NVIDIA 2026 年度创业企业展示活动的半程展示将于 10 月 15 日在苏州金鸡湖国际会议中心 A 馆举办。 半程展示将聚焦 AI 智能体、物理 AI、开放模型及 AI 应用等前沿方向。届时，30 余家 NVIDIA 初创加速计划会员企业将带来路演，NVIDIA 技术专家联合生态伙伴共同把脉 AI 产业趋势，现场设专属展区供近距离体验。 活动面向科创企业、投资人、大企业、云厂商、创业加速器等生态从业者开放报名，审核制确认，报名从速！ https://scrm.nvidia.cn/events/semi-final-20261015?pushId=8kJQ2pgiiMFxtKL7Gapg...",
-      "source": "Solidot",
-      "pub_date": "Wed, 09 Sep 2026 19:15:10 +0800",
-      "fetched_at": "2026-09-11T20:00:07.071864",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "NVIDIA 2026 年度创业企业展示活动的半程展示将于 10 月 15 日在苏州金鸡湖国际会议中心 A 馆举办。 半程展示将聚焦 AI 智能体、物理 AI、开放模型及 AI 应用等前沿方向。届时，30 余家 NVIDIA 初创加速计划会员企业将带来路演，NVIDIA...",
-      "keywords": [
-        "nvidia",
-        "ai",
-        "创业企业展示半程活动",
-        "月苏州举行",
-        "家科创企业路演"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "《星际迷航》上映 60 周年",
-      "link": "https://www.solidot.org/story?sid=85331",
-      "summary": "1966 年 9 月 8 日，《星际迷航：原初系列》上映。60 年之后，《星际迷航》系列包含了 967 集电视剧、14 部电影，以及大量小说等其它媒介，形成了庞大的《星际迷航》宇宙，是史上最成功的科幻作品系列之一。《星际迷航》最著名的开头旁白是：“宇宙，终极的边疆。这里叙述的是星舰进取号的旅程，它的五年任务，是为了要探索这全然未知的新世界戏中，寻找新生命和新文明，勇踏前人未至之境。”以前被称为 Trekkies 的星际迷航粉丝可能只记住 James T. Kirk 这位进取号船长的名字，如今 Picard、Janeway 或 Sisko 等船长的名字对大部分粉丝而言都如雷贯耳。",
-      "source": "Solidot",
-      "pub_date": "Wed, 09 Sep 2026 19:49:10 +0800",
-      "fetched_at": "2026-09-11T20:00:07.071555",
-      "categories": [
-        "space"
-      ],
-      "ai_summary": "1966 年 9 月 8 日，《星际迷航：原初系列》上映。60 年之后，《星际迷航》系列包含了 967 集电视剧、14 部电影，以及大量小说等其它媒介，形成了庞大的《星际迷航》宇宙，是史上最成功的科幻作品系列之一。《星际迷航》最著名的开头旁白是：“宇宙，终极的边疆。这里叙述的是星舰进取号的旅程，它的...",
-      "keywords": [
-        "星际迷航",
-        "上映",
-        "宇宙",
-        "周年",
-        "原初系列"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "屏幕使用时长导致学生阅读得分大幅下降",
-      "link": "https://www.solidot.org/story?sid=85333",
-      "summary": "青少年的阅读、数学和科学成绩降至 2000 年国际 PISA 测试启动以来的最低水平，15 岁学生的阅读能力相当于过去低一岁学生的水平。经合组织（OECD）将成绩下滑归因于屏幕使用时长增加、出于兴趣的阅读减少以及数字设备带来的干扰。OECD 还发现，经常将 AI 聊天机器人用于起草论文或总结文本等任务的学生，其科学成绩平均低了 20分，相当于一年的学习差距。PISA 阅读成绩指数于 2012 年达到 501 分的最高值，到去年降至了 466 分。OECD 秘书长 Mathias Cormann 表示：“在阅读上，屏幕使用时长的增加和兴趣阅读的减少，与成绩下滑有着密切联系。我们还观察到更多‘仓促...",
-      "source": "Solidot",
-      "pub_date": "Thu, 10 Sep 2026 01:13:04 +0800",
-      "fetched_at": "2026-09-11T20:00:07.071084",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "青少年的阅读、数学和科学成绩降至 2000 年国际 PISA 测试启动以来的最低水平，15 岁学生的阅读能力相当于过去低一岁学生的水平。经合组织（OECD）将成绩下滑归因于屏幕使用时长增加、出于兴趣的阅读减少以及数字设备带来的干扰。OECD 还发现，经常将 AI 聊天机器人用于起草论文或总结文本等任...",
-      "keywords": [
-        "oecd",
-        "pisa",
-        "屏幕使用时长导致学生阅读得分大幅下降",
-        "青少年的阅读",
-        "数学和科学成绩降至"
-      ],
-      "importance": 0
+      "importance": 1.0
     }
   ],
-  "updated_at": "2026-09-11T20:00:36.260361"
+  "updated_at": "2026-09-12T12:00:33.304107"
 }

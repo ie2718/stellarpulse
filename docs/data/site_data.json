@@ -5,47 +5,67 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-09-13T12:00:31.813717",
-    "total_items": 17
+    "last_update": "2026-09-14T20:00:35.901655",
+    "total_items": 23
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 15
+      "count": 18
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 1
+      "count": 2
     },
     "space": {
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 1
+      "count": 4
     }
   },
   "stats": {
-    "total_items": 17,
-    "today_items": 17,
+    "total_items": 23,
+    "today_items": 23,
     "sources": {
-      "Solidot": 6,
-      "量子位": 5,
-      "HackerNews": 6
+      "Solidot": 9,
+      "量子位": 10,
+      "HackerNews": 4
     },
-    "last_update": "2026-09-13T12:00:31.813717"
+    "last_update": "2026-09-14T20:00:35.901655"
   },
   "trending": [
+    {
+      "title": "AI 时代隐晦式安全已死",
+      "link": "https://www.solidot.org/story?sid=85370",
+      "summary": "安全工程领域有一种名为隐晦式安全（Security through obscurity）的设计方式，即只要网络和系统的架构以及任何漏洞或弱点保密或不为人知，它们就是安全的。但在 AI 辅助 bug 发现的时代，这种设计方式过时了。软件供应商和独立研究人员正利用 AI 智能体在各种产品和开源代码中搜寻漏洞——其中一些漏洞极其隐蔽且存在已久。这导致安全漏洞披露和补丁发布数量创下历史新高，同时也给项目维护者带来了巨大的积压事项。微软上周二释出例行安全更新，修复了 974 个 CVE 漏洞。趋势科技的 Dustin Child 指出，微软和 Adob​​e 所修复漏洞涉及的组件多年来基本无人问津，如 ...",
+      "source": "Solidot",
+      "pub_date": "Mon, 14 Sep 2026 16:27:40 +0800",
+      "fetched_at": "2026-09-14T20:00:03.790351",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "安全工程领域有一种名为隐晦式安全（Security through obscurity）的设计方式，即只要网络和系统的架构以及任何漏洞或弱点保密或不为人知，它们就是安全的。但在 AI 辅助 bug 发现的时代，这种设计方式过时了。软件供应商和独立研究人员正利用 AI 智能体在各种产品和开源代码中搜寻...",
+      "keywords": [
+        "ai",
+        "时代隐晦式安全已死",
+        "安全工程领域有一种名为隐晦式安全",
+        "security",
+        "through"
+      ],
+      "importance": 1.0
+    },
     {
       "title": "因 NASA 削减预算 ESA 将独立完成金星探索项目",
       "link": "https://www.solidot.org/story?sid=85357",
       "summary": "因特朗普政府削减了 NASA 预算，难以兑现提供合成孔径雷达的承诺，欧洲 ESA 将独立推进金星探索项目 Envision。Envision 轨道探测器任务旨在对金星表面进行测绘，由于金星表面被厚厚的硫酸云层笼罩，需要使用雷达穿透云层。NASA 与 ESA 于 2024 年签署了一份谅解备忘录，NASA 提供美制合成孔径雷达，通过其深空网络提供跟踪与通信支持。作为交换，ESA 将把美国研究人员纳入其团队。然而 2026 年和 2027 年的 NASA 预算被特朗普政府提议大幅削减，虽然国会否决了大部分预算削减方案，但 NASA 的科学预算仍然减少了数亿美元。NASA 的国际合作任务是主要削减对...",
       "source": "Solidot",
       "pub_date": "Sat, 12 Sep 2026 00:57:44 +0800",
-      "fetched_at": "2026-09-13T12:00:04.562084",
+      "fetched_at": "2026-09-14T20:00:03.792155",
       "categories": [
         "space"
       ],
@@ -60,503 +80,441 @@
       "importance": 1.0
     },
     {
-      "title": "Google 购买芬兰一核电站一半的发电量",
-      "link": "https://www.solidot.org/story?sid=85347",
-      "summary": "Google 宣布斥资 130 亿欧元在芬兰投资 AI 基础设施，其中包括购买一座核电站 50% 的发电量。这是 Google 在欧洲最大的单项投资。这笔投资将用于建设三个新数据中心、扩建现有设施，并持能源项目，以满足对 AI 服务日益增长的电力需求。作为协议的一部分，Google 与芬兰公用事业公司 Fortum 签署了一份为期 22 年的合同，将购买 Loviisa 核电站最多 50% 的发电量。本周早些时候，TikTok 也宣布投资 10 亿美元在芬兰 Kouvola 建设新数据中心，理由是该国拥有“强大的数字基础设施、清洁的能源结构、健全的数据治理体系以及高素质的技术人才”。",
-      "source": "Solidot",
-      "pub_date": "Fri, 11 Sep 2026 15:56:45 +0800",
-      "fetched_at": "2026-09-13T12:00:04.563838",
+      "title": "奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX",
+      "link": "https://www.qbitai.com/2026/09/488699.html",
+      "summary": "还是太嫩了啊Dario",
+      "source": "量子位",
+      "pub_date": "Mon, 14 Sep 2026 02:56:45 +0000",
+      "fetched_at": "2026-09-14T20:00:04.122816",
       "categories": [
-        "ai"
+        "space"
       ],
-      "ai_summary": "Google 宣布斥资 130 亿欧元在芬兰投资 AI 基础设施，其中包括购买一座核电站 50% 的发电量。这是 Google 在欧洲最大的单项投资。这笔投资将用于建设三个新数据中心、扩建现有设施，并持能源项目，以满足对 AI 服务日益增长的电力需求。作为协议的一部分，Google 与芬兰公用事业公...",
+      "ai_summary": "还是太嫩了啊Dario",
       "keywords": [
-        "google",
-        "ai",
-        "的发电量",
-        "购买芬兰一核电站一半的发电量",
-        "宣布斥资"
+        "奥特曼被骗",
+        "社一脚油门冲刺",
+        "ipo",
+        "募资叫板",
+        "spacex"
       ],
       "importance": 1.0
     },
     {
-      "title": "OpenAI 声称解决了 Navier-Stokes 问题，但引发了利用未发布成果的争议",
-      "link": "https://www.solidot.org/story?sid=85339",
-      "summary": "约 200 年前，法国物理学家克劳德-路易·纳维和爱尔兰物理学家乔治·斯托克斯提出了一组至今仍然广泛使用的、描述液体、空气等流体运动的偏微分方程。Navier-Stokes 方程并不保证适用于所有可能的情况。几十年来，数学家一直致力于寻求证明方程的普适性或导致方程失效的特例。2000 年克雷数学研究所将 Navier-Stokes 方程列为七大千禧年数学问题之一。OpenAI 本周宣布通过动用约 1 万个 AI 智能体进行长达 88 小时的攻坚，于 9 月 5 日发现了一个 Navier-Stokes 方程失效的特例。如果得到确认，将标志着 AI 首次解决了一个重大的数学难题。但此事在数学界引...",
+      "title": "微信蠕虫事件敲响 AI 安全警钟",
+      "link": "https://www.solidot.org/story?sid=85369",
+      "summary": "微信在中国几乎已成为国家基础设施的一部分，融入了日常通信、政府服务和数字支付之中。正因如此加州一个小型研究团队最近的发现——一种利用人工智能构建的工具可以在短短几个小时内攻破数以百万计的账户——让专家和分析人士感到震惊。这证明，有了人工智能，即使是没有政府背景的小型团队也能对一款每月有 14 亿人使用的应用程序发起毁灭性的攻击。“从破坏力的角度来讲这个是非常强的，”上海复旦大学美国研究中心副主任赵明昊说。他表示，鉴于微信对中国公众的重要性及其庞大的用户群，搞垮这样一款应用程序的能力相当于“一种新的核武器”。这一发现进一步印证了研究人员的警告：人工智能黑客能力的发展速度超过了防御手段的跟进速度。...",
       "source": "Solidot",
-      "pub_date": "Thu, 10 Sep 2026 23:51:55 +0800",
-      "fetched_at": "2026-09-13T12:00:04.565022",
+      "pub_date": "Mon, 14 Sep 2026 15:39:45 +0800",
+      "fetched_at": "2026-09-14T20:00:03.790517",
       "categories": [
         "ai"
       ],
-      "ai_summary": "约 200 年前，法国物理学家克劳德-路易·纳维和爱尔兰物理学家乔治·斯托克斯提出了一组至今仍然广泛使用的、描述液体、空气等流体运动的偏微分方程。Navier-Stokes 方程并不保证适用于所有可能的情况。几十年来，数学家一直致力于寻求证明方程的普适性或导致方程失效的特例。2000 年克雷数学研究...",
+      "ai_summary": "微信在中国几乎已成为国家基础设施的一部分，融入了日常通信、政府服务和数字支付之中。正因如此加州一个小型研究团队最近的发现——一种利用人工智能构建的工具可以在短短几个小时内攻破数以百万计的账户——让专家和分析人士感到震惊。这证明，有了人工智能，即使是没有政府背景的小型团队也能对一款每月有 14 亿人使...",
+      "keywords": [
+        "微信蠕虫事件敲响",
+        "ai",
+        "安全警钟",
+        "微信在中国几乎已成为国家基础设施的一部分",
+        "融入了日常通信"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "宇树如何将机器狗的价格降至 2000 美元",
+      "link": "https://www.solidot.org/story?sid=85366",
+      "summary": "宇树的机器狗除了做些花哨动作外可能用处不大，但它拥有一个巨大的优势：价格极其平民。George Mason 大学的机器人专家 Xuesu Xiao 教授称，十年前只有少数团队从事四足机器人的运动控制研究，因为只有这些团队能制造四足机器人，宇树进入市场之后推动了四足机器人运动控制研究的普及化。他的实验室里有四台宇树的四足机器人，每台售价约 1.5 万美元，以及一台波士顿动力的四足机器人 Spot，起售价 7.5 万美元。波士顿动力原本是这一领域的领导者，它在 2016 年 6 月发布了电动版的四足机器人 Spot，但直到 2020 年才上市销售。而宇树创始人王兴兴在 2016 年创办公司之后第二...",
+      "source": "Solidot",
+      "pub_date": "Sun, 13 Sep 2026 23:23:42 +0800",
+      "fetched_at": "2026-09-14T20:00:03.790997",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "宇树的机器狗除了做些花哨动作外可能用处不大，但它拥有一个巨大的优势：价格极其平民。George Mason 大学的机器人专家 Xuesu Xiao 教授称，十年前只有少数团队从事四足机器人的运动控制研究，因为只有这些团队能制造四足机器人，宇树进入市场之后推动了四足机器人运动控制研究的普及化。他的实验...",
+      "keywords": [
+        "万美元",
+        "spot",
+        "宇树如何将机器狗的价格降至",
+        "美元",
+        "宇树的机器狗除了做些花哨动作外可能用处不大"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Matt Mullenweg 据报道恢复了对 Automattic 的控制",
+      "link": "https://www.solidot.org/story?sid=85365",
+      "summary": "被董事会强制休假的 Matt Mullenweg 称恢复了 Automattic CEO 的职务。Automattic 可能发生了类似 OpenAI 的小型“未遂政变”。Automattic 旗下包括 Wordpress.com、Tumblr 和 Beeper 等业务。本周早些时候 Mullenweg 通过公司 Slack 频道指责首席财务官 Mark Davies 与董事会串通，董事会投票决定由 Davies 担任临时 CEO。两天后，Mullenweg 称董事会已重新达成一致，他本人恢复了对 Automattic 控制。而 Davies 的 Slack 账户则被停用了，Automattic...",
+      "source": "Solidot",
+      "pub_date": "Sun, 13 Sep 2026 22:20:20 +0800",
+      "fetched_at": "2026-09-14T20:00:03.791151",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "被董事会强制休假的 Matt Mullenweg 称恢复了 Automattic CEO 的职务。Automattic 可能发生了类似 OpenAI 的小型“未遂政变”。Automattic 旗下包括 Wordpress.com、Tumblr 和 Beeper 等业务。本周早些时候 Mullenwe...",
+      "keywords": [
+        "automattic",
+        "mullenweg",
+        "davies",
+        "matt",
+        "ceo"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "墨西哥毒贩涉足加密货币挖矿",
+      "link": "https://www.solidot.org/story?sid=85361",
+      "summary": "墨西哥贩毒集团涉足了加密货币挖矿业务。墨西哥警方在 Puebla 州的 Sierra Norte 地区发现了一个用电量远超周边村庄的矿场，查获了 300 个 GPU、80 个中压终端设备以及 8 个卫星天线。虽然就国际商业规模而言，该矿场的规模相当有限，但这已是自去年年初以来该地区发现的第四个加密货币矿场。根据区块链分析公司 Chainalysis 对流向非法钱包地址的交易量进行的分析，全球范围内非法加密货币交易在 2025 年增长一倍以上，与犯罪活动相关的地址接收的资金总额达到 1540 亿美元，而前一年仅为 590 亿美元。拉美的贩毒集团也愈来愈频繁利用加密货币转账和挖矿洗钱。电力是加密货...",
+      "source": "Solidot",
+      "pub_date": "Sun, 13 Sep 2026 00:49:02 +0800",
+      "fetched_at": "2026-09-14T20:00:03.791581",
+      "categories": [
+        "ai",
+        "space"
+      ],
+      "ai_summary": "墨西哥贩毒集团涉足了加密货币挖矿业务。墨西哥警方在 Puebla 州的 Sierra Norte 地区发现了一个用电量远超周边村庄的矿场，查获了 300 个 GPU、80 个中压终端设备以及 8 个卫星天线。虽然就国际商业规模而言，该矿场的规模相当有限，但这已是自去年年初以来该地区发现的第四个加密货...",
+      "keywords": [
+        "亿美元",
+        "墨西哥毒贩涉足加密货币挖矿",
+        "墨西哥贩毒集团涉足了加密货币挖矿业务",
+        "墨西哥警方在",
+        "puebla"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "克雷数学研究所就 Navier-Stokes 问题发表公开声明",
+      "link": "https://www.solidot.org/story?sid=85359",
+      "summary": "OpenAI 本周早些时候宣布通过动用约 1 万个 AI 智能体进行长达 88 小时的攻坚，于 9 月 5 日发现了一个 Navier-Stokes 方程失效的特例。Navier-Stokes 问题是克雷数学研究所列出的七大千禧年数学问题之一，它为每道题的解决提供了一百万美元奖金。目前七大问题只有庞加莱猜想确认解决，但解决该问题的俄罗斯数学家格里戈里·佩雷尔曼拒绝接受该奖。克雷数学研究所就此公开声明，表示将根据其评奖流程确认成果。根据克雷数学研究所的规则，OpenAI 首先需要在同行评审的期刊上发表解题结果，需要至少发表两年并且获得数学界的普遍认可。OpenAI 至今没有给出 Navier-S...",
+      "source": "Solidot",
+      "pub_date": "Sat, 12 Sep 2026 23:31:13 +0800",
+      "fetched_at": "2026-09-14T20:00:03.791856",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "OpenAI 本周早些时候宣布通过动用约 1 万个 AI 智能体进行长达 88 小时的攻坚，于 9 月 5 日发现了一个 Navier-Stokes 方程失效的特例。Navier-Stokes 问题是克雷数学研究所列出的七大千禧年数学问题之一，它为每道题的解决提供了一百万美元奖金。目前七大问题只有庞...",
       "keywords": [
         "navier",
         "stokes",
         "openai",
-        "ai",
-        "声称解决了"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "微软九月例行更新修复近千个 Bug",
-      "link": "https://www.solidot.org/story?sid=85338",
-      "summary": "在 AI 辅助发现 bug 的时代，主要操作系统每个月修复的 bug 数都在飙升。微软周二释出了九月例行安全更新，总共修复了 974 个 bug，数量为史上最多，今年的安全补丁数已超过 2600。最新补丁包括了 2 个正被利用的提权 0day 漏洞 CVE-2026-81963 和 CVE-2026-85880，113 个 bug 被列为高危，438 个提权 bug，19 个安全功能绕过 bug，258 个远程代码执行 bug，173 个信息泄露 bug，56 个拒绝服务 bug，16 个欺骗 bug。比较严重的 bug 包括存在于 Windows Server 2012 以上版本 和 Win...",
-      "source": "Solidot",
-      "pub_date": "Thu, 10 Sep 2026 19:42:20 +0800",
-      "fetched_at": "2026-09-13T12:00:04.565183",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "在 AI 辅助发现 bug 的时代，主要操作系统每个月修复的 bug 数都在飙升。微软周二释出了九月例行安全更新，总共修复了 974 个 bug，数量为史上最多，今年的安全补丁数已超过 2600。最新补丁包括了 2 个正被利用的提权 0day 漏洞 CVE-2026-81963 和 CVE-2026...",
-      "keywords": [
-        "bug",
-        "cve",
-        "微软九月例行更新修复近千个",
-        "ai",
-        "辅助发现"
+        "克雷数学研究所就",
+        "问题发表公开声明"
       ],
       "importance": 0.5
     },
     {
-      "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
-      "link": "https://www.qbitai.com/2026/09/488380.html",
-      "summary": "RSI太危险，得管！",
+      "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
+      "link": "https://www.qbitai.com/2026/09/488912.html",
+      "summary": "险资、券商与头部创投持续加码",
       "source": "量子位",
-      "pub_date": "Sun, 13 Sep 2026 03:13:00 +0000",
-      "fetched_at": "2026-09-13T12:00:04.922487",
+      "pub_date": "Mon, 14 Sep 2026 07:55:12 +0000",
+      "fetched_at": "2026-09-14T20:00:04.122516",
       "categories": [
         "ai"
       ],
-      "ai_summary": "RSI太危险，得管！",
+      "ai_summary": "险资、券商与头部创投持续加码",
       "keywords": [
-        "openai",
-        "年内不上市了",
-        "奥特曼支持对手",
-        "dario",
-        "呼吁"
+        "一年连融三轮",
+        "这家金融",
+        "ai",
+        "公司又拿下超",
+        "险资"
       ],
       "importance": 0.5
     },
     {
-      "title": "Nvidia is the central bank of AI",
-      "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "summary": "👍 420 | 💬 288",
-      "source": "HackerNews",
-      "pub_date": "2026-09-12T23:08:27",
-      "fetched_at": "2026-09-13T12:00:11.866791",
+      "title": "AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI",
+      "link": "https://www.qbitai.com/2026/09/488832.html",
+      "summary": "小模型突破瓶颈，旗舰模型打开新空间",
+      "source": "量子位",
+      "pub_date": "Mon, 14 Sep 2026 03:45:46 +0000",
+      "fetched_at": "2026-09-14T20:00:04.122673",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 420 | 💬 288",
-      "keywords": [
-        "nvidia",
-        "is",
-        "the",
-        "central",
-        "bank"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "儿童因经常将笔记本电脑放在腹部而出现烤肤症",
-      "link": "https://www.solidot.org/story?sid=85352",
-      "summary": "《BMJ Case Reports》报告了一起奇特的病例，一名儿童因腹部皮肤出现奇怪斑痕而送去急症。医生查找许久未发现病因，因此开了抗生素让他回家，叮嘱父母如果病情变化立即来复诊。两周后，这名儿童再次入院，他的病情出现恶化。皮肤斑块变大，颜色变深，且有触痛。这名儿童透露了一个情况，他是在家上学，经常使用笔记本电脑，他习惯将笔电放在腹部，有时一用就是八个小时，还经常在电脑充电时使用。医生终于明白了他的病因，诊断他患有 Erythema ab igne（EAI），也被称为烤肤综合征（toasted skin syndrome），一种因反复、长时间接触低强度热源而引发的皮肤病，多见于成年人，常见诱因...",
-      "source": "Solidot",
-      "pub_date": "Fri, 11 Sep 2026 20:46:03 +0800",
-      "fetched_at": "2026-09-13T12:00:04.562986",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "《BMJ Case Reports》报告了一起奇特的病例，一名儿童因腹部皮肤出现奇怪斑痕而送去急症。医生查找许久未发现病因，因此开了抗生素让他回家，叮嘱父母如果病情变化立即来复诊。两周后，这名儿童再次入院，他的病情出现恶化。皮肤斑块变大，颜色变深，且有触痛。这名儿童透露了一个情况，他是在家上学，经常...",
-      "keywords": [
-        "儿童因经常将笔记本电脑放在腹部而出现烤肤症",
-        "bmj",
-        "case",
-        "reports",
-        "报告了一起奇特的病例"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "中国留学生因 AI 制作深度伪造色情被判刑",
-      "link": "https://www.solidot.org/story?sid=85343",
-      "summary": "一名 30 岁的在韩中国留学生 A 某因涉嫌利用深度伪造技术制作 1000 余条淫秽色情内容，于 9 月 10 日被一审法院判处有期徒刑 1 年零 6 个月，并责令其接受 40 小时的性暴力防治教育，今后 5 年禁止其在儿童和青少年相关设施和残疾人福利设施就业。A 某涉嫌自去年11月起利用 AI 将研究室同事等 7 名受害者的面容合成到不雅视频和照片中，制作 1141 条淫秽色情内容。检方提出 3 年量刑建议，并请求法庭判令公开被告人身份信息，责令其接受性暴力防治教育。法院就量刑理由表示，被告人的犯罪情节恶劣，且未能取得被害人谅解，罪责较重。但被告人认罪悔过态度良好、无犯罪前科、无证据证明涉案...",
-      "source": "Solidot",
-      "pub_date": "Fri, 11 Sep 2026 14:11:10 +0800",
-      "fetched_at": "2026-09-13T12:00:04.564423",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "一名 30 岁的在韩中国留学生 A 某因涉嫌利用深度伪造技术制作 1000 余条淫秽色情内容，于 9 月 10 日被一审法院判处有期徒刑 1 年零 6 个月，并责令其接受 40 小时的性暴力防治教育，今后 5 年禁止其在儿童和青少年相关设施和残疾人福利设施就业。A 某涉嫌自去年11月起利用 AI 将...",
+      "ai_summary": "小模型突破瓶颈，旗舰模型打开新空间",
       "keywords": [
         "ai",
-        "中国留学生因",
-        "制作深度伪造色情被判刑",
-        "一名",
-        "岁的在韩中国留学生"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
-      "link": "https://www.qbitai.com/2026/09/487796.html",
-      "summary": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。",
-      "source": "量子位",
-      "pub_date": "Sat, 12 Sep 2026 08:49:02 +0000",
-      "fetched_at": "2026-09-13T12:00:04.922693",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。",
-      "keywords": [
-        "claude",
-        "社承认",
-        "安全对齐存在缺陷",
-        "尚无解决方案",
-        "越界攻击真实系统"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
-      "link": "https://www.qbitai.com/2026/09/487752.html",
-      "summary": "触觉、记忆、Ego数据、自进化……这个世界模型全都有",
-      "source": "量子位",
-      "pub_date": "Sat, 12 Sep 2026 08:15:31 +0000",
-      "fetched_at": "2026-09-13T12:00:04.922772",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "触觉、记忆、Ego数据、自进化……这个世界模型全都有",
-      "keywords": [
-        "探索",
+        "开始改进",
+        "改进自己的方法",
         "rsi",
-        "生数新世界模型让机器人开始自我进化",
-        "触觉",
-        "记忆"
+        "进入平方时代丨"
       ],
-      "importance": 0
+      "importance": 0.5
     }
   ],
   "latest": [
     {
-      "title": "AgentsDock: An IDE designed for agentic AI research",
-      "link": "https://agentsdock.net/",
-      "summary": "👍 19 | 💬 7",
+      "title": "Watch AI materials-science and bioscience abilities closely",
+      "link": "https://www.lesswrong.com/posts/SCtkSz4nQ9icLZ4uq/watch-ai-materials-science-and-bioscience-abilities-closely",
+      "summary": "👍 9 | 💬 3",
       "source": "HackerNews",
-      "pub_date": "2026-09-13T07:45:58",
-      "fetched_at": "2026-09-13T12:00:27.277389",
+      "pub_date": "2026-09-14T19:01:00",
+      "fetched_at": "2026-09-14T20:00:27.093894",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 19 | 💬 7",
+      "ai_summary": "👍 9 | 💬 3",
       "keywords": [
-        "agentsdock",
-        "an",
-        "ide",
-        "designed",
-        "for"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
-      "summary": "👍 459 | 💬 375",
-      "source": "HackerNews",
-      "pub_date": "2026-09-10T23:31:37",
-      "fetched_at": "2026-09-13T12:00:23.833075",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 459 | 💬 375",
-      "keywords": [
-        "lg",
-        "denies",
-        "tv",
-        "spying",
-        "claims"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Everyone should slow down AI development except for me",
-      "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-      "summary": "👍 229 | 💬 123",
-      "source": "HackerNews",
-      "pub_date": "2026-09-13T08:30:44",
-      "fetched_at": "2026-09-13T12:00:16.500391",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 229 | 💬 123",
-      "keywords": [
-        "everyone",
-        "should",
-        "slow",
-        "down",
-        "ai"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "summary": "👍 32 | 💬 26",
-      "source": "HackerNews",
-      "pub_date": "2026-09-13T09:22:31",
-      "fetched_at": "2026-09-13T12:00:15.290600",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 32 | 💬 26",
-      "keywords": [
-        "why",
-        "are",
+        "watch",
         "ai",
-        "agents",
-        "lying"
+        "materials",
+        "science",
+        "and"
       ],
       "importance": 0
     },
     {
-      "title": "Nvidia is the central bank of AI",
-      "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "summary": "👍 420 | 💬 288",
+      "title": "The case against JPEG XL",
+      "link": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "summary": "👍 189 | 💬 250",
       "source": "HackerNews",
-      "pub_date": "2026-09-12T23:08:27",
-      "fetched_at": "2026-09-13T12:00:11.866791",
+      "pub_date": "2026-09-14T09:02:37",
+      "fetched_at": "2026-09-14T20:00:25.976828",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 420 | 💬 288",
+      "ai_summary": "👍 189 | 💬 250",
       "keywords": [
-        "nvidia",
-        "is",
         "the",
-        "central",
-        "bank"
+        "case",
+        "against",
+        "jpeg",
+        "xl"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Spaceships (Reverse Asteroid)",
+      "link": "https://spaceships.treybastian.com/",
+      "summary": "👍 271 | 💬 51",
+      "source": "HackerNews",
+      "pub_date": "2026-09-10T12:44:32",
+      "fetched_at": "2026-09-14T20:00:16.413271",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "👍 271 | 💬 51",
+      "keywords": [
+        "spaceships",
+        "reverse",
+        "asteroid"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+      "link": "https://github.com/anuj0456/OpenArch",
+      "summary": "👍 46 | 💬 10",
+      "source": "HackerNews",
+      "pub_date": "2026-09-14T15:55:19",
+      "fetched_at": "2026-09-14T20:00:14.644677",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 46 | 💬 10",
+      "keywords": [
+        "openarch",
+        "pytorch",
+        "implementations",
+        "of",
+        "modern"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX",
+      "link": "https://www.qbitai.com/2026/09/488699.html",
+      "summary": "还是太嫩了啊Dario",
+      "source": "量子位",
+      "pub_date": "Mon, 14 Sep 2026 02:56:45 +0000",
+      "fetched_at": "2026-09-14T20:00:04.122816",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "还是太嫩了啊Dario",
+      "keywords": [
+        "奥特曼被骗",
+        "社一脚油门冲刺",
+        "ipo",
+        "募资叫板",
+        "spacex"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱",
+      "link": "https://www.qbitai.com/2026/09/488725.html",
+      "summary": "这家中国公司，刚跑完了物理闭环里最难的一段路",
+      "source": "量子位",
+      "pub_date": "Mon, 14 Sep 2026 03:18:42 +0000",
+      "fetched_at": "2026-09-14T20:00:04.122745",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "这家中国公司，刚跑完了物理闭环里最难的一段路",
+      "keywords": [
+        "中国物理",
+        "ai",
+        "大突破",
+        "physbrain",
+        "登顶全球开源榜一"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI",
+      "link": "https://www.qbitai.com/2026/09/488832.html",
+      "summary": "小模型突破瓶颈，旗舰模型打开新空间",
+      "source": "量子位",
+      "pub_date": "Mon, 14 Sep 2026 03:45:46 +0000",
+      "fetched_at": "2026-09-14T20:00:04.122673",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "小模型突破瓶颈，旗舰模型打开新空间",
+      "keywords": [
+        "ai",
+        "开始改进",
+        "改进自己的方法",
+        "rsi",
+        "进入平方时代丨"
       ],
       "importance": 0.5
     },
     {
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "link": "https://withspecific.com/benchmarks/real-swe",
-      "summary": "👍 157 | 💬 81",
-      "source": "HackerNews",
-      "pub_date": "2026-09-13T04:25:48",
-      "fetched_at": "2026-09-13T12:00:10.776735",
+      "title": "2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会",
+      "link": "https://www.qbitai.com/2026/09/488875.html",
+      "summary": "共话AI时代的生活、影像与创造。",
+      "source": "量子位",
+      "pub_date": "Mon, 14 Sep 2026 06:20:36 +0000",
+      "fetched_at": "2026-09-14T20:00:04.122588",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 157 | 💬 81",
+      "ai_summary": "共话AI时代的生活、影像与创造。",
       "keywords": [
-        "real",
-        "swe",
-        "benchmarking",
         "ai",
-        "models"
+        "崇礼论坛",
+        "一场未来智能生活与下一代",
+        "创造者的盛会",
+        "共话"
       ],
       "importance": 0
     },
     {
-      "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
-      "link": "https://www.qbitai.com/2026/09/487653.html",
-      "summary": "25位菲尔兹奖得主联名吹哨",
+      "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
+      "link": "https://www.qbitai.com/2026/09/488912.html",
+      "summary": "险资、券商与头部创投持续加码",
       "source": "量子位",
-      "pub_date": "Sat, 12 Sep 2026 04:53:58 +0000",
-      "fetched_at": "2026-09-13T12:00:04.923019",
+      "pub_date": "Mon, 14 Sep 2026 07:55:12 +0000",
+      "fetched_at": "2026-09-14T20:00:04.122516",
       "categories": [
         "ai"
       ],
-      "ai_summary": "25位菲尔兹奖得主联名吹哨",
+      "ai_summary": "险资、券商与头部创投持续加码",
       "keywords": [
-        "陶哲轩邓煜究竟在反对什么",
+        "一年连融三轮",
+        "这家金融",
         "ai",
-        "暴力解题摧毁人类数学精神",
-        "位菲尔兹奖得主联名吹哨"
+        "公司又拿下超",
+        "险资"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装",
+      "link": "https://www.qbitai.com/2026/09/488933.html",
+      "summary": "让模型和设备共同进化",
+      "source": "量子位",
+      "pub_date": "Mon, 14 Sep 2026 08:08:29 +0000",
+      "fetched_at": "2026-09-14T20:00:04.122442",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "让模型和设备共同进化",
+      "keywords": [
+        "端侧",
+        "ai",
+        "能跑",
+        "会进化",
+        "元空智能跑进惠普预装"
       ],
       "importance": 0
     },
     {
-      "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
-      "link": "https://www.qbitai.com/2026/09/487701.html",
-      "summary": "FrontierMath Tier 4，饱和了",
+      "title": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”",
+      "link": "https://www.qbitai.com/2026/09/489023.html",
+      "summary": "AI 蛋白质设计迈入“动态时代”",
       "source": "量子位",
-      "pub_date": "Sat, 12 Sep 2026 07:33:54 +0000",
-      "fetched_at": "2026-09-13T12:00:04.922852",
+      "pub_date": "Mon, 14 Sep 2026 08:17:22 +0000",
+      "fetched_at": "2026-09-14T20:00:04.122366",
       "categories": [
         "ai"
       ],
-      "ai_summary": "FrontierMath Tier 4，饱和了",
+      "ai_summary": "AI 蛋白质设计迈入“动态时代”",
       "keywords": [
-        "frontiermath",
-        "tier",
         "ai",
-        "数学的最后一道高墙",
-        "塌了"
+        "分子之心",
+        "quantamind",
+        "science",
+        "advances"
       ],
       "importance": 0
     },
     {
       "title": "探索RSI，生数新世界模型让机器人开始自我进化",
-      "link": "https://www.qbitai.com/2026/09/487752.html",
-      "summary": "触觉、记忆、Ego数据、自进化……这个世界模型全都有",
+      "link": "https://www.qbitai.com/2026/09/489037.html",
+      "summary": "",
       "source": "量子位",
-      "pub_date": "Sat, 12 Sep 2026 08:15:31 +0000",
-      "fetched_at": "2026-09-13T12:00:04.922772",
+      "pub_date": "Mon, 14 Sep 2026 09:36:28 +0000",
+      "fetched_at": "2026-09-14T20:00:04.122286",
       "categories": [
         "robotics"
       ],
-      "ai_summary": "触觉、记忆、Ego数据、自进化……这个世界模型全都有",
+      "ai_summary": "",
       "keywords": [
         "探索",
         "rsi",
-        "生数新世界模型让机器人开始自我进化",
-        "触觉",
-        "记忆"
+        "生数新世界模型让机器人开始自我进化"
       ],
       "importance": 0
     },
     {
-      "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
-      "link": "https://www.qbitai.com/2026/09/487796.html",
-      "summary": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。",
+      "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
+      "link": "https://www.qbitai.com/2026/09/489106.html",
+      "summary": "业界首个5A算电协同认证",
       "source": "量子位",
-      "pub_date": "Sat, 12 Sep 2026 08:49:02 +0000",
-      "fetched_at": "2026-09-13T12:00:04.922693",
+      "pub_date": "Mon, 14 Sep 2026 09:46:40 +0000",
+      "fetched_at": "2026-09-14T20:00:04.122274",
       "categories": [
         "ai"
       ],
-      "ai_summary": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。",
+      "ai_summary": "业界首个5A算电协同认证",
       "keywords": [
-        "claude",
-        "社承认",
-        "安全对齐存在缺陷",
-        "尚无解决方案",
-        "越界攻击真实系统"
+        "全国唯一",
+        "商汤大装置临港",
+        "aidc",
+        "算效",
+        "算电"
       ],
       "importance": 0
     },
     {
-      "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
-      "link": "https://www.qbitai.com/2026/09/488380.html",
-      "summary": "RSI太危险，得管！",
+      "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
+      "link": "https://www.qbitai.com/2026/09/489105.html",
+      "summary": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区",
       "source": "量子位",
-      "pub_date": "Sun, 13 Sep 2026 03:13:00 +0000",
-      "fetched_at": "2026-09-13T12:00:04.922487",
+      "pub_date": "Mon, 14 Sep 2026 09:47:07 +0000",
+      "fetched_at": "2026-09-14T20:00:04.122172",
       "categories": [
         "ai"
       ],
-      "ai_summary": "RSI太危险，得管！",
+      "ai_summary": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区",
       "keywords": [
-        "openai",
-        "年内不上市了",
-        "奥特曼支持对手",
-        "dario",
-        "呼吁"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "微软九月例行更新修复近千个 Bug",
-      "link": "https://www.solidot.org/story?sid=85338",
-      "summary": "在 AI 辅助发现 bug 的时代，主要操作系统每个月修复的 bug 数都在飙升。微软周二释出了九月例行安全更新，总共修复了 974 个 bug，数量为史上最多，今年的安全补丁数已超过 2600。最新补丁包括了 2 个正被利用的提权 0day 漏洞 CVE-2026-81963 和 CVE-2026-85880，113 个 bug 被列为高危，438 个提权 bug，19 个安全功能绕过 bug，258 个远程代码执行 bug，173 个信息泄露 bug，56 个拒绝服务 bug，16 个欺骗 bug。比较严重的 bug 包括存在于 Windows Server 2012 以上版本 和 Win...",
-      "source": "Solidot",
-      "pub_date": "Thu, 10 Sep 2026 19:42:20 +0800",
-      "fetched_at": "2026-09-13T12:00:04.565183",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "在 AI 辅助发现 bug 的时代，主要操作系统每个月修复的 bug 数都在飙升。微软周二释出了九月例行安全更新，总共修复了 974 个 bug，数量为史上最多，今年的安全补丁数已超过 2600。最新补丁包括了 2 个正被利用的提权 0day 漏洞 CVE-2026-81963 和 CVE-2026...",
-      "keywords": [
-        "bug",
-        "cve",
-        "微软九月例行更新修复近千个",
-        "ai",
-        "辅助发现"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "OpenAI 声称解决了 Navier-Stokes 问题，但引发了利用未发布成果的争议",
-      "link": "https://www.solidot.org/story?sid=85339",
-      "summary": "约 200 年前，法国物理学家克劳德-路易·纳维和爱尔兰物理学家乔治·斯托克斯提出了一组至今仍然广泛使用的、描述液体、空气等流体运动的偏微分方程。Navier-Stokes 方程并不保证适用于所有可能的情况。几十年来，数学家一直致力于寻求证明方程的普适性或导致方程失效的特例。2000 年克雷数学研究所将 Navier-Stokes 方程列为七大千禧年数学问题之一。OpenAI 本周宣布通过动用约 1 万个 AI 智能体进行长达 88 小时的攻坚，于 9 月 5 日发现了一个 Navier-Stokes 方程失效的特例。如果得到确认，将标志着 AI 首次解决了一个重大的数学难题。但此事在数学界引...",
-      "source": "Solidot",
-      "pub_date": "Thu, 10 Sep 2026 23:51:55 +0800",
-      "fetched_at": "2026-09-13T12:00:04.565022",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "约 200 年前，法国物理学家克劳德-路易·纳维和爱尔兰物理学家乔治·斯托克斯提出了一组至今仍然广泛使用的、描述液体、空气等流体运动的偏微分方程。Navier-Stokes 方程并不保证适用于所有可能的情况。几十年来，数学家一直致力于寻求证明方程的普适性或导致方程失效的特例。2000 年克雷数学研究...",
-      "keywords": [
-        "navier",
-        "stokes",
-        "openai",
-        "ai",
-        "声称解决了"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "中国留学生因 AI 制作深度伪造色情被判刑",
-      "link": "https://www.solidot.org/story?sid=85343",
-      "summary": "一名 30 岁的在韩中国留学生 A 某因涉嫌利用深度伪造技术制作 1000 余条淫秽色情内容，于 9 月 10 日被一审法院判处有期徒刑 1 年零 6 个月，并责令其接受 40 小时的性暴力防治教育，今后 5 年禁止其在儿童和青少年相关设施和残疾人福利设施就业。A 某涉嫌自去年11月起利用 AI 将研究室同事等 7 名受害者的面容合成到不雅视频和照片中，制作 1141 条淫秽色情内容。检方提出 3 年量刑建议，并请求法庭判令公开被告人身份信息，责令其接受性暴力防治教育。法院就量刑理由表示，被告人的犯罪情节恶劣，且未能取得被害人谅解，罪责较重。但被告人认罪悔过态度良好、无犯罪前科、无证据证明涉案...",
-      "source": "Solidot",
-      "pub_date": "Fri, 11 Sep 2026 14:11:10 +0800",
-      "fetched_at": "2026-09-13T12:00:04.564423",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "一名 30 岁的在韩中国留学生 A 某因涉嫌利用深度伪造技术制作 1000 余条淫秽色情内容，于 9 月 10 日被一审法院判处有期徒刑 1 年零 6 个月，并责令其接受 40 小时的性暴力防治教育，今后 5 年禁止其在儿童和青少年相关设施和残疾人福利设施就业。A 某涉嫌自去年11月起利用 AI 将...",
-      "keywords": [
-        "ai",
-        "中国留学生因",
-        "制作深度伪造色情被判刑",
-        "一名",
-        "岁的在韩中国留学生"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Google 购买芬兰一核电站一半的发电量",
-      "link": "https://www.solidot.org/story?sid=85347",
-      "summary": "Google 宣布斥资 130 亿欧元在芬兰投资 AI 基础设施，其中包括购买一座核电站 50% 的发电量。这是 Google 在欧洲最大的单项投资。这笔投资将用于建设三个新数据中心、扩建现有设施，并持能源项目，以满足对 AI 服务日益增长的电力需求。作为协议的一部分，Google 与芬兰公用事业公司 Fortum 签署了一份为期 22 年的合同，将购买 Loviisa 核电站最多 50% 的发电量。本周早些时候，TikTok 也宣布投资 10 亿美元在芬兰 Kouvola 建设新数据中心，理由是该国拥有“强大的数字基础设施、清洁的能源结构、健全的数据治理体系以及高素质的技术人才”。",
-      "source": "Solidot",
-      "pub_date": "Fri, 11 Sep 2026 15:56:45 +0800",
-      "fetched_at": "2026-09-13T12:00:04.563838",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Google 宣布斥资 130 亿欧元在芬兰投资 AI 基础设施，其中包括购买一座核电站 50% 的发电量。这是 Google 在欧洲最大的单项投资。这笔投资将用于建设三个新数据中心、扩建现有设施，并持能源项目，以满足对 AI 服务日益增长的电力需求。作为协议的一部分，Google 与芬兰公用事业公...",
-      "keywords": [
-        "google",
-        "ai",
-        "的发电量",
-        "购买芬兰一核电站一半的发电量",
-        "宣布斥资"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "儿童因经常将笔记本电脑放在腹部而出现烤肤症",
-      "link": "https://www.solidot.org/story?sid=85352",
-      "summary": "《BMJ Case Reports》报告了一起奇特的病例，一名儿童因腹部皮肤出现奇怪斑痕而送去急症。医生查找许久未发现病因，因此开了抗生素让他回家，叮嘱父母如果病情变化立即来复诊。两周后，这名儿童再次入院，他的病情出现恶化。皮肤斑块变大，颜色变深，且有触痛。这名儿童透露了一个情况，他是在家上学，经常使用笔记本电脑，他习惯将笔电放在腹部，有时一用就是八个小时，还经常在电脑充电时使用。医生终于明白了他的病因，诊断他患有 Erythema ab igne（EAI），也被称为烤肤综合征（toasted skin syndrome），一种因反复、长时间接触低强度热源而引发的皮肤病，多见于成年人，常见诱因...",
-      "source": "Solidot",
-      "pub_date": "Fri, 11 Sep 2026 20:46:03 +0800",
-      "fetched_at": "2026-09-13T12:00:04.562986",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "《BMJ Case Reports》报告了一起奇特的病例，一名儿童因腹部皮肤出现奇怪斑痕而送去急症。医生查找许久未发现病因，因此开了抗生素让他回家，叮嘱父母如果病情变化立即来复诊。两周后，这名儿童再次入院，他的病情出现恶化。皮肤斑块变大，颜色变深，且有触痛。这名儿童透露了一个情况，他是在家上学，经常...",
-      "keywords": [
-        "儿童因经常将笔记本电脑放在腹部而出现烤肤症",
-        "bmj",
-        "case",
-        "reports",
-        "报告了一起奇特的病例"
+        "首届蚂蚁灵波具身大模型挑战赛正式启动",
+        "通过这场大赛",
+        "蚂蚁灵波希望将",
+        "lingbot",
+        "vla"
       ],
       "importance": 0
     },
@@ -566,7 +524,7 @@
       "summary": "因特朗普政府削减了 NASA 预算，难以兑现提供合成孔径雷达的承诺，欧洲 ESA 将独立推进金星探索项目 Envision。Envision 轨道探测器任务旨在对金星表面进行测绘，由于金星表面被厚厚的硫酸云层笼罩，需要使用雷达穿透云层。NASA 与 ESA 于 2024 年签署了一份谅解备忘录，NASA 提供美制合成孔径雷达，通过其深空网络提供跟踪与通信支持。作为交换，ESA 将把美国研究人员纳入其团队。然而 2026 年和 2027 年的 NASA 预算被特朗普政府提议大幅削减，虽然国会否决了大部分预算削减方案，但 NASA 的科学预算仍然减少了数亿美元。NASA 的国际合作任务是主要削减对...",
       "source": "Solidot",
       "pub_date": "Sat, 12 Sep 2026 00:57:44 +0800",
-      "fetched_at": "2026-09-13T12:00:04.562084",
+      "fetched_at": "2026-09-14T20:00:03.792155",
       "categories": [
         "space"
       ],
@@ -579,7 +537,108 @@
         "将独立完成金星探索项目"
       ],
       "importance": 1.0
+    },
+    {
+      "title": "25 名菲尔茨奖得主发表公开信批评 AI 公司",
+      "link": "https://www.solidot.org/story?sid=85358",
+      "summary": "包括陶哲轩、新晋得主邓煜在内的 25 名菲尔茨奖得主发表公开信《A Severe Misalignment of AI in Mathematics》，批评 AI 公司最近的所作所为。公开信称，“过去几个月 LLM 的数学能力有飞跃式提升，甚至达到了能解决数学领域重大悬而未决问题的地步。但各大 AI 公司仅仅将解决数学问题作为基准测试（Benchmark）推动的技术竞赛，却对数学这门科学以及整个数学界构成了伤害。AI 公司的目标与数学界的本质目标之间存在着严重错位（Misalignment）。”这是 AI 影响科学与创意行业乃至整个社会的对齐（alignment）危机的一个缩影。“最近几个月 ...",
+      "source": "Solidot",
+      "pub_date": "Sat, 12 Sep 2026 20:17:51 +0800",
+      "fetched_at": "2026-09-14T20:00:03.792017",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "包括陶哲轩、新晋得主邓煜在内的 25 名菲尔茨奖得主发表公开信《A Severe Misalignment of AI in Mathematics》，批评 AI 公司最近的所作所为。公开信称，“过去几个月 LLM 的数学能力有飞跃式提升，甚至达到了能解决数学领域重大悬而未决问题的地步。但各大 AI...",
+      "keywords": [
+        "ai",
+        "misalignment",
+        "名菲尔茨奖得主发表公开信批评",
+        "公司",
+        "包括陶哲轩"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "克雷数学研究所就 Navier-Stokes 问题发表公开声明",
+      "link": "https://www.solidot.org/story?sid=85359",
+      "summary": "OpenAI 本周早些时候宣布通过动用约 1 万个 AI 智能体进行长达 88 小时的攻坚，于 9 月 5 日发现了一个 Navier-Stokes 方程失效的特例。Navier-Stokes 问题是克雷数学研究所列出的七大千禧年数学问题之一，它为每道题的解决提供了一百万美元奖金。目前七大问题只有庞加莱猜想确认解决，但解决该问题的俄罗斯数学家格里戈里·佩雷尔曼拒绝接受该奖。克雷数学研究所就此公开声明，表示将根据其评奖流程确认成果。根据克雷数学研究所的规则，OpenAI 首先需要在同行评审的期刊上发表解题结果，需要至少发表两年并且获得数学界的普遍认可。OpenAI 至今没有给出 Navier-S...",
+      "source": "Solidot",
+      "pub_date": "Sat, 12 Sep 2026 23:31:13 +0800",
+      "fetched_at": "2026-09-14T20:00:03.791856",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "OpenAI 本周早些时候宣布通过动用约 1 万个 AI 智能体进行长达 88 小时的攻坚，于 9 月 5 日发现了一个 Navier-Stokes 方程失效的特例。Navier-Stokes 问题是克雷数学研究所列出的七大千禧年数学问题之一，它为每道题的解决提供了一百万美元奖金。目前七大问题只有庞...",
+      "keywords": [
+        "navier",
+        "stokes",
+        "openai",
+        "克雷数学研究所就",
+        "问题发表公开声明"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "墨西哥毒贩涉足加密货币挖矿",
+      "link": "https://www.solidot.org/story?sid=85361",
+      "summary": "墨西哥贩毒集团涉足了加密货币挖矿业务。墨西哥警方在 Puebla 州的 Sierra Norte 地区发现了一个用电量远超周边村庄的矿场，查获了 300 个 GPU、80 个中压终端设备以及 8 个卫星天线。虽然就国际商业规模而言，该矿场的规模相当有限，但这已是自去年年初以来该地区发现的第四个加密货币矿场。根据区块链分析公司 Chainalysis 对流向非法钱包地址的交易量进行的分析，全球范围内非法加密货币交易在 2025 年增长一倍以上，与犯罪活动相关的地址接收的资金总额达到 1540 亿美元，而前一年仅为 590 亿美元。拉美的贩毒集团也愈来愈频繁利用加密货币转账和挖矿洗钱。电力是加密货...",
+      "source": "Solidot",
+      "pub_date": "Sun, 13 Sep 2026 00:49:02 +0800",
+      "fetched_at": "2026-09-14T20:00:03.791581",
+      "categories": [
+        "ai",
+        "space"
+      ],
+      "ai_summary": "墨西哥贩毒集团涉足了加密货币挖矿业务。墨西哥警方在 Puebla 州的 Sierra Norte 地区发现了一个用电量远超周边村庄的矿场，查获了 300 个 GPU、80 个中压终端设备以及 8 个卫星天线。虽然就国际商业规模而言，该矿场的规模相当有限，但这已是自去年年初以来该地区发现的第四个加密货...",
+      "keywords": [
+        "亿美元",
+        "墨西哥毒贩涉足加密货币挖矿",
+        "墨西哥贩毒集团涉足了加密货币挖矿业务",
+        "墨西哥警方在",
+        "puebla"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Matt Mullenweg 据报道恢复了对 Automattic 的控制",
+      "link": "https://www.solidot.org/story?sid=85365",
+      "summary": "被董事会强制休假的 Matt Mullenweg 称恢复了 Automattic CEO 的职务。Automattic 可能发生了类似 OpenAI 的小型“未遂政变”。Automattic 旗下包括 Wordpress.com、Tumblr 和 Beeper 等业务。本周早些时候 Mullenweg 通过公司 Slack 频道指责首席财务官 Mark Davies 与董事会串通，董事会投票决定由 Davies 担任临时 CEO。两天后，Mullenweg 称董事会已重新达成一致，他本人恢复了对 Automattic 控制。而 Davies 的 Slack 账户则被停用了，Automattic...",
+      "source": "Solidot",
+      "pub_date": "Sun, 13 Sep 2026 22:20:20 +0800",
+      "fetched_at": "2026-09-14T20:00:03.791151",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "被董事会强制休假的 Matt Mullenweg 称恢复了 Automattic CEO 的职务。Automattic 可能发生了类似 OpenAI 的小型“未遂政变”。Automattic 旗下包括 Wordpress.com、Tumblr 和 Beeper 等业务。本周早些时候 Mullenwe...",
+      "keywords": [
+        "automattic",
+        "mullenweg",
+        "davies",
+        "matt",
+        "ceo"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "宇树如何将机器狗的价格降至 2000 美元",
+      "link": "https://www.solidot.org/story?sid=85366",
+      "summary": "宇树的机器狗除了做些花哨动作外可能用处不大，但它拥有一个巨大的优势：价格极其平民。George Mason 大学的机器人专家 Xuesu Xiao 教授称，十年前只有少数团队从事四足机器人的运动控制研究，因为只有这些团队能制造四足机器人，宇树进入市场之后推动了四足机器人运动控制研究的普及化。他的实验室里有四台宇树的四足机器人，每台售价约 1.5 万美元，以及一台波士顿动力的四足机器人 Spot，起售价 7.5 万美元。波士顿动力原本是这一领域的领导者，它在 2016 年 6 月发布了电动版的四足机器人 Spot，但直到 2020 年才上市销售。而宇树创始人王兴兴在 2016 年创办公司之后第二...",
+      "source": "Solidot",
+      "pub_date": "Sun, 13 Sep 2026 23:23:42 +0800",
+      "fetched_at": "2026-09-14T20:00:03.790997",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "宇树的机器狗除了做些花哨动作外可能用处不大，但它拥有一个巨大的优势：价格极其平民。George Mason 大学的机器人专家 Xuesu Xiao 教授称，十年前只有少数团队从事四足机器人的运动控制研究，因为只有这些团队能制造四足机器人，宇树进入市场之后推动了四足机器人运动控制研究的普及化。他的实验...",
+      "keywords": [
+        "万美元",
+        "spot",
+        "宇树如何将机器狗的价格降至",
+        "美元",
+        "宇树的机器狗除了做些花哨动作外可能用处不大"
+      ],
+      "importance": 0.5
     }
   ],
-  "updated_at": "2026-09-13T12:00:31.813717"
+  "updated_at": "2026-09-14T20:00:35.901655"
 }

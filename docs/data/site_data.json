@@ -5,15 +5,15 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-09-16T12:00:27.770523",
-    "total_items": 16
+    "last_update": "2026-09-16T20:00:40.804986",
+    "total_items": 20
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 15
+      "count": 19
     },
     "robotics": {
       "name": "Robotics",
@@ -29,35 +29,35 @@
     }
   },
   "stats": {
-    "total_items": 16,
-    "today_items": 16,
+    "total_items": 20,
+    "today_items": 20,
     "sources": {
       "Solidot": 7,
-      "量子位": 6,
+      "量子位": 10,
       "HackerNews": 3
     },
-    "last_update": "2026-09-16T12:00:27.770523"
+    "last_update": "2026-09-16T20:00:40.804986"
   },
   "trending": [
     {
-      "title": "AI 时代隐晦式安全已死",
-      "link": "https://www.solidot.org/story?sid=85370",
-      "summary": "安全工程领域有一种名为隐晦式安全（Security through obscurity）的设计方式，即只要网络和系统的架构以及任何漏洞或弱点保密或不为人知，它们就是安全的。但在 AI 辅助 bug 发现的时代，这种设计方式过时了。软件供应商和独立研究人员正利用 AI 智能体在各种产品和开源代码中搜寻漏洞——其中一些漏洞极其隐蔽且存在已久。这导致安全漏洞披露和补丁发布数量创下历史新高，同时也给项目维护者带来了巨大的积压事项。微软上周二释出例行安全更新，修复了 974 个 CVE 漏洞。趋势科技的 Dustin Child 指出，微软和 Adob​​e 所修复漏洞涉及的组件多年来基本无人问津，如 ...",
+      "title": "Mozilla 报告称中国开放权重模型与美国前沿模型仅相差 4.4 个月",
+      "link": "https://www.solidot.org/story?sid=85394",
+      "summary": "Mozilla 发表《State of Open Source AI》报告，称美国科技公司的前沿 AI 模型性能仅领先中国公司最优秀的开放权重模型 4.4 个月。由于前沿模型价格更昂贵，很多公司都将开放权重模型用于处理日常工作，将前沿模型用于处理特定工作负荷。美国闭源前沿模型优势主要在于专家级专业工作、高强度检索以及长上下文。 配送公司 DoorDash 将月之暗面的 Kimi 模型用于处理日常工作，将 Anthropic 的闭源模型 Fable 用于更复杂的任务。前沿模型完成一项任务的成本经常达到了最先进开放权重模型的五倍。",
       "source": "Solidot",
-      "pub_date": "Mon, 14 Sep 2026 16:27:40 +0800",
-      "fetched_at": "2026-09-16T12:00:04.803936",
+      "pub_date": "Wed, 16 Sep 2026 18:30:50 +0800",
+      "fetched_at": "2026-09-16T20:00:03.605263",
       "categories": [
         "ai"
       ],
-      "ai_summary": "安全工程领域有一种名为隐晦式安全（Security through obscurity）的设计方式，即只要网络和系统的架构以及任何漏洞或弱点保密或不为人知，它们就是安全的。但在 AI 辅助 bug 发现的时代，这种设计方式过时了。软件供应商和独立研究人员正利用 AI 智能体在各种产品和开源代码中搜寻...",
+      "ai_summary": "Mozilla 发表《State of Open Source AI》报告，称美国科技公司的前沿 AI 模型性能仅领先中国公司最优秀的开放权重模型 4.4 个月。由于前沿模型价格更昂贵，很多公司都将开放权重模型用于处理日常工作，将前沿模型用于处理特定工作负荷。美国闭源前沿模型优势主要在于专家级专业工...",
       "keywords": [
+        "mozilla",
+        "个月",
         "ai",
-        "时代隐晦式安全已死",
-        "安全工程领域有一种名为隐晦式安全",
-        "security",
-        "through"
+        "报告称中国开放权重模型与美国前沿模型仅相差",
+        "发表"
       ],
-      "importance": 1.0
+      "importance": 0.5
     },
     {
       "title": "一款在浏览器里运行、部署在自己服务器上的 SQL 客户端",
@@ -65,7 +65,7 @@
       "summary": "Yusuf Gundogdu 写道：LibreDB Studio 是一个 MIT 协议的 SQL 客户端，不装在本地而是跑在服务器上，浏览器打开就能用，一条 docker run 就起来。16 个驱动覆盖 42 种数据库，PostgreSQL、MySQL、MongoDB、Redis、ClickHouse 这些都在内。9 月 8 日发布了 0.15.0 版本。我觉得值得一提的是他们把 AI 那部分做了实测：28 个模型跑同一套六项数据库任务，27 个通过 Ollama 完全在本地运行，最快的 qwen2.5:7b 只有 4.7 GB，一次完整运行中位数 6 秒，最小的 2.5 GB。数据逐个模型...",
       "source": "Solidot",
       "pub_date": "Tue, 15 Sep 2026 16:43:13 +0800",
-      "fetched_at": "2026-09-16T12:00:04.799721",
+      "fetched_at": "2026-09-16T20:00:03.607906",
       "categories": [
         "ai"
       ],
@@ -85,7 +85,7 @@
       "summary": "NVIDIA 宣布将于 2026 年 10 月 15—16 日在苏州举办中国开发者日。日程分为两日：首日为动手实践日，包含 2026 黑客松总决赛路演、全天实战培训及实训营，同时开放四门 Associate 级别认证现场考试；次日为主论坛，设 LLM、AI 模型与运行时、物理AI/机器人、AI基础设施四个分论坛，并举行黑客松颁奖典礼。 值得注意的细节：认证考试可在现场完成，对希望获得 NVIDIA 官方技术背书但不愿单独约考的开发者有一定吸引力。活动偏向实战而非产品宣讲，适合关注推理优化、训练基础设施和机器人方向的工程师。注册已开放，名额限制未公布，建议提早。 https://www.nvid...",
       "source": "Solidot",
       "pub_date": "Tue, 15 Sep 2026 14:44:22 +0800",
-      "fetched_at": "2026-09-16T12:00:04.801142",
+      "fetched_at": "2026-09-16T20:00:03.608943",
       "categories": [
         "ai",
         "robotics"
@@ -101,44 +101,84 @@
       "importance": 0.5
     },
     {
-      "title": "微信蠕虫事件敲响 AI 安全警钟",
-      "link": "https://www.solidot.org/story?sid=85369",
-      "summary": "微信在中国几乎已成为国家基础设施的一部分，融入了日常通信、政府服务和数字支付之中。正因如此加州一个小型研究团队最近的发现——一种利用人工智能构建的工具可以在短短几个小时内攻破数以百万计的账户——让专家和分析人士感到震惊。这证明，有了人工智能，即使是没有政府背景的小型团队也能对一款每月有 14 亿人使用的应用程序发起毁灭性的攻击。“从破坏力的角度来讲这个是非常强的，”上海复旦大学美国研究中心副主任赵明昊说。他表示，鉴于微信对中国公众的重要性及其庞大的用户群，搞垮这样一款应用程序的能力相当于“一种新的核武器”。这一发现进一步印证了研究人员的警告：人工智能黑客能力的发展速度超过了防御手段的跟进速度。...",
-      "source": "Solidot",
-      "pub_date": "Mon, 14 Sep 2026 15:39:45 +0800",
-      "fetched_at": "2026-09-16T12:00:04.804383",
+      "title": "清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单",
+      "link": "https://www.qbitai.com/2026/09/490400.html",
+      "summary": "9月16日，稳准智能联合清华大学发布新一代数据大模型 LimiX-2，模型参数规模提升至400M。",
+      "source": "量子位",
+      "pub_date": "Wed, 16 Sep 2026 06:32:31 +0000",
+      "fetched_at": "2026-09-16T20:00:04.112501",
       "categories": [
         "ai"
       ],
-      "ai_summary": "微信在中国几乎已成为国家基础设施的一部分，融入了日常通信、政府服务和数字支付之中。正因如此加州一个小型研究团队最近的发现——一种利用人工智能构建的工具可以在短短几个小时内攻破数以百万计的账户——让专家和分析人士感到震惊。这证明，有了人工智能，即使是没有政府背景的小型团队也能对一款每月有 14 亿人使...",
+      "ai_summary": "9月16日，稳准智能联合清华大学发布新一代数据大模型 LimiX-2，模型参数规模提升至400M。",
       "keywords": [
-        "微信蠕虫事件敲响",
-        "ai",
-        "安全警钟",
-        "微信在中国几乎已成为国家基础设施的一部分",
-        "融入了日常通信"
+        "limix",
+        "清华稳准智能联合发布",
+        "结构化数据基础模型登顶国际评测榜单",
+        "稳准智能联合清华大学发布新一代数据大模型",
+        "模型参数规模提升至"
       ],
       "importance": 0.5
     },
     {
-      "title": "全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型",
-      "link": "https://www.qbitai.com/2026/09/489389.html",
-      "summary": "智象未来（HiDream.ai）正式发布首个原生全模态视频生成模型 HiDream-O1-Video-1.0",
+      "title": "被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」",
+      "link": "https://www.qbitai.com/2026/09/490185.html",
+      "summary": "从想法到结果，一次对话实现",
       "source": "量子位",
-      "pub_date": "Tue, 15 Sep 2026 10:41:06 +0000",
-      "fetched_at": "2026-09-16T12:00:05.354264",
+      "pub_date": "Wed, 16 Sep 2026 03:40:35 +0000",
+      "fetched_at": "2026-09-16T20:00:04.112848",
       "categories": [
         "ai"
       ],
-      "ai_summary": "智象未来（HiDream.ai）正式发布首个原生全模态视频生成模型 HiDream-O1-Video-1.0",
+      "ai_summary": "从想法到结果，一次对话实现",
       "keywords": [
+        "被英伟达点名的杭州团队",
+        "补上了",
         "ai",
-        "hidream",
-        "全球",
-        "视频榜单第一梯队再添中国力量",
-        "智象发布首款物理规律导向视频模型"
+        "for",
+        "science"
       ],
       "importance": 0.5
+    },
+    {
+      "title": "Mistral 与 Mozilla 合作推出 Firefox Smart Window",
+      "link": "https://www.solidot.org/story?sid=85395",
+      "summary": "法国 AI 公司 Mistral 与 Mozilla 合作推出注重隐私保护的 AI 浏览助手 Firefox Smart Window(beta)。Smart Window 使用了 Mistral 的开放权重模型，能帮助用户梳理复杂搜索，记住浏览过的重要信息，根据当前标签页查找关键信息，目前主要为法国和北美用户提供服务，今年晚些时候会扩大到英国和德国用户。Smart Window 的对话内容默认不会存储在 Mozilla 的服务器上，Mistral 等合作伙伴也承诺不保留任何数据。",
+      "source": "Solidot",
+      "pub_date": "Wed, 16 Sep 2026 18:53:58 +0800",
+      "fetched_at": "2026-09-16T20:00:03.605008",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "法国 AI 公司 Mistral 与 Mozilla 合作推出注重隐私保护的 AI 浏览助手 Firefox Smart Window(beta)。Smart Window 使用了 Mistral 的开放权重模型，能帮助用户梳理复杂搜索，记住浏览过的重要信息，根据当前标签页查找关键信息，目前主要为法...",
+      "keywords": [
+        "mistral",
+        "smart",
+        "window",
+        "mozilla",
+        "firefox"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "时光机器遭遇大规模机器流量",
+      "link": "https://www.solidot.org/story?sid=85392",
+      "summary": "互联网档案馆披露，它的时光机器（Wayback Machine）服务遭遇了大规模机器流量的持续攻击，因此不得不采取防护措施，导致正常用户在访问该服务时可能会遇到“429 错误”——代表请求过多的 HTTP 状态码。如果用户被误伤，它对此表示歉意，称正努力区分机器流量和正常用户流量。时光机器备份了互联网内容的历史存档，很多内容除了时光机器可能在其它地方都找不到了。时光机器是重要的知识库，因此也是 AI 公司和互联网公司网络爬虫重要的抓取目标。",
+      "source": "Solidot",
+      "pub_date": "Wed, 16 Sep 2026 16:32:47 +0800",
+      "fetched_at": "2026-09-16T20:00:03.605733",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "互联网档案馆披露，它的时光机器（Wayback Machine）服务遭遇了大规模机器流量的持续攻击，因此不得不采取防护措施，导致正常用户在访问该服务时可能会遇到“429 错误”——代表请求过多的 HTTP 状态码。如果用户被误伤，它对此表示歉意，称正努力区分机器流量和正常用户流量。时光机器备份了互联...",
+      "keywords": [
+        "时光机器遭遇大规模机器流量",
+        "互联网档案馆披露",
+        "它的时光机器",
+        "wayback",
+        "machine"
+      ],
+      "importance": 0
     },
     {
       "title": "F-Droid 上的应用有多少是在 AI 帮助下编写的？",
@@ -146,7 +186,7 @@
       "summary": "今天有无数开发者在 LLM 帮助下编写程序，其中包括了开源开发者。那么 Android FOSS 应用商店 F-Droid 中 AI 辅助开发应用的比例有多高？一位 FOSS 维护者对 9 月 12 日 F-Droid 推送更新的 102 款应用及其代码库进行了分析，发现其中 74 款应用（72.5%）主要是 AI 编写的，10 款应用难以明确归类（9.8%）， 18 款应用几乎没有 AI 参与的迹象（17.6%）。有 4 个托管在 Codeberg 上的应用主要是 AI 编写的，而 Codeberg 最近宣布了 AI 政策，禁止了此类 AI 应用，但要清除此类应用显然需要更多时间。",
       "source": "Solidot",
       "pub_date": "Tue, 15 Sep 2026 20:45:43 +0800",
-      "fetched_at": "2026-09-16T12:00:04.799184",
+      "fetched_at": "2026-09-16T20:00:03.607404",
       "categories": [
         "ai"
       ],
@@ -166,7 +206,7 @@
       "summary": "美国空军部长 Troy Meink 周一在 Air and Space Forces Association 的《Air, Space & Cyber Conference》会议上首次公开宣传，美国已在轨道上部署了太空控制武器。他没有披露太空武器的任何细节，但披露其存在这一事实，凸显了五角大楼在轨道战思维上的重大转变——直到几年前，还没有任何美国军方高级官员愿意公开讨论这一话题。如今军方官员已开始公开讨论轨道作战、卫星防御性反制措施，以及一种旨在瘫痪敌方在轨卫星的新型陆基武器。Meink 也未说明这些太空武器是何时部署的。",
       "source": "Solidot",
       "pub_date": "Tue, 15 Sep 2026 16:07:55 +0800",
-      "fetched_at": "2026-09-16T12:00:04.799976",
+      "fetched_at": "2026-09-16T20:00:03.608143",
       "categories": [
         "ai",
         "space"
@@ -182,224 +222,84 @@
       "importance": 0
     },
     {
-      "title": "律师在谋杀案中捏造了证词，他将此归咎于 ChatGPT",
-      "link": "https://www.solidot.org/story?sid=85372",
-      "summary": "律师在法律文件中使用 AI 工具捏造不存在的信息不是什么大新闻，AI 捏造的通常是不存在的案例，然而本案的特殊之处在于 AI 捏造了证词。律师 Stephen Aaron 在一起谋杀案中代表其客户提起上诉，在递交的法律文件中包含了捏造的警方证词以及虚构的证人。Aaron 声称他将一份由计算机生成的庭审记录及其它案卷材料输入了 ChatGPT，想当然地认为它会生成一份“无懈可击的摘要”。他不清楚 AI 工具会产生“幻觉”——即虚构信息。 法官对此难以置信，反问他没看新闻吗？法官对他处以 5000 美元罚款，将把他移交至律师纪律委员会进行调查。",
-      "source": "Solidot",
-      "pub_date": "Mon, 14 Sep 2026 18:35:37 +0800",
-      "fetched_at": "2026-09-16T12:00:04.803054",
+      "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
+      "link": "https://www.qbitai.com/2026/09/490760.html",
+      "summary": "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。",
+      "source": "量子位",
+      "pub_date": "Wed, 16 Sep 2026 08:51:02 +0000",
+      "fetched_at": "2026-09-16T20:00:04.111815",
       "categories": [
         "ai"
       ],
-      "ai_summary": "律师在法律文件中使用 AI 工具捏造不存在的信息不是什么大新闻，AI 捏造的通常是不存在的案例，然而本案的特殊之处在于 AI 捏造了证词。律师 Stephen Aaron 在一起谋杀案中代表其客户提起上诉，在递交的法律文件中包含了捏造的警方证词以及虚构的证人。Aaron 声称他将一份由计算机生成的庭...",
+      "ai_summary": "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。",
       "keywords": [
         "ai",
-        "chatgpt",
-        "aaron",
-        "律师在谋杀案中捏造了证词",
-        "他将此归咎于"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "把记忆交给CPU，大模型会变快",
-      "link": "https://www.qbitai.com/2026/09/489724.html",
-      "summary": "让GPU去忙生成Token",
-      "source": "量子位",
-      "pub_date": "Wed, 16 Sep 2026 03:07:18 +0000",
-      "fetched_at": "2026-09-16T12:00:05.353301",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "让GPU去忙生成Token",
-      "keywords": [
-        "把记忆交给",
-        "cpu",
-        "大模型会变快",
-        "gpu",
-        "去忙生成"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "手机替我跑了一整套流程！我就说了一句话，AI执行了100步",
-      "link": "https://www.qbitai.com/2026/09/489466.html",
-      "summary": "一句话，YOYO全面接管我的生活",
-      "source": "量子位",
-      "pub_date": "Tue, 15 Sep 2026 12:47:16 +0000",
-      "fetched_at": "2026-09-16T12:00:05.353982",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "一句话，YOYO全面接管我的生活",
-      "keywords": [
-        "手机替我跑了一整套流程",
-        "我就说了一句话",
-        "ai",
-        "执行了",
-        "一句话"
+        "大模型工场",
+        "产业生态大会今日举办",
+        "大咖同台共探智能生长与产业共生",
+        "大模型工场主办的"
       ],
       "importance": 0
     }
   ],
   "latest": [
     {
-      "title": "Let's make quality the norm again",
-      "link": "https://www.forbrukerradet.no/short-life/",
-      "summary": "👍 340 | 💬 343",
+      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+      "link": "https://arxiv.org/abs/2511.07885",
+      "summary": "👍 60 | 💬 12",
       "source": "HackerNews",
-      "pub_date": "2026-09-15T18:00:16",
-      "fetched_at": "2026-09-16T12:00:27.658618",
+      "pub_date": "2026-09-14T17:16:39",
+      "fetched_at": "2026-09-16T20:00:39.682954",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 340 | 💬 343",
+      "ai_summary": "👍 60 | 💬 12",
       "keywords": [
-        "let",
-        "make",
-        "quality",
-        "the",
-        "norm"
+        "intelligence",
+        "per",
+        "watt",
+        "measuring",
+        "efficiency"
       ],
       "importance": 0
     },
     {
-      "title": "Learning to solve hard problems in RL for LLMs by never giving up",
-      "link": "https://mnoukhov.github.io/posts/ngu/",
-      "summary": "👍 54 | 💬 0",
+      "title": "Learning Programming in an Age of LLMs",
+      "link": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+      "summary": "👍 82 | 💬 50",
       "source": "HackerNews",
-      "pub_date": "2026-09-16T03:07:38",
-      "fetched_at": "2026-09-16T12:00:22.411159",
+      "pub_date": "2026-09-16T17:12:34",
+      "fetched_at": "2026-09-16T20:00:18.841038",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 54 | 💬 0",
+      "ai_summary": "👍 82 | 💬 50",
       "keywords": [
         "learning",
-        "to",
-        "solve",
-        "hard",
-        "problems"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Stay discoverable in search while disallowing AI training",
-      "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
-      "summary": "👍 29 | 💬 15",
-      "source": "HackerNews",
-      "pub_date": "2026-09-16T10:25:18",
-      "fetched_at": "2026-09-16T12:00:16.694476",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 29 | 💬 15",
-      "keywords": [
-        "stay",
-        "discoverable",
+        "programming",
         "in",
-        "search",
-        "while"
+        "an",
+        "age"
       ],
       "importance": 0
     },
     {
-      "title": "首个AIGC长片大赛！RunningHub单项大奖100万，科幻IP免费改编",
-      "link": "https://www.qbitai.com/2026/09/489260.html",
-      "summary": "刘慈欣督战",
-      "source": "量子位",
-      "pub_date": "Tue, 15 Sep 2026 07:48:48 +0000",
-      "fetched_at": "2026-09-16T12:00:05.354522",
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "link": "https://mistral.ai/news/mistral-x-mozilla/",
+      "summary": "👍 111 | 💬 33",
+      "source": "HackerNews",
+      "pub_date": "2026-09-16T16:08:57",
+      "fetched_at": "2026-09-16T20:00:15.508982",
       "categories": [
         "ai"
       ],
-      "ai_summary": "刘慈欣督战",
+      "ai_summary": "👍 111 | 💬 33",
       "keywords": [
-        "首个",
-        "aigc",
-        "长片大赛",
-        "runninghub",
-        "单项大奖"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影",
-      "link": "https://www.qbitai.com/2026/09/489381.html",
-      "summary": "打破分子模拟“不可能三角”",
-      "source": "量子位",
-      "pub_date": "Tue, 15 Sep 2026 09:58:00 +0000",
-      "fetched_at": "2026-09-16T12:00:05.354397",
-      "categories": [
+        "mistral",
+        "mozilla",
+        "private",
+        "multilingual",
         "ai"
-      ],
-      "ai_summary": "打破分子模拟“不可能三角”",
-      "keywords": [
-        "一张",
-        "gpu",
-        "万原子",
-        "分子之心用",
-        "ai"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型",
-      "link": "https://www.qbitai.com/2026/09/489389.html",
-      "summary": "智象未来（HiDream.ai）正式发布首个原生全模态视频生成模型 HiDream-O1-Video-1.0",
-      "source": "量子位",
-      "pub_date": "Tue, 15 Sep 2026 10:41:06 +0000",
-      "fetched_at": "2026-09-16T12:00:05.354264",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "智象未来（HiDream.ai）正式发布首个原生全模态视频生成模型 HiDream-O1-Video-1.0",
-      "keywords": [
-        "ai",
-        "hidream",
-        "全球",
-        "视频榜单第一梯队再添中国力量",
-        "智象发布首款物理规律导向视频模型"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA",
-      "link": "https://www.qbitai.com/2026/09/489460.html",
-      "summary": "卡位具身智能规模化落地“最后一公里”！",
-      "source": "量子位",
-      "pub_date": "Tue, 15 Sep 2026 10:43:28 +0000",
-      "fetched_at": "2026-09-16T12:00:05.354118",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "卡位具身智能规模化落地“最后一公里”！",
-      "keywords": [
-        "无问芯穹联合清华",
-        "上交正式开源具身端侧推理引擎",
-        "apxinf",
-        "pi",
-        "性能"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "手机替我跑了一整套流程！我就说了一句话，AI执行了100步",
-      "link": "https://www.qbitai.com/2026/09/489466.html",
-      "summary": "一句话，YOYO全面接管我的生活",
-      "source": "量子位",
-      "pub_date": "Tue, 15 Sep 2026 12:47:16 +0000",
-      "fetched_at": "2026-09-16T12:00:05.353982",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "一句话，YOYO全面接管我的生活",
-      "keywords": [
-        "手机替我跑了一整套流程",
-        "我就说了一句话",
-        "ai",
-        "执行了",
-        "一句话"
       ],
       "importance": 0
     },
@@ -409,7 +309,7 @@
       "summary": "让GPU去忙生成Token",
       "source": "量子位",
       "pub_date": "Wed, 16 Sep 2026 03:07:18 +0000",
-      "fetched_at": "2026-09-16T12:00:05.353301",
+      "fetched_at": "2026-09-16T20:00:04.112959",
       "categories": [
         "ai"
       ],
@@ -424,62 +324,181 @@
       "importance": 0
     },
     {
-      "title": "微信蠕虫事件敲响 AI 安全警钟",
-      "link": "https://www.solidot.org/story?sid=85369",
-      "summary": "微信在中国几乎已成为国家基础设施的一部分，融入了日常通信、政府服务和数字支付之中。正因如此加州一个小型研究团队最近的发现——一种利用人工智能构建的工具可以在短短几个小时内攻破数以百万计的账户——让专家和分析人士感到震惊。这证明，有了人工智能，即使是没有政府背景的小型团队也能对一款每月有 14 亿人使用的应用程序发起毁灭性的攻击。“从破坏力的角度来讲这个是非常强的，”上海复旦大学美国研究中心副主任赵明昊说。他表示，鉴于微信对中国公众的重要性及其庞大的用户群，搞垮这样一款应用程序的能力相当于“一种新的核武器”。这一发现进一步印证了研究人员的警告：人工智能黑客能力的发展速度超过了防御手段的跟进速度。...",
-      "source": "Solidot",
-      "pub_date": "Mon, 14 Sep 2026 15:39:45 +0800",
-      "fetched_at": "2026-09-16T12:00:04.804383",
+      "title": "被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」",
+      "link": "https://www.qbitai.com/2026/09/490185.html",
+      "summary": "从想法到结果，一次对话实现",
+      "source": "量子位",
+      "pub_date": "Wed, 16 Sep 2026 03:40:35 +0000",
+      "fetched_at": "2026-09-16T20:00:04.112848",
       "categories": [
         "ai"
       ],
-      "ai_summary": "微信在中国几乎已成为国家基础设施的一部分，融入了日常通信、政府服务和数字支付之中。正因如此加州一个小型研究团队最近的发现——一种利用人工智能构建的工具可以在短短几个小时内攻破数以百万计的账户——让专家和分析人士感到震惊。这证明，有了人工智能，即使是没有政府背景的小型团队也能对一款每月有 14 亿人使...",
+      "ai_summary": "从想法到结果，一次对话实现",
       "keywords": [
-        "微信蠕虫事件敲响",
+        "被英伟达点名的杭州团队",
+        "补上了",
         "ai",
-        "安全警钟",
-        "微信在中国几乎已成为国家基础设施的一部分",
-        "融入了日常通信"
+        "for",
+        "science"
       ],
       "importance": 0.5
     },
     {
-      "title": "AI 时代隐晦式安全已死",
-      "link": "https://www.solidot.org/story?sid=85370",
-      "summary": "安全工程领域有一种名为隐晦式安全（Security through obscurity）的设计方式，即只要网络和系统的架构以及任何漏洞或弱点保密或不为人知，它们就是安全的。但在 AI 辅助 bug 发现的时代，这种设计方式过时了。软件供应商和独立研究人员正利用 AI 智能体在各种产品和开源代码中搜寻漏洞——其中一些漏洞极其隐蔽且存在已久。这导致安全漏洞披露和补丁发布数量创下历史新高，同时也给项目维护者带来了巨大的积压事项。微软上周二释出例行安全更新，修复了 974 个 CVE 漏洞。趋势科技的 Dustin Child 指出，微软和 Adob​​e 所修复漏洞涉及的组件多年来基本无人问津，如 ...",
-      "source": "Solidot",
-      "pub_date": "Mon, 14 Sep 2026 16:27:40 +0800",
-      "fetched_at": "2026-09-16T12:00:04.803936",
+      "title": "量子位2026人工智能年度榜单，正式启动！",
+      "link": "https://www.qbitai.com/2026/09/490329.html",
+      "summary": "报名通道已开启，欢迎参与！",
+      "source": "量子位",
+      "pub_date": "Wed, 16 Sep 2026 04:16:10 +0000",
+      "fetched_at": "2026-09-16T20:00:04.112736",
       "categories": [
         "ai"
       ],
-      "ai_summary": "安全工程领域有一种名为隐晦式安全（Security through obscurity）的设计方式，即只要网络和系统的架构以及任何漏洞或弱点保密或不为人知，它们就是安全的。但在 AI 辅助 bug 发现的时代，这种设计方式过时了。软件供应商和独立研究人员正利用 AI 智能体在各种产品和开源代码中搜寻...",
+      "ai_summary": "报名通道已开启，欢迎参与！",
       "keywords": [
-        "ai",
-        "时代隐晦式安全已死",
-        "安全工程领域有一种名为隐晦式安全",
-        "security",
-        "through"
+        "量子位",
+        "人工智能年度榜单",
+        "正式启动",
+        "报名通道已开启",
+        "欢迎参与"
       ],
-      "importance": 1.0
+      "importance": 0
     },
     {
-      "title": "律师在谋杀案中捏造了证词，他将此归咎于 ChatGPT",
-      "link": "https://www.solidot.org/story?sid=85372",
-      "summary": "律师在法律文件中使用 AI 工具捏造不存在的信息不是什么大新闻，AI 捏造的通常是不存在的案例，然而本案的特殊之处在于 AI 捏造了证词。律师 Stephen Aaron 在一起谋杀案中代表其客户提起上诉，在递交的法律文件中包含了捏造的警方证词以及虚构的证人。Aaron 声称他将一份由计算机生成的庭审记录及其它案卷材料输入了 ChatGPT，想当然地认为它会生成一份“无懈可击的摘要”。他不清楚 AI 工具会产生“幻觉”——即虚构信息。 法官对此难以置信，反问他没看新闻吗？法官对他处以 5000 美元罚款，将把他移交至律师纪律委员会进行调查。",
-      "source": "Solidot",
-      "pub_date": "Mon, 14 Sep 2026 18:35:37 +0800",
-      "fetched_at": "2026-09-16T12:00:04.803054",
+      "title": "B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首",
+      "link": "https://www.qbitai.com/2026/09/490396.html",
+      "summary": "9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。",
+      "source": "量子位",
+      "pub_date": "Wed, 16 Sep 2026 06:23:05 +0000",
+      "fetched_at": "2026-09-16T20:00:04.112623",
       "categories": [
         "ai"
       ],
-      "ai_summary": "律师在法律文件中使用 AI 工具捏造不存在的信息不是什么大新闻，AI 捏造的通常是不存在的案例，然而本案的特殊之处在于 AI 捏造了证词。律师 Stephen Aaron 在一起谋杀案中代表其客户提起上诉，在递交的法律文件中包含了捏造的警方证词以及虚构的证人。Aaron 声称他将一份由计算机生成的庭...",
+      "ai_summary": "9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。",
       "keywords": [
         "ai",
-        "chatgpt",
-        "aaron",
-        "律师在谋杀案中捏造了证词",
-        "他将此归咎于"
+        "无限竞技场今日上线",
+        "全球百大",
+        "模型同场竞技",
+        "gpt"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单",
+      "link": "https://www.qbitai.com/2026/09/490400.html",
+      "summary": "9月16日，稳准智能联合清华大学发布新一代数据大模型 LimiX-2，模型参数规模提升至400M。",
+      "source": "量子位",
+      "pub_date": "Wed, 16 Sep 2026 06:32:31 +0000",
+      "fetched_at": "2026-09-16T20:00:04.112501",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "9月16日，稳准智能联合清华大学发布新一代数据大模型 LimiX-2，模型参数规模提升至400M。",
+      "keywords": [
+        "limix",
+        "清华稳准智能联合发布",
+        "结构化数据基础模型登顶国际评测榜单",
+        "稳准智能联合清华大学发布新一代数据大模型",
+        "模型参数规模提升至"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "西门子不造机器人，为什么机器人进厂的故事里总有它？",
+      "link": "https://www.qbitai.com/2026/09/490416.html",
+      "summary": "帮助成熟赛道复制方案，帮助新赛道长出场景。",
+      "source": "量子位",
+      "pub_date": "Wed, 16 Sep 2026 07:38:18 +0000",
+      "fetched_at": "2026-09-16T20:00:04.112379",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "帮助成熟赛道复制方案，帮助新赛道长出场景。",
+      "keywords": [
+        "西门子不造机器人",
+        "为什么机器人进厂的故事里总有它",
+        "帮助成熟赛道复制方案",
+        "帮助新赛道长出场景"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "协同办公进入Agent时代，飞书+豆包工作跑在了最前面",
+      "link": "https://www.qbitai.com/2026/09/490686.html",
+      "summary": "AI协同办公的新官配，我先磕了",
+      "source": "量子位",
+      "pub_date": "Wed, 16 Sep 2026 07:46:38 +0000",
+      "fetched_at": "2026-09-16T20:00:04.112256",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "AI协同办公的新官配，我先磕了",
+      "keywords": [
+        "协同办公进入",
+        "agent",
+        "时代",
+        "飞书",
+        "豆包工作跑在了最前面"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用",
+      "link": "https://www.qbitai.com/2026/09/490750.html",
+      "summary": "2026年 9 月 15 日，AI基础设施公司基元律动（TokenRhythm）与无问芯穹（Infinigence AI）签署战略合作协议。",
+      "source": "量子位",
+      "pub_date": "Wed, 16 Sep 2026 08:09:53 +0000",
+      "fetched_at": "2026-09-16T20:00:04.112131",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "2026年 9 月 15 日，AI基础设施公司基元律动（TokenRhythm）与无问芯穹（Infinigence AI）签署战略合作协议。",
+      "keywords": [
+        "ai",
+        "基元律动与无问芯穹达成战略合作",
+        "推进高质量",
+        "token",
+        "供给与应用"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
+      "link": "https://www.qbitai.com/2026/09/490756.html",
+      "summary": "第五代骁龙8至尊版赋能全新AI智能体手机努比亚NaviX Ultra，加速智能体体验规模化落地",
+      "source": "量子位",
+      "pub_date": "Wed, 16 Sep 2026 08:18:44 +0000",
+      "fetched_at": "2026-09-16T20:00:04.111986",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "第五代骁龙8至尊版赋能全新AI智能体手机努比亚NaviX Ultra，加速智能体体验规模化落地",
+      "keywords": [
+        "ai",
+        "高通技术公司携手中兴努比亚和豆包手机助手",
+        "共同推动智能手机迈入个人",
+        "新时代",
+        "第五代骁龙"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
+      "link": "https://www.qbitai.com/2026/09/490760.html",
+      "summary": "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。",
+      "source": "量子位",
+      "pub_date": "Wed, 16 Sep 2026 08:51:02 +0000",
+      "fetched_at": "2026-09-16T20:00:04.111815",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。",
+      "keywords": [
+        "ai",
+        "大模型工场",
+        "产业生态大会今日举办",
+        "大咖同台共探智能生长与产业共生",
+        "大模型工场主办的"
       ],
       "importance": 0
     },
@@ -489,7 +508,7 @@
       "summary": "NVIDIA 宣布将于 2026 年 10 月 15—16 日在苏州举办中国开发者日。日程分为两日：首日为动手实践日，包含 2026 黑客松总决赛路演、全天实战培训及实训营，同时开放四门 Associate 级别认证现场考试；次日为主论坛，设 LLM、AI 模型与运行时、物理AI/机器人、AI基础设施四个分论坛，并举行黑客松颁奖典礼。 值得注意的细节：认证考试可在现场完成，对希望获得 NVIDIA 官方技术背书但不愿单独约考的开发者有一定吸引力。活动偏向实战而非产品宣讲，适合关注推理优化、训练基础设施和机器人方向的工程师。注册已开放，名额限制未公布，建议提早。 https://www.nvid...",
       "source": "Solidot",
       "pub_date": "Tue, 15 Sep 2026 14:44:22 +0800",
-      "fetched_at": "2026-09-16T12:00:04.801142",
+      "fetched_at": "2026-09-16T20:00:03.608943",
       "categories": [
         "ai",
         "robotics"
@@ -510,7 +529,7 @@
       "summary": "美国空军部长 Troy Meink 周一在 Air and Space Forces Association 的《Air, Space & Cyber Conference》会议上首次公开宣传，美国已在轨道上部署了太空控制武器。他没有披露太空武器的任何细节，但披露其存在这一事实，凸显了五角大楼在轨道战思维上的重大转变——直到几年前，还没有任何美国军方高级官员愿意公开讨论这一话题。如今军方官员已开始公开讨论轨道作战、卫星防御性反制措施，以及一种旨在瘫痪敌方在轨卫星的新型陆基武器。Meink 也未说明这些太空武器是何时部署的。",
       "source": "Solidot",
       "pub_date": "Tue, 15 Sep 2026 16:07:55 +0800",
-      "fetched_at": "2026-09-16T12:00:04.799976",
+      "fetched_at": "2026-09-16T20:00:03.608143",
       "categories": [
         "ai",
         "space"
@@ -531,7 +550,7 @@
       "summary": "Yusuf Gundogdu 写道：LibreDB Studio 是一个 MIT 协议的 SQL 客户端，不装在本地而是跑在服务器上，浏览器打开就能用，一条 docker run 就起来。16 个驱动覆盖 42 种数据库，PostgreSQL、MySQL、MongoDB、Redis、ClickHouse 这些都在内。9 月 8 日发布了 0.15.0 版本。我觉得值得一提的是他们把 AI 那部分做了实测：28 个模型跑同一套六项数据库任务，27 个通过 Ollama 完全在本地运行，最快的 qwen2.5:7b 只有 4.7 GB，一次完整运行中位数 6 秒，最小的 2.5 GB。数据逐个模型...",
       "source": "Solidot",
       "pub_date": "Tue, 15 Sep 2026 16:43:13 +0800",
-      "fetched_at": "2026-09-16T12:00:04.799721",
+      "fetched_at": "2026-09-16T20:00:03.607906",
       "categories": [
         "ai"
       ],
@@ -551,7 +570,7 @@
       "summary": "今天有无数开发者在 LLM 帮助下编写程序，其中包括了开源开发者。那么 Android FOSS 应用商店 F-Droid 中 AI 辅助开发应用的比例有多高？一位 FOSS 维护者对 9 月 12 日 F-Droid 推送更新的 102 款应用及其代码库进行了分析，发现其中 74 款应用（72.5%）主要是 AI 编写的，10 款应用难以明确归类（9.8%）， 18 款应用几乎没有 AI 参与的迹象（17.6%）。有 4 个托管在 Codeberg 上的应用主要是 AI 编写的，而 Codeberg 最近宣布了 AI 政策，禁止了此类 AI 应用，但要清除此类应用显然需要更多时间。",
       "source": "Solidot",
       "pub_date": "Tue, 15 Sep 2026 20:45:43 +0800",
-      "fetched_at": "2026-09-16T12:00:04.799184",
+      "fetched_at": "2026-09-16T20:00:03.607404",
       "categories": [
         "ai"
       ],
@@ -564,7 +583,67 @@
         "codeberg"
       ],
       "importance": 0
+    },
+    {
+      "title": "时光机器遭遇大规模机器流量",
+      "link": "https://www.solidot.org/story?sid=85392",
+      "summary": "互联网档案馆披露，它的时光机器（Wayback Machine）服务遭遇了大规模机器流量的持续攻击，因此不得不采取防护措施，导致正常用户在访问该服务时可能会遇到“429 错误”——代表请求过多的 HTTP 状态码。如果用户被误伤，它对此表示歉意，称正努力区分机器流量和正常用户流量。时光机器备份了互联网内容的历史存档，很多内容除了时光机器可能在其它地方都找不到了。时光机器是重要的知识库，因此也是 AI 公司和互联网公司网络爬虫重要的抓取目标。",
+      "source": "Solidot",
+      "pub_date": "Wed, 16 Sep 2026 16:32:47 +0800",
+      "fetched_at": "2026-09-16T20:00:03.605733",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "互联网档案馆披露，它的时光机器（Wayback Machine）服务遭遇了大规模机器流量的持续攻击，因此不得不采取防护措施，导致正常用户在访问该服务时可能会遇到“429 错误”——代表请求过多的 HTTP 状态码。如果用户被误伤，它对此表示歉意，称正努力区分机器流量和正常用户流量。时光机器备份了互联...",
+      "keywords": [
+        "时光机器遭遇大规模机器流量",
+        "互联网档案馆披露",
+        "它的时光机器",
+        "wayback",
+        "machine"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Mozilla 报告称中国开放权重模型与美国前沿模型仅相差 4.4 个月",
+      "link": "https://www.solidot.org/story?sid=85394",
+      "summary": "Mozilla 发表《State of Open Source AI》报告，称美国科技公司的前沿 AI 模型性能仅领先中国公司最优秀的开放权重模型 4.4 个月。由于前沿模型价格更昂贵，很多公司都将开放权重模型用于处理日常工作，将前沿模型用于处理特定工作负荷。美国闭源前沿模型优势主要在于专家级专业工作、高强度检索以及长上下文。 配送公司 DoorDash 将月之暗面的 Kimi 模型用于处理日常工作，将 Anthropic 的闭源模型 Fable 用于更复杂的任务。前沿模型完成一项任务的成本经常达到了最先进开放权重模型的五倍。",
+      "source": "Solidot",
+      "pub_date": "Wed, 16 Sep 2026 18:30:50 +0800",
+      "fetched_at": "2026-09-16T20:00:03.605263",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Mozilla 发表《State of Open Source AI》报告，称美国科技公司的前沿 AI 模型性能仅领先中国公司最优秀的开放权重模型 4.4 个月。由于前沿模型价格更昂贵，很多公司都将开放权重模型用于处理日常工作，将前沿模型用于处理特定工作负荷。美国闭源前沿模型优势主要在于专家级专业工...",
+      "keywords": [
+        "mozilla",
+        "个月",
+        "ai",
+        "报告称中国开放权重模型与美国前沿模型仅相差",
+        "发表"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Mistral 与 Mozilla 合作推出 Firefox Smart Window",
+      "link": "https://www.solidot.org/story?sid=85395",
+      "summary": "法国 AI 公司 Mistral 与 Mozilla 合作推出注重隐私保护的 AI 浏览助手 Firefox Smart Window(beta)。Smart Window 使用了 Mistral 的开放权重模型，能帮助用户梳理复杂搜索，记住浏览过的重要信息，根据当前标签页查找关键信息，目前主要为法国和北美用户提供服务，今年晚些时候会扩大到英国和德国用户。Smart Window 的对话内容默认不会存储在 Mozilla 的服务器上，Mistral 等合作伙伴也承诺不保留任何数据。",
+      "source": "Solidot",
+      "pub_date": "Wed, 16 Sep 2026 18:53:58 +0800",
+      "fetched_at": "2026-09-16T20:00:03.605008",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "法国 AI 公司 Mistral 与 Mozilla 合作推出注重隐私保护的 AI 浏览助手 Firefox Smart Window(beta)。Smart Window 使用了 Mistral 的开放权重模型，能帮助用户梳理复杂搜索，记住浏览过的重要信息，根据当前标签页查找关键信息，目前主要为法...",
+      "keywords": [
+        "mistral",
+        "smart",
+        "window",
+        "mozilla",
+        "firefox"
+      ],
+      "importance": 0
     }
   ],
-  "updated_at": "2026-09-16T12:00:27.770523"
+  "updated_at": "2026-09-16T20:00:40.804986"
 }

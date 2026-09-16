@@ -5,47 +5,67 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-09-15T20:00:37.159918",
-    "total_items": 20
+    "last_update": "2026-09-16T08:00:33.897673",
+    "total_items": 19
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 17
+      "count": 18
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 4
+      "count": 2
     },
     "space": {
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 0
+      "count": 1
     }
   },
   "stats": {
-    "total_items": 20,
-    "today_items": 20,
+    "total_items": 19,
+    "today_items": 19,
     "sources": {
+      "HackerNews": 5,
       "Solidot": 7,
-      "量子位": 9,
-      "HackerNews": 4
+      "量子位": 7
     },
-    "last_update": "2026-09-15T20:00:37.159918"
+    "last_update": "2026-09-16T08:00:33.897673"
   },
   "trending": [
+    {
+      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+      "link": "https://www.effort.news/irregular",
+      "summary": "👍 425 | 💬 144",
+      "source": "HackerNews",
+      "pub_date": "2026-09-15T05:15:01",
+      "fetched_at": "2026-09-16T08:00:32.729141",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 425 | 💬 144",
+      "keywords": [
+        "single",
+        "firm",
+        "is",
+        "behind",
+        "openai"
+      ],
+      "importance": 1.5
+    },
     {
       "title": "AI 时代隐晦式安全已死",
       "link": "https://www.solidot.org/story?sid=85370",
       "summary": "安全工程领域有一种名为隐晦式安全（Security through obscurity）的设计方式，即只要网络和系统的架构以及任何漏洞或弱点保密或不为人知，它们就是安全的。但在 AI 辅助 bug 发现的时代，这种设计方式过时了。软件供应商和独立研究人员正利用 AI 智能体在各种产品和开源代码中搜寻漏洞——其中一些漏洞极其隐蔽且存在已久。这导致安全漏洞披露和补丁发布数量创下历史新高，同时也给项目维护者带来了巨大的积压事项。微软上周二释出例行安全更新，修复了 974 个 CVE 漏洞。趋势科技的 Dustin Child 指出，微软和 Adob​​e 所修复漏洞涉及的组件多年来基本无人问津，如 ...",
       "source": "Solidot",
       "pub_date": "Mon, 14 Sep 2026 16:27:40 +0800",
-      "fetched_at": "2026-09-15T20:00:04.853693",
+      "fetched_at": "2026-09-16T08:00:12.096209",
       "categories": [
         "ai"
       ],
@@ -65,7 +85,7 @@
       "summary": "Yusuf Gundogdu 写道：LibreDB Studio 是一个 MIT 协议的 SQL 客户端，不装在本地而是跑在服务器上，浏览器打开就能用，一条 docker run 就起来。16 个驱动覆盖 42 种数据库，PostgreSQL、MySQL、MongoDB、Redis、ClickHouse 这些都在内。9 月 8 日发布了 0.15.0 版本。我觉得值得一提的是他们把 AI 那部分做了实测：28 个模型跑同一套六项数据库任务，27 个通过 Ollama 完全在本地运行，最快的 qwen2.5:7b 只有 4.7 GB，一次完整运行中位数 6 秒，最小的 2.5 GB。数据逐个模型...",
       "source": "Solidot",
       "pub_date": "Tue, 15 Sep 2026 16:43:13 +0800",
-      "fetched_at": "2026-09-15T20:00:04.850543",
+      "fetched_at": "2026-09-16T08:00:12.092871",
       "categories": [
         "ai"
       ],
@@ -85,7 +105,7 @@
       "summary": "NVIDIA 宣布将于 2026 年 10 月 15—16 日在苏州举办中国开发者日。日程分为两日：首日为动手实践日，包含 2026 黑客松总决赛路演、全天实战培训及实训营，同时开放四门 Associate 级别认证现场考试；次日为主论坛，设 LLM、AI 模型与运行时、物理AI/机器人、AI基础设施四个分论坛，并举行黑客松颁奖典礼。 值得注意的细节：认证考试可在现场完成，对希望获得 NVIDIA 官方技术背书但不愿单独约考的开发者有一定吸引力。活动偏向实战而非产品宣讲，适合关注推理优化、训练基础设施和机器人方向的工程师。注册已开放，名额限制未公布，建议提早。 https://www.nvid...",
       "source": "Solidot",
       "pub_date": "Tue, 15 Sep 2026 14:44:22 +0800",
-      "fetched_at": "2026-09-15T20:00:04.851457",
+      "fetched_at": "2026-09-16T08:00:12.093968",
       "categories": [
         "ai",
         "robotics"
@@ -106,7 +126,7 @@
       "summary": "微信在中国几乎已成为国家基础设施的一部分，融入了日常通信、政府服务和数字支付之中。正因如此加州一个小型研究团队最近的发现——一种利用人工智能构建的工具可以在短短几个小时内攻破数以百万计的账户——让专家和分析人士感到震惊。这证明，有了人工智能，即使是没有政府背景的小型团队也能对一款每月有 14 亿人使用的应用程序发起毁灭性的攻击。“从破坏力的角度来讲这个是非常强的，”上海复旦大学美国研究中心副主任赵明昊说。他表示，鉴于微信对中国公众的重要性及其庞大的用户群，搞垮这样一款应用程序的能力相当于“一种新的核武器”。这一发现进一步印证了研究人员的警告：人工智能黑客能力的发展速度超过了防御手段的跟进速度。...",
       "source": "Solidot",
       "pub_date": "Mon, 14 Sep 2026 15:39:45 +0800",
-      "fetched_at": "2026-09-15T20:00:04.853920",
+      "fetched_at": "2026-09-16T08:00:12.096431",
       "categories": [
         "ai"
       ],
@@ -121,52 +141,12 @@
       "importance": 0.5
     },
     {
-      "title": "宇树如何将机器狗的价格降至 2000 美元",
-      "link": "https://www.solidot.org/story?sid=85366",
-      "summary": "宇树的机器狗除了做些花哨动作外可能用处不大，但它拥有一个巨大的优势：价格极其平民。George Mason 大学的机器人专家 Xuesu Xiao 教授称，十年前只有少数团队从事四足机器人的运动控制研究，因为只有这些团队能制造四足机器人，宇树进入市场之后推动了四足机器人运动控制研究的普及化。他的实验室里有四台宇树的四足机器人，每台售价约 1.5 万美元，以及一台波士顿动力的四足机器人 Spot，起售价 7.5 万美元。波士顿动力原本是这一领域的领导者，它在 2016 年 6 月发布了电动版的四足机器人 Spot，但直到 2020 年才上市销售。而宇树创始人王兴兴在 2016 年创办公司之后第二...",
-      "source": "Solidot",
-      "pub_date": "Sun, 13 Sep 2026 23:23:42 +0800",
-      "fetched_at": "2026-09-15T20:00:04.854668",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "宇树的机器狗除了做些花哨动作外可能用处不大，但它拥有一个巨大的优势：价格极其平民。George Mason 大学的机器人专家 Xuesu Xiao 教授称，十年前只有少数团队从事四足机器人的运动控制研究，因为只有这些团队能制造四足机器人，宇树进入市场之后推动了四足机器人运动控制研究的普及化。他的实验...",
-      "keywords": [
-        "万美元",
-        "spot",
-        "宇树如何将机器狗的价格降至",
-        "美元",
-        "宇树的机器狗除了做些花哨动作外可能用处不大"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "Matt Mullenweg 据报道恢复了对 Automattic 的控制",
-      "link": "https://www.solidot.org/story?sid=85365",
-      "summary": "被董事会强制休假的 Matt Mullenweg 称恢复了 Automattic CEO 的职务。Automattic 可能发生了类似 OpenAI 的小型“未遂政变”。Automattic 旗下包括 Wordpress.com、Tumblr 和 Beeper 等业务。本周早些时候 Mullenweg 通过公司 Slack 频道指责首席财务官 Mark Davies 与董事会串通，董事会投票决定由 Davies 担任临时 CEO。两天后，Mullenweg 称董事会已重新达成一致，他本人恢复了对 Automattic 控制。而 Davies 的 Slack 账户则被停用了，Automattic...",
-      "source": "Solidot",
-      "pub_date": "Sun, 13 Sep 2026 22:20:20 +0800",
-      "fetched_at": "2026-09-15T20:00:04.854924",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "被董事会强制休假的 Matt Mullenweg 称恢复了 Automattic CEO 的职务。Automattic 可能发生了类似 OpenAI 的小型“未遂政变”。Automattic 旗下包括 Wordpress.com、Tumblr 和 Beeper 等业务。本周早些时候 Mullenwe...",
-      "keywords": [
-        "automattic",
-        "mullenweg",
-        "davies",
-        "matt",
-        "ceo"
-      ],
-      "importance": 0.5
-    },
-    {
       "title": "全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型",
       "link": "https://www.qbitai.com/2026/09/489389.html",
       "summary": "智象未来（HiDream.ai）正式发布首个原生全模态视频生成模型 HiDream-O1-Video-1.0",
       "source": "量子位",
       "pub_date": "Tue, 15 Sep 2026 10:41:06 +0000",
-      "fetched_at": "2026-09-15T20:00:05.208243",
+      "fetched_at": "2026-09-16T08:00:12.495006",
       "categories": [
         "ai"
       ],
@@ -186,7 +166,7 @@
       "summary": "未来的AI不仅能解决问题，还能提出有价值的洞见、建立新的概念框架，让数学家在此基础上继续探索。",
       "source": "量子位",
       "pub_date": "Tue, 15 Sep 2026 05:39:10 +0000",
-      "fetched_at": "2026-09-15T20:00:05.208437",
+      "fetched_at": "2026-09-16T08:00:12.495375",
       "categories": [
         "ai"
       ],
@@ -201,24 +181,45 @@
       "importance": 0.5
     },
     {
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "summary": "👍 473 | 💬 384",
-      "source": "HackerNews",
-      "pub_date": "2026-09-14T20:40:57",
-      "fetched_at": "2026-09-15T20:00:28.997959",
+      "title": "F-Droid 上的应用有多少是在 AI 帮助下编写的？",
+      "link": "https://www.solidot.org/story?sid=85385",
+      "summary": "今天有无数开发者在 LLM 帮助下编写程序，其中包括了开源开发者。那么 Android FOSS 应用商店 F-Droid 中 AI 辅助开发应用的比例有多高？一位 FOSS 维护者对 9 月 12 日 F-Droid 推送更新的 102 款应用及其代码库进行了分析，发现其中 74 款应用（72.5%）主要是 AI 编写的，10 款应用难以明确归类（9.8%）， 18 款应用几乎没有 AI 参与的迹象（17.6%）。有 4 个托管在 Codeberg 上的应用主要是 AI 编写的，而 Codeberg 最近宣布了 AI 政策，禁止了此类 AI 应用，但要清除此类应用显然需要更多时间。",
+      "source": "Solidot",
+      "pub_date": "Tue, 15 Sep 2026 20:45:43 +0800",
+      "fetched_at": "2026-09-16T08:00:12.092141",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 473 | 💬 384",
+      "ai_summary": "今天有无数开发者在 LLM 帮助下编写程序，其中包括了开源开发者。那么 Android FOSS 应用商店 F-Droid 中 AI 辅助开发应用的比例有多高？一位 FOSS 维护者对 9 月 12 日 F-Droid 推送更新的 102 款应用及其代码库进行了分析，发现其中 74 款应用（72.5...",
       "keywords": [
-        "openai",
-        "bots",
-        "knew",
-        "about",
-        "the"
+        "ai",
+        "droid",
+        "foss",
+        "编写的",
+        "codeberg"
       ],
-      "importance": 0.5
+      "importance": 0
+    },
+    {
+      "title": "美国军方首次证实在太空部署了武器",
+      "link": "https://www.solidot.org/story?sid=85382",
+      "summary": "美国空军部长 Troy Meink 周一在 Air and Space Forces Association 的《Air, Space & Cyber Conference》会议上首次公开宣传，美国已在轨道上部署了太空控制武器。他没有披露太空武器的任何细节，但披露其存在这一事实，凸显了五角大楼在轨道战思维上的重大转变——直到几年前，还没有任何美国军方高级官员愿意公开讨论这一话题。如今军方官员已开始公开讨论轨道作战、卫星防御性反制措施，以及一种旨在瘫痪敌方在轨卫星的新型陆基武器。Meink 也未说明这些太空武器是何时部署的。",
+      "source": "Solidot",
+      "pub_date": "Tue, 15 Sep 2026 16:07:55 +0800",
+      "fetched_at": "2026-09-16T08:00:12.093140",
+      "categories": [
+        "ai",
+        "space"
+      ],
+      "ai_summary": "美国空军部长 Troy Meink 周一在 Air and Space Forces Association 的《Air, Space & Cyber Conference》会议上首次公开宣传，美国已在轨道上部署了太空控制武器。他没有披露太空武器的任何细节，但披露其存在这一事实，凸显了五角大楼在轨道...",
+      "keywords": [
+        "meink",
+        "air",
+        "space",
+        "美国军方首次证实在太空部署了武器",
+        "美国空军部长"
+      ],
+      "importance": 0
     },
     {
       "title": "律师在谋杀案中捏造了证词，他将此归咎于 ChatGPT",
@@ -226,7 +227,7 @@
       "summary": "律师在法律文件中使用 AI 工具捏造不存在的信息不是什么大新闻，AI 捏造的通常是不存在的案例，然而本案的特殊之处在于 AI 捏造了证词。律师 Stephen Aaron 在一起谋杀案中代表其客户提起上诉，在递交的法律文件中包含了捏造的警方证词以及虚构的证人。Aaron 声称他将一份由计算机生成的庭审记录及其它案卷材料输入了 ChatGPT，想当然地认为它会生成一份“无懈可击的摘要”。他不清楚 AI 工具会产生“幻觉”——即虚构信息。 法官对此难以置信，反问他没看新闻吗？法官对他处以 5000 美元罚款，将把他移交至律师纪律委员会进行调查。",
       "source": "Solidot",
       "pub_date": "Mon, 14 Sep 2026 18:35:37 +0800",
-      "fetched_at": "2026-09-15T20:00:04.853184",
+      "fetched_at": "2026-09-16T08:00:12.095728",
       "categories": [
         "ai"
       ],
@@ -243,76 +244,36 @@
   ],
   "latest": [
     {
-      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-      "link": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-      "summary": "👍 130 | 💬 28",
+      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+      "link": "https://www.effort.news/irregular",
+      "summary": "👍 425 | 💬 144",
       "source": "HackerNews",
-      "pub_date": "2026-09-14T22:29:23",
-      "fetched_at": "2026-09-15T20:00:32.624326",
+      "pub_date": "2026-09-15T05:15:01",
+      "fetched_at": "2026-09-16T08:00:32.729141",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 130 | 💬 28",
+      "ai_summary": "👍 425 | 💬 144",
       "keywords": [
-        "dropping",
-        "ebpf",
-        "cpu",
-        "cost",
-        "by"
+        "single",
+        "firm",
+        "is",
+        "behind",
+        "openai"
       ],
-      "importance": 0
-    },
-    {
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "summary": "👍 473 | 💬 384",
-      "source": "HackerNews",
-      "pub_date": "2026-09-14T20:40:57",
-      "fetched_at": "2026-09-15T20:00:28.997959",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 473 | 💬 384",
-      "keywords": [
-        "openai",
-        "bots",
-        "knew",
-        "about",
-        "the"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "How much of F-Droid is LLM generated?",
-      "link": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-      "summary": "👍 66 | 💬 59",
-      "source": "HackerNews",
-      "pub_date": "2026-09-15T17:47:48",
-      "fetched_at": "2026-09-15T20:00:24.744562",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 66 | 💬 59",
-      "keywords": [
-        "how",
-        "much",
-        "of",
-        "droid",
-        "is"
-      ],
-      "importance": 0
+      "importance": 1.5
     },
     {
       "title": "Suspected sabotage causes major Netherlands rail disruption",
       "link": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
-      "summary": "👍 153 | 💬 120",
+      "summary": "👍 415 | 💬 385",
       "source": "HackerNews",
       "pub_date": "2026-09-15T18:22:46",
-      "fetched_at": "2026-09-15T20:00:07.992622",
+      "fetched_at": "2026-09-16T08:00:31.743817",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 153 | 💬 120",
+      "ai_summary": "👍 415 | 💬 385",
       "keywords": [
         "suspected",
         "sabotage",
@@ -323,80 +284,62 @@
       "importance": 0
     },
     {
-      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
-      "link": "https://www.qbitai.com/2026/09/489037.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Mon, 14 Sep 2026 09:36:28 +0000",
-      "fetched_at": "2026-09-15T20:00:05.208756",
+      "title": "Let's make quality the norm again",
+      "link": "https://www.forbrukerradet.no/short-life/",
+      "summary": "👍 285 | 💬 296",
+      "source": "HackerNews",
+      "pub_date": "2026-09-15T18:00:16",
+      "fetched_at": "2026-09-16T08:00:29.792060",
       "categories": [
-        "robotics"
+        "ai"
       ],
-      "ai_summary": "",
+      "ai_summary": "👍 285 | 💬 296",
       "keywords": [
-        "探索",
-        "rsi",
-        "生数新世界模型让机器人开始自我进化"
+        "let",
+        "make",
+        "quality",
+        "the",
+        "norm"
       ],
       "importance": 0
     },
     {
-      "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
-      "link": "https://www.qbitai.com/2026/09/489106.html",
-      "summary": "业界首个5A算电协同认证",
-      "source": "量子位",
-      "pub_date": "Mon, 14 Sep 2026 09:46:40 +0000",
-      "fetched_at": "2026-09-15T20:00:05.208746",
+      "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+      "link": "https://mnoukhov.github.io/posts/ngu/",
+      "summary": "👍 23 | 💬 0",
+      "source": "HackerNews",
+      "pub_date": "2026-09-16T03:07:38",
+      "fetched_at": "2026-09-16T08:00:25.822929",
       "categories": [
         "ai"
       ],
-      "ai_summary": "业界首个5A算电协同认证",
+      "ai_summary": "👍 23 | 💬 0",
       "keywords": [
-        "全国唯一",
-        "商汤大装置临港",
-        "aidc",
-        "算效",
-        "算电"
+        "learning",
+        "to",
+        "solve",
+        "hard",
+        "problems"
       ],
       "importance": 0
     },
     {
-      "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
-      "link": "https://www.qbitai.com/2026/09/489105.html",
-      "summary": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区",
-      "source": "量子位",
-      "pub_date": "Mon, 14 Sep 2026 09:47:07 +0000",
-      "fetched_at": "2026-09-15T20:00:05.208675",
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "link": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "summary": "👍 91 | 💬 50",
+      "source": "HackerNews",
+      "pub_date": "2026-09-16T01:37:12",
+      "fetched_at": "2026-09-16T08:00:22.876420",
       "categories": [
         "ai"
       ],
-      "ai_summary": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区",
+      "ai_summary": "👍 91 | 💬 50",
       "keywords": [
-        "首届蚂蚁灵波具身大模型挑战赛正式启动",
-        "通过这场大赛",
-        "蚂蚁灵波希望将",
-        "lingbot",
-        "vla"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开",
-      "link": "https://www.qbitai.com/2026/09/489227.html",
-      "summary": "几百个Agent参与研发，AI开始造AI",
-      "source": "量子位",
-      "pub_date": "Tue, 15 Sep 2026 02:17:34 +0000",
-      "fetched_at": "2026-09-15T20:00:05.208596",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "几百个Agent参与研发，AI开始造AI",
-      "keywords": [
-        "ai",
-        "名博士生仅用",
-        "个月从零训练",
-        "大模型",
-        "代码"
+        "why",
+        "still",
+        "bearish",
+        "on",
+        "llms"
       ],
       "importance": 0
     },
@@ -406,7 +349,7 @@
       "summary": "西门子Xcelerator繁星生态大会，在生态合作中共赢机遇",
       "source": "量子位",
       "pub_date": "Tue, 15 Sep 2026 05:20:30 +0000",
-      "fetched_at": "2026-09-15T20:00:05.208513",
+      "fetched_at": "2026-09-16T08:00:12.495497",
       "categories": [
         "ai"
       ],
@@ -426,7 +369,7 @@
       "summary": "未来的AI不仅能解决问题，还能提出有价值的洞见、建立新的概念框架，让数学家在此基础上继续探索。",
       "source": "量子位",
       "pub_date": "Tue, 15 Sep 2026 05:39:10 +0000",
-      "fetched_at": "2026-09-15T20:00:05.208437",
+      "fetched_at": "2026-09-16T08:00:12.495375",
       "categories": [
         "ai"
       ],
@@ -441,12 +384,32 @@
       "importance": 0.5
     },
     {
+      "title": "首个AIGC长片大赛！RunningHub单项大奖100万，科幻IP免费改编",
+      "link": "https://www.qbitai.com/2026/09/489260.html",
+      "summary": "刘慈欣督战",
+      "source": "量子位",
+      "pub_date": "Tue, 15 Sep 2026 07:48:48 +0000",
+      "fetched_at": "2026-09-16T08:00:12.495248",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "刘慈欣督战",
+      "keywords": [
+        "首个",
+        "aigc",
+        "长片大赛",
+        "runninghub",
+        "单项大奖"
+      ],
+      "importance": 0
+    },
+    {
       "title": "一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影",
       "link": "https://www.qbitai.com/2026/09/489381.html",
       "summary": "打破分子模拟“不可能三角”",
       "source": "量子位",
       "pub_date": "Tue, 15 Sep 2026 09:58:00 +0000",
-      "fetched_at": "2026-09-15T20:00:05.208348",
+      "fetched_at": "2026-09-16T08:00:12.495121",
       "categories": [
         "ai"
       ],
@@ -466,7 +429,7 @@
       "summary": "智象未来（HiDream.ai）正式发布首个原生全模态视频生成模型 HiDream-O1-Video-1.0",
       "source": "量子位",
       "pub_date": "Tue, 15 Sep 2026 10:41:06 +0000",
-      "fetched_at": "2026-09-15T20:00:05.208243",
+      "fetched_at": "2026-09-16T08:00:12.495006",
       "categories": [
         "ai"
       ],
@@ -486,7 +449,7 @@
       "summary": "卡位具身智能规模化落地“最后一公里”！",
       "source": "量子位",
       "pub_date": "Tue, 15 Sep 2026 10:43:28 +0000",
-      "fetched_at": "2026-09-15T20:00:05.208139",
+      "fetched_at": "2026-09-16T08:00:12.494881",
       "categories": [
         "robotics"
       ],
@@ -501,44 +464,24 @@
       "importance": 0
     },
     {
-      "title": "Matt Mullenweg 据报道恢复了对 Automattic 的控制",
-      "link": "https://www.solidot.org/story?sid=85365",
-      "summary": "被董事会强制休假的 Matt Mullenweg 称恢复了 Automattic CEO 的职务。Automattic 可能发生了类似 OpenAI 的小型“未遂政变”。Automattic 旗下包括 Wordpress.com、Tumblr 和 Beeper 等业务。本周早些时候 Mullenweg 通过公司 Slack 频道指责首席财务官 Mark Davies 与董事会串通，董事会投票决定由 Davies 担任临时 CEO。两天后，Mullenweg 称董事会已重新达成一致，他本人恢复了对 Automattic 控制。而 Davies 的 Slack 账户则被停用了，Automattic...",
-      "source": "Solidot",
-      "pub_date": "Sun, 13 Sep 2026 22:20:20 +0800",
-      "fetched_at": "2026-09-15T20:00:04.854924",
+      "title": "手机替我跑了一整套流程！我就说了一句话，AI执行了100步",
+      "link": "https://www.qbitai.com/2026/09/489466.html",
+      "summary": "一句话，YOYO全面接管我的生活",
+      "source": "量子位",
+      "pub_date": "Tue, 15 Sep 2026 12:47:16 +0000",
+      "fetched_at": "2026-09-16T08:00:12.494745",
       "categories": [
         "ai"
       ],
-      "ai_summary": "被董事会强制休假的 Matt Mullenweg 称恢复了 Automattic CEO 的职务。Automattic 可能发生了类似 OpenAI 的小型“未遂政变”。Automattic 旗下包括 Wordpress.com、Tumblr 和 Beeper 等业务。本周早些时候 Mullenwe...",
+      "ai_summary": "一句话，YOYO全面接管我的生活",
       "keywords": [
-        "automattic",
-        "mullenweg",
-        "davies",
-        "matt",
-        "ceo"
+        "手机替我跑了一整套流程",
+        "我就说了一句话",
+        "ai",
+        "执行了",
+        "一句话"
       ],
-      "importance": 0.5
-    },
-    {
-      "title": "宇树如何将机器狗的价格降至 2000 美元",
-      "link": "https://www.solidot.org/story?sid=85366",
-      "summary": "宇树的机器狗除了做些花哨动作外可能用处不大，但它拥有一个巨大的优势：价格极其平民。George Mason 大学的机器人专家 Xuesu Xiao 教授称，十年前只有少数团队从事四足机器人的运动控制研究，因为只有这些团队能制造四足机器人，宇树进入市场之后推动了四足机器人运动控制研究的普及化。他的实验室里有四台宇树的四足机器人，每台售价约 1.5 万美元，以及一台波士顿动力的四足机器人 Spot，起售价 7.5 万美元。波士顿动力原本是这一领域的领导者，它在 2016 年 6 月发布了电动版的四足机器人 Spot，但直到 2020 年才上市销售。而宇树创始人王兴兴在 2016 年创办公司之后第二...",
-      "source": "Solidot",
-      "pub_date": "Sun, 13 Sep 2026 23:23:42 +0800",
-      "fetched_at": "2026-09-15T20:00:04.854668",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "宇树的机器狗除了做些花哨动作外可能用处不大，但它拥有一个巨大的优势：价格极其平民。George Mason 大学的机器人专家 Xuesu Xiao 教授称，十年前只有少数团队从事四足机器人的运动控制研究，因为只有这些团队能制造四足机器人，宇树进入市场之后推动了四足机器人运动控制研究的普及化。他的实验...",
-      "keywords": [
-        "万美元",
-        "spot",
-        "宇树如何将机器狗的价格降至",
-        "美元",
-        "宇树的机器狗除了做些花哨动作外可能用处不大"
-      ],
-      "importance": 0.5
+      "importance": 0
     },
     {
       "title": "微信蠕虫事件敲响 AI 安全警钟",
@@ -546,7 +489,7 @@
       "summary": "微信在中国几乎已成为国家基础设施的一部分，融入了日常通信、政府服务和数字支付之中。正因如此加州一个小型研究团队最近的发现——一种利用人工智能构建的工具可以在短短几个小时内攻破数以百万计的账户——让专家和分析人士感到震惊。这证明，有了人工智能，即使是没有政府背景的小型团队也能对一款每月有 14 亿人使用的应用程序发起毁灭性的攻击。“从破坏力的角度来讲这个是非常强的，”上海复旦大学美国研究中心副主任赵明昊说。他表示，鉴于微信对中国公众的重要性及其庞大的用户群，搞垮这样一款应用程序的能力相当于“一种新的核武器”。这一发现进一步印证了研究人员的警告：人工智能黑客能力的发展速度超过了防御手段的跟进速度。...",
       "source": "Solidot",
       "pub_date": "Mon, 14 Sep 2026 15:39:45 +0800",
-      "fetched_at": "2026-09-15T20:00:04.853920",
+      "fetched_at": "2026-09-16T08:00:12.096431",
       "categories": [
         "ai"
       ],
@@ -566,7 +509,7 @@
       "summary": "安全工程领域有一种名为隐晦式安全（Security through obscurity）的设计方式，即只要网络和系统的架构以及任何漏洞或弱点保密或不为人知，它们就是安全的。但在 AI 辅助 bug 发现的时代，这种设计方式过时了。软件供应商和独立研究人员正利用 AI 智能体在各种产品和开源代码中搜寻漏洞——其中一些漏洞极其隐蔽且存在已久。这导致安全漏洞披露和补丁发布数量创下历史新高，同时也给项目维护者带来了巨大的积压事项。微软上周二释出例行安全更新，修复了 974 个 CVE 漏洞。趋势科技的 Dustin Child 指出，微软和 Adob​​e 所修复漏洞涉及的组件多年来基本无人问津，如 ...",
       "source": "Solidot",
       "pub_date": "Mon, 14 Sep 2026 16:27:40 +0800",
-      "fetched_at": "2026-09-15T20:00:04.853693",
+      "fetched_at": "2026-09-16T08:00:12.096209",
       "categories": [
         "ai"
       ],
@@ -586,7 +529,7 @@
       "summary": "律师在法律文件中使用 AI 工具捏造不存在的信息不是什么大新闻，AI 捏造的通常是不存在的案例，然而本案的特殊之处在于 AI 捏造了证词。律师 Stephen Aaron 在一起谋杀案中代表其客户提起上诉，在递交的法律文件中包含了捏造的警方证词以及虚构的证人。Aaron 声称他将一份由计算机生成的庭审记录及其它案卷材料输入了 ChatGPT，想当然地认为它会生成一份“无懈可击的摘要”。他不清楚 AI 工具会产生“幻觉”——即虚构信息。 法官对此难以置信，反问他没看新闻吗？法官对他处以 5000 美元罚款，将把他移交至律师纪律委员会进行调查。",
       "source": "Solidot",
       "pub_date": "Mon, 14 Sep 2026 18:35:37 +0800",
-      "fetched_at": "2026-09-15T20:00:04.853184",
+      "fetched_at": "2026-09-16T08:00:12.095728",
       "categories": [
         "ai"
       ],
@@ -606,7 +549,7 @@
       "summary": "NVIDIA 宣布将于 2026 年 10 月 15—16 日在苏州举办中国开发者日。日程分为两日：首日为动手实践日，包含 2026 黑客松总决赛路演、全天实战培训及实训营，同时开放四门 Associate 级别认证现场考试；次日为主论坛，设 LLM、AI 模型与运行时、物理AI/机器人、AI基础设施四个分论坛，并举行黑客松颁奖典礼。 值得注意的细节：认证考试可在现场完成，对希望获得 NVIDIA 官方技术背书但不愿单独约考的开发者有一定吸引力。活动偏向实战而非产品宣讲，适合关注推理优化、训练基础设施和机器人方向的工程师。注册已开放，名额限制未公布，建议提早。 https://www.nvid...",
       "source": "Solidot",
       "pub_date": "Tue, 15 Sep 2026 14:44:22 +0800",
-      "fetched_at": "2026-09-15T20:00:04.851457",
+      "fetched_at": "2026-09-16T08:00:12.093968",
       "categories": [
         "ai",
         "robotics"
@@ -622,12 +565,33 @@
       "importance": 0.5
     },
     {
+      "title": "美国军方首次证实在太空部署了武器",
+      "link": "https://www.solidot.org/story?sid=85382",
+      "summary": "美国空军部长 Troy Meink 周一在 Air and Space Forces Association 的《Air, Space & Cyber Conference》会议上首次公开宣传，美国已在轨道上部署了太空控制武器。他没有披露太空武器的任何细节，但披露其存在这一事实，凸显了五角大楼在轨道战思维上的重大转变——直到几年前，还没有任何美国军方高级官员愿意公开讨论这一话题。如今军方官员已开始公开讨论轨道作战、卫星防御性反制措施，以及一种旨在瘫痪敌方在轨卫星的新型陆基武器。Meink 也未说明这些太空武器是何时部署的。",
+      "source": "Solidot",
+      "pub_date": "Tue, 15 Sep 2026 16:07:55 +0800",
+      "fetched_at": "2026-09-16T08:00:12.093140",
+      "categories": [
+        "ai",
+        "space"
+      ],
+      "ai_summary": "美国空军部长 Troy Meink 周一在 Air and Space Forces Association 的《Air, Space & Cyber Conference》会议上首次公开宣传，美国已在轨道上部署了太空控制武器。他没有披露太空武器的任何细节，但披露其存在这一事实，凸显了五角大楼在轨道...",
+      "keywords": [
+        "meink",
+        "air",
+        "space",
+        "美国军方首次证实在太空部署了武器",
+        "美国空军部长"
+      ],
+      "importance": 0
+    },
+    {
       "title": "一款在浏览器里运行、部署在自己服务器上的 SQL 客户端",
       "link": "https://www.solidot.org/story?sid=85383",
       "summary": "Yusuf Gundogdu 写道：LibreDB Studio 是一个 MIT 协议的 SQL 客户端，不装在本地而是跑在服务器上，浏览器打开就能用，一条 docker run 就起来。16 个驱动覆盖 42 种数据库，PostgreSQL、MySQL、MongoDB、Redis、ClickHouse 这些都在内。9 月 8 日发布了 0.15.0 版本。我觉得值得一提的是他们把 AI 那部分做了实测：28 个模型跑同一套六项数据库任务，27 个通过 Ollama 完全在本地运行，最快的 qwen2.5:7b 只有 4.7 GB，一次完整运行中位数 6 秒，最小的 2.5 GB。数据逐个模型...",
       "source": "Solidot",
       "pub_date": "Tue, 15 Sep 2026 16:43:13 +0800",
-      "fetched_at": "2026-09-15T20:00:04.850543",
+      "fetched_at": "2026-09-16T08:00:12.092871",
       "categories": [
         "ai"
       ],
@@ -640,7 +604,27 @@
         "部署在自己服务器上的"
       ],
       "importance": 0.5
+    },
+    {
+      "title": "F-Droid 上的应用有多少是在 AI 帮助下编写的？",
+      "link": "https://www.solidot.org/story?sid=85385",
+      "summary": "今天有无数开发者在 LLM 帮助下编写程序，其中包括了开源开发者。那么 Android FOSS 应用商店 F-Droid 中 AI 辅助开发应用的比例有多高？一位 FOSS 维护者对 9 月 12 日 F-Droid 推送更新的 102 款应用及其代码库进行了分析，发现其中 74 款应用（72.5%）主要是 AI 编写的，10 款应用难以明确归类（9.8%）， 18 款应用几乎没有 AI 参与的迹象（17.6%）。有 4 个托管在 Codeberg 上的应用主要是 AI 编写的，而 Codeberg 最近宣布了 AI 政策，禁止了此类 AI 应用，但要清除此类应用显然需要更多时间。",
+      "source": "Solidot",
+      "pub_date": "Tue, 15 Sep 2026 20:45:43 +0800",
+      "fetched_at": "2026-09-16T08:00:12.092141",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "今天有无数开发者在 LLM 帮助下编写程序，其中包括了开源开发者。那么 Android FOSS 应用商店 F-Droid 中 AI 辅助开发应用的比例有多高？一位 FOSS 维护者对 9 月 12 日 F-Droid 推送更新的 102 款应用及其代码库进行了分析，发现其中 74 款应用（72.5...",
+      "keywords": [
+        "ai",
+        "droid",
+        "foss",
+        "编写的",
+        "codeberg"
+      ],
+      "importance": 0
     }
   ],
-  "updated_at": "2026-09-15T20:00:37.159918"
+  "updated_at": "2026-09-16T08:00:33.897673"
 }

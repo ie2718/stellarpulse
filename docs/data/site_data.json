@@ -5,645 +5,622 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-09-16T20:00:40.804986",
-    "total_items": 20
+    "last_update": "2026-09-18T20:00:40.189141",
+    "total_items": 19
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 19
+      "count": 15
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 2
+      "count": 0
     },
     "space": {
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 1
+      "count": 4
     }
   },
   "stats": {
-    "total_items": 20,
-    "today_items": 20,
+    "total_items": 19,
+    "today_items": 19,
     "sources": {
       "Solidot": 7,
-      "量子位": 10,
-      "HackerNews": 3
+      "HackerNews": 6,
+      "量子位": 6
     },
-    "last_update": "2026-09-16T20:00:40.804986"
+    "last_update": "2026-09-18T20:00:40.189141"
   },
   "trending": [
     {
-      "title": "Mozilla 报告称中国开放权重模型与美国前沿模型仅相差 4.4 个月",
-      "link": "https://www.solidot.org/story?sid=85394",
-      "summary": "Mozilla 发表《State of Open Source AI》报告，称美国科技公司的前沿 AI 模型性能仅领先中国公司最优秀的开放权重模型 4.4 个月。由于前沿模型价格更昂贵，很多公司都将开放权重模型用于处理日常工作，将前沿模型用于处理特定工作负荷。美国闭源前沿模型优势主要在于专家级专业工作、高强度检索以及长上下文。 配送公司 DoorDash 将月之暗面的 Kimi 模型用于处理日常工作，将 Anthropic 的闭源模型 Fable 用于更复杂的任务。前沿模型完成一项任务的成本经常达到了最先进开放权重模型的五倍。",
+      "title": "Roman 太空望远镜有足够的燃料可服役 22 年",
+      "link": "https://www.solidot.org/story?sid=85409",
+      "summary": "NASA 于 8 月 30 日使用 SpaceX 重型火箭 Falcon Heavy 成功发射了 Nancy Grace Roman 太空望远镜，目前正飞往日地之间的 L2 拉格朗日点，它需要三个月时间才能抵达目的地。Roman 望远镜耗资 43 亿美元，原计划执行 5+5 为期十年的任务，NASA 表示受益于精确的发射、巧妙规划的飞行轨道，地面操作团队的出色执行，望远镜有足够的燃料能执行 22 年的任务。NASA 称，Roman 望远镜控制推进器在发射后的第一次长点火燃烧仅用了 18 公斤的联氨燃料，远低于预留的 200 公斤。望远镜的实际重量为 8,056 公斤，比最大允许重量轻了两吨，因...",
       "source": "Solidot",
-      "pub_date": "Wed, 16 Sep 2026 18:30:50 +0800",
-      "fetched_at": "2026-09-16T20:00:03.605263",
+      "pub_date": "Thu, 17 Sep 2026 22:40:23 +0800",
+      "fetched_at": "2026-09-18T20:00:06.596571",
       "categories": [
-        "ai"
-      ],
-      "ai_summary": "Mozilla 发表《State of Open Source AI》报告，称美国科技公司的前沿 AI 模型性能仅领先中国公司最优秀的开放权重模型 4.4 个月。由于前沿模型价格更昂贵，很多公司都将开放权重模型用于处理日常工作，将前沿模型用于处理特定工作负荷。美国闭源前沿模型优势主要在于专家级专业工...",
-      "keywords": [
-        "mozilla",
-        "个月",
-        "ai",
-        "报告称中国开放权重模型与美国前沿模型仅相差",
-        "发表"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "一款在浏览器里运行、部署在自己服务器上的 SQL 客户端",
-      "link": "https://www.solidot.org/story?sid=85383",
-      "summary": "Yusuf Gundogdu 写道：LibreDB Studio 是一个 MIT 协议的 SQL 客户端，不装在本地而是跑在服务器上，浏览器打开就能用，一条 docker run 就起来。16 个驱动覆盖 42 种数据库，PostgreSQL、MySQL、MongoDB、Redis、ClickHouse 这些都在内。9 月 8 日发布了 0.15.0 版本。我觉得值得一提的是他们把 AI 那部分做了实测：28 个模型跑同一套六项数据库任务，27 个通过 Ollama 完全在本地运行，最快的 qwen2.5:7b 只有 4.7 GB，一次完整运行中位数 6 秒，最小的 2.5 GB。数据逐个模型...",
-      "source": "Solidot",
-      "pub_date": "Tue, 15 Sep 2026 16:43:13 +0800",
-      "fetched_at": "2026-09-16T20:00:03.607906",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Yusuf Gundogdu 写道：LibreDB Studio 是一个 MIT 协议的 SQL 客户端，不装在本地而是跑在服务器上，浏览器打开就能用，一条 docker run 就起来。16 个驱动覆盖 42 种数据库，PostgreSQL、MySQL、MongoDB、Redis、ClickHou...",
-      "keywords": [
-        "sql",
-        "客户端",
-        "gb",
-        "一款在浏览器里运行",
-        "部署在自己服务器上的"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "NVIDIA中国开发者日定档10月苏州，现场设认证考试与黑客松决赛",
-      "link": "https://www.solidot.org/story?sid=85379",
-      "summary": "NVIDIA 宣布将于 2026 年 10 月 15—16 日在苏州举办中国开发者日。日程分为两日：首日为动手实践日，包含 2026 黑客松总决赛路演、全天实战培训及实训营，同时开放四门 Associate 级别认证现场考试；次日为主论坛，设 LLM、AI 模型与运行时、物理AI/机器人、AI基础设施四个分论坛，并举行黑客松颁奖典礼。 值得注意的细节：认证考试可在现场完成，对希望获得 NVIDIA 官方技术背书但不愿单独约考的开发者有一定吸引力。活动偏向实战而非产品宣讲，适合关注推理优化、训练基础设施和机器人方向的工程师。注册已开放，名额限制未公布，建议提早。 https://www.nvid...",
-      "source": "Solidot",
-      "pub_date": "Tue, 15 Sep 2026 14:44:22 +0800",
-      "fetched_at": "2026-09-16T20:00:03.608943",
-      "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "NVIDIA 宣布将于 2026 年 10 月 15—16 日在苏州举办中国开发者日。日程分为两日：首日为动手实践日，包含 2026 黑客松总决赛路演、全天实战培训及实训营，同时开放四门 Associate 级别认证现场考试；次日为主论坛，设 LLM、AI...",
-      "keywords": [
-        "nvidia",
-        "ai",
-        "中国开发者日定档",
-        "月苏州",
-        "现场设认证考试与黑客松决赛"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单",
-      "link": "https://www.qbitai.com/2026/09/490400.html",
-      "summary": "9月16日，稳准智能联合清华大学发布新一代数据大模型 LimiX-2，模型参数规模提升至400M。",
-      "source": "量子位",
-      "pub_date": "Wed, 16 Sep 2026 06:32:31 +0000",
-      "fetched_at": "2026-09-16T20:00:04.112501",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "9月16日，稳准智能联合清华大学发布新一代数据大模型 LimiX-2，模型参数规模提升至400M。",
-      "keywords": [
-        "limix",
-        "清华稳准智能联合发布",
-        "结构化数据基础模型登顶国际评测榜单",
-        "稳准智能联合清华大学发布新一代数据大模型",
-        "模型参数规模提升至"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」",
-      "link": "https://www.qbitai.com/2026/09/490185.html",
-      "summary": "从想法到结果，一次对话实现",
-      "source": "量子位",
-      "pub_date": "Wed, 16 Sep 2026 03:40:35 +0000",
-      "fetched_at": "2026-09-16T20:00:04.112848",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "从想法到结果，一次对话实现",
-      "keywords": [
-        "被英伟达点名的杭州团队",
-        "补上了",
-        "ai",
-        "for",
-        "science"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "Mistral 与 Mozilla 合作推出 Firefox Smart Window",
-      "link": "https://www.solidot.org/story?sid=85395",
-      "summary": "法国 AI 公司 Mistral 与 Mozilla 合作推出注重隐私保护的 AI 浏览助手 Firefox Smart Window(beta)。Smart Window 使用了 Mistral 的开放权重模型，能帮助用户梳理复杂搜索，记住浏览过的重要信息，根据当前标签页查找关键信息，目前主要为法国和北美用户提供服务，今年晚些时候会扩大到英国和德国用户。Smart Window 的对话内容默认不会存储在 Mozilla 的服务器上，Mistral 等合作伙伴也承诺不保留任何数据。",
-      "source": "Solidot",
-      "pub_date": "Wed, 16 Sep 2026 18:53:58 +0800",
-      "fetched_at": "2026-09-16T20:00:03.605008",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "法国 AI 公司 Mistral 与 Mozilla 合作推出注重隐私保护的 AI 浏览助手 Firefox Smart Window(beta)。Smart Window 使用了 Mistral 的开放权重模型，能帮助用户梳理复杂搜索，记住浏览过的重要信息，根据当前标签页查找关键信息，目前主要为法...",
-      "keywords": [
-        "mistral",
-        "smart",
-        "window",
-        "mozilla",
-        "firefox"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "时光机器遭遇大规模机器流量",
-      "link": "https://www.solidot.org/story?sid=85392",
-      "summary": "互联网档案馆披露，它的时光机器（Wayback Machine）服务遭遇了大规模机器流量的持续攻击，因此不得不采取防护措施，导致正常用户在访问该服务时可能会遇到“429 错误”——代表请求过多的 HTTP 状态码。如果用户被误伤，它对此表示歉意，称正努力区分机器流量和正常用户流量。时光机器备份了互联网内容的历史存档，很多内容除了时光机器可能在其它地方都找不到了。时光机器是重要的知识库，因此也是 AI 公司和互联网公司网络爬虫重要的抓取目标。",
-      "source": "Solidot",
-      "pub_date": "Wed, 16 Sep 2026 16:32:47 +0800",
-      "fetched_at": "2026-09-16T20:00:03.605733",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "互联网档案馆披露，它的时光机器（Wayback Machine）服务遭遇了大规模机器流量的持续攻击，因此不得不采取防护措施，导致正常用户在访问该服务时可能会遇到“429 错误”——代表请求过多的 HTTP 状态码。如果用户被误伤，它对此表示歉意，称正努力区分机器流量和正常用户流量。时光机器备份了互联...",
-      "keywords": [
-        "时光机器遭遇大规模机器流量",
-        "互联网档案馆披露",
-        "它的时光机器",
-        "wayback",
-        "machine"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "F-Droid 上的应用有多少是在 AI 帮助下编写的？",
-      "link": "https://www.solidot.org/story?sid=85385",
-      "summary": "今天有无数开发者在 LLM 帮助下编写程序，其中包括了开源开发者。那么 Android FOSS 应用商店 F-Droid 中 AI 辅助开发应用的比例有多高？一位 FOSS 维护者对 9 月 12 日 F-Droid 推送更新的 102 款应用及其代码库进行了分析，发现其中 74 款应用（72.5%）主要是 AI 编写的，10 款应用难以明确归类（9.8%）， 18 款应用几乎没有 AI 参与的迹象（17.6%）。有 4 个托管在 Codeberg 上的应用主要是 AI 编写的，而 Codeberg 最近宣布了 AI 政策，禁止了此类 AI 应用，但要清除此类应用显然需要更多时间。",
-      "source": "Solidot",
-      "pub_date": "Tue, 15 Sep 2026 20:45:43 +0800",
-      "fetched_at": "2026-09-16T20:00:03.607404",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "今天有无数开发者在 LLM 帮助下编写程序，其中包括了开源开发者。那么 Android FOSS 应用商店 F-Droid 中 AI 辅助开发应用的比例有多高？一位 FOSS 维护者对 9 月 12 日 F-Droid 推送更新的 102 款应用及其代码库进行了分析，发现其中 74 款应用（72.5...",
-      "keywords": [
-        "ai",
-        "droid",
-        "foss",
-        "编写的",
-        "codeberg"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "美国军方首次证实在太空部署了武器",
-      "link": "https://www.solidot.org/story?sid=85382",
-      "summary": "美国空军部长 Troy Meink 周一在 Air and Space Forces Association 的《Air, Space & Cyber Conference》会议上首次公开宣传，美国已在轨道上部署了太空控制武器。他没有披露太空武器的任何细节，但披露其存在这一事实，凸显了五角大楼在轨道战思维上的重大转变——直到几年前，还没有任何美国军方高级官员愿意公开讨论这一话题。如今军方官员已开始公开讨论轨道作战、卫星防御性反制措施，以及一种旨在瘫痪敌方在轨卫星的新型陆基武器。Meink 也未说明这些太空武器是何时部署的。",
-      "source": "Solidot",
-      "pub_date": "Tue, 15 Sep 2026 16:07:55 +0800",
-      "fetched_at": "2026-09-16T20:00:03.608143",
-      "categories": [
-        "ai",
         "space"
       ],
-      "ai_summary": "美国空军部长 Troy Meink 周一在 Air and Space Forces Association 的《Air, Space & Cyber Conference》会议上首次公开宣传，美国已在轨道上部署了太空控制武器。他没有披露太空武器的任何细节，但披露其存在这一事实，凸显了五角大楼在轨道...",
+      "ai_summary": "NASA 于 8 月 30 日使用 SpaceX 重型火箭 Falcon Heavy 成功发射了 Nancy Grace Roman 太空望远镜，目前正飞往日地之间的 L2 拉格朗日点，它需要三个月时间才能抵达目的地。Roman 望远镜耗资 43 亿美元，原计划执行 5+5 为期十年的任务，NASA...",
       "keywords": [
-        "meink",
-        "air",
-        "space",
-        "美国军方首次证实在太空部署了武器",
-        "美国空军部长"
+        "roman",
+        "nasa",
+        "公斤",
+        "太空望远镜有足够的燃料可服役",
+        "日使用"
+      ],
+      "importance": 2.0
+    },
+    {
+      "title": "美国政府网站使用了阿里巴巴的千问模型",
+      "link": "https://www.solidot.org/story?sid=85417",
+      "summary": "美国《联邦公报》（Federal Register）网站被发现提供了基于阿里巴巴开放权重模型通义千问（Qwen）的 AI 搜索工具，具体部署时间未知，在被社媒用户注意到之后该工具于周三下线。此前 FBI 曾指控阿里巴巴蒸馏了 Anthropic 的模型。AI 专家表示，在《联邦公报》网站上使用中国 AI 工具未必会构成国家安全风险，但这引发了质疑：联邦政府的做法是否与其针对中国 AI 模型所传达的立场相矛盾。Information Technology and Innovation Foundation 主席 Daniel Castro 指出，美中在构建顶尖 AI 模型上展开激烈竞争，而美国政...",
+      "source": "Solidot",
+      "pub_date": "Fri, 18 Sep 2026 15:39:39 +0800",
+      "fetched_at": "2026-09-18T20:00:06.593308",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "美国《联邦公报》（Federal Register）网站被发现提供了基于阿里巴巴开放权重模型通义千问（Qwen）的 AI 搜索工具，具体部署时间未知，在被社媒用户注意到之后该工具于周三下线。此前 FBI 曾指控阿里巴巴蒸馏了 Anthropic 的模型。AI 专家表示，在《联邦公报》网站上使用中国 ...",
+      "keywords": [
+        "ai",
+        "联邦公报",
+        "美国政府网站使用了阿里巴巴的千问模型",
+        "美国",
+        "federal"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "NASA 和 IBM 开源月球模型",
+      "link": "https://www.solidot.org/story?sid=85415",
+      "summary": "NASA 和 IBM 开源了首个月球模型 NASA-IBM Lunar Foundation Model，模型权重与代码向全球研究者开放，以供下载、微调和试验。这是首批专门面向月球科学、可公开使用的智能分析工具之一，目标是把数十年来分散的月球观测数据转化为可复用的分析工具，用于陨石坑测绘、火山地貌识别和极区水冰潜力评估。模型的训练数据以 NASA 月球勘测轨道飞行器为主。LRO 在轨约 17 年，覆盖大部分月面，其数据规模超过 NASA 其他行星任务总和。模型使用约 200 万个月球图像切片，其中包括逾 100 万张 1 米分辨率窄角相机图像和近 96.4 万张 100 米分辨率多光谱图像，并...",
+      "source": "Solidot",
+      "pub_date": "Fri, 18 Sep 2026 14:55:56 +0800",
+      "fetched_at": "2026-09-18T20:00:06.594272",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "NASA 和 IBM 开源了首个月球模型 NASA-IBM Lunar Foundation Model，模型权重与代码向全球研究者开放，以供下载、微调和试验。这是首批专门面向月球科学、可公开使用的智能分析工具之一，目标是把数十年来分散的月球观测数据转化为可复用的分析工具，用于陨石坑测绘、火山地貌识...",
+      "keywords": [
+        "nasa",
+        "ibm",
+        "万张",
+        "开源月球模型",
+        "开源了首个月球模型"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "卫星数据显示过去 47 年格陵兰岛和南极洲损失 12.5 万亿吨冰",
+      "link": "https://www.solidot.org/story?sid=85401",
+      "summary": "根据发表在《Scientific Data》期刊上的一项研究，地球暖化正加速两大冰盖的融化。卫星数据显示，自 1979 年以来格陵兰岛和南极洲损失了 12.5 万亿吨冰量。这些冰融化为 11.3 千万亿升的水，导致 1979 年以来全球海平面上升了 3.1 厘米。而海平面每上升 1 厘米，就会导致额外 200-300 万人每年面临至少一次洪水威胁。研究发现，六分之五的冰体流失并非源于气温升高，而是因为较温海水从底部和侧面侵蚀冰盖，导致冰川滑向海洋。格陵兰岛的 Jakobshavn 冰川目前每天退缩的距离达到 50 米。数据显示，1970 年代、1980 年代和 1990 年代的冰盖状况相对稳定...",
+      "source": "Solidot",
+      "pub_date": "Thu, 17 Sep 2026 13:57:44 +0800",
+      "fetched_at": "2026-09-18T20:00:06.597610",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "根据发表在《Scientific Data》期刊上的一项研究，地球暖化正加速两大冰盖的融化。卫星数据显示，自 1979 年以来格陵兰岛和南极洲损失了 12.5 万亿吨冰量。这些冰融化为 11.3 千万亿升的水，导致 1979 年以来全球海平面上升了 3.1 厘米。而海平面每上升 1 厘米，就会导致额...",
+      "keywords": [
+        "厘米",
+        "卫星数据显示过去",
+        "年格陵兰岛和南极洲损失",
+        "万亿吨冰",
+        "根据发表在"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "summary": "👍 236 | 💬 161",
+      "source": "HackerNews",
+      "pub_date": "2026-09-18T17:45:07",
+      "fetched_at": "2026-09-18T20:00:15.903386",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 236 | 💬 161",
+      "keywords": [
+        "microsoft",
+        "exec",
+        "called",
+        "ai",
+        "scraping"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Google illegally retains customer data,and I am taking legal action against them",
+      "link": "https://medium.com/@istokovicsgyorgy79/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them-7da0cf95941c",
+      "summary": "👍 36 | 💬 6",
+      "source": "HackerNews",
+      "pub_date": "2026-09-18T18:18:20",
+      "fetched_at": "2026-09-18T20:00:38.483464",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 36 | 💬 6",
+      "keywords": [
+        "google",
+        "illegally",
+        "retains",
+        "customer",
+        "data"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "朝鲜地下核试验诱发了持续多年的地震活动",
+      "link": "https://www.solidot.org/story?sid=85413",
+      "summary": "根据发表在《科学》期刊上的一项研究，朝鲜在万塔山（Mt. Mantap）进行的地下核试验对该地区周边地壳产生了持久且延迟的影响，引发了在核爆结束后持续数年——甚至不断加剧——的地震活动。朝鲜位于万塔山下的丰溪里（Punggye-ri）核试验场在 2006 年至 2017 年间共进行了六次地下核试验。最后一次——也是规模最大的一次——核试验发生在 2017 年 9 月。这次爆炸的当量估计为 10 万至 25 万吨，美国地质调查局（USGS）将其记录为一次 6.3 级的地震事件。此外据卫星雷达测量报告，万塔山顶部发生了显著的地表形变。成都理工大学的研究人员和同事分析了自 2008 年以来在中国和韩...",
+      "source": "Solidot",
+      "pub_date": "Fri, 18 Sep 2026 13:17:40 +0800",
+      "fetched_at": "2026-09-18T20:00:06.595681",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "根据发表在《科学》期刊上的一项研究，朝鲜在万塔山（Mt. Mantap）进行的地下核试验对该地区周边地壳产生了持久且延迟的影响，引发了在核爆结束后持续数年——甚至不断加剧——的地震活动。朝鲜位于万塔山下的丰溪里（Punggye-ri）核试验场在 2006 年至 2017 年间共进行了六次地下核试验。...",
+      "keywords": [
+        "朝鲜地下核试验诱发了持续多年的地震活动",
+        "根据发表在",
+        "科学",
+        "期刊上的一项研究",
+        "朝鲜在万塔山"
       ],
       "importance": 0
     },
     {
-      "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
-      "link": "https://www.qbitai.com/2026/09/490760.html",
-      "summary": "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。",
-      "source": "量子位",
-      "pub_date": "Wed, 16 Sep 2026 08:51:02 +0000",
-      "fetched_at": "2026-09-16T20:00:04.111815",
+      "title": "今年上线的微短剧逾九成是 AI 剧",
+      "link": "https://www.solidot.org/story?sid=85408",
+      "summary": "陈奕龙有 20 年出演影视剧的经验，由于工作机会日益稀少，他在 8 月与一家 AI 工作室签约，授权对方使用其面部肖像。陈奕龙的工作就是坐在摄像机前，根据导演的指令做出不同面部表情——如无表情凝视、怒视或惊讶。这家工作室将利用 AI 技术，以陈奕龙的面部图像为基础生成虚拟数字人，让其主演一部由 AI 生成的电影。现年 38 岁陈奕龙说道，“如果你无法战胜它，那就加入它。”雇佣陈奕龙的是总部位于深圳的 Feixiang Universe 工作室，创始人 Sun Wei 表示，之所以为一部唐朝背景的 AI 电影项目获取真人肖像授权主要是担心无意中窃取他人肖像。她指出，受 AI 训练数据偏差的影响，...",
+      "source": "Solidot",
+      "pub_date": "Thu, 17 Sep 2026 18:31:46 +0800",
+      "fetched_at": "2026-09-18T20:00:06.596742",
       "categories": [
         "ai"
       ],
-      "ai_summary": "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。",
+      "ai_summary": "陈奕龙有 20 年出演影视剧的经验，由于工作机会日益稀少，他在 8 月与一家 AI 工作室签约，授权对方使用其面部肖像。陈奕龙的工作就是坐在摄像机前，根据导演的指令做出不同面部表情——如无表情凝视、怒视或惊讶。这家工作室将利用 AI 技术，以陈奕龙的面部图像为基础生成虚拟数字人，让其主演一部由 AI...",
       "keywords": [
         "ai",
-        "大模型工场",
-        "产业生态大会今日举办",
-        "大咖同台共探智能生长与产业共生",
-        "大模型工场主办的"
+        "今年上线的微短剧逾九成是",
+        "陈奕龙有",
+        "年出演影视剧的经验",
+        "由于工作机会日益稀少"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "人脑类器官在小鼠体内形成神经网络",
+      "link": "https://www.solidot.org/story?sid=85405",
+      "summary": "发表在《自然》期刊上的一项研究表明，移植到小鼠体内的人脑类器官能够重现大脑发育的某些特征，包括形成功能性神经网络，从而支持脑活动。这一成果得益于一种培育脑容量缩小的小鼠的方法。这种方法使得这些由人类细胞培养形成的三维类脑组织，即人脑类器官能够与小鼠大脑整合。该模型有望以比此前更深入的方式研究人脑组织的发育。研究结果显示，移植的类器官生长良好。它们占据了大部分空间，分化为多种人类脑细胞，组织形成了神经回路，并产生了类似大脑皮层组织的复杂结构。此外，整合形成的皮层组织可能造成了某些行为表现。研究人员将移植类器官和未移植类器官的皮层缺失小鼠进行了比较，发现它们在运动和记忆任务中的表现存在差异。",
+      "source": "Solidot",
+      "pub_date": "Thu, 17 Sep 2026 15:59:13 +0800",
+      "fetched_at": "2026-09-18T20:00:06.597170",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "发表在《自然》期刊上的一项研究表明，移植到小鼠体内的人脑类器官能够重现大脑发育的某些特征，包括形成功能性神经网络，从而支持脑活动。这一成果得益于一种培育脑容量缩小的小鼠的方法。这种方法使得这些由人类细胞培养形成的三维类脑组织，即人脑类器官能够与小鼠大脑整合。该模型有望以比此前更深入的方式研究人脑组织...",
+      "keywords": [
+        "人脑类器官在小鼠体内形成神经网络",
+        "发表在",
+        "自然",
+        "期刊上的一项研究表明",
+        "移植到小鼠体内的人脑类器官能够重现大脑发育的某些特征"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
+      "link": "https://www.qbitai.com/2026/09/491875.html",
+      "summary": "用通用AI去啃最硬的骨头，这条路走得通",
+      "source": "量子位",
+      "pub_date": "Fri, 18 Sep 2026 06:11:06 +0000",
+      "fetched_at": "2026-09-18T20:00:06.920590",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "用通用AI去啃最硬的骨头，这条路走得通",
+      "keywords": [
+        "ai",
+        "agi",
+        "最难一战",
+        "竟在医院",
+        "中国"
       ],
       "importance": 0
     }
   ],
   "latest": [
     {
-      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
-      "link": "https://arxiv.org/abs/2511.07885",
-      "summary": "👍 60 | 💬 12",
+      "title": "How to Write with an LLM",
+      "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "summary": "👍 199 | 💬 124",
       "source": "HackerNews",
-      "pub_date": "2026-09-14T17:16:39",
-      "fetched_at": "2026-09-16T20:00:39.682954",
+      "pub_date": "2026-09-18T05:48:38",
+      "fetched_at": "2026-09-18T20:00:40.147016",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 60 | 💬 12",
+      "ai_summary": "👍 199 | 💬 124",
       "keywords": [
-        "intelligence",
-        "per",
-        "watt",
-        "measuring",
-        "efficiency"
+        "how",
+        "to",
+        "write",
+        "with",
+        "an"
       ],
       "importance": 0
     },
     {
-      "title": "Learning Programming in an Age of LLMs",
-      "link": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
-      "summary": "👍 82 | 💬 50",
+      "title": "Google illegally retains customer data,and I am taking legal action against them",
+      "link": "https://medium.com/@istokovicsgyorgy79/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them-7da0cf95941c",
+      "summary": "👍 36 | 💬 6",
       "source": "HackerNews",
-      "pub_date": "2026-09-16T17:12:34",
-      "fetched_at": "2026-09-16T20:00:18.841038",
+      "pub_date": "2026-09-18T18:18:20",
+      "fetched_at": "2026-09-18T20:00:38.483464",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 82 | 💬 50",
+      "ai_summary": "👍 36 | 💬 6",
       "keywords": [
-        "learning",
-        "programming",
-        "in",
-        "an",
-        "age"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "link": "https://mistral.ai/news/mistral-x-mozilla/",
-      "summary": "👍 111 | 💬 33",
-      "source": "HackerNews",
-      "pub_date": "2026-09-16T16:08:57",
-      "fetched_at": "2026-09-16T20:00:15.508982",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 111 | 💬 33",
-      "keywords": [
-        "mistral",
-        "mozilla",
-        "private",
-        "multilingual",
-        "ai"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "把记忆交给CPU，大模型会变快",
-      "link": "https://www.qbitai.com/2026/09/489724.html",
-      "summary": "让GPU去忙生成Token",
-      "source": "量子位",
-      "pub_date": "Wed, 16 Sep 2026 03:07:18 +0000",
-      "fetched_at": "2026-09-16T20:00:04.112959",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "让GPU去忙生成Token",
-      "keywords": [
-        "把记忆交给",
-        "cpu",
-        "大模型会变快",
-        "gpu",
-        "去忙生成"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」",
-      "link": "https://www.qbitai.com/2026/09/490185.html",
-      "summary": "从想法到结果，一次对话实现",
-      "source": "量子位",
-      "pub_date": "Wed, 16 Sep 2026 03:40:35 +0000",
-      "fetched_at": "2026-09-16T20:00:04.112848",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "从想法到结果，一次对话实现",
-      "keywords": [
-        "被英伟达点名的杭州团队",
-        "补上了",
-        "ai",
-        "for",
-        "science"
+        "google",
+        "illegally",
+        "retains",
+        "customer",
+        "data"
       ],
       "importance": 0.5
     },
     {
-      "title": "量子位2026人工智能年度榜单，正式启动！",
-      "link": "https://www.qbitai.com/2026/09/490329.html",
-      "summary": "报名通道已开启，欢迎参与！",
-      "source": "量子位",
-      "pub_date": "Wed, 16 Sep 2026 04:16:10 +0000",
-      "fetched_at": "2026-09-16T20:00:04.112736",
+      "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
+      "link": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
+      "summary": "👍 29 | 💬 9",
+      "source": "HackerNews",
+      "pub_date": "2026-09-18T19:01:44",
+      "fetched_at": "2026-09-18T20:00:32.204155",
       "categories": [
         "ai"
       ],
-      "ai_summary": "报名通道已开启，欢迎参与！",
+      "ai_summary": "👍 29 | 💬 9",
       "keywords": [
-        "量子位",
-        "人工智能年度榜单",
-        "正式启动",
-        "报名通道已开启",
-        "欢迎参与"
+        "warren",
+        "buffett",
+        "steps",
+        "down",
+        "as"
       ],
       "importance": 0
     },
     {
-      "title": "B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首",
-      "link": "https://www.qbitai.com/2026/09/490396.html",
-      "summary": "9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。",
-      "source": "量子位",
-      "pub_date": "Wed, 16 Sep 2026 06:23:05 +0000",
-      "fetched_at": "2026-09-16T20:00:04.112623",
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "link": "https://bend-lang.com/",
+      "summary": "👍 502 | 💬 238",
+      "source": "HackerNews",
+      "pub_date": "2026-09-18T04:36:13",
+      "fetched_at": "2026-09-18T20:00:27.149219",
       "categories": [
         "ai"
       ],
-      "ai_summary": "9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。",
+      "ai_summary": "👍 502 | 💬 238",
       "keywords": [
+        "bend",
+        "language",
+        "that",
+        "blocks",
+        "ai"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "link": "https://prismml.com/news/bonsai-2-27b",
+      "summary": "👍 475 | 💬 141",
+      "source": "HackerNews",
+      "pub_date": "2026-09-18T05:13:31",
+      "fetched_at": "2026-09-18T20:00:22.247486",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 475 | 💬 141",
+      "keywords": [
+        "bonsai",
+        "near",
+        "lossless",
+        "compression",
+        "in"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "summary": "👍 236 | 💬 161",
+      "source": "HackerNews",
+      "pub_date": "2026-09-18T17:45:07",
+      "fetched_at": "2026-09-18T20:00:15.903386",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "👍 236 | 💬 161",
+      "keywords": [
+        "microsoft",
+        "exec",
+        "called",
         "ai",
-        "无限竞技场今日上线",
-        "全球百大",
-        "模型同场竞技",
-        "gpt"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单",
-      "link": "https://www.qbitai.com/2026/09/490400.html",
-      "summary": "9月16日，稳准智能联合清华大学发布新一代数据大模型 LimiX-2，模型参数规模提升至400M。",
-      "source": "量子位",
-      "pub_date": "Wed, 16 Sep 2026 06:32:31 +0000",
-      "fetched_at": "2026-09-16T20:00:04.112501",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "9月16日，稳准智能联合清华大学发布新一代数据大模型 LimiX-2，模型参数规模提升至400M。",
-      "keywords": [
-        "limix",
-        "清华稳准智能联合发布",
-        "结构化数据基础模型登顶国际评测榜单",
-        "稳准智能联合清华大学发布新一代数据大模型",
-        "模型参数规模提升至"
+        "scraping"
       ],
       "importance": 0.5
     },
     {
-      "title": "西门子不造机器人，为什么机器人进厂的故事里总有它？",
-      "link": "https://www.qbitai.com/2026/09/490416.html",
-      "summary": "帮助成熟赛道复制方案，帮助新赛道长出场景。",
+      "title": "马斯克睡进工地！为AI基建拼了",
+      "link": "https://www.qbitai.com/2026/09/491280.html",
+      "summary": "AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）",
       "source": "量子位",
-      "pub_date": "Wed, 16 Sep 2026 07:38:18 +0000",
-      "fetched_at": "2026-09-16T20:00:04.112379",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "帮助成熟赛道复制方案，帮助新赛道长出场景。",
-      "keywords": [
-        "西门子不造机器人",
-        "为什么机器人进厂的故事里总有它",
-        "帮助成熟赛道复制方案",
-        "帮助新赛道长出场景"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "协同办公进入Agent时代，飞书+豆包工作跑在了最前面",
-      "link": "https://www.qbitai.com/2026/09/490686.html",
-      "summary": "AI协同办公的新官配，我先磕了",
-      "source": "量子位",
-      "pub_date": "Wed, 16 Sep 2026 07:46:38 +0000",
-      "fetched_at": "2026-09-16T20:00:04.112256",
+      "pub_date": "Thu, 17 Sep 2026 04:37:26 +0000",
+      "fetched_at": "2026-09-18T20:00:06.921250",
       "categories": [
         "ai"
       ],
-      "ai_summary": "AI协同办公的新官配，我先磕了",
-      "keywords": [
-        "协同办公进入",
-        "agent",
-        "时代",
-        "飞书",
-        "豆包工作跑在了最前面"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用",
-      "link": "https://www.qbitai.com/2026/09/490750.html",
-      "summary": "2026年 9 月 15 日，AI基础设施公司基元律动（TokenRhythm）与无问芯穹（Infinigence AI）签署战略合作协议。",
-      "source": "量子位",
-      "pub_date": "Wed, 16 Sep 2026 08:09:53 +0000",
-      "fetched_at": "2026-09-16T20:00:04.112131",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "2026年 9 月 15 日，AI基础设施公司基元律动（TokenRhythm）与无问芯穹（Infinigence AI）签署战略合作协议。",
+      "ai_summary": "AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）",
       "keywords": [
         "ai",
-        "基元律动与无问芯穹达成战略合作",
-        "推进高质量",
-        "token",
-        "供给与应用"
+        "马斯克睡进工地",
+        "基建拼了",
+        "正火嘛",
+        "老马的待遇也算提升了一点"
       ],
       "importance": 0
     },
     {
-      "title": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
-      "link": "https://www.qbitai.com/2026/09/490756.html",
-      "summary": "第五代骁龙8至尊版赋能全新AI智能体手机努比亚NaviX Ultra，加速智能体体验规模化落地",
+      "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
+      "link": "https://www.qbitai.com/2026/09/491391.html",
+      "summary": "文档和PPT都能做了",
       "source": "量子位",
-      "pub_date": "Wed, 16 Sep 2026 08:18:44 +0000",
-      "fetched_at": "2026-09-16T20:00:04.111986",
+      "pub_date": "Thu, 17 Sep 2026 09:07:25 +0000",
+      "fetched_at": "2026-09-18T20:00:06.921086",
       "categories": [
         "ai"
       ],
-      "ai_summary": "第五代骁龙8至尊版赋能全新AI智能体手机努比亚NaviX Ultra，加速智能体体验规模化落地",
+      "ai_summary": "文档和PPT都能做了",
       "keywords": [
-        "ai",
-        "高通技术公司携手中兴努比亚和豆包手机助手",
-        "共同推动智能手机迈入个人",
-        "新时代",
-        "第五代骁龙"
+        "claude",
+        "双入口合并",
+        "原生",
+        "office",
+        "上线"
       ],
       "importance": 0
     },
     {
-      "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
-      "link": "https://www.qbitai.com/2026/09/490760.html",
-      "summary": "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。",
+      "title": "Claude Code团队讲究啊，这都往外说",
+      "link": "https://www.qbitai.com/2026/09/491596.html",
+      "summary": "工程师的核心永远是Problem Solving。",
       "source": "量子位",
-      "pub_date": "Wed, 16 Sep 2026 08:51:02 +0000",
-      "fetched_at": "2026-09-16T20:00:04.111815",
+      "pub_date": "Thu, 17 Sep 2026 11:56:13 +0000",
+      "fetched_at": "2026-09-18T20:00:06.920935",
       "categories": [
         "ai"
       ],
-      "ai_summary": "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。",
+      "ai_summary": "工程师的核心永远是Problem Solving。",
       "keywords": [
-        "ai",
-        "大模型工场",
-        "产业生态大会今日举办",
-        "大咖同台共探智能生长与产业共生",
-        "大模型工场主办的"
+        "claude",
+        "code",
+        "团队讲究啊",
+        "这都往外说",
+        "工程师的核心永远是"
       ],
       "importance": 0
     },
     {
-      "title": "NVIDIA中国开发者日定档10月苏州，现场设认证考试与黑客松决赛",
-      "link": "https://www.solidot.org/story?sid=85379",
-      "summary": "NVIDIA 宣布将于 2026 年 10 月 15—16 日在苏州举办中国开发者日。日程分为两日：首日为动手实践日，包含 2026 黑客松总决赛路演、全天实战培训及实训营，同时开放四门 Associate 级别认证现场考试；次日为主论坛，设 LLM、AI 模型与运行时、物理AI/机器人、AI基础设施四个分论坛，并举行黑客松颁奖典礼。 值得注意的细节：认证考试可在现场完成，对希望获得 NVIDIA 官方技术背书但不愿单独约考的开发者有一定吸引力。活动偏向实战而非产品宣讲，适合关注推理优化、训练基础设施和机器人方向的工程师。注册已开放，名额限制未公布，建议提早。 https://www.nvid...",
+      "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+      "link": "https://www.qbitai.com/2026/09/491649.html",
+      "summary": "构建个体专属AI助理",
+      "source": "量子位",
+      "pub_date": "Thu, 17 Sep 2026 12:03:24 +0000",
+      "fetched_at": "2026-09-18T20:00:06.920857",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "构建个体专属AI助理",
+      "keywords": [
+        "ai",
+        "会回答",
+        "会办事",
+        "vivo",
+        "如何解"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+      "link": "https://www.qbitai.com/2026/09/491711.html",
+      "summary": "Git白学了？？？",
+      "source": "量子位",
+      "pub_date": "Fri, 18 Sep 2026 00:34:34 +0000",
+      "fetched_at": "2026-09-18T20:00:06.920771",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Git白学了？？？",
+      "keywords": [
+        "刚刚",
+        "claude",
+        "code",
+        "大重构",
+        "内部"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
+      "link": "https://www.qbitai.com/2026/09/491875.html",
+      "summary": "用通用AI去啃最硬的骨头，这条路走得通",
+      "source": "量子位",
+      "pub_date": "Fri, 18 Sep 2026 06:11:06 +0000",
+      "fetched_at": "2026-09-18T20:00:06.920590",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "用通用AI去啃最硬的骨头，这条路走得通",
+      "keywords": [
+        "ai",
+        "agi",
+        "最难一战",
+        "竟在医院",
+        "中国"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "卫星数据显示过去 47 年格陵兰岛和南极洲损失 12.5 万亿吨冰",
+      "link": "https://www.solidot.org/story?sid=85401",
+      "summary": "根据发表在《Scientific Data》期刊上的一项研究，地球暖化正加速两大冰盖的融化。卫星数据显示，自 1979 年以来格陵兰岛和南极洲损失了 12.5 万亿吨冰量。这些冰融化为 11.3 千万亿升的水，导致 1979 年以来全球海平面上升了 3.1 厘米。而海平面每上升 1 厘米，就会导致额外 200-300 万人每年面临至少一次洪水威胁。研究发现，六分之五的冰体流失并非源于气温升高，而是因为较温海水从底部和侧面侵蚀冰盖，导致冰川滑向海洋。格陵兰岛的 Jakobshavn 冰川目前每天退缩的距离达到 50 米。数据显示，1970 年代、1980 年代和 1990 年代的冰盖状况相对稳定...",
       "source": "Solidot",
-      "pub_date": "Tue, 15 Sep 2026 14:44:22 +0800",
-      "fetched_at": "2026-09-16T20:00:03.608943",
+      "pub_date": "Thu, 17 Sep 2026 13:57:44 +0800",
+      "fetched_at": "2026-09-18T20:00:06.597610",
       "categories": [
-        "ai",
-        "robotics"
-      ],
-      "ai_summary": "NVIDIA 宣布将于 2026 年 10 月 15—16 日在苏州举办中国开发者日。日程分为两日：首日为动手实践日，包含 2026 黑客松总决赛路演、全天实战培训及实训营，同时开放四门 Associate 级别认证现场考试；次日为主论坛，设 LLM、AI...",
-      "keywords": [
-        "nvidia",
-        "ai",
-        "中国开发者日定档",
-        "月苏州",
-        "现场设认证考试与黑客松决赛"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "美国军方首次证实在太空部署了武器",
-      "link": "https://www.solidot.org/story?sid=85382",
-      "summary": "美国空军部长 Troy Meink 周一在 Air and Space Forces Association 的《Air, Space & Cyber Conference》会议上首次公开宣传，美国已在轨道上部署了太空控制武器。他没有披露太空武器的任何细节，但披露其存在这一事实，凸显了五角大楼在轨道战思维上的重大转变——直到几年前，还没有任何美国军方高级官员愿意公开讨论这一话题。如今军方官员已开始公开讨论轨道作战、卫星防御性反制措施，以及一种旨在瘫痪敌方在轨卫星的新型陆基武器。Meink 也未说明这些太空武器是何时部署的。",
-      "source": "Solidot",
-      "pub_date": "Tue, 15 Sep 2026 16:07:55 +0800",
-      "fetched_at": "2026-09-16T20:00:03.608143",
-      "categories": [
-        "ai",
         "space"
       ],
-      "ai_summary": "美国空军部长 Troy Meink 周一在 Air and Space Forces Association 的《Air, Space & Cyber Conference》会议上首次公开宣传，美国已在轨道上部署了太空控制武器。他没有披露太空武器的任何细节，但披露其存在这一事实，凸显了五角大楼在轨道...",
+      "ai_summary": "根据发表在《Scientific Data》期刊上的一项研究，地球暖化正加速两大冰盖的融化。卫星数据显示，自 1979 年以来格陵兰岛和南极洲损失了 12.5 万亿吨冰量。这些冰融化为 11.3 千万亿升的水，导致 1979 年以来全球海平面上升了 3.1 厘米。而海平面每上升 1 厘米，就会导致额...",
       "keywords": [
-        "meink",
-        "air",
-        "space",
-        "美国军方首次证实在太空部署了武器",
-        "美国空军部长"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "一款在浏览器里运行、部署在自己服务器上的 SQL 客户端",
-      "link": "https://www.solidot.org/story?sid=85383",
-      "summary": "Yusuf Gundogdu 写道：LibreDB Studio 是一个 MIT 协议的 SQL 客户端，不装在本地而是跑在服务器上，浏览器打开就能用，一条 docker run 就起来。16 个驱动覆盖 42 种数据库，PostgreSQL、MySQL、MongoDB、Redis、ClickHouse 这些都在内。9 月 8 日发布了 0.15.0 版本。我觉得值得一提的是他们把 AI 那部分做了实测：28 个模型跑同一套六项数据库任务，27 个通过 Ollama 完全在本地运行，最快的 qwen2.5:7b 只有 4.7 GB，一次完整运行中位数 6 秒，最小的 2.5 GB。数据逐个模型...",
-      "source": "Solidot",
-      "pub_date": "Tue, 15 Sep 2026 16:43:13 +0800",
-      "fetched_at": "2026-09-16T20:00:03.607906",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Yusuf Gundogdu 写道：LibreDB Studio 是一个 MIT 协议的 SQL 客户端，不装在本地而是跑在服务器上，浏览器打开就能用，一条 docker run 就起来。16 个驱动覆盖 42 种数据库，PostgreSQL、MySQL、MongoDB、Redis、ClickHou...",
-      "keywords": [
-        "sql",
-        "客户端",
-        "gb",
-        "一款在浏览器里运行",
-        "部署在自己服务器上的"
+        "厘米",
+        "卫星数据显示过去",
+        "年格陵兰岛和南极洲损失",
+        "万亿吨冰",
+        "根据发表在"
       ],
       "importance": 0.5
     },
     {
-      "title": "F-Droid 上的应用有多少是在 AI 帮助下编写的？",
-      "link": "https://www.solidot.org/story?sid=85385",
-      "summary": "今天有无数开发者在 LLM 帮助下编写程序，其中包括了开源开发者。那么 Android FOSS 应用商店 F-Droid 中 AI 辅助开发应用的比例有多高？一位 FOSS 维护者对 9 月 12 日 F-Droid 推送更新的 102 款应用及其代码库进行了分析，发现其中 74 款应用（72.5%）主要是 AI 编写的，10 款应用难以明确归类（9.8%）， 18 款应用几乎没有 AI 参与的迹象（17.6%）。有 4 个托管在 Codeberg 上的应用主要是 AI 编写的，而 Codeberg 最近宣布了 AI 政策，禁止了此类 AI 应用，但要清除此类应用显然需要更多时间。",
+      "title": "人脑类器官在小鼠体内形成神经网络",
+      "link": "https://www.solidot.org/story?sid=85405",
+      "summary": "发表在《自然》期刊上的一项研究表明，移植到小鼠体内的人脑类器官能够重现大脑发育的某些特征，包括形成功能性神经网络，从而支持脑活动。这一成果得益于一种培育脑容量缩小的小鼠的方法。这种方法使得这些由人类细胞培养形成的三维类脑组织，即人脑类器官能够与小鼠大脑整合。该模型有望以比此前更深入的方式研究人脑组织的发育。研究结果显示，移植的类器官生长良好。它们占据了大部分空间，分化为多种人类脑细胞，组织形成了神经回路，并产生了类似大脑皮层组织的复杂结构。此外，整合形成的皮层组织可能造成了某些行为表现。研究人员将移植类器官和未移植类器官的皮层缺失小鼠进行了比较，发现它们在运动和记忆任务中的表现存在差异。",
       "source": "Solidot",
-      "pub_date": "Tue, 15 Sep 2026 20:45:43 +0800",
-      "fetched_at": "2026-09-16T20:00:03.607404",
+      "pub_date": "Thu, 17 Sep 2026 15:59:13 +0800",
+      "fetched_at": "2026-09-18T20:00:06.597170",
       "categories": [
         "ai"
       ],
-      "ai_summary": "今天有无数开发者在 LLM 帮助下编写程序，其中包括了开源开发者。那么 Android FOSS 应用商店 F-Droid 中 AI 辅助开发应用的比例有多高？一位 FOSS 维护者对 9 月 12 日 F-Droid 推送更新的 102 款应用及其代码库进行了分析，发现其中 74 款应用（72.5...",
+      "ai_summary": "发表在《自然》期刊上的一项研究表明，移植到小鼠体内的人脑类器官能够重现大脑发育的某些特征，包括形成功能性神经网络，从而支持脑活动。这一成果得益于一种培育脑容量缩小的小鼠的方法。这种方法使得这些由人类细胞培养形成的三维类脑组织，即人脑类器官能够与小鼠大脑整合。该模型有望以比此前更深入的方式研究人脑组织...",
       "keywords": [
-        "ai",
-        "droid",
-        "foss",
-        "编写的",
-        "codeberg"
+        "人脑类器官在小鼠体内形成神经网络",
+        "发表在",
+        "自然",
+        "期刊上的一项研究表明",
+        "移植到小鼠体内的人脑类器官能够重现大脑发育的某些特征"
       ],
       "importance": 0
     },
     {
-      "title": "时光机器遭遇大规模机器流量",
-      "link": "https://www.solidot.org/story?sid=85392",
-      "summary": "互联网档案馆披露，它的时光机器（Wayback Machine）服务遭遇了大规模机器流量的持续攻击，因此不得不采取防护措施，导致正常用户在访问该服务时可能会遇到“429 错误”——代表请求过多的 HTTP 状态码。如果用户被误伤，它对此表示歉意，称正努力区分机器流量和正常用户流量。时光机器备份了互联网内容的历史存档，很多内容除了时光机器可能在其它地方都找不到了。时光机器是重要的知识库，因此也是 AI 公司和互联网公司网络爬虫重要的抓取目标。",
+      "title": "今年上线的微短剧逾九成是 AI 剧",
+      "link": "https://www.solidot.org/story?sid=85408",
+      "summary": "陈奕龙有 20 年出演影视剧的经验，由于工作机会日益稀少，他在 8 月与一家 AI 工作室签约，授权对方使用其面部肖像。陈奕龙的工作就是坐在摄像机前，根据导演的指令做出不同面部表情——如无表情凝视、怒视或惊讶。这家工作室将利用 AI 技术，以陈奕龙的面部图像为基础生成虚拟数字人，让其主演一部由 AI 生成的电影。现年 38 岁陈奕龙说道，“如果你无法战胜它，那就加入它。”雇佣陈奕龙的是总部位于深圳的 Feixiang Universe 工作室，创始人 Sun Wei 表示，之所以为一部唐朝背景的 AI 电影项目获取真人肖像授权主要是担心无意中窃取他人肖像。她指出，受 AI 训练数据偏差的影响，...",
       "source": "Solidot",
-      "pub_date": "Wed, 16 Sep 2026 16:32:47 +0800",
-      "fetched_at": "2026-09-16T20:00:03.605733",
+      "pub_date": "Thu, 17 Sep 2026 18:31:46 +0800",
+      "fetched_at": "2026-09-18T20:00:06.596742",
       "categories": [
         "ai"
       ],
-      "ai_summary": "互联网档案馆披露，它的时光机器（Wayback Machine）服务遭遇了大规模机器流量的持续攻击，因此不得不采取防护措施，导致正常用户在访问该服务时可能会遇到“429 错误”——代表请求过多的 HTTP 状态码。如果用户被误伤，它对此表示歉意，称正努力区分机器流量和正常用户流量。时光机器备份了互联...",
+      "ai_summary": "陈奕龙有 20 年出演影视剧的经验，由于工作机会日益稀少，他在 8 月与一家 AI 工作室签约，授权对方使用其面部肖像。陈奕龙的工作就是坐在摄像机前，根据导演的指令做出不同面部表情——如无表情凝视、怒视或惊讶。这家工作室将利用 AI 技术，以陈奕龙的面部图像为基础生成虚拟数字人，让其主演一部由 AI...",
       "keywords": [
-        "时光机器遭遇大规模机器流量",
-        "互联网档案馆披露",
-        "它的时光机器",
-        "wayback",
-        "machine"
+        "ai",
+        "今年上线的微短剧逾九成是",
+        "陈奕龙有",
+        "年出演影视剧的经验",
+        "由于工作机会日益稀少"
       ],
       "importance": 0
     },
     {
-      "title": "Mozilla 报告称中国开放权重模型与美国前沿模型仅相差 4.4 个月",
-      "link": "https://www.solidot.org/story?sid=85394",
-      "summary": "Mozilla 发表《State of Open Source AI》报告，称美国科技公司的前沿 AI 模型性能仅领先中国公司最优秀的开放权重模型 4.4 个月。由于前沿模型价格更昂贵，很多公司都将开放权重模型用于处理日常工作，将前沿模型用于处理特定工作负荷。美国闭源前沿模型优势主要在于专家级专业工作、高强度检索以及长上下文。 配送公司 DoorDash 将月之暗面的 Kimi 模型用于处理日常工作，将 Anthropic 的闭源模型 Fable 用于更复杂的任务。前沿模型完成一项任务的成本经常达到了最先进开放权重模型的五倍。",
+      "title": "Roman 太空望远镜有足够的燃料可服役 22 年",
+      "link": "https://www.solidot.org/story?sid=85409",
+      "summary": "NASA 于 8 月 30 日使用 SpaceX 重型火箭 Falcon Heavy 成功发射了 Nancy Grace Roman 太空望远镜，目前正飞往日地之间的 L2 拉格朗日点，它需要三个月时间才能抵达目的地。Roman 望远镜耗资 43 亿美元，原计划执行 5+5 为期十年的任务，NASA 表示受益于精确的发射、巧妙规划的飞行轨道，地面操作团队的出色执行，望远镜有足够的燃料能执行 22 年的任务。NASA 称，Roman 望远镜控制推进器在发射后的第一次长点火燃烧仅用了 18 公斤的联氨燃料，远低于预留的 200 公斤。望远镜的实际重量为 8,056 公斤，比最大允许重量轻了两吨，因...",
       "source": "Solidot",
-      "pub_date": "Wed, 16 Sep 2026 18:30:50 +0800",
-      "fetched_at": "2026-09-16T20:00:03.605263",
+      "pub_date": "Thu, 17 Sep 2026 22:40:23 +0800",
+      "fetched_at": "2026-09-18T20:00:06.596571",
       "categories": [
-        "ai"
+        "space"
       ],
-      "ai_summary": "Mozilla 发表《State of Open Source AI》报告，称美国科技公司的前沿 AI 模型性能仅领先中国公司最优秀的开放权重模型 4.4 个月。由于前沿模型价格更昂贵，很多公司都将开放权重模型用于处理日常工作，将前沿模型用于处理特定工作负荷。美国闭源前沿模型优势主要在于专家级专业工...",
+      "ai_summary": "NASA 于 8 月 30 日使用 SpaceX 重型火箭 Falcon Heavy 成功发射了 Nancy Grace Roman 太空望远镜，目前正飞往日地之间的 L2 拉格朗日点，它需要三个月时间才能抵达目的地。Roman 望远镜耗资 43 亿美元，原计划执行 5+5 为期十年的任务，NASA...",
       "keywords": [
-        "mozilla",
-        "个月",
-        "ai",
-        "报告称中国开放权重模型与美国前沿模型仅相差",
-        "发表"
+        "roman",
+        "nasa",
+        "公斤",
+        "太空望远镜有足够的燃料可服役",
+        "日使用"
+      ],
+      "importance": 2.0
+    },
+    {
+      "title": "朝鲜地下核试验诱发了持续多年的地震活动",
+      "link": "https://www.solidot.org/story?sid=85413",
+      "summary": "根据发表在《科学》期刊上的一项研究，朝鲜在万塔山（Mt. Mantap）进行的地下核试验对该地区周边地壳产生了持久且延迟的影响，引发了在核爆结束后持续数年——甚至不断加剧——的地震活动。朝鲜位于万塔山下的丰溪里（Punggye-ri）核试验场在 2006 年至 2017 年间共进行了六次地下核试验。最后一次——也是规模最大的一次——核试验发生在 2017 年 9 月。这次爆炸的当量估计为 10 万至 25 万吨，美国地质调查局（USGS）将其记录为一次 6.3 级的地震事件。此外据卫星雷达测量报告，万塔山顶部发生了显著的地表形变。成都理工大学的研究人员和同事分析了自 2008 年以来在中国和韩...",
+      "source": "Solidot",
+      "pub_date": "Fri, 18 Sep 2026 13:17:40 +0800",
+      "fetched_at": "2026-09-18T20:00:06.595681",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "根据发表在《科学》期刊上的一项研究，朝鲜在万塔山（Mt. Mantap）进行的地下核试验对该地区周边地壳产生了持久且延迟的影响，引发了在核爆结束后持续数年——甚至不断加剧——的地震活动。朝鲜位于万塔山下的丰溪里（Punggye-ri）核试验场在 2006 年至 2017 年间共进行了六次地下核试验。...",
+      "keywords": [
+        "朝鲜地下核试验诱发了持续多年的地震活动",
+        "根据发表在",
+        "科学",
+        "期刊上的一项研究",
+        "朝鲜在万塔山"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "NASA 和 IBM 开源月球模型",
+      "link": "https://www.solidot.org/story?sid=85415",
+      "summary": "NASA 和 IBM 开源了首个月球模型 NASA-IBM Lunar Foundation Model，模型权重与代码向全球研究者开放，以供下载、微调和试验。这是首批专门面向月球科学、可公开使用的智能分析工具之一，目标是把数十年来分散的月球观测数据转化为可复用的分析工具，用于陨石坑测绘、火山地貌识别和极区水冰潜力评估。模型的训练数据以 NASA 月球勘测轨道飞行器为主。LRO 在轨约 17 年，覆盖大部分月面，其数据规模超过 NASA 其他行星任务总和。模型使用约 200 万个月球图像切片，其中包括逾 100 万张 1 米分辨率窄角相机图像和近 96.4 万张 100 米分辨率多光谱图像，并...",
+      "source": "Solidot",
+      "pub_date": "Fri, 18 Sep 2026 14:55:56 +0800",
+      "fetched_at": "2026-09-18T20:00:06.594272",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "NASA 和 IBM 开源了首个月球模型 NASA-IBM Lunar Foundation Model，模型权重与代码向全球研究者开放，以供下载、微调和试验。这是首批专门面向月球科学、可公开使用的智能分析工具之一，目标是把数十年来分散的月球观测数据转化为可复用的分析工具，用于陨石坑测绘、火山地貌识...",
+      "keywords": [
+        "nasa",
+        "ibm",
+        "万张",
+        "开源月球模型",
+        "开源了首个月球模型"
       ],
       "importance": 0.5
     },
     {
-      "title": "Mistral 与 Mozilla 合作推出 Firefox Smart Window",
-      "link": "https://www.solidot.org/story?sid=85395",
-      "summary": "法国 AI 公司 Mistral 与 Mozilla 合作推出注重隐私保护的 AI 浏览助手 Firefox Smart Window(beta)。Smart Window 使用了 Mistral 的开放权重模型，能帮助用户梳理复杂搜索，记住浏览过的重要信息，根据当前标签页查找关键信息，目前主要为法国和北美用户提供服务，今年晚些时候会扩大到英国和德国用户。Smart Window 的对话内容默认不会存储在 Mozilla 的服务器上，Mistral 等合作伙伴也承诺不保留任何数据。",
+      "title": "美国政府网站使用了阿里巴巴的千问模型",
+      "link": "https://www.solidot.org/story?sid=85417",
+      "summary": "美国《联邦公报》（Federal Register）网站被发现提供了基于阿里巴巴开放权重模型通义千问（Qwen）的 AI 搜索工具，具体部署时间未知，在被社媒用户注意到之后该工具于周三下线。此前 FBI 曾指控阿里巴巴蒸馏了 Anthropic 的模型。AI 专家表示，在《联邦公报》网站上使用中国 AI 工具未必会构成国家安全风险，但这引发了质疑：联邦政府的做法是否与其针对中国 AI 模型所传达的立场相矛盾。Information Technology and Innovation Foundation 主席 Daniel Castro 指出，美中在构建顶尖 AI 模型上展开激烈竞争，而美国政...",
       "source": "Solidot",
-      "pub_date": "Wed, 16 Sep 2026 18:53:58 +0800",
-      "fetched_at": "2026-09-16T20:00:03.605008",
+      "pub_date": "Fri, 18 Sep 2026 15:39:39 +0800",
+      "fetched_at": "2026-09-18T20:00:06.593308",
       "categories": [
         "ai"
       ],
-      "ai_summary": "法国 AI 公司 Mistral 与 Mozilla 合作推出注重隐私保护的 AI 浏览助手 Firefox Smart Window(beta)。Smart Window 使用了 Mistral 的开放权重模型，能帮助用户梳理复杂搜索，记住浏览过的重要信息，根据当前标签页查找关键信息，目前主要为法...",
+      "ai_summary": "美国《联邦公报》（Federal Register）网站被发现提供了基于阿里巴巴开放权重模型通义千问（Qwen）的 AI 搜索工具，具体部署时间未知，在被社媒用户注意到之后该工具于周三下线。此前 FBI 曾指控阿里巴巴蒸馏了 Anthropic 的模型。AI 专家表示，在《联邦公报》网站上使用中国 ...",
       "keywords": [
-        "mistral",
-        "smart",
-        "window",
-        "mozilla",
-        "firefox"
+        "ai",
+        "联邦公报",
+        "美国政府网站使用了阿里巴巴的千问模型",
+        "美国",
+        "federal"
       ],
-      "importance": 0
+      "importance": 0.5
     }
   ],
-  "updated_at": "2026-09-16T20:00:40.804986"
+  "updated_at": "2026-09-18T20:00:40.189141"
 }

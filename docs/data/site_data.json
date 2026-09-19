@@ -5,15 +5,15 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-09-19T08:00:35.193418",
-    "total_items": 23
+    "last_update": "2026-09-19T12:00:34.228359",
+    "total_items": 21
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 19
+      "count": 17
     },
     "robotics": {
       "name": "Robotics",
@@ -29,14 +29,14 @@
     }
   },
   "stats": {
-    "total_items": 23,
-    "today_items": 23,
+    "total_items": 21,
+    "today_items": 21,
     "sources": {
       "Solidot": 9,
       "量子位": 8,
-      "HackerNews": 6
+      "HackerNews": 4
     },
-    "last_update": "2026-09-19T08:00:35.193418"
+    "last_update": "2026-09-19T12:00:34.228359"
   },
   "trending": [
     {
@@ -45,7 +45,7 @@
       "summary": "NASA 于 8 月 30 日使用 SpaceX 重型火箭 Falcon Heavy 成功发射了 Nancy Grace Roman 太空望远镜，目前正飞往日地之间的 L2 拉格朗日点，它需要三个月时间才能抵达目的地。Roman 望远镜耗资 43 亿美元，原计划执行 5+5 为期十年的任务，NASA 表示受益于精确的发射、巧妙规划的飞行轨道，地面操作团队的出色执行，望远镜有足够的燃料能执行 22 年的任务。NASA 称，Roman 望远镜控制推进器在发射后的第一次长点火燃烧仅用了 18 公斤的联氨燃料，远低于预留的 200 公斤。望远镜的实际重量为 8,056 公斤，比最大允许重量轻了两吨，因...",
       "source": "Solidot",
       "pub_date": "Thu, 17 Sep 2026 22:40:23 +0800",
-      "fetched_at": "2026-09-19T08:00:13.574780",
+      "fetched_at": "2026-09-19T12:00:05.007768",
       "categories": [
         "space"
       ],
@@ -65,7 +65,7 @@
       "summary": "根据内部文件，微软应用科学总监 Brent Hecht 警告，抓取新闻内容训练 AI 是一次规模空前的盗窃，可能是人类历史上最大规模的劳动盗窃。他不认为抓取新闻内容训练 AI 是合理使用，认为这种做法完全是对合理使用理念的嘲弄。微软的另一份文件认为会形成“恶性循环”，会同时伤害模型和整个 Web。OpenAI 的产品如 ChatGPT 可能会危及新闻出版商的经济基础。OpenAI 和微软的数据都显示这一预测是正确的。微软的数据指出，部分新闻出版商网站的点击率下降了 83%-93%，其它新闻机构的点击率下降了 51%-94%。Hecht 承认，“几乎没有人希望自己创作的内容被以这种方式使用，也没...",
       "source": "Solidot",
       "pub_date": "Sat, 19 Sep 2026 00:11:37 +0800",
-      "fetched_at": "2026-09-19T08:00:13.568151",
+      "fetched_at": "2026-09-19T12:00:05.001450",
       "categories": [
         "ai"
       ],
@@ -85,7 +85,7 @@
       "summary": "Hacktron 安全团队组合利用 OpenAI 的 SSO（单点登录）配置错误以及其社区论坛使用的 Discourse 软件 libheif 软件包堆缓冲区溢出漏洞，成功控制了多名 OpenAI 员工的 ChatGPT 账户。利用这些账户安全研究人员能访问 OpenAI 内部代码库，以及其他关联服务。他们向 OpenAI 和 Discourse 报告了 bug，从 OpenAI 获得了 6500 美元的赏金。安全研究人员利用了 OpenAI 竞争对手 Anthropic 的 Claude AI 工具去辅助发现 bug，以及实现远程代码执行 RCE。他们一开始使用的是较旧的模型 Opus 4....",
       "source": "Solidot",
       "pub_date": "Fri, 18 Sep 2026 23:17:50 +0800",
-      "fetched_at": "2026-09-19T08:00:13.569251",
+      "fetched_at": "2026-09-19T12:00:05.002457",
       "categories": [
         "ai"
       ],
@@ -105,7 +105,7 @@
       "summary": "美国《联邦公报》（Federal Register）网站被发现提供了基于阿里巴巴开放权重模型通义千问（Qwen）的 AI 搜索工具，具体部署时间未知，在被社媒用户注意到之后该工具于周三下线。此前 FBI 曾指控阿里巴巴蒸馏了 Anthropic 的模型。AI 专家表示，在《联邦公报》网站上使用中国 AI 工具未必会构成国家安全风险，但这引发了质疑：联邦政府的做法是否与其针对中国 AI 模型所传达的立场相矛盾。Information Technology and Innovation Foundation 主席 Daniel Castro 指出，美中在构建顶尖 AI 模型上展开激烈竞争，而美国政...",
       "source": "Solidot",
       "pub_date": "Fri, 18 Sep 2026 15:39:39 +0800",
-      "fetched_at": "2026-09-19T08:00:13.570988",
+      "fetched_at": "2026-09-19T12:00:05.004092",
       "categories": [
         "ai"
       ],
@@ -125,7 +125,7 @@
       "summary": "NASA 和 IBM 开源了首个月球模型 NASA-IBM Lunar Foundation Model，模型权重与代码向全球研究者开放，以供下载、微调和试验。这是首批专门面向月球科学、可公开使用的智能分析工具之一，目标是把数十年来分散的月球观测数据转化为可复用的分析工具，用于陨石坑测绘、火山地貌识别和极区水冰潜力评估。模型的训练数据以 NASA 月球勘测轨道飞行器为主。LRO 在轨约 17 年，覆盖大部分月面，其数据规模超过 NASA 其他行星任务总和。模型使用约 200 万个月球图像切片，其中包括逾 100 万张 1 米分辨率窄角相机图像和近 96.4 万张 100 米分辨率多光谱图像，并...",
       "source": "Solidot",
       "pub_date": "Fri, 18 Sep 2026 14:55:56 +0800",
-      "fetched_at": "2026-09-19T08:00:13.572148",
+      "fetched_at": "2026-09-19T12:00:05.005098",
       "categories": [
         "space"
       ],
@@ -145,7 +145,7 @@
       "summary": "成果中唯一聚焦算电协同全链路运营的AI技术产品",
       "source": "量子位",
       "pub_date": "Fri, 18 Sep 2026 15:50:20 +0000",
-      "fetched_at": "2026-09-19T08:00:14.059659",
+      "fetched_at": "2026-09-19T12:00:05.605431",
       "categories": [
         "ai"
       ],
@@ -165,7 +165,7 @@
       "summary": "LimiX让模型理解数据背后的因果机制",
       "source": "量子位",
       "pub_date": "Fri, 18 Sep 2026 12:22:47 +0000",
-      "fetched_at": "2026-09-19T08:00:14.059943",
+      "fetched_at": "2026-09-19T12:00:05.605818",
       "categories": [
         "ai"
       ],
@@ -182,14 +182,14 @@
     {
       "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
       "link": "https://spectrum.ieee.org/llms-for-chip-design",
-      "summary": "👍 23 | 💬 12",
+      "summary": "👍 71 | 💬 64",
       "source": "HackerNews",
       "pub_date": "2026-09-19T07:04:17",
-      "fetched_at": "2026-09-19T08:00:17.743251",
+      "fetched_at": "2026-09-19T12:00:16.817614",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 23 | 💬 12",
+      "ai_summary": "👍 71 | 💬 64",
       "keywords": [
         "its",
         "how",
@@ -205,7 +205,7 @@
       "summary": "日本计算机娱乐协会（Computer Entertainment Supplier's Association ）的年度行业报告《Video Game Industry Report》显示，85.8% 的日本游戏开发者在工作中使用生成式 AI——63% 的开发者表示每天都在使用，22.8% 的开发者则是偶尔使用，去年这一比例是 51%。开发者使用生成式 AI 最主要是为了“改进运营效率与生产力”，其次是“缩短开发周期”以及“降低开发与运营成本”。多数受访者表示不会直接使用 AI 生成内容。报告称，AI 最常见用途是生成视觉素材和图像，其次是故事和文本生成，最后是编程辅助。32% 的游戏公司利用...",
       "source": "Solidot",
       "pub_date": "Fri, 18 Sep 2026 23:48:43 +0800",
-      "fetched_at": "2026-09-19T08:00:13.568738",
+      "fetched_at": "2026-09-19T12:00:05.002016",
       "categories": [
         "ai"
       ],
@@ -225,7 +225,7 @@
       "summary": "根据发表在《科学》期刊上的一项研究，朝鲜在万塔山（Mt. Mantap）进行的地下核试验对该地区周边地壳产生了持久且延迟的影响，引发了在核爆结束后持续数年——甚至不断加剧——的地震活动。朝鲜位于万塔山下的丰溪里（Punggye-ri）核试验场在 2006 年至 2017 年间共进行了六次地下核试验。最后一次——也是规模最大的一次——核试验发生在 2017 年 9 月。这次爆炸的当量估计为 10 万至 25 万吨，美国地质调查局（USGS）将其记录为一次 6.3 级的地震事件。此外据卫星雷达测量报告，万塔山顶部发生了显著的地表形变。成都理工大学的研究人员和同事分析了自 2008 年以来在中国和韩...",
       "source": "Solidot",
       "pub_date": "Fri, 18 Sep 2026 13:17:40 +0800",
-      "fetched_at": "2026-09-19T08:00:13.573019",
+      "fetched_at": "2026-09-19T12:00:05.006080",
       "categories": [
         "space"
       ],
@@ -242,76 +242,36 @@
   ],
   "latest": [
     {
-      "title": "The Implications of Linguistic Illegibility for LLM Security",
-      "link": "https://arxiv.org/abs/2609.02852",
-      "summary": "👍 45 | 💬 17",
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "link": "https://code.claude.com/docs/en/changelog",
+      "summary": "👍 558 | 💬 202",
       "source": "HackerNews",
-      "pub_date": "2026-09-19T03:00:06",
-      "fetched_at": "2026-09-19T08:00:31.359222",
+      "pub_date": "2026-09-19T05:00:32",
+      "fetched_at": "2026-09-19T12:00:32.301673",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 45 | 💬 17",
+      "ai_summary": "👍 558 | 💬 202",
       "keywords": [
-        "the",
-        "implications",
-        "of",
-        "linguistic",
-        "illegibility"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-      "link": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
-      "summary": "👍 100 | 💬 51",
-      "source": "HackerNews",
-      "pub_date": "2026-09-18T23:12:07",
-      "fetched_at": "2026-09-19T08:00:29.778751",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 100 | 💬 51",
-      "keywords": [
-        "two",
-        "parallel",
-        "neural",
-        "ectoderm",
-        "progenitors"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "How to Write with an LLM",
-      "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "summary": "👍 364 | 💬 256",
-      "source": "HackerNews",
-      "pub_date": "2026-09-18T05:48:38",
-      "fetched_at": "2026-09-19T08:00:23.508401",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 364 | 💬 256",
-      "keywords": [
-        "how",
-        "to",
-        "write",
-        "with",
-        "an"
+        "claude",
+        "md",
+        "code",
+        "now",
+        "reads"
       ],
       "importance": 0
     },
     {
       "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
       "link": "https://arxiv.org/abs/2510.03215",
-      "summary": "👍 60 | 💬 11",
+      "summary": "👍 70 | 💬 12",
       "source": "HackerNews",
       "pub_date": "2026-09-19T02:55:35",
-      "fetched_at": "2026-09-19T08:00:21.442419",
+      "fetched_at": "2026-09-19T12:00:30.463538",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 60 | 💬 11",
+      "ai_summary": "👍 70 | 💬 12",
       "keywords": [
         "cache",
         "to",
@@ -324,14 +284,14 @@
     {
       "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
       "link": "https://spectrum.ieee.org/llms-for-chip-design",
-      "summary": "👍 23 | 💬 12",
+      "summary": "👍 71 | 💬 64",
       "source": "HackerNews",
       "pub_date": "2026-09-19T07:04:17",
-      "fetched_at": "2026-09-19T08:00:17.743251",
+      "fetched_at": "2026-09-19T12:00:16.817614",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 23 | 💬 12",
+      "ai_summary": "👍 71 | 💬 64",
       "keywords": [
         "its",
         "how",
@@ -342,22 +302,22 @@
       "importance": 0.5
     },
     {
-      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-      "link": "https://code.claude.com/docs/en/changelog",
-      "summary": "👍 423 | 💬 152",
+      "title": "How to Write with an LLM",
+      "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "summary": "👍 422 | 💬 289",
       "source": "HackerNews",
-      "pub_date": "2026-09-19T05:00:32",
-      "fetched_at": "2026-09-19T08:00:16.003350",
+      "pub_date": "2026-09-18T05:48:38",
+      "fetched_at": "2026-09-19T12:00:14.694622",
       "categories": [
         "ai"
       ],
-      "ai_summary": "👍 423 | 💬 152",
+      "ai_summary": "👍 422 | 💬 289",
       "keywords": [
-        "claude",
-        "md",
-        "code",
-        "now",
-        "reads"
+        "how",
+        "to",
+        "write",
+        "with",
+        "an"
       ],
       "importance": 0
     },
@@ -367,7 +327,7 @@
       "summary": "工程师的核心永远是Problem Solving。",
       "source": "量子位",
       "pub_date": "Thu, 17 Sep 2026 11:56:13 +0000",
-      "fetched_at": "2026-09-19T08:00:14.061153",
+      "fetched_at": "2026-09-19T12:00:05.607743",
       "categories": [
         "ai"
       ],
@@ -387,7 +347,7 @@
       "summary": "构建个体专属AI助理",
       "source": "量子位",
       "pub_date": "Thu, 17 Sep 2026 12:03:24 +0000",
-      "fetched_at": "2026-09-19T08:00:14.060997",
+      "fetched_at": "2026-09-19T12:00:05.607261",
       "categories": [
         "ai"
       ],
@@ -407,7 +367,7 @@
       "summary": "Git白学了？？？",
       "source": "量子位",
       "pub_date": "Fri, 18 Sep 2026 00:34:34 +0000",
-      "fetched_at": "2026-09-19T08:00:14.060853",
+      "fetched_at": "2026-09-19T12:00:05.606760",
       "categories": [
         "ai"
       ],
@@ -427,7 +387,7 @@
       "summary": "用通用AI去啃最硬的骨头，这条路走得通",
       "source": "量子位",
       "pub_date": "Fri, 18 Sep 2026 06:11:06 +0000",
-      "fetched_at": "2026-09-19T08:00:14.060582",
+      "fetched_at": "2026-09-19T12:00:05.606112",
       "categories": [
         "ai"
       ],
@@ -447,7 +407,7 @@
       "summary": "LimiX让模型理解数据背后的因果机制",
       "source": "量子位",
       "pub_date": "Fri, 18 Sep 2026 12:22:47 +0000",
-      "fetched_at": "2026-09-19T08:00:14.059943",
+      "fetched_at": "2026-09-19T12:00:05.605818",
       "categories": [
         "ai"
       ],
@@ -467,7 +427,7 @@
       "summary": "从一次成功到一万次稳定执行，具身智能还缺什么？",
       "source": "量子位",
       "pub_date": "Fri, 18 Sep 2026 13:16:33 +0000",
-      "fetched_at": "2026-09-19T08:00:14.059820",
+      "fetched_at": "2026-09-19T12:00:05.605603",
       "categories": [
         "robotics"
       ],
@@ -486,7 +446,7 @@
       "summary": "成果中唯一聚焦算电协同全链路运营的AI技术产品",
       "source": "量子位",
       "pub_date": "Fri, 18 Sep 2026 15:50:20 +0000",
-      "fetched_at": "2026-09-19T08:00:14.059659",
+      "fetched_at": "2026-09-19T12:00:05.605431",
       "categories": [
         "ai"
       ],
@@ -506,7 +466,7 @@
       "summary": "协同布局AI基础设施",
       "source": "量子位",
       "pub_date": "Fri, 18 Sep 2026 15:58:21 +0000",
-      "fetched_at": "2026-09-19T08:00:14.059461",
+      "fetched_at": "2026-09-19T12:00:05.605097",
       "categories": [
         "ai"
       ],
@@ -526,7 +486,7 @@
       "summary": "发表在《自然》期刊上的一项研究表明，移植到小鼠体内的人脑类器官能够重现大脑发育的某些特征，包括形成功能性神经网络，从而支持脑活动。这一成果得益于一种培育脑容量缩小的小鼠的方法。这种方法使得这些由人类细胞培养形成的三维类脑组织，即人脑类器官能够与小鼠大脑整合。该模型有望以比此前更深入的方式研究人脑组织的发育。研究结果显示，移植的类器官生长良好。它们占据了大部分空间，分化为多种人类脑细胞，组织形成了神经回路，并产生了类似大脑皮层组织的复杂结构。此外，整合形成的皮层组织可能造成了某些行为表现。研究人员将移植类器官和未移植类器官的皮层缺失小鼠进行了比较，发现它们在运动和记忆任务中的表现存在差异。",
       "source": "Solidot",
       "pub_date": "Thu, 17 Sep 2026 15:59:13 +0800",
-      "fetched_at": "2026-09-19T08:00:13.576337",
+      "fetched_at": "2026-09-19T12:00:05.009218",
       "categories": [
         "ai"
       ],
@@ -546,7 +506,7 @@
       "summary": "陈奕龙有 20 年出演影视剧的经验，由于工作机会日益稀少，他在 8 月与一家 AI 工作室签约，授权对方使用其面部肖像。陈奕龙的工作就是坐在摄像机前，根据导演的指令做出不同面部表情——如无表情凝视、怒视或惊讶。这家工作室将利用 AI 技术，以陈奕龙的面部图像为基础生成虚拟数字人，让其主演一部由 AI 生成的电影。现年 38 岁陈奕龙说道，“如果你无法战胜它，那就加入它。”雇佣陈奕龙的是总部位于深圳的 Feixiang Universe 工作室，创始人 Sun Wei 表示，之所以为一部唐朝背景的 AI 电影项目获取真人肖像授权主要是担心无意中窃取他人肖像。她指出，受 AI 训练数据偏差的影响，...",
       "source": "Solidot",
       "pub_date": "Thu, 17 Sep 2026 18:31:46 +0800",
-      "fetched_at": "2026-09-19T08:00:13.575220",
+      "fetched_at": "2026-09-19T12:00:05.008234",
       "categories": [
         "ai"
       ],
@@ -566,7 +526,7 @@
       "summary": "NASA 于 8 月 30 日使用 SpaceX 重型火箭 Falcon Heavy 成功发射了 Nancy Grace Roman 太空望远镜，目前正飞往日地之间的 L2 拉格朗日点，它需要三个月时间才能抵达目的地。Roman 望远镜耗资 43 亿美元，原计划执行 5+5 为期十年的任务，NASA 表示受益于精确的发射、巧妙规划的飞行轨道，地面操作团队的出色执行，望远镜有足够的燃料能执行 22 年的任务。NASA 称，Roman 望远镜控制推进器在发射后的第一次长点火燃烧仅用了 18 公斤的联氨燃料，远低于预留的 200 公斤。望远镜的实际重量为 8,056 公斤，比最大允许重量轻了两吨，因...",
       "source": "Solidot",
       "pub_date": "Thu, 17 Sep 2026 22:40:23 +0800",
-      "fetched_at": "2026-09-19T08:00:13.574780",
+      "fetched_at": "2026-09-19T12:00:05.007768",
       "categories": [
         "space"
       ],
@@ -586,7 +546,7 @@
       "summary": "根据发表在《科学》期刊上的一项研究，朝鲜在万塔山（Mt. Mantap）进行的地下核试验对该地区周边地壳产生了持久且延迟的影响，引发了在核爆结束后持续数年——甚至不断加剧——的地震活动。朝鲜位于万塔山下的丰溪里（Punggye-ri）核试验场在 2006 年至 2017 年间共进行了六次地下核试验。最后一次——也是规模最大的一次——核试验发生在 2017 年 9 月。这次爆炸的当量估计为 10 万至 25 万吨，美国地质调查局（USGS）将其记录为一次 6.3 级的地震事件。此外据卫星雷达测量报告，万塔山顶部发生了显著的地表形变。成都理工大学的研究人员和同事分析了自 2008 年以来在中国和韩...",
       "source": "Solidot",
       "pub_date": "Fri, 18 Sep 2026 13:17:40 +0800",
-      "fetched_at": "2026-09-19T08:00:13.573019",
+      "fetched_at": "2026-09-19T12:00:05.006080",
       "categories": [
         "space"
       ],
@@ -606,7 +566,7 @@
       "summary": "NASA 和 IBM 开源了首个月球模型 NASA-IBM Lunar Foundation Model，模型权重与代码向全球研究者开放，以供下载、微调和试验。这是首批专门面向月球科学、可公开使用的智能分析工具之一，目标是把数十年来分散的月球观测数据转化为可复用的分析工具，用于陨石坑测绘、火山地貌识别和极区水冰潜力评估。模型的训练数据以 NASA 月球勘测轨道飞行器为主。LRO 在轨约 17 年，覆盖大部分月面，其数据规模超过 NASA 其他行星任务总和。模型使用约 200 万个月球图像切片，其中包括逾 100 万张 1 米分辨率窄角相机图像和近 96.4 万张 100 米分辨率多光谱图像，并...",
       "source": "Solidot",
       "pub_date": "Fri, 18 Sep 2026 14:55:56 +0800",
-      "fetched_at": "2026-09-19T08:00:13.572148",
+      "fetched_at": "2026-09-19T12:00:05.005098",
       "categories": [
         "space"
       ],
@@ -626,7 +586,7 @@
       "summary": "美国《联邦公报》（Federal Register）网站被发现提供了基于阿里巴巴开放权重模型通义千问（Qwen）的 AI 搜索工具，具体部署时间未知，在被社媒用户注意到之后该工具于周三下线。此前 FBI 曾指控阿里巴巴蒸馏了 Anthropic 的模型。AI 专家表示，在《联邦公报》网站上使用中国 AI 工具未必会构成国家安全风险，但这引发了质疑：联邦政府的做法是否与其针对中国 AI 模型所传达的立场相矛盾。Information Technology and Innovation Foundation 主席 Daniel Castro 指出，美中在构建顶尖 AI 模型上展开激烈竞争，而美国政...",
       "source": "Solidot",
       "pub_date": "Fri, 18 Sep 2026 15:39:39 +0800",
-      "fetched_at": "2026-09-19T08:00:13.570988",
+      "fetched_at": "2026-09-19T12:00:05.004092",
       "categories": [
         "ai"
       ],
@@ -639,7 +599,47 @@
         "federal"
       ],
       "importance": 0.5
+    },
+    {
+      "title": "安全研究人员利用 Claude 成功入侵 OpenAI",
+      "link": "https://www.solidot.org/story?sid=85421",
+      "summary": "Hacktron 安全团队组合利用 OpenAI 的 SSO（单点登录）配置错误以及其社区论坛使用的 Discourse 软件 libheif 软件包堆缓冲区溢出漏洞，成功控制了多名 OpenAI 员工的 ChatGPT 账户。利用这些账户安全研究人员能访问 OpenAI 内部代码库，以及其他关联服务。他们向 OpenAI 和 Discourse 报告了 bug，从 OpenAI 获得了 6500 美元的赏金。安全研究人员利用了 OpenAI 竞争对手 Anthropic 的 Claude AI 工具去辅助发现 bug，以及实现远程代码执行 RCE。他们一开始使用的是较旧的模型 Opus 4....",
+      "source": "Solidot",
+      "pub_date": "Fri, 18 Sep 2026 23:17:50 +0800",
+      "fetched_at": "2026-09-19T12:00:05.002457",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Hacktron 安全团队组合利用 OpenAI 的 SSO（单点登录）配置错误以及其社区论坛使用的 Discourse 软件 libheif 软件包堆缓冲区溢出漏洞，成功控制了多名 OpenAI 员工的 ChatGPT 账户。利用这些账户安全研究人员能访问 OpenAI 内部代码库，以及其他关联服...",
+      "keywords": [
+        "openai",
+        "claude",
+        "discourse",
+        "bug",
+        "安全研究人员利用"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "85% 的日本游戏开发者在工作中使用生成式 AI",
+      "link": "https://www.solidot.org/story?sid=85422",
+      "summary": "日本计算机娱乐协会（Computer Entertainment Supplier's Association ）的年度行业报告《Video Game Industry Report》显示，85.8% 的日本游戏开发者在工作中使用生成式 AI——63% 的开发者表示每天都在使用，22.8% 的开发者则是偶尔使用，去年这一比例是 51%。开发者使用生成式 AI 最主要是为了“改进运营效率与生产力”，其次是“缩短开发周期”以及“降低开发与运营成本”。多数受访者表示不会直接使用 AI 生成内容。报告称，AI 最常见用途是生成视觉素材和图像，其次是故事和文本生成，最后是编程辅助。32% 的游戏公司利用...",
+      "source": "Solidot",
+      "pub_date": "Fri, 18 Sep 2026 23:48:43 +0800",
+      "fetched_at": "2026-09-19T12:00:05.002016",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "日本计算机娱乐协会（Computer Entertainment Supplier's Association ）的年度行业报告《Video Game Industry Report》显示，85.8% 的日本游戏开发者在工作中使用生成式 AI——63% 的开发者表示每天都在使用，22.8% 的开发者...",
+      "keywords": [
+        "ai",
+        "的日本游戏开发者在工作中使用生成式",
+        "日本计算机娱乐协会",
+        "computer",
+        "entertainment"
+      ],
+      "importance": 0
     }
   ],
-  "updated_at": "2026-09-19T08:00:35.193418"
+  "updated_at": "2026-09-19T12:00:34.228359"
 }

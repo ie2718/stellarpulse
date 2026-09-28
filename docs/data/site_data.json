@@ -5,21 +5,21 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-09-21T12:00:32.895939",
-    "total_items": 17
+    "last_update": "2026-09-28T08:00:25.585488",
+    "total_items": 10
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 17
+      "count": 9
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 0
+      "count": 2
     },
     "space": {
       "name": "Space",
@@ -29,556 +29,415 @@
     }
   },
   "stats": {
-    "total_items": 17,
-    "today_items": 17,
+    "total_items": 10,
+    "today_items": 10,
     "sources": {
-      "Solidot": 5,
       "量子位": 8,
-      "HackerNews": 4
+      "Solidot": 2
     },
-    "last_update": "2026-09-21T12:00:32.895939"
+    "last_update": "2026-09-28T08:00:25.585488"
   },
   "trending": [
     {
-      "title": "微软花费 12 万美元 token 将 Copilot 运行时移植到 Rust 语言",
-      "link": "https://www.solidot.org/story?sid=85433",
-      "summary": "微软利用使用 GPT-5.6 Sol 和 Claude Opus 4.8 的 AI 智能体、历时 14.5 周，花费 12 万美元 token 将 Copilot 运行时从 TypeScript 语言移植到 Rust 语言。该项目采用逐个更新运行时模块的方式执行，共进行了 135 次发布，平均每天提交约 1.3 个 Pull Request，最终将 43 万行 TypeScript 代码转换为 80 万行可用于生产的 Rust 代码。测试显示，原 TypeScript 代码每秒能完成 7.55 个生命周期（one-turn session lifecycles），而 Rust 代码每秒 120...",
-      "source": "Solidot",
-      "pub_date": "Sun, 20 Sep 2026 23:09:59 +0800",
-      "fetched_at": "2026-09-21T12:00:05.747026",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "微软利用使用 GPT-5.6 Sol 和 Claude Opus 4.8 的 AI 智能体、历时 14.5 周，花费 12 万美元 token 将 Copilot 运行时从 TypeScript 语言移植到 Rust 语言。该项目采用逐个更新运行时模块的方式执行，共进行了 135 次发布，平均每天提...",
-      "keywords": [
-        "rust",
-        "typescript",
-        "万美元",
-        "token",
-        "copilot"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "微软高管称 AI 的训练数据是人类历史上最大规模的劳动成果盗窃",
-      "link": "https://www.solidot.org/story?sid=85423",
-      "summary": "根据内部文件，微软应用科学总监 Brent Hecht 警告，抓取新闻内容训练 AI 是一次规模空前的盗窃，可能是人类历史上最大规模的劳动成果盗窃。他不认为抓取新闻内容训练 AI 是合理使用，认为这种做法完全是对合理使用理念的嘲弄。微软的另一份文件认为会形成“恶性循环”，会同时伤害模型和整个 Web。OpenAI 的产品如 ChatGPT 可能会危及新闻出版商的经济基础。OpenAI 和微软的数据都显示这一预测是正确的。微软的数据指出，部分新闻出版商网站的点击率下降了 83%-93%，其它新闻机构的点击率下降了 51%-94%。Hecht 承认，“几乎没有人希望自己创作的内容被以这种方式使用，...",
-      "source": "Solidot",
-      "pub_date": "Sat, 19 Sep 2026 00:11:37 +0800",
-      "fetched_at": "2026-09-21T12:00:05.751394",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "根据内部文件，微软应用科学总监 Brent Hecht 警告，抓取新闻内容训练 AI 是一次规模空前的盗窃，可能是人类历史上最大规模的劳动成果盗窃。他不认为抓取新闻内容训练 AI 是合理使用，认为这种做法完全是对合理使用理念的嘲弄。微软的另一份文件认为会形成“恶性循环”，会同时伤害模型和整个 Web...",
-      "keywords": [
-        "ai",
-        "hecht",
-        "openai",
-        "微软高管称",
-        "的训练数据是人类历史上最大规模的劳动成果盗窃"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "安全研究人员利用 Claude 成功入侵 OpenAI",
-      "link": "https://www.solidot.org/story?sid=85421",
-      "summary": "Hacktron 安全团队组合利用 OpenAI 的 SSO（单点登录）配置错误以及其社区论坛使用的 Discourse 软件 libheif 软件包堆缓冲区溢出漏洞，成功控制了多名 OpenAI 员工的 ChatGPT 账户。利用这些账户安全研究人员能访问 OpenAI 内部代码库，以及其他关联服务。他们向 OpenAI 和 Discourse 报告了 bug，从 OpenAI 获得了 6500 美元的赏金。安全研究人员利用了 OpenAI 竞争对手 Anthropic 的 Claude AI 工具去辅助发现 bug，以及实现远程代码执行 RCE。他们一开始使用的是较旧的模型 Opus 4....",
-      "source": "Solidot",
-      "pub_date": "Fri, 18 Sep 2026 23:17:50 +0800",
-      "fetched_at": "2026-09-21T12:00:05.752339",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Hacktron 安全团队组合利用 OpenAI 的 SSO（单点登录）配置错误以及其社区论坛使用的 Discourse 软件 libheif 软件包堆缓冲区溢出漏洞，成功控制了多名 OpenAI 员工的 ChatGPT 账户。利用这些账户安全研究人员能访问 OpenAI 内部代码库，以及其他关联服...",
-      "keywords": [
-        "openai",
-        "claude",
-        "discourse",
-        "bug",
-        "安全研究人员利用"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "美国政府网站使用了阿里巴巴的千问模型",
-      "link": "https://www.solidot.org/story?sid=85417",
-      "summary": "美国《联邦公报》（Federal Register）网站被发现提供了基于阿里巴巴开放权重模型通义千问（Qwen）的 AI 搜索工具，具体部署时间未知，在被社媒用户注意到之后该工具于周三下线。此前 FBI 曾指控阿里巴巴蒸馏了 Anthropic 的模型。AI 专家表示，在《联邦公报》网站上使用中国 AI 工具未必会构成国家安全风险，但这引发了质疑：联邦政府的做法是否与其针对中国 AI 模型所传达的立场相矛盾。Information Technology and Innovation Foundation 主席 Daniel Castro 指出，美中在构建顶尖 AI 模型上展开激烈竞争，而美国政...",
-      "source": "Solidot",
-      "pub_date": "Fri, 18 Sep 2026 15:39:39 +0800",
-      "fetched_at": "2026-09-21T12:00:05.754025",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "美国《联邦公报》（Federal Register）网站被发现提供了基于阿里巴巴开放权重模型通义千问（Qwen）的 AI 搜索工具，具体部署时间未知，在被社媒用户注意到之后该工具于周三下线。此前 FBI 曾指控阿里巴巴蒸馏了 Anthropic 的模型。AI 专家表示，在《联邦公报》网站上使用中国 ...",
-      "keywords": [
-        "ai",
-        "联邦公报",
-        "美国政府网站使用了阿里巴巴的千问模型",
-        "美国",
-        "federal"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
-      "link": "https://www.qbitai.com/2026/09/493114.html",
-      "summary": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。",
+      "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
+      "link": "https://www.qbitai.com/2026/09/497425.html",
+      "summary": "vLLM人马创业公司团队出品",
       "source": "量子位",
-      "pub_date": "Mon, 21 Sep 2026 02:28:46 +0000",
-      "fetched_at": "2026-09-21T12:00:06.309191",
+      "pub_date": "Sat, 26 Sep 2026 07:12:05 +0000",
+      "fetched_at": "2026-09-28T08:00:07.952192",
       "categories": [
         "ai"
       ],
-      "ai_summary": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。",
-      "keywords": [
-        "ai",
-        "虚拟细胞",
-        "aivc",
-        "技术趋势",
-        "产业生态与应用前景研究报告"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA",
-      "link": "https://www.qbitai.com/2026/09/493091.html",
-      "summary": "近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上",
-      "source": "量子位",
-      "pub_date": "Mon, 21 Sep 2026 01:48:50 +0000",
-      "fetched_at": "2026-09-21T12:00:06.309676",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上",
-      "keywords": [
-        "ai",
-        "超级智能体",
-        "迪迪虾",
-        "汽车行业首个",
-        "来了"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
-      "link": "https://www.qbitai.com/2026/09/492912.html",
-      "summary": "亚马逊云科技给企业安全用Agent打了个样",
-      "source": "量子位",
-      "pub_date": "Sun, 20 Sep 2026 08:01:13 +0000",
-      "fetched_at": "2026-09-21T12:00:06.310727",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "亚马逊云科技给企业安全用Agent打了个样",
+      "ai_summary": "vLLM人马创业公司团队出品",
       "keywords": [
         "谷歌",
+        "tpu",
+        "kimi",
+        "比英伟达",
+        "gpu"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "龙芯 CPU 的原子加指令偶尔会丢失",
+      "link": "https://www.solidot.org/story?sid=85484",
+      "summary": "今年 2 月 Debian 13 的龙芯架构移植版 loong13 的维护者在编译打包过程中发现，normaliz 的自带测试会死循环导致打包超时。第一次排查发现原子加指令会在特定情况下丢失更新，但原因未知。今年 8 月，开发者在 AI 的帮助下重新寻找 normaliz 中原子加丢失的问题。他们让 AI 去找最小复现，在这个过程中负责指挥 AI 调查的方向。大概两天后找到了一个稳定的复现程序，才发现事情的根源是：CPU 的原子加法指令，偶尔会不原子。开发者向龙芯报告了问题，两周后龙芯给出了修复的测试固件，确认问题解决。龙芯表示会在国庆节（10 月 1 日）之前发布固件。该问题主要影响使用 L...",
+      "source": "Solidot",
+      "pub_date": "Sun, 27 Sep 2026 17:57:16 +0800",
+      "fetched_at": "2026-09-28T08:00:07.573463",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "今年 2 月 Debian 13 的龙芯架构移植版 loong13 的维护者在编译打包过程中发现，normaliz 的自带测试会死循环导致打包超时。第一次排查发现原子加指令会在特定情况下丢失更新，但原因未知。今年 8 月，开发者在 AI 的帮助下重新寻找 normaliz 中原子加丢失的问题。他们让...",
+      "keywords": [
         "ai",
-        "首次",
-        "越狱",
-        "竟然自己破解密码入侵三家公司"
+        "cpu",
+        "今年",
+        "normaliz",
+        "龙芯"
       ],
       "importance": 0.5
     },
     {
-      "title": "85% 的日本游戏开发者在工作中使用生成式 AI",
-      "link": "https://www.solidot.org/story?sid=85422",
-      "summary": "日本计算机娱乐协会（Computer Entertainment Supplier's Association ）的年度行业报告《Video Game Industry Report》显示，85.8% 的日本游戏开发者在工作中使用生成式 AI——63% 的开发者表示每天都在使用，22.8% 的开发者则是偶尔使用，去年这一比例是 51%。开发者使用生成式 AI 最主要是为了“改进运营效率与生产力”，其次是“缩短开发周期”以及“降低开发与运营成本”。多数受访者表示不会直接使用 AI 生成内容。报告称，AI 最常见用途是生成视觉素材和图像，其次是故事和文本生成，最后是编程辅助。32% 的游戏公司利用...",
+      "title": "中国各地推动 AI 视频产业化",
+      "link": "https://www.solidot.org/story?sid=85475",
+      "summary": "两年前 Zhu Zhili 选择了深圳作为其 AI 电影工作室的办公地点，今年他接到了来自中国各地政府和产业园官员的电话，内容基本相同，即希望将 AI 电影业务带到当地。中国各地正在推动 AI 视频的产业化，类似太阳能、电动汽车和机器人。AI 电影制作人表示，低廉的制作成本是吸引他们投身 AI 创作的主要原因。CCTV 报道 2026 年上半年，AI 短剧的制作成本从每分钟 5,000 元降至几百元。可能和太阳能等领域一样，AI 视频行业也正面临产能过剩。DataEye 的数据显示，今年上半年，抖音上推出了 221,900 部新 AI 视频，其中只有 1,055 部播放量逾 1 亿次。国家电影...",
       "source": "Solidot",
-      "pub_date": "Fri, 18 Sep 2026 23:48:43 +0800",
-      "fetched_at": "2026-09-21T12:00:05.751819",
+      "pub_date": "Fri, 25 Sep 2026 19:11:10 +0800",
+      "fetched_at": "2026-09-28T08:00:07.577731",
       "categories": [
-        "ai"
+        "ai",
+        "robotics"
       ],
-      "ai_summary": "日本计算机娱乐协会（Computer Entertainment Supplier's Association ）的年度行业报告《Video Game Industry Report》显示，85.8% 的日本游戏开发者在工作中使用生成式 AI——63% 的开发者表示每天都在使用，22.8% 的开发者...",
+      "ai_summary": "两年前 Zhu Zhili 选择了深圳作为其 AI 电影工作室的办公地点，今年他接到了来自中国各地政府和产业园官员的电话，内容基本相同，即希望将 AI 电影业务带到当地。中国各地正在推动 AI 视频的产业化，类似太阳能、电动汽车和机器人。AI 电影制作人表示，低廉的制作成本是吸引他们投身 AI 创作...",
       "keywords": [
         "ai",
-        "的日本游戏开发者在工作中使用生成式",
-        "日本计算机娱乐协会",
-        "computer",
-        "entertainment"
+        "中国各地推动",
+        "视频产业化",
+        "两年前",
+        "zhu"
       ],
-      "importance": 0
+      "importance": 0.5
     },
     {
-      "title": "IDC评估中国AI算力管理平台：范式综合评分位列第一，四项关键维度获满分",
-      "link": "https://www.qbitai.com/2026/09/493109.html",
-      "summary": "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。",
+      "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+      "link": "https://www.qbitai.com/2026/09/498633.html",
+      "summary": "",
       "source": "量子位",
-      "pub_date": "Mon, 21 Sep 2026 02:17:33 +0000",
-      "fetched_at": "2026-09-21T12:00:06.309441",
+      "pub_date": "Sun, 27 Sep 2026 14:20:35 +0000",
+      "fetched_at": "2026-09-28T08:00:07.951504",
       "categories": [
         "ai"
       ],
-      "ai_summary": "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。",
+      "ai_summary": "",
       "keywords": [
+        "量子",
         "ai",
-        "idc",
-        "评估中国",
-        "算力管理平台",
-        "范式综合评分位列第一"
+        "创业来了一支",
+        "清华梦之队",
+        "亿估值"
       ],
-      "importance": 0
+      "importance": 0.5
     },
     {
-      "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
-      "link": "https://www.qbitai.com/2026/09/492973.html",
-      "summary": "剪映Hub+剪映助手，好用",
+      "title": "啥题啊能干崩OpenAI最强模型训练…",
+      "link": "https://www.qbitai.com/2026/09/498546.html",
+      "summary": "",
       "source": "量子位",
-      "pub_date": "Sun, 20 Sep 2026 14:30:26 +0000",
-      "fetched_at": "2026-09-21T12:00:06.309899",
+      "pub_date": "Sun, 27 Sep 2026 09:44:16 +0000",
+      "fetched_at": "2026-09-28T08:00:07.951781",
       "categories": [
         "ai"
       ],
-      "ai_summary": "剪映Hub+剪映助手，好用",
+      "ai_summary": "",
+      "keywords": [
+        "啥题啊能干崩",
+        "openai",
+        "最强模型训练"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+      "link": "https://www.qbitai.com/2026/09/498478.html",
+      "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
+      "source": "量子位",
+      "pub_date": "Sat, 26 Sep 2026 11:49:43 +0000",
+      "fetched_at": "2026-09-28T08:00:07.951862",
+      "categories": [
+        "robotics"
+      ],
+      "ai_summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
+      "keywords": [
+        "索辰科技加码世界模型",
+        "与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+        "世界模型",
+        "开始成为具身智能跨越商业化",
+        "奇点"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+      "link": "https://www.qbitai.com/2026/09/497624.html",
+      "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
+      "source": "量子位",
+      "pub_date": "Sat, 26 Sep 2026 09:01:00 +0000",
+      "fetched_at": "2026-09-28T08:00:07.952025",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
+      "keywords": [
+        "github",
+        "笔记本跑",
+        "亿参数",
+        "glm",
+        "gpu"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
+      "link": "https://www.qbitai.com/2026/09/497613.html",
+      "summary": "大伟哥：如果做不到，一年两年之后过来打我脸",
+      "source": "量子位",
+      "pub_date": "Sat, 26 Sep 2026 07:18:05 +0000",
+      "fetched_at": "2026-09-28T08:00:07.952112",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "大伟哥：如果做不到，一年两年之后过来打我脸",
+      "keywords": [
+        "在云栖大会",
+        "我终于看懂了米哈游千亿",
+        "ai",
+        "野心",
+        "大伟哥"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
+      "link": "https://www.qbitai.com/2026/09/497382.html",
+      "summary": "还把「密钥」叫战利品",
+      "source": "量子位",
+      "pub_date": "Sat, 26 Sep 2026 07:04:15 +0000",
+      "fetched_at": "2026-09-28T08:00:07.952265",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "还把「密钥」叫战利品",
+      "keywords": [
+        "openai",
+        "失控",
+        "agent",
+        "还找",
+        "deepseek"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+      "link": "https://www.qbitai.com/2026/09/498271.html",
+      "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
+      "source": "量子位",
+      "pub_date": "Sat, 26 Sep 2026 09:07:41 +0000",
+      "fetched_at": "2026-09-28T08:00:07.951944",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
       "keywords": [
         "ai",
-        "刚刚",
-        "剪映发了个大的",
-        "生视频和",
-        "剪辑的壁"
+        "simate",
+        "开始研究",
+        "physical",
+        "fsd"
       ],
       "importance": 0
     }
   ],
   "latest": [
     {
-      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
-      "link": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-      "summary": "👍 290 | 💬 237",
-      "source": "HackerNews",
-      "pub_date": "2026-09-20T14:16:42",
-      "fetched_at": "2026-09-21T12:00:27.611472",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 290 | 💬 237",
-      "keywords": [
-        "spain",
-        "orders",
-        "blocks",
-        "on",
-        "archive"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Amiga Unix, Again",
-      "link": "https://amigaux.org/",
-      "summary": "👍 28 | 💬 11",
-      "source": "HackerNews",
-      "pub_date": "2026-09-21T07:57:10",
-      "fetched_at": "2026-09-21T12:00:20.758989",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 28 | 💬 11",
-      "keywords": [
-        "amiga",
-        "unix",
-        "again"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "Pirate Face Rescues LLM Models from Deletion",
-      "link": "https://pirateface.co/",
-      "summary": "👍 481 | 💬 139",
-      "source": "HackerNews",
-      "pub_date": "2026-09-20T23:16:07",
-      "fetched_at": "2026-09-21T12:00:19.728332",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 481 | 💬 139",
-      "keywords": [
-        "pirate",
-        "face",
-        "rescues",
-        "llm",
-        "models"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-      "summary": "👍 668 | 💬 352",
-      "source": "HackerNews",
-      "pub_date": "2026-09-20T23:18:44",
-      "fetched_at": "2026-09-21T12:00:10.520343",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "👍 668 | 💬 352",
-      "keywords": [
-        "chatgpt",
-        "now",
-        "knows",
-        "what",
-        "you"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
-      "link": "https://www.qbitai.com/2026/09/492912.html",
-      "summary": "亚马逊云科技给企业安全用Agent打了个样",
+      "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
+      "link": "https://www.qbitai.com/2026/09/497382.html",
+      "summary": "还把「密钥」叫战利品",
       "source": "量子位",
-      "pub_date": "Sun, 20 Sep 2026 08:01:13 +0000",
-      "fetched_at": "2026-09-21T12:00:06.310727",
+      "pub_date": "Sat, 26 Sep 2026 07:04:15 +0000",
+      "fetched_at": "2026-09-28T08:00:07.952265",
       "categories": [
         "ai"
       ],
-      "ai_summary": "亚马逊云科技给企业安全用Agent打了个样",
+      "ai_summary": "还把「密钥」叫战利品",
+      "keywords": [
+        "openai",
+        "失控",
+        "agent",
+        "还找",
+        "deepseek"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
+      "link": "https://www.qbitai.com/2026/09/497425.html",
+      "summary": "vLLM人马创业公司团队出品",
+      "source": "量子位",
+      "pub_date": "Sat, 26 Sep 2026 07:12:05 +0000",
+      "fetched_at": "2026-09-28T08:00:07.952192",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "vLLM人马创业公司团队出品",
       "keywords": [
         "谷歌",
+        "tpu",
+        "kimi",
+        "比英伟达",
+        "gpu"
+      ],
+      "importance": 1.0
+    },
+    {
+      "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
+      "link": "https://www.qbitai.com/2026/09/497613.html",
+      "summary": "大伟哥：如果做不到，一年两年之后过来打我脸",
+      "source": "量子位",
+      "pub_date": "Sat, 26 Sep 2026 07:18:05 +0000",
+      "fetched_at": "2026-09-28T08:00:07.952112",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "大伟哥：如果做不到，一年两年之后过来打我脸",
+      "keywords": [
+        "在云栖大会",
+        "我终于看懂了米哈游千亿",
         "ai",
-        "首次",
-        "越狱",
-        "竟然自己破解密码入侵三家公司"
+        "野心",
+        "大伟哥"
       ],
       "importance": 0.5
     },
     {
-      "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
-      "link": "https://www.qbitai.com/2026/09/492939.html",
-      "summary": "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果",
+      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+      "link": "https://www.qbitai.com/2026/09/497624.html",
+      "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
       "source": "量子位",
-      "pub_date": "Sun, 20 Sep 2026 08:30:32 +0000",
-      "fetched_at": "2026-09-21T12:00:06.310525",
+      "pub_date": "Sat, 26 Sep 2026 09:01:00 +0000",
+      "fetched_at": "2026-09-28T08:00:07.952025",
       "categories": [
         "ai"
       ],
-      "ai_summary": "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果",
+      "ai_summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
       "keywords": [
-        "apus",
-        "jev",
-        "开源国内首批",
-        "跨平台复现",
-        "国产模型实现秒级决策"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
-      "link": "https://www.qbitai.com/2026/09/492946.html",
-      "summary": "AI办公这块蛋糕，中国电信可能要先切走一块了。",
-      "source": "量子位",
-      "pub_date": "Sun, 20 Sep 2026 12:22:41 +0000",
-      "fetched_at": "2026-09-21T12:00:06.310306",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "AI办公这块蛋糕，中国电信可能要先切走一块了。",
-      "keywords": [
-        "ai",
-        "一张",
-        "就能跑",
-        "全栈国产模型",
-        "办公搬到企业本地"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？",
-      "link": "https://www.qbitai.com/2026/09/493068.html",
-      "summary": "AI越来越能干，企业该怎么用",
-      "source": "量子位",
-      "pub_date": "Sun, 20 Sep 2026 14:23:52 +0000",
-      "fetched_at": "2026-09-21T12:00:06.310108",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "AI越来越能干，企业该怎么用",
-      "keywords": [
-        "ai",
-        "华为首发企业",
-        "白皮书",
-        "让员工更快了",
-        "怎样让整个企业受益"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
-      "link": "https://www.qbitai.com/2026/09/492973.html",
-      "summary": "剪映Hub+剪映助手，好用",
-      "source": "量子位",
-      "pub_date": "Sun, 20 Sep 2026 14:30:26 +0000",
-      "fetched_at": "2026-09-21T12:00:06.309899",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "剪映Hub+剪映助手，好用",
-      "keywords": [
-        "ai",
-        "刚刚",
-        "剪映发了个大的",
-        "生视频和",
-        "剪辑的壁"
-      ],
-      "importance": 0
-    },
-    {
-      "title": "汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA",
-      "link": "https://www.qbitai.com/2026/09/493091.html",
-      "summary": "近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上",
-      "source": "量子位",
-      "pub_date": "Mon, 21 Sep 2026 01:48:50 +0000",
-      "fetched_at": "2026-09-21T12:00:06.309676",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上",
-      "keywords": [
-        "ai",
-        "超级智能体",
-        "迪迪虾",
-        "汽车行业首个",
-        "来了"
+        "github",
+        "笔记本跑",
+        "亿参数",
+        "glm",
+        "gpu"
       ],
       "importance": 0.5
     },
     {
-      "title": "IDC评估中国AI算力管理平台：范式综合评分位列第一，四项关键维度获满分",
-      "link": "https://www.qbitai.com/2026/09/493109.html",
-      "summary": "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。",
+      "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+      "link": "https://www.qbitai.com/2026/09/498271.html",
+      "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
       "source": "量子位",
-      "pub_date": "Mon, 21 Sep 2026 02:17:33 +0000",
-      "fetched_at": "2026-09-21T12:00:06.309441",
+      "pub_date": "Sat, 26 Sep 2026 09:07:41 +0000",
+      "fetched_at": "2026-09-28T08:00:07.951944",
       "categories": [
         "ai"
       ],
-      "ai_summary": "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。",
+      "ai_summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
       "keywords": [
         "ai",
-        "idc",
-        "评估中国",
-        "算力管理平台",
-        "范式综合评分位列第一"
+        "simate",
+        "开始研究",
+        "physical",
+        "fsd"
       ],
       "importance": 0
     },
     {
-      "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
-      "link": "https://www.qbitai.com/2026/09/493114.html",
-      "summary": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。",
+      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+      "link": "https://www.qbitai.com/2026/09/498478.html",
+      "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
       "source": "量子位",
-      "pub_date": "Mon, 21 Sep 2026 02:28:46 +0000",
-      "fetched_at": "2026-09-21T12:00:06.309191",
+      "pub_date": "Sat, 26 Sep 2026 11:49:43 +0000",
+      "fetched_at": "2026-09-28T08:00:07.951862",
       "categories": [
-        "ai"
+        "robotics"
       ],
-      "ai_summary": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。",
+      "ai_summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
       "keywords": [
-        "ai",
-        "虚拟细胞",
-        "aivc",
-        "技术趋势",
-        "产业生态与应用前景研究报告"
+        "索辰科技加码世界模型",
+        "与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+        "世界模型",
+        "开始成为具身智能跨越商业化",
+        "奇点"
       ],
       "importance": 0.5
     },
     {
-      "title": "美国政府网站使用了阿里巴巴的千问模型",
-      "link": "https://www.solidot.org/story?sid=85417",
-      "summary": "美国《联邦公报》（Federal Register）网站被发现提供了基于阿里巴巴开放权重模型通义千问（Qwen）的 AI 搜索工具，具体部署时间未知，在被社媒用户注意到之后该工具于周三下线。此前 FBI 曾指控阿里巴巴蒸馏了 Anthropic 的模型。AI 专家表示，在《联邦公报》网站上使用中国 AI 工具未必会构成国家安全风险，但这引发了质疑：联邦政府的做法是否与其针对中国 AI 模型所传达的立场相矛盾。Information Technology and Innovation Foundation 主席 Daniel Castro 指出，美中在构建顶尖 AI 模型上展开激烈竞争，而美国政...",
-      "source": "Solidot",
-      "pub_date": "Fri, 18 Sep 2026 15:39:39 +0800",
-      "fetched_at": "2026-09-21T12:00:05.754025",
+      "title": "啥题啊能干崩OpenAI最强模型训练…",
+      "link": "https://www.qbitai.com/2026/09/498546.html",
+      "summary": "",
+      "source": "量子位",
+      "pub_date": "Sun, 27 Sep 2026 09:44:16 +0000",
+      "fetched_at": "2026-09-28T08:00:07.951781",
       "categories": [
         "ai"
       ],
-      "ai_summary": "美国《联邦公报》（Federal Register）网站被发现提供了基于阿里巴巴开放权重模型通义千问（Qwen）的 AI 搜索工具，具体部署时间未知，在被社媒用户注意到之后该工具于周三下线。此前 FBI 曾指控阿里巴巴蒸馏了 Anthropic 的模型。AI 专家表示，在《联邦公报》网站上使用中国 ...",
+      "ai_summary": "",
       "keywords": [
-        "ai",
-        "联邦公报",
-        "美国政府网站使用了阿里巴巴的千问模型",
-        "美国",
-        "federal"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "安全研究人员利用 Claude 成功入侵 OpenAI",
-      "link": "https://www.solidot.org/story?sid=85421",
-      "summary": "Hacktron 安全团队组合利用 OpenAI 的 SSO（单点登录）配置错误以及其社区论坛使用的 Discourse 软件 libheif 软件包堆缓冲区溢出漏洞，成功控制了多名 OpenAI 员工的 ChatGPT 账户。利用这些账户安全研究人员能访问 OpenAI 内部代码库，以及其他关联服务。他们向 OpenAI 和 Discourse 报告了 bug，从 OpenAI 获得了 6500 美元的赏金。安全研究人员利用了 OpenAI 竞争对手 Anthropic 的 Claude AI 工具去辅助发现 bug，以及实现远程代码执行 RCE。他们一开始使用的是较旧的模型 Opus 4....",
-      "source": "Solidot",
-      "pub_date": "Fri, 18 Sep 2026 23:17:50 +0800",
-      "fetched_at": "2026-09-21T12:00:05.752339",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Hacktron 安全团队组合利用 OpenAI 的 SSO（单点登录）配置错误以及其社区论坛使用的 Discourse 软件 libheif 软件包堆缓冲区溢出漏洞，成功控制了多名 OpenAI 员工的 ChatGPT 账户。利用这些账户安全研究人员能访问 OpenAI 内部代码库，以及其他关联服...",
-      "keywords": [
+        "啥题啊能干崩",
         "openai",
-        "claude",
-        "discourse",
-        "bug",
-        "安全研究人员利用"
+        "最强模型训练"
       ],
-      "importance": 1.0
+      "importance": 0.5
     },
     {
-      "title": "85% 的日本游戏开发者在工作中使用生成式 AI",
-      "link": "https://www.solidot.org/story?sid=85422",
-      "summary": "日本计算机娱乐协会（Computer Entertainment Supplier's Association ）的年度行业报告《Video Game Industry Report》显示，85.8% 的日本游戏开发者在工作中使用生成式 AI——63% 的开发者表示每天都在使用，22.8% 的开发者则是偶尔使用，去年这一比例是 51%。开发者使用生成式 AI 最主要是为了“改进运营效率与生产力”，其次是“缩短开发周期”以及“降低开发与运营成本”。多数受访者表示不会直接使用 AI 生成内容。报告称，AI 最常见用途是生成视觉素材和图像，其次是故事和文本生成，最后是编程辅助。32% 的游戏公司利用...",
-      "source": "Solidot",
-      "pub_date": "Fri, 18 Sep 2026 23:48:43 +0800",
-      "fetched_at": "2026-09-21T12:00:05.751819",
+      "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+      "link": "https://www.qbitai.com/2026/09/498633.html",
+      "summary": "",
+      "source": "量子位",
+      "pub_date": "Sun, 27 Sep 2026 14:20:35 +0000",
+      "fetched_at": "2026-09-28T08:00:07.951504",
       "categories": [
         "ai"
       ],
-      "ai_summary": "日本计算机娱乐协会（Computer Entertainment Supplier's Association ）的年度行业报告《Video Game Industry Report》显示，85.8% 的日本游戏开发者在工作中使用生成式 AI——63% 的开发者表示每天都在使用，22.8% 的开发者...",
+      "ai_summary": "",
+      "keywords": [
+        "量子",
+        "ai",
+        "创业来了一支",
+        "清华梦之队",
+        "亿估值"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "中国各地推动 AI 视频产业化",
+      "link": "https://www.solidot.org/story?sid=85475",
+      "summary": "两年前 Zhu Zhili 选择了深圳作为其 AI 电影工作室的办公地点，今年他接到了来自中国各地政府和产业园官员的电话，内容基本相同，即希望将 AI 电影业务带到当地。中国各地正在推动 AI 视频的产业化，类似太阳能、电动汽车和机器人。AI 电影制作人表示，低廉的制作成本是吸引他们投身 AI 创作的主要原因。CCTV 报道 2026 年上半年，AI 短剧的制作成本从每分钟 5,000 元降至几百元。可能和太阳能等领域一样，AI 视频行业也正面临产能过剩。DataEye 的数据显示，今年上半年，抖音上推出了 221,900 部新 AI 视频，其中只有 1,055 部播放量逾 1 亿次。国家电影...",
+      "source": "Solidot",
+      "pub_date": "Fri, 25 Sep 2026 19:11:10 +0800",
+      "fetched_at": "2026-09-28T08:00:07.577731",
+      "categories": [
+        "ai",
+        "robotics"
+      ],
+      "ai_summary": "两年前 Zhu Zhili 选择了深圳作为其 AI 电影工作室的办公地点，今年他接到了来自中国各地政府和产业园官员的电话，内容基本相同，即希望将 AI 电影业务带到当地。中国各地正在推动 AI 视频的产业化，类似太阳能、电动汽车和机器人。AI 电影制作人表示，低廉的制作成本是吸引他们投身 AI 创作...",
       "keywords": [
         "ai",
-        "的日本游戏开发者在工作中使用生成式",
-        "日本计算机娱乐协会",
-        "computer",
-        "entertainment"
+        "中国各地推动",
+        "视频产业化",
+        "两年前",
+        "zhu"
       ],
-      "importance": 0
+      "importance": 0.5
     },
     {
-      "title": "微软高管称 AI 的训练数据是人类历史上最大规模的劳动成果盗窃",
-      "link": "https://www.solidot.org/story?sid=85423",
-      "summary": "根据内部文件，微软应用科学总监 Brent Hecht 警告，抓取新闻内容训练 AI 是一次规模空前的盗窃，可能是人类历史上最大规模的劳动成果盗窃。他不认为抓取新闻内容训练 AI 是合理使用，认为这种做法完全是对合理使用理念的嘲弄。微软的另一份文件认为会形成“恶性循环”，会同时伤害模型和整个 Web。OpenAI 的产品如 ChatGPT 可能会危及新闻出版商的经济基础。OpenAI 和微软的数据都显示这一预测是正确的。微软的数据指出，部分新闻出版商网站的点击率下降了 83%-93%，其它新闻机构的点击率下降了 51%-94%。Hecht 承认，“几乎没有人希望自己创作的内容被以这种方式使用，...",
+      "title": "龙芯 CPU 的原子加指令偶尔会丢失",
+      "link": "https://www.solidot.org/story?sid=85484",
+      "summary": "今年 2 月 Debian 13 的龙芯架构移植版 loong13 的维护者在编译打包过程中发现，normaliz 的自带测试会死循环导致打包超时。第一次排查发现原子加指令会在特定情况下丢失更新，但原因未知。今年 8 月，开发者在 AI 的帮助下重新寻找 normaliz 中原子加丢失的问题。他们让 AI 去找最小复现，在这个过程中负责指挥 AI 调查的方向。大概两天后找到了一个稳定的复现程序，才发现事情的根源是：CPU 的原子加法指令，偶尔会不原子。开发者向龙芯报告了问题，两周后龙芯给出了修复的测试固件，确认问题解决。龙芯表示会在国庆节（10 月 1 日）之前发布固件。该问题主要影响使用 L...",
       "source": "Solidot",
-      "pub_date": "Sat, 19 Sep 2026 00:11:37 +0800",
-      "fetched_at": "2026-09-21T12:00:05.751394",
+      "pub_date": "Sun, 27 Sep 2026 17:57:16 +0800",
+      "fetched_at": "2026-09-28T08:00:07.573463",
       "categories": [
         "ai"
       ],
-      "ai_summary": "根据内部文件，微软应用科学总监 Brent Hecht 警告，抓取新闻内容训练 AI 是一次规模空前的盗窃，可能是人类历史上最大规模的劳动成果盗窃。他不认为抓取新闻内容训练 AI 是合理使用，认为这种做法完全是对合理使用理念的嘲弄。微软的另一份文件认为会形成“恶性循环”，会同时伤害模型和整个 Web...",
+      "ai_summary": "今年 2 月 Debian 13 的龙芯架构移植版 loong13 的维护者在编译打包过程中发现，normaliz 的自带测试会死循环导致打包超时。第一次排查发现原子加指令会在特定情况下丢失更新，但原因未知。今年 8 月，开发者在 AI 的帮助下重新寻找 normaliz 中原子加丢失的问题。他们让...",
       "keywords": [
         "ai",
-        "hecht",
-        "openai",
-        "微软高管称",
-        "的训练数据是人类历史上最大规模的劳动成果盗窃"
+        "cpu",
+        "今年",
+        "normaliz",
+        "龙芯"
       ],
-      "importance": 1.0
-    },
-    {
-      "title": "微软花费 12 万美元 token 将 Copilot 运行时移植到 Rust 语言",
-      "link": "https://www.solidot.org/story?sid=85433",
-      "summary": "微软利用使用 GPT-5.6 Sol 和 Claude Opus 4.8 的 AI 智能体、历时 14.5 周，花费 12 万美元 token 将 Copilot 运行时从 TypeScript 语言移植到 Rust 语言。该项目采用逐个更新运行时模块的方式执行，共进行了 135 次发布，平均每天提交约 1.3 个 Pull Request，最终将 43 万行 TypeScript 代码转换为 80 万行可用于生产的 Rust 代码。测试显示，原 TypeScript 代码每秒能完成 7.55 个生命周期（one-turn session lifecycles），而 Rust 代码每秒 120...",
-      "source": "Solidot",
-      "pub_date": "Sun, 20 Sep 2026 23:09:59 +0800",
-      "fetched_at": "2026-09-21T12:00:05.747026",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "微软利用使用 GPT-5.6 Sol 和 Claude Opus 4.8 的 AI 智能体、历时 14.5 周，花费 12 万美元 token 将 Copilot 运行时从 TypeScript 语言移植到 Rust 语言。该项目采用逐个更新运行时模块的方式执行，共进行了 135 次发布，平均每天提...",
-      "keywords": [
-        "rust",
-        "typescript",
-        "万美元",
-        "token",
-        "copilot"
-      ],
-      "importance": 1.0
+      "importance": 0.5
     }
   ],
-  "updated_at": "2026-09-21T12:00:32.895939"
+  "updated_at": "2026-09-28T08:00:25.585488"
 }

@@ -5,439 +5,562 @@
     "tagline": "Pulse from the stars, capturing every ripple of tech frontier.",
     "tagline_cn": "来自星辰的脉动，捕捉科技前沿每一丝波动。",
     "version": "2.0",
-    "last_update": "2026-09-28T08:00:25.585488",
-    "total_items": 10
+    "last_update": "2026-11-03T22:38:23.013791",
+    "total_items": 16
   },
   "categories": {
     "ai": {
       "name": "AI & LLM",
       "name_cn": "AI & 大模型",
       "emoji": "🤖",
-      "count": 9
+      "count": 13
     },
     "robotics": {
       "name": "Robotics",
       "name_cn": "具身智能",
       "emoji": "🦾",
-      "count": 2
+      "count": 0
     },
     "space": {
       "name": "Space",
       "name_cn": "航天",
       "emoji": "🚀",
-      "count": 0
+      "count": 3
     }
   },
   "stats": {
-    "total_items": 10,
-    "today_items": 10,
+    "total_items": 16,
+    "today_items": 16,
     "sources": {
-      "量子位": 8,
-      "Solidot": 2
+      "Solidot": 10,
+      "量子位": 4,
+      "HackerNews": 2
     },
-    "last_update": "2026-09-28T08:00:25.585488"
+    "last_update": "2026-11-03T22:38:23.013791"
   },
   "trending": [
     {
-      "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
-      "link": "https://www.qbitai.com/2026/09/497425.html",
-      "summary": "vLLM人马创业公司团队出品",
-      "source": "量子位",
-      "pub_date": "Sat, 26 Sep 2026 07:12:05 +0000",
-      "fetched_at": "2026-09-28T08:00:07.952192",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "vLLM人马创业公司团队出品",
-      "keywords": [
-        "谷歌",
-        "tpu",
-        "kimi",
-        "比英伟达",
-        "gpu"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "龙芯 CPU 的原子加指令偶尔会丢失",
-      "link": "https://www.solidot.org/story?sid=85484",
-      "summary": "今年 2 月 Debian 13 的龙芯架构移植版 loong13 的维护者在编译打包过程中发现，normaliz 的自带测试会死循环导致打包超时。第一次排查发现原子加指令会在特定情况下丢失更新，但原因未知。今年 8 月，开发者在 AI 的帮助下重新寻找 normaliz 中原子加丢失的问题。他们让 AI 去找最小复现，在这个过程中负责指挥 AI 调查的方向。大概两天后找到了一个稳定的复现程序，才发现事情的根源是：CPU 的原子加法指令，偶尔会不原子。开发者向龙芯报告了问题，两周后龙芯给出了修复的测试固件，确认问题解决。龙芯表示会在国庆节（10 月 1 日）之前发布固件。该问题主要影响使用 L...",
+      "title": "Swift 天文台将于 11 月 4 日重返大气层",
+      "link": "https://www.solidot.org/story?sid=85780",
+      "summary": "拯救失败的 NASA Neil Gehrels Swift 天文台将于 11 月 4 日重返大气层。但目前还不清楚其坠落地点以及它会有哪些组件会在穿过大气层后仍然幸存下来。Swift 天文台重 1.5 吨，于 2004 年发射升空，旨在研究高能伽马射线暴的起源。过去 22 年受大气阻力的影响 Swift 天文台的轨道高度在缓慢下降，过去两年活跃的太阳活动加速了其坠落。今年 7 月 NASA 曾尝试了一次拯救任务，但任务失败。10 月 20 日其轨道高度降至 275 公里，其使命正式结束。Swift 天文台的轨道经过了澳大利亚、非洲、印度、东南亚以及中南美洲上空，最有可能的坠落地点是海洋。",
       "source": "Solidot",
-      "pub_date": "Sun, 27 Sep 2026 17:57:16 +0800",
-      "fetched_at": "2026-09-28T08:00:07.573463",
+      "pub_date": "Tue, 03 Nov 2026 14:48:25 +0800",
+      "fetched_at": "2026-11-03T22:38:03.616078",
       "categories": [
-        "ai"
+        "space"
       ],
-      "ai_summary": "今年 2 月 Debian 13 的龙芯架构移植版 loong13 的维护者在编译打包过程中发现，normaliz 的自带测试会死循环导致打包超时。第一次排查发现原子加指令会在特定情况下丢失更新，但原因未知。今年 8 月，开发者在 AI 的帮助下重新寻找 normaliz 中原子加丢失的问题。他们让...",
+      "ai_summary": "拯救失败的 NASA Neil Gehrels Swift 天文台将于 11 月 4 日重返大气层。但目前还不清楚其坠落地点以及它会有哪些组件会在穿过大气层后仍然幸存下来。Swift 天文台重 1.5 吨，于 2004 年发射升空，旨在研究高能伽马射线暴的起源。过去 22 年受大气阻力的影响 Swi...",
       "keywords": [
-        "ai",
-        "cpu",
-        "今年",
-        "normaliz",
-        "龙芯"
+        "swift",
+        "天文台将于",
+        "日重返大气层",
+        "nasa",
+        "拯救失败的"
       ],
       "importance": 0.5
     },
     {
-      "title": "中国各地推动 AI 视频产业化",
-      "link": "https://www.solidot.org/story?sid=85475",
-      "summary": "两年前 Zhu Zhili 选择了深圳作为其 AI 电影工作室的办公地点，今年他接到了来自中国各地政府和产业园官员的电话，内容基本相同，即希望将 AI 电影业务带到当地。中国各地正在推动 AI 视频的产业化，类似太阳能、电动汽车和机器人。AI 电影制作人表示，低廉的制作成本是吸引他们投身 AI 创作的主要原因。CCTV 报道 2026 年上半年，AI 短剧的制作成本从每分钟 5,000 元降至几百元。可能和太阳能等领域一样，AI 视频行业也正面临产能过剩。DataEye 的数据显示，今年上半年，抖音上推出了 221,900 部新 AI 视频，其中只有 1,055 部播放量逾 1 亿次。国家电影...",
+      "title": "国际空间站 PrK 模块因漏气被关闭",
+      "link": "https://www.solidot.org/story?sid=85778",
+      "summary": "专注于报道俄罗斯太空新闻的媒体 Russianspacewe 称，位于 Progress（进步号）气闸舱和 Zvezda（星辰号）服务舱之间的 PrK 模块已被永久关闭。NASA 以及俄罗斯航天局尚未正式宣布这一消息，但早在 6 月就有消息称俄罗斯计划退役漏气的国际空间站 PrK 模块。PrK 模块因结构裂缝导致的漏气过去几年一直困扰着国际空间站，今年初漏气问题一度被认为已经修复，但 6 月报告漏气再次加剧，该模块的裂缝总数达到 16 处。俄罗斯货运飞船将改为与 Poisk 舱对接。计划于 11 月 24 日发射的 Progress MS-36 货运飞船将通过 Poisk 舱卸载货物。",
       "source": "Solidot",
-      "pub_date": "Fri, 25 Sep 2026 19:11:10 +0800",
-      "fetched_at": "2026-09-28T08:00:07.577731",
+      "pub_date": "Tue, 03 Nov 2026 13:52:24 +0800",
+      "fetched_at": "2026-11-03T22:38:03.616733",
       "categories": [
+        "space"
+      ],
+      "ai_summary": "专注于报道俄罗斯太空新闻的媒体 Russianspacewe 称，位于 Progress（进步号）气闸舱和 Zvezda（星辰号）服务舱之间的 PrK 模块已被永久关闭。NASA 以及俄罗斯航天局尚未正式宣布这一消息，但早在 6 月就有消息称俄罗斯计划退役漏气的国际空间站 PrK 模块。PrK 模块...",
+      "keywords": [
+        "prk",
+        "progress",
+        "poisk",
+        "国际空间站",
+        "模块因漏气被关闭"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "小鼠研究发现骨骼在运动中会释放延缓衰老和延寿的蛋白质",
+      "link": "https://www.solidot.org/story?sid=85771",
+      "summary": "骨骼塑造着体型，也影响着衰老。根据发表在《Cell Metabolism》期刊上的一项研究，小鼠实验发现骨骼在机械应力下——锻炼或其它身体活动中间发生的推、拉、扭转等——会触发骨骼释放名为骨细胞（osteocytes）的力感知细胞，促使其分泌出有抗衰老作用的化学物质。研究团队甚至通过轻微挤压小鼠腿骨，成功使其寿命延长了近 3 个月，相当于人类寿命延长了约 9 年。研究负责人、南方医科大学的 Xiaochun Bai 表示，骨骼并非仅是一个被动的支撑框架；它是一个活跃的、能对机械力做出反应的器官，在很大程度上决定了全身衰老的进程。研究人员尚未在人体中验证这一效应，因此它未必适用于人类。过去几十年...",
+      "source": "Solidot",
+      "pub_date": "Mon, 02 Nov 2026 16:46:07 +0800",
+      "fetched_at": "2026-11-03T22:38:03.620121",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "骨骼塑造着体型，也影响着衰老。根据发表在《Cell Metabolism》期刊上的一项研究，小鼠实验发现骨骼在机械应力下——锻炼或其它身体活动中间发生的推、拉、扭转等——会触发骨骼释放名为骨细胞（osteocytes）的力感知细胞，促使其分泌出有抗衰老作用的化学物质。研究团队甚至通过轻微挤压小鼠腿骨...",
+      "keywords": [
+        "小鼠研究发现骨骼在运动中会释放延缓衰老和延寿的蛋白质",
+        "骨骼塑造着体型",
+        "也影响着衰老",
+        "根据发表在",
+        "cell"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Linux 7.4-rc1 释出",
+      "link": "https://www.solidot.org/story?sid=85770",
+      "summary": "Linus Torvalds 在内核邮件列表上宣布释出 Linux 7.4-rc1，关闭合并窗口，正式版本预计在圣诞节前发布。Linux 7.4 共包含了 18,591 个非合并（non-merge）变更集，这一数字创下了纪录；有 2,678 名开发者为 v7.4 贡献了代码，其中 625 人为首次。Torvalds 表示他乐见 AI 相关工作在合并窗口期间大量涌入，Linux 7.4 合并窗口合并的补丁规模高于通常的版本，显示 AI 修复逐渐融入常规开发流程，他认为这是一种更健康的模式。Linux 7.4 的新特性包括：Radeon iGPU 支持 AMD PerfOpt 帮助增强 AI/L...",
+      "source": "Solidot",
+      "pub_date": "Mon, 02 Nov 2026 15:22:50 +0800",
+      "fetched_at": "2026-11-03T22:38:03.620461",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Linus Torvalds 在内核邮件列表上宣布释出 Linux 7.4-rc1，关闭合并窗口，正式版本预计在圣诞节前发布。Linux 7.4 共包含了 18,591 个非合并（non-merge）变更集，这一数字创下了纪录；有 2,678 名开发者为 v7.4 贡献了代码，其中 625 人为首次...",
+      "keywords": [
+        "linux",
         "ai",
-        "robotics"
+        "rc",
+        "torvalds",
+        "释出"
       ],
-      "ai_summary": "两年前 Zhu Zhili 选择了深圳作为其 AI 电影工作室的办公地点，今年他接到了来自中国各地政府和产业园官员的电话，内容基本相同，即希望将 AI 电影业务带到当地。中国各地正在推动 AI 视频的产业化，类似太阳能、电动汽车和机器人。AI 电影制作人表示，低廉的制作成本是吸引他们投身 AI 创作...",
+      "importance": 0.5
+    },
+    {
+      "title": "Stack Overflow 表示它还活着",
+      "link": "https://www.solidot.org/story?sid=85769",
+      "summary": "Stack Overflow 自己的统计数据显示，它一个月内的新增问题数已经低于 1000。此事再次在社交媒体上引发了编程问答社区即将死亡的讨论。Stack Overflow 官方博客回应说，死亡预测夸大其词，混淆了获取知识方式的改变与知识本身——以及背后的公司——消失两个概念。AI 改变了开发者的行为。在 Stack Overflow 近期发布的《2026 年开发者调查》中，64% 的受访者表示，对于简单问题他们减少了访问 Stack Overflow 的频率。但对于更深入的问题，他们会访问该平台验证由 AI 生成的答案。Stack Overflow 依然是一个可以挑战既定假设、比较不同方法...",
+      "source": "Solidot",
+      "pub_date": "Mon, 02 Nov 2026 14:08:59 +0800",
+      "fetched_at": "2026-11-03T22:38:03.620770",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Stack Overflow 自己的统计数据显示，它一个月内的新增问题数已经低于 1000。此事再次在社交媒体上引发了编程问答社区即将死亡的讨论。Stack Overflow 官方博客回应说，死亡预测夸大其词，混淆了获取知识方式的改变与知识本身——以及背后的公司——消失两个概念。AI 改变了开发者的...",
       "keywords": [
+        "stack",
+        "overflow",
         "ai",
-        "中国各地推动",
-        "视频产业化",
-        "两年前",
-        "zhu"
+        "表示它还活着",
+        "自己的统计数据显示"
       ],
       "importance": 0.5
     },
     {
-      "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
-      "link": "https://www.qbitai.com/2026/09/498633.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Sun, 27 Sep 2026 14:20:35 +0000",
-      "fetched_at": "2026-09-28T08:00:07.951504",
+      "title": "Google AI Mode 未给网站带来流量",
+      "link": "https://www.solidot.org/story?sid=85767",
+      "summary": "Reddit 的最新财报证实了众多网站的抱怨：Google AI Mode 未给网站带来流量。AI Mode 通过生成总结的方式响应用户的查询，而不是传统搜索的提供网站链接以及简要摘要。硅谷对 AI 的全面拥抱牺牲了构成互联网的无数网站。Reddit 联合创始人兼 CEO Steve Huffman 表示：“用户依然需要 Reddit，只是 Google 不再像过去那样将他们引导到 Reddit。”上季度来自 Google 搜索的引荐流量显著下滑。Google 向 AI Mode 及 AI overviews 的转型切断了原本流向 Reddit 的流量。Reddit 的回应和很多新闻网站类似：...",
+      "source": "Solidot",
+      "pub_date": "Mon, 02 Nov 2026 00:46:31 +0800",
+      "fetched_at": "2026-11-03T22:38:03.621364",
       "categories": [
         "ai"
       ],
-      "ai_summary": "",
-      "keywords": [
-        "量子",
-        "ai",
-        "创业来了一支",
-        "清华梦之队",
-        "亿估值"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "啥题啊能干崩OpenAI最强模型训练…",
-      "link": "https://www.qbitai.com/2026/09/498546.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Sun, 27 Sep 2026 09:44:16 +0000",
-      "fetched_at": "2026-09-28T08:00:07.951781",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "啥题啊能干崩",
-        "openai",
-        "最强模型训练"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
-      "link": "https://www.qbitai.com/2026/09/498478.html",
-      "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
-      "source": "量子位",
-      "pub_date": "Sat, 26 Sep 2026 11:49:43 +0000",
-      "fetched_at": "2026-09-28T08:00:07.951862",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
-      "keywords": [
-        "索辰科技加码世界模型",
-        "与战略投资企业美梦空间联合发布具身模型与物理测评标准",
-        "世界模型",
-        "开始成为具身智能跨越商业化",
-        "奇点"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
-      "link": "https://www.qbitai.com/2026/09/497624.html",
-      "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
-      "source": "量子位",
-      "pub_date": "Sat, 26 Sep 2026 09:01:00 +0000",
-      "fetched_at": "2026-09-28T08:00:07.952025",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
-      "keywords": [
-        "github",
-        "笔记本跑",
-        "亿参数",
-        "glm",
-        "gpu"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
-      "link": "https://www.qbitai.com/2026/09/497613.html",
-      "summary": "大伟哥：如果做不到，一年两年之后过来打我脸",
-      "source": "量子位",
-      "pub_date": "Sat, 26 Sep 2026 07:18:05 +0000",
-      "fetched_at": "2026-09-28T08:00:07.952112",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "大伟哥：如果做不到，一年两年之后过来打我脸",
-      "keywords": [
-        "在云栖大会",
-        "我终于看懂了米哈游千亿",
-        "ai",
-        "野心",
-        "大伟哥"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
-      "link": "https://www.qbitai.com/2026/09/497382.html",
-      "summary": "还把「密钥」叫战利品",
-      "source": "量子位",
-      "pub_date": "Sat, 26 Sep 2026 07:04:15 +0000",
-      "fetched_at": "2026-09-28T08:00:07.952265",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "还把「密钥」叫战利品",
-      "keywords": [
-        "openai",
-        "失控",
-        "agent",
-        "还找",
-        "deepseek"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
-      "link": "https://www.qbitai.com/2026/09/498271.html",
-      "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
-      "source": "量子位",
-      "pub_date": "Sat, 26 Sep 2026 09:07:41 +0000",
-      "fetched_at": "2026-09-28T08:00:07.951944",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
+      "ai_summary": "Reddit 的最新财报证实了众多网站的抱怨：Google AI Mode 未给网站带来流量。AI Mode 通过生成总结的方式响应用户的查询，而不是传统搜索的提供网站链接以及简要摘要。硅谷对 AI 的全面拥抱牺牲了构成互联网的无数网站。Reddit 联合创始人兼 CEO Steve Huffman...",
       "keywords": [
         "ai",
-        "simate",
-        "开始研究",
-        "physical",
-        "fsd"
+        "reddit",
+        "google",
+        "mode",
+        "未给网站带来流量"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "数据中心抵消了过去 15 年美国的减排努力",
+      "link": "https://www.solidot.org/story?sid=85766",
+      "summary": "Sierra Club 的分析显示，到 2030 年美国电力行业的二氧化碳排放量可能达到 21 亿公吨，比 2025 年的水平高出约 42%。这一预计增幅将抵消过去 15 年电力行业在减排上取得的成果。随着数据中心对资源的需求持续增长，AI 基础设施的电力需求正以清洁能源电网无法跟上的速度快速增长。为绕过缓慢的公用电网接入排队流程，部分科技公司建设了主要依赖化石燃料的自备发电设施。到 2030 年由数据中心开发商建设或委托建设的离网发电设施每年可能产生逾 4.6 亿公吨的二氧化碳，大致相当于墨西哥全年的碳排放量。",
+      "source": "Solidot",
+      "pub_date": "Sun, 01 Nov 2026 19:45:13 +0800",
+      "fetched_at": "2026-11-03T22:38:03.621674",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Sierra Club 的分析显示，到 2030 年美国电力行业的二氧化碳排放量可能达到 21 亿公吨，比 2025 年的水平高出约 42%。这一预计增幅将抵消过去 15 年电力行业在减排上取得的成果。随着数据中心对资源的需求持续增长，AI 基础设施的电力需求正以清洁能源电网无法跟上的速度快速增长。...",
+      "keywords": [
+        "数据中心抵消了过去",
+        "年美国的减排努力",
+        "sierra",
+        "club",
+        "的分析显示"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "NASA 征询拯救哈勃望远镜的方案",
+      "link": "https://www.solidot.org/story?sid=85765",
+      "summary": "哈勃望远镜在轨运行 36 年之后仍然极具价值，但它的轨道高度已经大幅下降，如果不采取行动它将于 2030 年代中期前重返大气层。NASA 本周公布了一份 Request For Information(RFI)，向商业公司征询提升哈勃的轨道、进行维护或对其进行受控重返大气层的方案。方案递交截至日期 11 月 30 日。NASA 未承诺是否资助一次哈勃拯救任务，它想知道有多少公司对此有兴趣，以及成本多少。哈勃的轨道高度已从 2002 年的 583 公里降至目前的 470 公里，如果不进行干预，哈勃预计会在 2033 年或 2034 年坠入大气层。NASA 想要将哈勃的轨道高度重新提升至 600 ...",
+      "source": "Solidot",
+      "pub_date": "Sun, 01 Nov 2026 19:32:53 +0800",
+      "fetched_at": "2026-11-03T22:38:03.621998",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "哈勃望远镜在轨运行 36 年之后仍然极具价值，但它的轨道高度已经大幅下降，如果不采取行动它将于 2030 年代中期前重返大气层。NASA 本周公布了一份 Request For Information(RFI)，向商业公司征询提升哈勃的轨道、进行维护或对其进行受控重返大气层的方案。方案递交截至日期 ...",
+      "keywords": [
+        "nasa",
+        "征询拯救哈勃望远镜的方案",
+        "哈勃望远镜在轨运行",
+        "年之后仍然极具价值",
+        "但它的轨道高度已经大幅下降"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
+      "link": "https://www.qbitai.com/2026/11/507410.html",
+      "summary": "TeleAI智慧看护助手",
+      "source": "量子位",
+      "pub_date": "Tue, 03 Nov 2026 06:29:11 +0000",
+      "fetched_at": "2026-11-03T22:38:04.266457",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "TeleAI智慧看护助手",
+      "keywords": [
+        "苹果被曝的新产品",
+        "中国央企",
+        "个月前已装进公共卫生间",
+        "teleai",
+        "智慧看护助手"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "比利时瑞典超市冷冻冷藏设备遭遇网络攻击",
+      "link": "https://www.solidot.org/story?sid=85775",
+      "summary": "在法国之后、比利时、瑞典、卢森堡和爱尔兰多家超市的冷冻和冷藏设备遭遇类似的网络攻击。比利时和卢森堡有约 40 家 Delhaize 超市受影响，瑞典 ICA 和 Coop 的多家门店受影响，爱尔兰有 13 家 SuperValu 门店受影响。瑞典的一家 ICA 门店称，其冷冻设备的温度被篡改设定到 50 摄氏度。一家 Delhaize 门店称它损失了价值 10 万欧元的商品。法资超市家乐福表示位于比利时的门店有 15 家受到影响，法国受影响超市都使用了丹麦公司 Danfoss 的制冷控制器，运行的是已停止支持的型号。目前不清楚最新受影响的超市是否使用了 Danfoss 控制器。",
+      "source": "Solidot",
+      "pub_date": "Mon, 02 Nov 2026 20:27:54 +0800",
+      "fetched_at": "2026-11-03T22:38:03.618918",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "在法国之后、比利时、瑞典、卢森堡和爱尔兰多家超市的冷冻和冷藏设备遭遇类似的网络攻击。比利时和卢森堡有约 40 家 Delhaize 超市受影响，瑞典 ICA 和 Coop 的多家门店受影响，爱尔兰有 13 家 SuperValu 门店受影响。瑞典的一家 ICA 门店称，其冷冻设备的温度被篡改设定到 ...",
+      "keywords": [
+        "瑞典",
+        "delhaize",
+        "ica",
+        "danfoss",
+        "比利时瑞典超市冷冻冷藏设备遭遇网络攻击"
       ],
       "importance": 0
     }
   ],
   "latest": [
     {
-      "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
-      "link": "https://www.qbitai.com/2026/09/497382.html",
-      "summary": "还把「密钥」叫战利品",
-      "source": "量子位",
-      "pub_date": "Sat, 26 Sep 2026 07:04:15 +0000",
-      "fetched_at": "2026-09-28T08:00:07.952265",
+      "title": "Show HN: Bema: Work messaging built for humans",
+      "link": "https://getbema.app/",
+      "summary": "👍 10 | 💬 11",
+      "source": "HackerNews",
+      "pub_date": "2026-11-03T20:51:11",
+      "fetched_at": "2026-11-03T22:38:18.308752",
       "categories": [
         "ai"
       ],
-      "ai_summary": "还把「密钥」叫战利品",
+      "ai_summary": "👍 10 | 💬 11",
       "keywords": [
-        "openai",
-        "失控",
-        "agent",
-        "还找",
-        "deepseek"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
-      "link": "https://www.qbitai.com/2026/09/497425.html",
-      "summary": "vLLM人马创业公司团队出品",
-      "source": "量子位",
-      "pub_date": "Sat, 26 Sep 2026 07:12:05 +0000",
-      "fetched_at": "2026-09-28T08:00:07.952192",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "vLLM人马创业公司团队出品",
-      "keywords": [
-        "谷歌",
-        "tpu",
-        "kimi",
-        "比英伟达",
-        "gpu"
-      ],
-      "importance": 1.0
-    },
-    {
-      "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
-      "link": "https://www.qbitai.com/2026/09/497613.html",
-      "summary": "大伟哥：如果做不到，一年两年之后过来打我脸",
-      "source": "量子位",
-      "pub_date": "Sat, 26 Sep 2026 07:18:05 +0000",
-      "fetched_at": "2026-09-28T08:00:07.952112",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "大伟哥：如果做不到，一年两年之后过来打我脸",
-      "keywords": [
-        "在云栖大会",
-        "我终于看懂了米哈游千亿",
-        "ai",
-        "野心",
-        "大伟哥"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
-      "link": "https://www.qbitai.com/2026/09/497624.html",
-      "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
-      "source": "量子位",
-      "pub_date": "Sat, 26 Sep 2026 09:01:00 +0000",
-      "fetched_at": "2026-09-28T08:00:07.952025",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
-      "keywords": [
-        "github",
-        "笔记本跑",
-        "亿参数",
-        "glm",
-        "gpu"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
-      "link": "https://www.qbitai.com/2026/09/498271.html",
-      "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
-      "source": "量子位",
-      "pub_date": "Sat, 26 Sep 2026 09:07:41 +0000",
-      "fetched_at": "2026-09-28T08:00:07.951944",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
-      "keywords": [
-        "ai",
-        "simate",
-        "开始研究",
-        "physical",
-        "fsd"
+        "show",
+        "hn",
+        "bema",
+        "work",
+        "messaging"
       ],
       "importance": 0
     },
     {
-      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
-      "link": "https://www.qbitai.com/2026/09/498478.html",
-      "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
-      "source": "量子位",
-      "pub_date": "Sat, 26 Sep 2026 11:49:43 +0000",
-      "fetched_at": "2026-09-28T08:00:07.951862",
-      "categories": [
-        "robotics"
-      ],
-      "ai_summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
-      "keywords": [
-        "索辰科技加码世界模型",
-        "与战略投资企业美梦空间联合发布具身模型与物理测评标准",
-        "世界模型",
-        "开始成为具身智能跨越商业化",
-        "奇点"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "啥题啊能干崩OpenAI最强模型训练…",
-      "link": "https://www.qbitai.com/2026/09/498546.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Sun, 27 Sep 2026 09:44:16 +0000",
-      "fetched_at": "2026-09-28T08:00:07.951781",
+      "title": "Just a little AI resistance, as a treat",
+      "link": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+      "summary": "👍 25 | 💬 1",
+      "source": "HackerNews",
+      "pub_date": "2026-11-03T22:14:12",
+      "fetched_at": "2026-11-03T22:38:06.805475",
       "categories": [
         "ai"
       ],
-      "ai_summary": "",
+      "ai_summary": "👍 25 | 💬 1",
       "keywords": [
-        "啥题啊能干崩",
-        "openai",
-        "最强模型训练"
-      ],
-      "importance": 0.5
-    },
-    {
-      "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
-      "link": "https://www.qbitai.com/2026/09/498633.html",
-      "summary": "",
-      "source": "量子位",
-      "pub_date": "Sun, 27 Sep 2026 14:20:35 +0000",
-      "fetched_at": "2026-09-28T08:00:07.951504",
-      "categories": [
-        "ai"
-      ],
-      "ai_summary": "",
-      "keywords": [
-        "量子",
+        "just",
+        "little",
         "ai",
-        "创业来了一支",
-        "清华梦之队",
-        "亿估值"
+        "resistance",
+        "as"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
+      "link": "https://www.qbitai.com/2026/11/507322.html",
+      "summary": "指令执行能力也同步提升",
+      "source": "量子位",
+      "pub_date": "Tue, 03 Nov 2026 01:57:30 +0000",
+      "fetched_at": "2026-11-03T22:38:04.268025",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "指令执行能力也同步提升",
+      "keywords": [
+        "mit",
+        "gpt",
+        "astra",
+        "能直接修改",
+        "qwen"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "AI数据平台OceanBase获世界互联网大会杰出贡献奖",
+      "link": "https://www.qbitai.com/2026/11/507405.html",
+      "summary": "11月3日上午，2026世界互联网大会在浙江乌镇开幕。",
+      "source": "量子位",
+      "pub_date": "Tue, 03 Nov 2026 05:59:05 +0000",
+      "fetched_at": "2026-11-03T22:38:04.266619",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "11月3日上午，2026世界互联网大会在浙江乌镇开幕。",
+      "keywords": [
+        "ai",
+        "数据平台",
+        "oceanbase",
+        "获世界互联网大会杰出贡献奖",
+        "日上午"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
+      "link": "https://www.qbitai.com/2026/11/507410.html",
+      "summary": "TeleAI智慧看护助手",
+      "source": "量子位",
+      "pub_date": "Tue, 03 Nov 2026 06:29:11 +0000",
+      "fetched_at": "2026-11-03T22:38:04.266457",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "TeleAI智慧看护助手",
+      "keywords": [
+        "苹果被曝的新产品",
+        "中国央企",
+        "个月前已装进公共卫生间",
+        "teleai",
+        "智慧看护助手"
       ],
       "importance": 0.5
     },
     {
-      "title": "中国各地推动 AI 视频产业化",
-      "link": "https://www.solidot.org/story?sid=85475",
-      "summary": "两年前 Zhu Zhili 选择了深圳作为其 AI 电影工作室的办公地点，今年他接到了来自中国各地政府和产业园官员的电话，内容基本相同，即希望将 AI 电影业务带到当地。中国各地正在推动 AI 视频的产业化，类似太阳能、电动汽车和机器人。AI 电影制作人表示，低廉的制作成本是吸引他们投身 AI 创作的主要原因。CCTV 报道 2026 年上半年，AI 短剧的制作成本从每分钟 5,000 元降至几百元。可能和太阳能等领域一样，AI 视频行业也正面临产能过剩。DataEye 的数据显示，今年上半年，抖音上推出了 221,900 部新 AI 视频，其中只有 1,055 部播放量逾 1 亿次。国家电影...",
+      "title": "模型谁都买得到，拉开差距的是AI生产力系统",
+      "link": "https://www.qbitai.com/2026/11/507448.html",
+      "summary": "AI的下一程是生产力系统之争",
+      "source": "量子位",
+      "pub_date": "Tue, 03 Nov 2026 11:13:49 +0000",
+      "fetched_at": "2026-11-03T22:38:04.266156",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "AI的下一程是生产力系统之争",
+      "keywords": [
+        "ai",
+        "模型谁都买得到",
+        "拉开差距的是",
+        "生产力系统",
+        "的下一程是生产力系统之争"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "NASA 征询拯救哈勃望远镜的方案",
+      "link": "https://www.solidot.org/story?sid=85765",
+      "summary": "哈勃望远镜在轨运行 36 年之后仍然极具价值，但它的轨道高度已经大幅下降，如果不采取行动它将于 2030 年代中期前重返大气层。NASA 本周公布了一份 Request For Information(RFI)，向商业公司征询提升哈勃的轨道、进行维护或对其进行受控重返大气层的方案。方案递交截至日期 11 月 30 日。NASA 未承诺是否资助一次哈勃拯救任务，它想知道有多少公司对此有兴趣，以及成本多少。哈勃的轨道高度已从 2002 年的 583 公里降至目前的 470 公里，如果不进行干预，哈勃预计会在 2033 年或 2034 年坠入大气层。NASA 想要将哈勃的轨道高度重新提升至 600 ...",
       "source": "Solidot",
-      "pub_date": "Fri, 25 Sep 2026 19:11:10 +0800",
-      "fetched_at": "2026-09-28T08:00:07.577731",
+      "pub_date": "Sun, 01 Nov 2026 19:32:53 +0800",
+      "fetched_at": "2026-11-03T22:38:03.621998",
       "categories": [
-        "ai",
-        "robotics"
+        "space"
       ],
-      "ai_summary": "两年前 Zhu Zhili 选择了深圳作为其 AI 电影工作室的办公地点，今年他接到了来自中国各地政府和产业园官员的电话，内容基本相同，即希望将 AI 电影业务带到当地。中国各地正在推动 AI 视频的产业化，类似太阳能、电动汽车和机器人。AI 电影制作人表示，低廉的制作成本是吸引他们投身 AI 创作...",
+      "ai_summary": "哈勃望远镜在轨运行 36 年之后仍然极具价值，但它的轨道高度已经大幅下降，如果不采取行动它将于 2030 年代中期前重返大气层。NASA 本周公布了一份 Request For Information(RFI)，向商业公司征询提升哈勃的轨道、进行维护或对其进行受控重返大气层的方案。方案递交截至日期 ...",
       "keywords": [
-        "ai",
-        "中国各地推动",
-        "视频产业化",
-        "两年前",
-        "zhu"
+        "nasa",
+        "征询拯救哈勃望远镜的方案",
+        "哈勃望远镜在轨运行",
+        "年之后仍然极具价值",
+        "但它的轨道高度已经大幅下降"
       ],
       "importance": 0.5
     },
     {
-      "title": "龙芯 CPU 的原子加指令偶尔会丢失",
-      "link": "https://www.solidot.org/story?sid=85484",
-      "summary": "今年 2 月 Debian 13 的龙芯架构移植版 loong13 的维护者在编译打包过程中发现，normaliz 的自带测试会死循环导致打包超时。第一次排查发现原子加指令会在特定情况下丢失更新，但原因未知。今年 8 月，开发者在 AI 的帮助下重新寻找 normaliz 中原子加丢失的问题。他们让 AI 去找最小复现，在这个过程中负责指挥 AI 调查的方向。大概两天后找到了一个稳定的复现程序，才发现事情的根源是：CPU 的原子加法指令，偶尔会不原子。开发者向龙芯报告了问题，两周后龙芯给出了修复的测试固件，确认问题解决。龙芯表示会在国庆节（10 月 1 日）之前发布固件。该问题主要影响使用 L...",
+      "title": "数据中心抵消了过去 15 年美国的减排努力",
+      "link": "https://www.solidot.org/story?sid=85766",
+      "summary": "Sierra Club 的分析显示，到 2030 年美国电力行业的二氧化碳排放量可能达到 21 亿公吨，比 2025 年的水平高出约 42%。这一预计增幅将抵消过去 15 年电力行业在减排上取得的成果。随着数据中心对资源的需求持续增长，AI 基础设施的电力需求正以清洁能源电网无法跟上的速度快速增长。为绕过缓慢的公用电网接入排队流程，部分科技公司建设了主要依赖化石燃料的自备发电设施。到 2030 年由数据中心开发商建设或委托建设的离网发电设施每年可能产生逾 4.6 亿公吨的二氧化碳，大致相当于墨西哥全年的碳排放量。",
       "source": "Solidot",
-      "pub_date": "Sun, 27 Sep 2026 17:57:16 +0800",
-      "fetched_at": "2026-09-28T08:00:07.573463",
+      "pub_date": "Sun, 01 Nov 2026 19:45:13 +0800",
+      "fetched_at": "2026-11-03T22:38:03.621674",
       "categories": [
         "ai"
       ],
-      "ai_summary": "今年 2 月 Debian 13 的龙芯架构移植版 loong13 的维护者在编译打包过程中发现，normaliz 的自带测试会死循环导致打包超时。第一次排查发现原子加指令会在特定情况下丢失更新，但原因未知。今年 8 月，开发者在 AI 的帮助下重新寻找 normaliz 中原子加丢失的问题。他们让...",
+      "ai_summary": "Sierra Club 的分析显示，到 2030 年美国电力行业的二氧化碳排放量可能达到 21 亿公吨，比 2025 年的水平高出约 42%。这一预计增幅将抵消过去 15 年电力行业在减排上取得的成果。随着数据中心对资源的需求持续增长，AI 基础设施的电力需求正以清洁能源电网无法跟上的速度快速增长。...",
+      "keywords": [
+        "数据中心抵消了过去",
+        "年美国的减排努力",
+        "sierra",
+        "club",
+        "的分析显示"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Google AI Mode 未给网站带来流量",
+      "link": "https://www.solidot.org/story?sid=85767",
+      "summary": "Reddit 的最新财报证实了众多网站的抱怨：Google AI Mode 未给网站带来流量。AI Mode 通过生成总结的方式响应用户的查询，而不是传统搜索的提供网站链接以及简要摘要。硅谷对 AI 的全面拥抱牺牲了构成互联网的无数网站。Reddit 联合创始人兼 CEO Steve Huffman 表示：“用户依然需要 Reddit，只是 Google 不再像过去那样将他们引导到 Reddit。”上季度来自 Google 搜索的引荐流量显著下滑。Google 向 AI Mode 及 AI overviews 的转型切断了原本流向 Reddit 的流量。Reddit 的回应和很多新闻网站类似：...",
+      "source": "Solidot",
+      "pub_date": "Mon, 02 Nov 2026 00:46:31 +0800",
+      "fetched_at": "2026-11-03T22:38:03.621364",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Reddit 的最新财报证实了众多网站的抱怨：Google AI Mode 未给网站带来流量。AI Mode 通过生成总结的方式响应用户的查询，而不是传统搜索的提供网站链接以及简要摘要。硅谷对 AI 的全面拥抱牺牲了构成互联网的无数网站。Reddit 联合创始人兼 CEO Steve Huffman...",
       "keywords": [
         "ai",
-        "cpu",
-        "今年",
-        "normaliz",
-        "龙芯"
+        "reddit",
+        "google",
+        "mode",
+        "未给网站带来流量"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Stack Overflow 表示它还活着",
+      "link": "https://www.solidot.org/story?sid=85769",
+      "summary": "Stack Overflow 自己的统计数据显示，它一个月内的新增问题数已经低于 1000。此事再次在社交媒体上引发了编程问答社区即将死亡的讨论。Stack Overflow 官方博客回应说，死亡预测夸大其词，混淆了获取知识方式的改变与知识本身——以及背后的公司——消失两个概念。AI 改变了开发者的行为。在 Stack Overflow 近期发布的《2026 年开发者调查》中，64% 的受访者表示，对于简单问题他们减少了访问 Stack Overflow 的频率。但对于更深入的问题，他们会访问该平台验证由 AI 生成的答案。Stack Overflow 依然是一个可以挑战既定假设、比较不同方法...",
+      "source": "Solidot",
+      "pub_date": "Mon, 02 Nov 2026 14:08:59 +0800",
+      "fetched_at": "2026-11-03T22:38:03.620770",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Stack Overflow 自己的统计数据显示，它一个月内的新增问题数已经低于 1000。此事再次在社交媒体上引发了编程问答社区即将死亡的讨论。Stack Overflow 官方博客回应说，死亡预测夸大其词，混淆了获取知识方式的改变与知识本身——以及背后的公司——消失两个概念。AI 改变了开发者的...",
+      "keywords": [
+        "stack",
+        "overflow",
+        "ai",
+        "表示它还活着",
+        "自己的统计数据显示"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Linux 7.4-rc1 释出",
+      "link": "https://www.solidot.org/story?sid=85770",
+      "summary": "Linus Torvalds 在内核邮件列表上宣布释出 Linux 7.4-rc1，关闭合并窗口，正式版本预计在圣诞节前发布。Linux 7.4 共包含了 18,591 个非合并（non-merge）变更集，这一数字创下了纪录；有 2,678 名开发者为 v7.4 贡献了代码，其中 625 人为首次。Torvalds 表示他乐见 AI 相关工作在合并窗口期间大量涌入，Linux 7.4 合并窗口合并的补丁规模高于通常的版本，显示 AI 修复逐渐融入常规开发流程，他认为这是一种更健康的模式。Linux 7.4 的新特性包括：Radeon iGPU 支持 AMD PerfOpt 帮助增强 AI/L...",
+      "source": "Solidot",
+      "pub_date": "Mon, 02 Nov 2026 15:22:50 +0800",
+      "fetched_at": "2026-11-03T22:38:03.620461",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "Linus Torvalds 在内核邮件列表上宣布释出 Linux 7.4-rc1，关闭合并窗口，正式版本预计在圣诞节前发布。Linux 7.4 共包含了 18,591 个非合并（non-merge）变更集，这一数字创下了纪录；有 2,678 名开发者为 v7.4 贡献了代码，其中 625 人为首次...",
+      "keywords": [
+        "linux",
+        "ai",
+        "rc",
+        "torvalds",
+        "释出"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "小鼠研究发现骨骼在运动中会释放延缓衰老和延寿的蛋白质",
+      "link": "https://www.solidot.org/story?sid=85771",
+      "summary": "骨骼塑造着体型，也影响着衰老。根据发表在《Cell Metabolism》期刊上的一项研究，小鼠实验发现骨骼在机械应力下——锻炼或其它身体活动中间发生的推、拉、扭转等——会触发骨骼释放名为骨细胞（osteocytes）的力感知细胞，促使其分泌出有抗衰老作用的化学物质。研究团队甚至通过轻微挤压小鼠腿骨，成功使其寿命延长了近 3 个月，相当于人类寿命延长了约 9 年。研究负责人、南方医科大学的 Xiaochun Bai 表示，骨骼并非仅是一个被动的支撑框架；它是一个活跃的、能对机械力做出反应的器官，在很大程度上决定了全身衰老的进程。研究人员尚未在人体中验证这一效应，因此它未必适用于人类。过去几十年...",
+      "source": "Solidot",
+      "pub_date": "Mon, 02 Nov 2026 16:46:07 +0800",
+      "fetched_at": "2026-11-03T22:38:03.620121",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "骨骼塑造着体型，也影响着衰老。根据发表在《Cell Metabolism》期刊上的一项研究，小鼠实验发现骨骼在机械应力下——锻炼或其它身体活动中间发生的推、拉、扭转等——会触发骨骼释放名为骨细胞（osteocytes）的力感知细胞，促使其分泌出有抗衰老作用的化学物质。研究团队甚至通过轻微挤压小鼠腿骨...",
+      "keywords": [
+        "小鼠研究发现骨骼在运动中会释放延缓衰老和延寿的蛋白质",
+        "骨骼塑造着体型",
+        "也影响着衰老",
+        "根据发表在",
+        "cell"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Proton 全力推动工程师转向 AI",
+      "link": "https://www.solidot.org/story?sid=85773",
+      "summary": "以提供隐私服务著称的 Proton 公司正全力推动工程师转向采用 AI，CEO Andy Yen 还在内部 Slack 频道训斥了提出安全顾虑的员工，称是“失败者的思维”。Proton 甚至计划对员工进行重新面试，要求员工说明他们如何使用 AI。如果员工没有充分使用 AI 他们可能会面临被解雇。在引发公众抗议之后，Proton 取消了重新面试。尽管如此，Proton 公布了一份 AI 宣言：“首先工程文化和工程师心态需要发生转变。你们的工作性质已经变了。你们的任务不再是写代码，LLM 也不是为了帮助你们更快、更好地写代码。你们的工作，是帮助 LLM 更快更好地写代码。”",
+      "source": "Solidot",
+      "pub_date": "Mon, 02 Nov 2026 17:53:16 +0800",
+      "fetched_at": "2026-11-03T22:38:03.619539",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "以提供隐私服务著称的 Proton 公司正全力推动工程师转向采用 AI，CEO Andy Yen 还在内部 Slack 频道训斥了提出安全顾虑的员工，称是“失败者的思维”。Proton 甚至计划对员工进行重新面试，要求员工说明他们如何使用 AI。如果员工没有充分使用 AI 他们可能会面临被解雇。在引...",
+      "keywords": [
+        "proton",
+        "ai",
+        "llm",
+        "全力推动工程师转向",
+        "以提供隐私服务著称的"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "比利时瑞典超市冷冻冷藏设备遭遇网络攻击",
+      "link": "https://www.solidot.org/story?sid=85775",
+      "summary": "在法国之后、比利时、瑞典、卢森堡和爱尔兰多家超市的冷冻和冷藏设备遭遇类似的网络攻击。比利时和卢森堡有约 40 家 Delhaize 超市受影响，瑞典 ICA 和 Coop 的多家门店受影响，爱尔兰有 13 家 SuperValu 门店受影响。瑞典的一家 ICA 门店称，其冷冻设备的温度被篡改设定到 50 摄氏度。一家 Delhaize 门店称它损失了价值 10 万欧元的商品。法资超市家乐福表示位于比利时的门店有 15 家受到影响，法国受影响超市都使用了丹麦公司 Danfoss 的制冷控制器，运行的是已停止支持的型号。目前不清楚最新受影响的超市是否使用了 Danfoss 控制器。",
+      "source": "Solidot",
+      "pub_date": "Mon, 02 Nov 2026 20:27:54 +0800",
+      "fetched_at": "2026-11-03T22:38:03.618918",
+      "categories": [
+        "ai"
+      ],
+      "ai_summary": "在法国之后、比利时、瑞典、卢森堡和爱尔兰多家超市的冷冻和冷藏设备遭遇类似的网络攻击。比利时和卢森堡有约 40 家 Delhaize 超市受影响，瑞典 ICA 和 Coop 的多家门店受影响，爱尔兰有 13 家 SuperValu 门店受影响。瑞典的一家 ICA 门店称，其冷冻设备的温度被篡改设定到 ...",
+      "keywords": [
+        "瑞典",
+        "delhaize",
+        "ica",
+        "danfoss",
+        "比利时瑞典超市冷冻冷藏设备遭遇网络攻击"
+      ],
+      "importance": 0
+    },
+    {
+      "title": "国际空间站 PrK 模块因漏气被关闭",
+      "link": "https://www.solidot.org/story?sid=85778",
+      "summary": "专注于报道俄罗斯太空新闻的媒体 Russianspacewe 称，位于 Progress（进步号）气闸舱和 Zvezda（星辰号）服务舱之间的 PrK 模块已被永久关闭。NASA 以及俄罗斯航天局尚未正式宣布这一消息，但早在 6 月就有消息称俄罗斯计划退役漏气的国际空间站 PrK 模块。PrK 模块因结构裂缝导致的漏气过去几年一直困扰着国际空间站，今年初漏气问题一度被认为已经修复，但 6 月报告漏气再次加剧，该模块的裂缝总数达到 16 处。俄罗斯货运飞船将改为与 Poisk 舱对接。计划于 11 月 24 日发射的 Progress MS-36 货运飞船将通过 Poisk 舱卸载货物。",
+      "source": "Solidot",
+      "pub_date": "Tue, 03 Nov 2026 13:52:24 +0800",
+      "fetched_at": "2026-11-03T22:38:03.616733",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "专注于报道俄罗斯太空新闻的媒体 Russianspacewe 称，位于 Progress（进步号）气闸舱和 Zvezda（星辰号）服务舱之间的 PrK 模块已被永久关闭。NASA 以及俄罗斯航天局尚未正式宣布这一消息，但早在 6 月就有消息称俄罗斯计划退役漏气的国际空间站 PrK 模块。PrK 模块...",
+      "keywords": [
+        "prk",
+        "progress",
+        "poisk",
+        "国际空间站",
+        "模块因漏气被关闭"
+      ],
+      "importance": 0.5
+    },
+    {
+      "title": "Swift 天文台将于 11 月 4 日重返大气层",
+      "link": "https://www.solidot.org/story?sid=85780",
+      "summary": "拯救失败的 NASA Neil Gehrels Swift 天文台将于 11 月 4 日重返大气层。但目前还不清楚其坠落地点以及它会有哪些组件会在穿过大气层后仍然幸存下来。Swift 天文台重 1.5 吨，于 2004 年发射升空，旨在研究高能伽马射线暴的起源。过去 22 年受大气阻力的影响 Swift 天文台的轨道高度在缓慢下降，过去两年活跃的太阳活动加速了其坠落。今年 7 月 NASA 曾尝试了一次拯救任务，但任务失败。10 月 20 日其轨道高度降至 275 公里，其使命正式结束。Swift 天文台的轨道经过了澳大利亚、非洲、印度、东南亚以及中南美洲上空，最有可能的坠落地点是海洋。",
+      "source": "Solidot",
+      "pub_date": "Tue, 03 Nov 2026 14:48:25 +0800",
+      "fetched_at": "2026-11-03T22:38:03.616078",
+      "categories": [
+        "space"
+      ],
+      "ai_summary": "拯救失败的 NASA Neil Gehrels Swift 天文台将于 11 月 4 日重返大气层。但目前还不清楚其坠落地点以及它会有哪些组件会在穿过大气层后仍然幸存下来。Swift 天文台重 1.5 吨，于 2004 年发射升空，旨在研究高能伽马射线暴的起源。过去 22 年受大气阻力的影响 Swi...",
+      "keywords": [
+        "swift",
+        "天文台将于",
+        "日重返大气层",
+        "nasa",
+        "拯救失败的"
       ],
       "importance": 0.5
     }
   ],
-  "updated_at": "2026-09-28T08:00:25.585488"
+  "updated_at": "2026-11-03T22:38:23.013791"
 }
